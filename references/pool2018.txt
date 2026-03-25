@@ -1,0 +1,2361 @@
+Research
+
+JAMA | Original Investigation
+
+Association of a Negative Wealth Shock With All-Cause
+Mortality in Middle-aged and Older Adults in the United States
+Lindsay R. Pool, PhD; Sarah A. Burgard, PhD; Belinda L. Needham, PhD; Michael R. Elliott, PhD;
+Kenneth M. Langa, MD, PhD; Carlos F. Mendes de Leon, PhD
+Editorial page 1327
+IMPORTANCE A sudden loss of wealth—a negative wealth shock—may lead to a significant
+
+Supplemental content
+
+mental health toll and also leave fewer monetary resources for health-related expenses.
+With limited years remaining to regain lost wealth in older age, the health consequences
+of these negative wealth shocks may be long-lasting.
+OBJECTIVE To determine whether a negative wealth shock was associated with all-cause
+mortality during 20 years of follow-up.
+DESIGN, SETTING, AND PARTICIPANTS The Health and Retirement Study, a nationally
+representative prospective cohort study of US adults aged 51 through 61 years at study entry.
+The study population included 8714 adults, first assessed for a negative wealth shock in 1994
+and followed biennially through 2014 (the most recent year of available data).
+EXPOSURES Experiencing a negative wealth shock, defined as a loss of 75% or more of total
+net worth over a 2-year period, or asset poverty, defined as 0 or negative total net worth
+at study entry.
+MAIN OUTCOMES AND MEASURES Mortality data were collected from the National Death
+Index and postmortem interviews with family members. Marginal structural survival methods
+were used to account for the potential bias due to changes in health status that may both
+trigger negative wealth shocks and act as the mechanism through which negative wealth
+shocks lead to increased mortality.
+RESULTS There were 8714 participants in the study sample (mean [SD] age at study entry,
+55 [3.2] years; 53% women), 2430 experienced a negative wealth shock during follow-up,
+749 had asset poverty at baseline, and 5535 had continuously positive wealth without shock.
+A total of 2823 deaths occurred during 80 683 person-years of follow-up. There were 30.6
+vs 64.9 deaths per 1000 person-years for those with continuously positive wealth vs
+negative wealth shock (adjusted hazard ratio [HR], 1.50; 95% CI, 1.36-1.67). There were 73.4
+deaths per 1000 person-years for those with asset poverty at baseline (adjusted HR, 1.67;
+95% CI, 1.44-1.94; compared with continuously positive wealth).
+CONCLUSIONS AND RELEVANCE Among US adults aged 51 years and older, loss of wealth over
+2 years was associated with an increased risk of all-cause mortality. Further research is
+needed to better understand the possible mechanisms for this association and determine
+whether there is potential value for targeted interventions.
+
+Author Affiliations: Author
+affiliations are listed at the end of this
+article.
+
+JAMA. 2018;319(13):1341-1350. doi:10.1001/jama.2018.2055
+
+Corresponding Author: Lindsay R.
+Pool, PhD, Department of Preventive
+Medicine, Northwestern University
+Feinberg School of Medicine,
+680 N Lake Shore Dr, 14th Floor,
+Chicago, IL 60611 (lindsay.pool
+@northwestern.edu).
+
+(Reprinted) 1341
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/03/2018
+
+Research Original Investigation
+
+Negative Wealth Shock and All-Cause Mortality
+
+T
+
+here is strong evidence for a social gradient in health,
+with substantially poorer health outcomes among
+people with lower socioeconomic status (SES), including both low income and low wealth.1-3 Negative wealth shocks
+are large sudden losses of net worth and may represent another critical component of SES exposure, for these shocks are
+usually stressful life experiences that leave fewer monetary resources for health-enhancing goods and services. 4-6 Research conducted in the wake of the Great Recession showed
+significant associations between negative wealth shocks and
+short-term clinically relevant health changes, including increased risk of depression and anxiety,7-9 suicide,10 impaired
+cardiovascular function,11 and substance abuse.12
+A negative wealth shock in late middle and older age may
+lead to permanent change in economic status because incomeearning potential is reduced and thus there is less ability to financially recover from the shock.6 However, little is known
+about potential long-term health consequences of negative
+wealth shocks. Furthermore, because medical expenses from
+major illness can be a primary trigger of negative wealth shock
+in middle-aged and older adults,13 it can be difficult to disentangle the effect of negative wealth shocks on subsequent
+health outcomes from the effect of the medical illness itself.
+Data from a nationally representative study of US older
+adults were used to determine whether all-cause mortality during a 20-year follow-up period was greater among those who
+experienced a negative wealth shock than those with consistently positive net worth and those with 0 or negative net worth.
+
+Methods
+Study Population
+The Health and Retirement Study (HRS) is a nationally representative longitudinal study of US adults aged 51 years
+and older. We used the original HRS cohort, born in 1931
+through 1941.14 The most recent year of available data was
+collected in 2014; all data were obtained from the RAND
+HRS file, version P.15 At each interview, participants were
+provided a written informed consent document and asked
+to consent orally. The HRS was approved by the Institutional Review Board at the University of Michigan.
+
+Negative Wealth Shock
+Questions assessing the value of separate wealth components, including housing, businesses, individual retirement accounts, checking and savings accounts, investment holdings,
+vehicles, and any other substantial assets were asked at each
+HRS interview, as well as outstanding debts, including home
+mortgages, home equity loans, and unsecured debt values (eg,
+credit card balances, student loans, and medical debts).
+Respondents were unwilling or unable to give an exact value
+of a particular wealth component for about 8% of all wealth components questions. In these cases, a series of value ranges were
+provided to the respondent to determine whether the component fell within a particular range. This unfolding bracket
+method reduced nonresponse rates by 75% in HRS16 and was
+used as part of a nearest neighbor–imputation approach to ad1342
+
+Key Points
+Question Is a large, sudden loss of wealth in middle or older age
+associated with higher risk of all-cause mortality?
+Findings In this prospective cohort study that included 8714
+adults aged 51 to 61 years at study entry, participants who
+experienced a negative wealth shock during the 20-year follow-up
+compared with those with continuous positive wealth had
+a significantly increased risk of mortality (hazard ratio, 1.50).
+Meaning Sudden loss of wealth in middle or older age may be
+a risk factor for all-cause mortality.
+
+dress missing data.15 As a result of the imputation, there were
+no missing values for wealth component variables in the RAND
+HRS research data set. Validation of financial data in HRS has
+shown a mean measurement error of 6% to 7%.17
+A sum of all imputed debts were subtracted from the sum
+of all imputed assets to calculate total net worth. We adjusted
+all net worth values to 2014 dollars using the consumer price
+index. Details on the baseline prevalence and median value of
+wealth components are available in eTable 1 in the Supplement. Differences in net worth between 2 consecutive interviews were used to calculate a negative wealth shock, defined
+as a loss of 75% or more in a participant’s household net worth.
+This cut point was determined using predictive performance statistics for goodness of fit and discrimination to minimize misclassification due to measurement error. Further rationale and
+validation of the 75% cut point is described in detail elsewhere.7
+Although 993 participants experienced more than 1 negative
+wealth shock during follow-up, we considered the first shock
+to be the start of mortality follow-up in this analysis. Information on negative wealth shocks experienced prior to the inception of the cohort was not available, and thus, left-censored
+shocks were possible among all participants.
+
+Mortality
+The outcome of interest was all-cause mortality. The deaths
+among HRS participants were assessed through 2 data sources:
+HRS postmortem interviews of a family member and the National Death Index. The HRS mortality validation has shown
+that these sources capture 99.9% of all participant deaths.18
+We identified deceased participants at each survey year from
+1994 through 2014.
+
+Covariates
+Covariates were chosen based on associations with both wealth
+shock and mortality as documented in the extant literature.
+Covariates were included as either indicator variables for categories or a restricted cubic spline with 3 equal knots.19 All models were adjusted for the following baseline covariates: age at
+enrollment, self-reported sex, self-reported race/ethnicity (nonHispanic black, non-Hispanic white, Hispanic, or other race),
+educational attainment (in years), household net worth, and
+health behaviors including smoking status, alcohol consumption, physical activity, and body mass index, calculated as
+weight in kilograms divided by height in meters squared. The
+
+JAMA April 3, 2018 Volume 319, Number 13 (Reprinted)
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/03/2018
+
+jama.com
+
+Negative Wealth Shock and All-Cause Mortality
+
+combined race/ethnicity category was created from participantreported responses to separate questions on race and ethnicity that had investigator-specified answer options. Race/
+ethnicity was included in this analysis due to previously
+demonstrated racial differences in both mortality rates and
+wealth accumulation.20
+Time-varying covariates included in analyses were lagged
+by one survey interview to provide temporal patterning in
+which the covariate preceded the negative wealth shock. Timevarying socioeconomic variables were consumer price index–
+adjusted household income, marital status, labor force status, and health insurance status. Time-varying health variables
+were self-rated health, whether health limited the ability to
+work, hospitalization in the past 2 years, out-of-pocket health
+care costs over the past 2 years, history of any of 8 chronic conditions (hypertension, diabetes, heart disease, stroke, lung disease, cancer, psychiatric conditions, and arthritis), multimorbidity (≥2 chronic conditions), and limitations in any of 5
+activities of daily living (ADLs; walking across a room, getting
+in and out of bed, dressing, bathing, and eating).
+We included 2 indicators measuring financial disposition
+at baseline: (1) financial risk aversion, to adjust for personality differences that may influence likelihood of experiencing
+a wealth shock and engaging in higher-risk health behaviors
+and (2) expectation of leaving a bequest upon death, to adjust for intended rate of spending in older age. Financial risk
+aversion was a 3-category response (most averse, moderately
+averse, or least averse) based on answers to a validated series
+of hypothetical questions on risk taking on a new job that could
+either double or reduce current income.21 Bequest expectation was a standard yes or no question on whether one plans
+to leave a large bequest upon death (the participant determined the amount that constitutes a “large” bequest).22
+
+Statistical Analysis
+Baseline demographic and health characteristics and crude
+mortality rates were calculated for 3 mutually exclusive exposure groups: participants who experienced at least 1 negative wealth shock during follow-up, participants who had consistent positive net worth with no shock during follow-up, and
+participants who had asset poverty (0 or negative net worth)
+at baseline.
+To adjust for the potential confounding due to timevarying changes in health and other variables that may precede negative wealth shocks during follow-up, we used a marginal structural model approach.23 In this approach, logistic
+regression was used to predict the probability of a negative
+wealth shock for each individual at each time point, first using
+only baseline covariates (the numerator model) and then using
+baseline and time-varying covariates (the denominator model).
+The predicted probabilities from these 2 models were used to
+create inverse probability of treatment weights that were then
+applied in analysis so that the distribution of confounders was
+independent of the exposure and allowed for an unbiased estimate of the relationship between negative wealth shocks and
+mortality. In addition to treatment weights, we also calculated inverse probability of censoring weights that adjust for
+censoring related to withdrawal from the study prior to the end
+jama.com
+
+Original Investigation Research
+
+of follow-up. More detailed information on the calculation of
+the inverse probability of treatment weights and inverse probability of censoring weights is available in the eMethods section of the Supplement.
+To accommodate the time-varying weights, we estimated the association between a negative wealth shock
+and all-cause mortality using a discrete-time hazard model
+with a complementary log-log link. The estimated hazard ratio
+(HR) from this model is equivalent to a HR as estimated by
+a continuous-time Cox proportional hazard model.24 The proportional hazards assumption was evaluated graphically and
+via an interaction term between negative wealth shock
+and time; there was no violation of the assumption. The marginal structural model–adjusted Kaplan-Meier survival curves
+were produced.25
+Statistical significance was defined using a 2-sided α level
+of .05. All analyses were performed using SAS 9.4 (SAS Institute Inc), using complex survey sampling procedures that incorporated HRS sampling weights.
+
+Sensitivity and Subgroup Analyses
+Because the effect of mortality from a negative wealth shock
+could differ based on when the shock occurred and by the types
+of wealth lost in the shock, we stratified individuals who experienced a negative wealth shock into subgroups based on
+whether the wealth shock was experienced during periods of
+US macroeconomic growth or recession and whether the participant lost his/her primary residence as part of the shock. To
+consider the possibility of cohort-specific associations, we also
+examined the prevalence of negative wealth shocks by year and
+age across other birth-year cohorts included in the HRS and
+repeated the analyses in these cohorts.
+Post hoc subgroup analyses were calculated using interaction terms between negative wealth shock and timeinvariant covariates. We examined possible differences in the
+negative wealth shock and mortality association by race, sex,
+financial risk aversion and by baseline net worth category.
+
+Results
+Patients and Characteristics
+Of the 9751 participants in the original HRS cohort, 581 (6.0%)
+were excluded because of insufficient follow-up information
+to ascertain negative wealth shocks, and another 456 (4.7%)
+were excluded due to missing covariate data. These data were
+assumed to be missing at random. There were 8714 participants in the resulting analytical sample who were followed up
+for a mean of 17.7 years, totaling 80 683 person-years of
+follow-up from 1994 through 2014. Eight hundred twentythree participants (9%) withdrew from the study before reaching the end of follow-up or death.
+In the study sample, 2430 experienced a negative wealth
+shock during follow-up and 749 had asset poverty at baseline
+(0 or negative net worth). Accounting for the complex survey
+design of the HRS, this amounted to 26.2% (95% CI, 24.8%27.7%) experiencing a negative wealth shock and 6.9% (95%
+CI, 6.3%-7.6%) having long-term asset poverty of the US
+(Reprinted) JAMA April 3, 2018 Volume 319, Number 13
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/03/2018
+
+1343
+
+Research Original Investigation
+
+Negative Wealth Shock and All-Cause Mortality
+
+population aged 51 years or older during the study period. Compared with those who had positive wealth without shock, those
+who had a negative wealth shock were more likely to be
+women, race/ethnicity other than non-Hispanic white, have
+lower levels household income and net worth, and have poor
+health (Table 1). These differences were even more extreme
+in the asset poverty group, the majority of whom were not married, not working, and had serious health conditions.
+
+Net Worth and Shocks
+The baseline prevalence and median values of asset and debts
+that comprised net worth are stratified by exposure subgroup in eTable 1 and net worth category in eTable 2 in the
+Supplement. The majority of the sample has net worth in primary residences, vehicles, and bank accounts. However, those
+with higher net worth tend to have a variety of asset types, with
+larger holdings of businesses, real estate, and investments.
+The median change between the 2 survey interviews—
+both in percentage change and value of gain or loss (in 2014
+dollars)—are shown in Table 2 for each asset and debt type as
+well as overall net worth, calculated only among those who reported ownership of the asset or the debt. The median change
+percentages and values are stratified by exposure subgroup,
+and the negative wealth shock subgroup is further stratified
+by net worth category in eTable 3 in the Supplement. Those
+with positive wealth without shock experienced median
+weighted gains in net worth of 7.5% (95% CI, 7.0%-8.1%) over
+each 2-year period, amounting to a median increase of $13 894
+(95% CI, $11 906-$15 881). For those who experienced a negative wealth shock, the median loss of net worth was −92.4%
+(95% CI, −93.4% to −91.3%) during the 2-year period, amounting to a median decrease in net worth of $101 568 (95% CI,
+$90 082 to $113 052). Finally, while the asset poverty group had
+a large median percent gain in overall net worth (34.3%; 95%
+CI, 27.0% to 41.7%) over each 2-year period, this amounted to
+a median increase in value of $694 (95% CI, $399 to $990), because of low levels of initial net worth.
+
+Primary Outcome
+A total of 2823 participants died during follow-up. In the positive wealth without shock reference group, the crude mortality rate was 30.6 deaths per 1000 person-years (95% CI, 29.132.1). By contrast, the crude mortality rates were 64.9 per 1000
+person-years (95% CI, 60.4-69.3) for those who experienced
+a negative wealth shock, and 73.4 per 1000 person-years (95%
+CI, 66.1-80.7) for those who had asset poverty (Table 3). Compared with the reference group, the adjusted HRs for mortality were 1.50 (95% CI, 1.36-1.67) for those who experienced a
+negative wealth shock, and 1.67 (95% CI, 1.44-1.94) for those
+who had asset poverty at baseline (Table 3, Figure 1).
+
+Sensitivity and Subgroup Analyses
+In post hoc subgroup analyses, no significant interactions were
+detected between negative wealth shock exposure and sex
+(P = .08), race/ethnicity (P = .37), or baseline category of net
+worth (P = .96; Figure 2). The association between a negative
+wealth shock and mortality was less strong among those who
+were the least averse to financial risk (adjusted HR, 1.18; 95%
+1344
+
+CI, 0.89-1.56) compared with the moderately risk averse (adjusted HR, 1.35; 95% CI, 1.09-1.67) and the most averse to financial risk (adjusted HR, 1.61; 95% CI, 1.42-1.81) (P for interaction = .05).
+In sensitivity analyses (eTable 4 in the Supplement), the
+adjusted HR for a negative wealth shock during macroeconomic growth (1.51; 95% CI, 1.34-1.70) was similar to the adjusted HR for experiencing a negative wealth shock during recession (1.43; 95% CI, 1.22-1.67). A negative wealth shock with
+loss of primary residence yielded an adjusted HR of 1.87 (95%
+CI, 1.58-2.21), although negative wealth shocks also remained significantly associated with mortality without the loss
+of primary residence (adjusted HR, 1.37; 95% CI, 1.22-1.53). The
+findings were also robust to alternative cut points for the negative wealth shock exposure, with some evidence of a doseresponse relationship (eTable 5 in the Supplement).
+In comparison analyses in other HRS birth cohorts, prevalence of shocks increased with age and were sensitive to macroeconomic conditions in all cohorts (eFigure 1 in the Supplement). The adjusted HRs for negative wealth shocks were
+similar in other birth cohorts (eTable 6 in the Supplement).
+
+Discussion
+In a nationally representative sample of US adults aged 51 years
+or older, more than 25% of individuals experienced a negative wealth shock of 75% or more during a 20-year follow-up
+period, from 1994 through 2014. A negative wealth shock was
+associated with an HR of 1.50, a risk that was only slightly
+smaller than the risk associated with asset poverty, an established social determinant of mortality.3 Furthermore, the association between negative wealth shocks and mortality did
+not differ by initial levels of net worth; thus, wealth shock may
+represent a potential risk factor for mortality across the socioeconomic spectrum.
+This study adds to research that has shown associations
+between negative wealth shocks and short-term health outcomes, including depression and anxiety,7-9 suicide,10 impaired cardiovascular function,11 and substance abuse.12 The
+lengthy follow-up period in the HRS captured both proximal
+associations with mortality, from causes such as suicide, as well
+as associations with causes of death that have longer latency.
+Several studies have focused specifically on foreclosure,5,9,10
+hypothesizing this type of loss to be a particularly strong
+stressor; likewise, in this study, wealth shocks with loss of home
+had a stronger association with mortality than wealth shocks
+without loss of home, though these shocks were still associated with increased mortality risk.
+Declining financial resources can result in reduced spending on health-related goods and services. Delaying needed
+medical care and incomplete adherence to prescribed medication can have long-term health consequences, including increased mortality.26 This potential pathway may be especially salient for those individuals whose medical needs
+triggered a wealth shock, as previous research in chronic disease patient populations has shown those who report financial burden from medical expenses have a poorer prognosis.27
+
+JAMA April 3, 2018 Volume 319, Number 13 (Reprinted)
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/03/2018
+
+jama.com
+
+jama.com
+
+Downloaded From: on 04/03/2018
+223 080
+(107 653 to 444 470)
+75 543
+(43 940 to 116 137)
+
+Household net worth,
+median (IQR), 2014 US$
+
+Household income,
+median (IQR), 2014 US$
+
+236 (4.3)
+
+Widowed
+
+© 2018 American Medical Association. All rights reserved.
+102 (1.8)
+543 (9.8)
+5039 (91)
+
+Disabled
+
+Homemaker
+
+Health insured
+
+268 (4.8)
+
+3355 (60.6)
+
+Moderate
+
+Heavy
+
+1912 (34.5)
+
+None
+
+Alcohol usef
+
+26.8 (4.8)
+
+909 (16.4)
+
+Retired
+
+BMI, mean (SD)
+
+123 (2.2)
+
+3858 (69.7)
+
+Unemployed
+
+Working
+
+Labor force status
+
+140 (2.5)
+
+507 (9.2)
+
+Divorced or separated
+
+Never married
+
+4652 (84.1)
+
+Married or partnered
+
+Marital status
+
+2767 (50)
+
+Intends to leave bequest
+
+666 (12)
+
+1225 (22.1)
+
+Least averse
+
+3644 (65.8)
+
+Moderately averse
+
+12.0 (12.0 to 14.0)
+
+Most averse to risk
+
+Financial risk aversione
+
+Educational attainment, median (IQR), y
+
+98 (1.8)
+
+4521 (81.7)
+
+Non-Hispanic white
+
+Non-Hispanic other race
+
+335 (6.1)
+581 (10.5)
+
+Non-Hispanic black
+
+2778 (50.2)
+
+Hispanic
+
+Race/ethnicity
+
+Men
+
+55.6 (3.2)
+
+5535
+
+Total participants
+
+Age, mean (SD), yd
+
+Positive Wealth Without Shock
+
+c
+
+Characteristics
+
+Unweighted Sample, No (%)a
+
+Table 1. Baseline Characteristics of Study Participants
+
+136 (5.6)
+
+1181 (48.6)
+
+1113 (45.8)
+
+27.8 (5.4)
+
+1926 (79.3)
+
+268 (11)
+
+109 (4.5)
+
+346 (14.2)
+
+96 (4)
+
+1611 (66.3)
+
+97 (4)
+
+192 (7.9)
+
+427 (17.6)
+
+1714 (70.5)
+
+48 195
+(24 674 to 82 810)
+
+76 151
+(18 590 to 207 025)
+
+984 (40.5)
+
+313 (12.9)
+
+554 (22.8)
+
+1563 (64.3)
+
+12.0 (10.0 to 13.0)
+
+58 (2.4)
+
+1498 (61.7)
+
+557 (22.9)
+
+317 (13.1)
+
+1043 (42.9)
+
+55.3 (3.2)
+
+2430
+
+Negative Wealth Shock
+
+c
+
+53 (7.1)
+
+323 (43.1)
+
+373 (49.8)
+
+28.1 (6.2)
+
+511 (68.2)
+
+92 (12.3)
+
+102 (13.6)
+
+164 (21.9)
+
+63 (8.4)
+
+328 (43.8)
+
+66 (8.8)
+
+113 (15.1)
+
+268 (35.8)
+
+302 (40.3)
+
+17 475
+(8856 to 39 208)
+
+−571
+(−6758 to 0)
+
+148 (19.8)
+
+141 (18.8)
+
+148 (19.8)
+
+460 (61.4)
+
+11.0 (8.0 to 12.0)
+
+19 (2.5)
+
+274 (36.6)
+
+319 (42.6)
+
+137 (18.3)
+
+283 (37.8)
+
+55.2 (3.0)
+
+749
+
+Asset Poverty at Baseline
+
+c
+
+4.8 (4.3 to 5.4)
+
+63.3 (60.7 to 65.9)
+
+31.9 (29.4 to 34.5)
+
+26.6 (26.5 to 26.8)
+
+92.1 (91.1 to 93.2)
+
+9.7 (8.8 to 10.6)
+
+1.6 (1.2 to 2)
+
+16.5 (15.4 to 17.7)
+
+2.1 (1.7 to 2.5)
+
+70 (68.6 to 71.5)
+
+2.8 (2.2 to 3.4)
+
+4.2 (3.7 to 4.7)
+
+9.5 (8.7 to 10.3)
+
+83.5 (82.4 to 84.6)
+
+78 148
+(74 450 to 81 845)
+
+250 538
+(232 399 to 268 676)
+
+50 (47.8 to 52.1)
+
+11.9 (10.8 to 13.1)
+
+22.5 (21.2 to 23.7)
+
+65.6 (64 to 67.2)
+
+11.8 (11.6 to 12.0)
+
+2 (1.4 to 2.5)
+
+88.4 (86.7 to 90)
+
+5.7 (5 to 6.5)
+
+3.9 (2.8 to 5.1)
+
+50.2 (49.3 to 51.2)
+
+55.6 (55.5 to 55.7)
+
+66.8 (65.1 to 68.5)
+
+Positive Wealth Without Shockc
+
+5.4 (4.5 to 6.4)
+
+51.3 (49.1 to 53.6)
+
+43.2 (41 to 45.5)
+
+27.7 (27.5 to 27.9)
+
+80.4 (78.3 to 82.5)
+
+11.3 (9.6 to 13)
+
+4.3 (3.2 to 5.3)
+
+14.5 (12.7 to 16.3)
+
+4 (3.1 to 4.8)
+
+66 (63 to 68.9)
+
+4.1 (3.1 to 5.1)
+
+7.5 (6.4 to 8.7)
+
+17.6 (15.8 to 19.4)
+
+70.7 (68.4 to 73.1)
+
+50 501
+(46 725 to 54 277)
+
+88 347
+(75 814 to 100 879)
+
+39.7 (37.3 to 42.1)
+
+12.7 (11.1 to 14.2)
+
+23.9 (21.3 to 26.6)
+
+63.4 (60.1 to 66.7)
+
+11.5 (11.2 to 11.7)
+
+2.8 (1.7 to 4)
+
+73.4 (70.2 to 76.5)
+
+14.3 (12.3 to 16.2)
+
+9.6 (7.2 to 12)
+
+43 (40.9 to 45)
+
+55.4 (55.2 to 55.5)
+
+26.2 (24.8 to 27.7)
+
+Negative Wealth Shockc
+
+Weighted to Reflect US Population, % (95% CI)b
+
+(continued)
+
+8 (5.7 to 10.4)
+
+43.5 (39.2 to 47.9)
+
+48.4 (44 to 52.9)
+
+27.8 (27.3 to 28.3)
+
+70.9 (67 to 74.7)
+
+10.8 (8.5 to 13.2)
+
+12.8 (10 to 15.5)
+
+22 (18.3 to 25.6)
+
+8.2 (6 to 10.4)
+
+46.2 (41.9 to 50.5)
+
+8 (6 to 10)
+
+13.6 (10.3 to 16.9)
+
+36.6 (32.5 to 40.7)
+
+41.8 (36.6 to 47.1)
+
+20 259
+(16 622 to 23 896)
+
+−1218
+(−1952 to −484)
+
+19 (14.8 to 23.2)
+
+19.4 (16.1 to 22.7)
+
+20.8 (17.2 to 24.4)
+
+59.8 (55.8 to 63.7)
+
+10.7 (10.1 to 11.3)
+
+2.7 (1.3 to 4.1)
+
+49.5 (45 to 53.9)
+
+32.2 (28.4 to 36)
+
+15.7 (12.8 to 18.6)
+
+40.6 (37 to 44.1)
+
+55.1 (54.9 to 55.4)
+
+6.9 (6.3 to 7.6)
+
+Asset Poverty at Baselinec
+
+Negative Wealth Shock and All-Cause Mortality
+Original Investigation Research
+
+(Reprinted) JAMA April 3, 2018 Volume 319, Number 13
+
+1345
+
+1346
+
+Downloaded From: on 04/03/2018
+581 (10.5)
+254 (4.6)
+
+Good
+
+Fair
+
+Poor
+
+486 (8.8)
+
+Cardiovascular disease
+
+229 (4.1)
+
+8.7 (7.8 to 9.6)
+
+10.8 (9.7 to 12)
+
+22 (18.4 to 25.6)
+
+JAMA April 3, 2018 Volume 319, Number 13 (Reprinted)
+
+© 2018 American Medical Association. All rights reserved.
+
+Multimorbidity defined as history of 2 or more of the following conditions: hypertension, diabetes, cancer,
+cardiovascular disease, stroke, lung disease, psychiatric conditions, and arthritis.
+
+c
+
+Vigorous physical activity at least 3 times per week.
+
+Study characteristics reported by 3 mutually exclusive exposure categories: participants who had consistent positive
+net worth during follow-up and did not experience a negative wealth shock of 75% or more (positive wealth without
+shock); participants who experienced at least 1 negative wealth shock of 75% or more during follow-up (negative
+wealth shock); and participants who had 0 or negative net worth at baseline (asset poverty at baseline).
+
+b
+
+h
+
+Percentages may not sum to 100 due to rounding.
+
+The Health Retirement Study used complex survey sampling that allows for estimation to represent the US
+population in the birth cohort born in 1931 through 1941.
+
+a
+
+g
+
+693 (572 to 814)
+
+Moderate alcohol use is defined as up to 2 drinks per day, and heavy alcohol use is defined as more than 2 drinks
+per day.
+
+702 (646 to 758)
+
+26 (21.2 to 30.8)
+
+43.9 (39.9 to 47.9)
+
+17.1 (14.1 to 20.2)
+
+10.1 (7.9 to 12.4)
+
+5.9 (4.3 to 7.6)
+
+17.6 (14.6 to 20.7)
+
+3.3 (2.1 to 4.5)
+
+14.9 (12.1 to 17.6)
+
+46.2 (41.8 to 50.5)
+
+46.8 (42.6 to 51)
+
+43.6 (38.9 to 48.4)
+
+22.8 (18.5 to 27.1)
+
+24.1 (21.3 to 26.9)
+
+28.9 (25 to 32.8)
+
+f
+
+737 (691 to 783)
+
+12.8 (11.2 to 14.4)
+
+36.9 (34.9 to 38.8)
+
+8.9 (7.2 to 10.5)
+
+5.4 (4 to 6.8)
+
+2.2 (1.5 to 2.9)
+
+9.7 (8.2 to 11.2)
+
+3.9 (3.1 to 4.7)
+
+10.1 (9.1 to 11.1)
+
+33.3 (31.1 to 35.5)
+
+29.7 (27.8 to 31.6)
+
+23.3 (20.8 to 25.7)
+
+8.3 (6.7 to 9.9)
+
+17 (15.3 to 18.7)
+
+28.5 (26.2 to 30.9)
+
+9.4 (6.7 to 12.1)
+14.8 (11.9 to 17.7)
+
+Mean age represents the mean age at study enrollment; participants were selected based on birth cohort, aged
+51 through 61 years at enrollment.
+
+658 (66 to 1915)
+
+159 (21.2)
+
+6.1 (5.4 to 6.8)
+
+30.2 (28.7 to 31.7)
+
+4.1 (3.5 to 4.7)
+
+4 (3.5 to 4.5)
+
+1.5 (1.2 to 1.9)
+
+8.6 (7.8 to 9.5)
+
+4.7 (4.1 to 5.3)
+
+6.4 (5.8 to 7.1)
+
+29.8 (28.1 to 31.4)
+
+22.9 (21.4 to 24.4)
+
+15.4 (14.2 to 16.5)
+
+4.2 (3.6 to 4.8)
+
+9.5 (8.5 to 10.5)
+
+25.4 (23.9 to 26.8)
+
+20 (18.2 to 21.9)
+26.1 (24.1 to 28.1)
+
+17.2 (14.4 to 20)
+
+45.2 (41.1 to 49.3)
+
+28.4 (24.9 to 31.9)
+
+26.4 (23.1 to 29.8)
+
+Asset Poverty at Baselinec
+
+Financial risk aversion is based on answers to a set of income gamble questions: the least averse would take a new
+job that could either double or halve income, the moderately averse would take a new job that could either double or
+reduce income up to 30%, and the most averse would not take a new job that could possibly reduce income.
+
+664 (80 to 1887)
+
+268 (11)
+
+200 (26.7)
+
+324 (43.3)
+
+121 (16.2)
+
+69 (9.2)
+
+45 (6)
+
+134 (17.9)
+
+28 (3.7)
+
+123 (16.4)
+
+375 (50.1)
+
+360 (48.1)
+
+333 (44.5)
+
+183 (24.4)
+
+185 (24.7)
+
+213 (28.4)
+
+27 (25.4 to 28.7)
+33.9 (32.2 to 35.5)
+
+18.4 (16.7 to 20.1)
+
+32.3 (30.5 to 34.2)
+
+32.4 (30.7 to 34.1)
+
+35.3 (33.2 to 37.3)
+
+Negative Wealth Shockc
+
+e
+
+710 (143 to 2027)
+
+Out-of-pocket medical costs,
+median (IQR), 2014 US$
+
+323 (13.3)
+
+880 (36.2)
+
+207 (8.5)
+
+123 (5.1)
+
+59 (2.4)
+
+233 (9.6)
+
+95 (3.9)
+
+260 (10.7)
+
+846 (34.8)
+
+733 (30.2)
+
+563 (23.2)
+
+208 (8.6)
+
+457 (18.8)
+
+710 (29.2)
+
+63 (8.4)
+105 (14)
+
+20.4 (19 to 21.7)
+
+22.8 (20.9 to 24.6)
+
+39.6 (37.8 to 41.4)
+
+37.6 (35.8 to 39.4)
+
+Positive Wealth Without Shockc
+
+Weighted to Reflect US Population, % (95% CI)b
+
+d
+
+508 (9.2)
+
+Hospitalized in past 2 y
+
+455 (18.7)
+600 (24.7)
+
+135 (18)
+
+322 (43)
+
+211 (28.2)
+
+216 (28.8)
+
+Asset Poverty at Baseline
+
+c
+
+Abbreviations: ADL, activities of daily living; BMI, body mass index, calculated as weight in kilograms divided by
+height in meters squared; IQR, interquartile range.
+
+373 (6.7)
+
+ADL limitation
+
+1697 (30.7)
+
+Psychiatric conditions
+
+Arthritis
+
+223 (4)
+
+Lung disease
+
+90 (1.6)
+
+260 (4.7)
+
+Cancer
+
+Stroke
+
+399 (7.2)
+
+1723 (31.1)
+
+Hypertension
+
+Diabetes
+
+1325 (23.9)
+
+Multimorbidityh
+
+868 (15.7)
+
+1483 (26.8)
+
+Very good
+
+Health limits ability to work
+
+1418 (25.6)
+1799 (32.5)
+
+Excellent
+
+Self-rated health status
+
+474 (19.5)
+
+770 (31.7)
+
+1108 (20)
+
+1281 (23.1)
+
+Vigorous physical activityg
+
+Current smoker
+
+2159 (39)
+
+875 (36)
+785 (32.3)
+
+2095 (37.9)
+
+c
+
+Negative Wealth Shock
+
+Former smoker
+
+Positive Wealth Without Shock
+
+c
+
+Never smoked
+
+Smoking status
+
+Characteristics
+
+Unweighted Sample, No (%)a
+
+Table 1. Baseline Characteristics of Study Participants (continued)
+
+Research Original Investigation
+Negative Wealth Shock and All-Cause Mortality
+
+jama.com
+
+jama.com
+
+Downloaded From: on 04/03/2018
+
+0 (−40 to 66.7)
+
+0 (−98.4 to 100)
+
+7.1 (−37.5 to 100)
+
+7.3 (−66.7 to 100)
+
+0 (−60 to 100)
+
+0 (−100 to 100)
+
+Other real estatec
+
+Vehiclesc
+
+Businessesc
+
+IRAs or Keoghsd
+
+Investmentse
+
+Bank accounts
+
+All other assetsf
+
+0 (−100 to 100)
+
+Unsecured debtsg
+
+0 (−2.9 to 2.9)
+
+−0.8 (−5 to 3.4)
+
+Bank accounts
+
+All other assetsf
+
+© 2018 American Medical Association. All rights reserved.
+
+−0.3 (−5.7 to 5.2)
+
+Unsecured debtsg
+
+5.8 (−7.6 to 30.2)
+
+13.9 (11.9 to 15.9)
+
+0 (−0.1 to 0)
+
+−0.3 (−0.9 to 0.2)
+
+−4 (−4.5 to −3.5)
+
+0 (−0.4 to 0.4)
+
+0
+
+1.1 (0.7 to 1.5)
+
+3 (2.5 to 3.5)
+
+0 (−1.5 to 1.5)
+
+0 (−0.3 to 0.3)
+
+0 (−0.7 to 0.7)
+
+5.9 (4.9 to 6.9)
+
+12 (−42 to 97.4)
+
+0 (−3.3 to 3.5)
+
+−0.3 (−14.3 to 15.1)
+
+−3.6 (−16 to 10)
+
+0 (−17.7 to 20.6)
+
+0 (−7 to 10.2)
+
+0.8 (−24.8 to 43.5)
+
+2.9 (−20.8 to 38.9)
+
+0 (−75.5 to 103)
+
+0 (−7 to 7.6)
+
+0 (−52.8 to 53.1)
+
+−40 (−100 to 0)
+
+Median change between 2 survey interviews, including those who reported the asset or debt (prevalence of
+asset and debt holdings, eTable 1 in the Supplement).
+
+Median change between 2 survey interviews, including those who reported the asset or debt (in thousands of
+US $ using the consumer price index).
+
+Estimated net value that takes into account debts owed on asset.
+
+b
+
+c
+
+−29 (−108 to 0)
+
+−102 (−113 to −90.1)
+
+2.7 (1.8 to 3.7)
+
+6.5 (−1.3 to 14.4)
+
+−0.1 (−2.1 to 1.9)
+
+−13.2 (−16.5 to −9.9)
+
+−0.8 (−1.1 to −0.5)
+
+−13.3 (−21.9 to −4.7)
+
+−16.1 (−22.2 to −10)
+
+−166.4 (−235 to −97.4)
+
+−3 (−3.5 to −2.5)
+
+−82.9 (−113 to −53.4)
+
+−31 (−39.4 to −22.6)
+
+−92.1 (−266 to −29.9)
+
+2.8 (−1.1 to 15.1)
+
+6.0 (−15.8 to 38.3)
+
+0 (−22.3 to 50.6)
+
+−11.6 (−48.6 to 0.1)
+
+−0.8 (−7.2 to 0.4)
+
+−12.8 (−90.6 to 0)
+
+−16.6 (−72.3 to 0.6)
+
+−151 (−578 to −30.2)
+
+−3 (−10.5 to 0.5)
+
+−72.5 (−278 to −11.9)
+
+7.1 (−15 to 55.6)
+
+34.3 (27.0 to 41.7)
+
+−8.1 (−16.3 to 0.2)
+
+−0.5 (−45.8 to 44.9)
+
+−3.8 (−6.2 to −1.4)
+
+59.4 (19.9 to 98.8)
+
+30.2 (20 to 40.3)
+
+17.8 (−2.6 to 38.2)
+
+16.2 (−1.8 to 34.2)
+
+24.2 (−0.1 to 48.5)
+
+−0.1 (−6.1 to 5.9)
+
+47.6 (7.6 to 87.6)
+
+8 (6.5 to 9.4)
+
+35.0 (−0.64 to 106)
+
+−9.6 (−100 to 100)
+
+0 (−100 to 100)
+
+−3.8 (−66.7 to 77.8)
+
+60 (−100 to 100)
+
+30 (−83.3 to 100)
+
+16.7 (−100 to 100)
+
+16.7 (−100 to 100)
+
+25 (−93.1 to 100)
+
+0 (−62.5 to 100)
+
+50 (−100 to 100)
+
+0.7 (0.4 to 1)
+
+−0.1 (−0.1 to 0)
+
+−0.9 (−3.3 to 1.6)
+
+−2.2 (−3.1 to −1.2)
+
+0.6 (−0.1 to 1.3)
+
+0
+
+0.1 (−0.3 to 0.4)
+
+1.3 (−0.9 to 3.6)
+
+10.6 (−5.5 to 26.8)
+
+0 (−0.1 to 0.1)
+
+3 (−0.6 to 6.6)
+
+6.1 (4.1 to 8.1)
+
+0.6 (−4.1 to 16)
+
+−0.1 (−4.4 to 2.9)
+
+0 (−19.1 to 15.3)
+
+−2.1 (−19.2 to 21.1)
+
+0.4 (−7.3 to 9.6)
+
+0 (−0.6 to 1)
+
+0.1 (−5.4 to 8.8)
+
+1.4 (−7.6 to 15.1)
+
+2.4 (−41.6 to 75.5)
+
+0 (−2.7 to 3.2)
+
+3.2 (−20.3 to 44.4)
+
+5.3 (−10.3 to 32.4)
+
+Value of Change, Median (IQR)b
+
+Tax-deferred retirement savings plans funded by individual contributions. The types of IRAs depend on
+employment and household income; Keogh accounts are for self-employed small-business owners.
+e
+Includes stocks, mutual funds, investment trusts, bonds, bond funds, certificates of deposit, government
+savings bonds, and treasury bills.
+f
+Includes jewelry, money owed, a collection for investment purposes, rights in a trust or estate, or an annuity.
+g
+Includes credit card balances, medical debts, life insurance policy loans, and loans from relatives.
+h
+The Health Retirement Study used complex survey sampling to allow for estimates representing the US
+population in the cohort born from 1931 through 1941.
+
+d
+
+−92.4 (−93.4 to −91.3)
+
+95.2 (71.7 to 118.6)
+
+87.7 (34 to 141)
+
+−1 (−5.4 to 3.4)
+
+−100 (−113 to −87)
+
+−55 (−60.4 to −49.5)
+
+−98.8 (−101 to −96.3)
+
+−87.4 (−97.3 to −77.5)
+
+−100 (−103 to −97.4)
+
+−44.6 (−49.5 to −39.7)
+
+−100 (−102 to −97.6)
+
+−43.2 (−54.2 to −32.2)
+
+−93.4 (−102 to −82.6)
+
+100 (−52.9 to 100)
+
+100 (−100 to 100)
+
+0 (−100 to 100)
+
+−100 (−100 to 50)
+
+−55.8 (−95.8 to 100)
+
+−99.1 (−100 to 0)
+
+−93.3 (−100 to 2.1)
+
+−100 (−100 to −94.8)
+
+−47.7 (−83.3 to 12.5)
+
+−100 (−100 to −92.1)
+
+a
+
+Abbreviations: IQR, interquartile range; IRA, individual retirement account.
+
+7.5 (7 to 8.1)
+
+−2.8 (−6.2 to 0.5)
+
+Home equity loans
+
+Overall net worth change
+
+−7.1 (−8 to −6.3)
+
+Primary mortgage
+
+Debt change
+
+8.3 (6.5 to 10.2)
+
+Businessesc
+
+7.4 (6.3 to 8.6)
+
+−0.5 (−5.2 to 4.2)
+
+Vehiclesc
+
+Investmentse
+
+−0.1 (−2.8 to 2.5)
+
+Other real estatec
+
+IRAs or Keoghsd
+
+4 (3.4 to 4.6)
+
+−0.6 (−3.6 to 2.4)
+
+Primary residence
+
+Assest change
+
+Weighted to Reflect US Populationh
+
+7.3 (−18.3 to 44)
+
+−1.2 (−100 to 100)
+
+Home equity loans
+
+Overall net worth change
+
+−7.4 (−50 to 20)
+
+Primary mortgage
+
+Debt change
+
+4.0 (−6.3 to 21.7)
+
+0 (−92.5 to 100)
+
+Primary residence
+
+Asset change
+
+Unweighted Sample
+
+Asset Poverty at Baseline (n = 749)
+
+Value of Change, Median (IQR)b Percent Change, Median (IQR)a
+
+Negative Wealth Shock (n = 2430)
+Percent Change, Median (IQR)a
+
+Percent Change, Median (IQR)a
+
+Value of Change, Median (IQR)b
+
+Positive Wealth Without Shock (n = 5535)
+
+Table 2. Median Percentage of Asset or Debt Change, and Median Value of Asset or Debt Change in Thousands of 2014 US Dollars
+
+Negative Wealth Shock and All-Cause Mortality
+Original Investigation Research
+
+(Reprinted) JAMA April 3, 2018 Volume 319, Number 13
+
+1347
+
+Research Original Investigation
+
+Negative Wealth Shock and All-Cause Mortality
+
+Table 3. Rates and Adjusted Hazard of Death for Negative Wealth Shock Exposure Categories
+Positive Wealth Without Shocka
+
+Negative Wealth Shocka
+
+Asset Poverty at Baselinea
+
+Person-years, No.
+
+52 788
+
+12 621
+
+5274
+
+All deaths, No.
+
+1617
+
+819
+
+387
+
+Unadjusted rate/1000 person-years (95% CI)
+
+a
+
+30.6 (29.1-32.1)
+
+Unadjusted rate difference (95% CI)
+
+0 [Reference]
+
+Adjusted hazard ratio (95% CI)b
+
+1 [Reference]
+b
+
+Reported by 3 mutually exclusive exposure categories: participants who had
+consistent positive net worth during follow-up and did not experience a
+negative wealth shock of 75% or more (positive wealth without shock);
+participants who experienced at least 1 negative wealth shock of 75% or more
+during follow-up (negative wealth shock); and participants who had 0 or
+negative net worth at baseline (asset poverty at baseline).
+
+64.9 (60.4-69.3)
+
+73.4 (66.1-80.7)
+
+34.3 (29.6-39.0)
+
+42.8 (35.3-50.2)
+
+1.50 (1.36-1.67)
+
+1.67 (1.44-1.94)
+
+Adjusted hazard was derived from the marginal structural hazard model for
+time to outcome, with both inverse probability of treatment and inverse
+probability of censoring weights applied.
+
+Figure 1. Adjusted Survival Curves for All-Cause Mortality by Asset Status, 1994-2014
+100
+
+Weighted Survival, %
+
+80
+
+60
+
+40
+
+Positive wealth without shock
+Negative wealth shock
+Asset poverty at baseline
+
+20
+
+0
+1994
+
+1996
+
+1998
+
+2000
+
+2002
+
+2004
+
+2006
+
+2008
+
+2010
+
+2012
+
+2014
+
+4446
+1650
+461
+
+4077
+1725
+411
+
+3705
+1674
+352
+
+3427
+1647
+323
+
+Years of Follow-up
+No. at risk
+Positive wealth without shock 7473
+Negative wealth shock
+429
+Asset poverty at baseline
+749
+No. of deaths
+Positive wealth without shock
+Negative wealth shock
+Asset poverty at baseline
+
+6936
+846
+720
+
+123
+23
+31
+
+6360
+1106
+680
+
+123
+30
+31
+
+5912
+1279
+639
+
+161
+36
+36
+
+5473
+1414
+597
+
+208
+41
+54
+
+5071
+1516
+542
+
+156
+22
+35
+
+205
+34
+41
+
+Another potential pathway from negative wealth shocks
+to all-cause mortality is through the psychosocial stress of economic loss. Experimental research has shown brain region activation following a negative wealth shock,28 which may contribute to the higher risk of mental health conditions and
+substance abuse found in observational research.7-10,12 In addition to suicide’s immediate contribution to elevated mortality, mental disorders and substance abuse are associated with
+long-term risk of mortality.29 Stress of wealth shocks may also
+produce physiological changes; wealth shocks have been associated with short-term increases in systolic blood pressure
+and inflammation,11 which in turn may increase risk of cardiovascular mortality.30 Personality traits like greater tolerance of financial risk may buffer the stress of the shock. In post
+hoc subgroup analysis, there was suggestion of an interaction between financial risk aversion and negative wealth shock.
+Furthermore, the associations with stress and mental health
+may be confined to negative wealth shocks, as research on positive wealth shocks has shown no associations with changes in
+psychological health.31
+1348
+
+4766
+1604
+502
+
+213
+36
+44
+
+353
+47
+58
+
+272
+33
+29
+
+275
+45
+25
+
+Median follow-up times were
+20 years (interquartile range [IQR],
+12-20 years) in the positive wealth
+without shock group, 12 years
+(IQR, 8-20 years) in the negative
+wealth shock group, and 16 years
+(IQR, 8-20 years) in the asset poverty
+at baseline group.
+
+Limitations
+This study has several limitations. First, misclassification of
+the negative wealth shock exposure was minimized by using
+a large percentage change in net worth that is unlikely to be
+attributable to routine consumption or planned dissaving.7 Sensitivity analyses showed that less acute shock within 2 years
+(such as >25% or >50% loss) were associated with increased
+mortality risk, but less acute negative wealth shocks that take
+more than 2 years to be fully realized may have been missed.
+Second, because study enrollment and follow-up began at ages
+51 through 61 years, shocks that occurred prior to the study start
+were not captured and could have occurred in any of the exposure groups, potentially introducing bias toward the null.
+Third, despite adjusting for conditions that frequently precipitate wealth shocks, including marital disruption, unemployment, and a variety of health status and access to care indicators, residual confounding is likely. Covariates were lagged
+from 1 interview prior to the negative wealth shock exposure
+to establish temporality, but this may increase residual confounding if changes in the covariate occurred in the 2 years
+
+JAMA April 3, 2018 Volume 319, Number 13 (Reprinted)
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/03/2018
+
+Survival estimates are adjusted for
+covariates using weights estimated
+in the marginal structural models.
+Negative wealth shock was
+a time-varying exposure, and
+participants may contribute
+person-years at risk to both the
+positive wealth without shock and
+negative wealth shock groups across
+follow-up. Negative wealth shock vs
+positive wealth without shock
+(reference) had an adjusted hazard
+ratio of 1.50 (95% CI, 1.36-1.67); asset
+poverty at baseline vs positive wealth
+without shock, 1.67 (95% CI,
+1.44-1.94).
+
+jama.com
+
+Negative Wealth Shock and All-Cause Mortality
+
+Original Investigation Research
+
+Figure 2. Adjusted Hazard of Death by Post Hoc Subgroup Populations of Asset Status
+Positive Wealth Without Shock
+
+Negative Wealth Shock
+No. of
+PersonYears
+
+Unadjusted
+Rate per 1000
+No. of Person-Years
+Deaths (95% CI)
+
+No. of
+PersonYears
+
+No. of
+Deaths
+
+Unadjusted
+Rate per 1000
+Person-Years
+(95% CI)
+
+Hazard Ratio
+(95% CI)
+
+P Value for
+Interaction
+
+Sex
+Men
+
+5361
+
+412
+
+76.9 (69.4-84.3)
+
+25 080
+
+957
+
+38.2 (35.7-40.6)
+
+1.16 (0.86-1.55)
+
+Women
+
+7260
+
+407
+
+56.1 (50.6-61.5)
+
+27 708
+
+660
+
+23.8 (22-25.6)
+
+1.37 (1.20-1.57)
+1.55 (1.38-1.75)
+
+.08
+
+Race/ethnicity
+Non-Hispanic white
+
+7432
+
+511
+
+68.8 (62.8-74.7)
+
+42 261
+
+1268
+
+30 (28.4-31.7)
+
+Non-Hispanic black
+
+3006
+
+210
+
+69.9 (60.4-79.3)
+
+6079
+
+227
+
+37.3 (32.5-42.2)
+
+1.28 (1.04-1.59)
+
+Hispanic
+
+1839
+
+82
+
+44.6 (34.9-54.2)
+
+3558
+
+97
+
+27.3 (21.8-32.7)
+
+1.30 (0.94-1.80)
+
+Other
+
+344
+
+16
+
+46.5 (23.7-69.3)
+
+890
+
+25
+
+28.1 (17.1-39.1)
+
+1.19 (0.58-2.45)
+1.61 (1.42-1.81)
+
+.37
+
+Financial risk aversion
+Most averse
+
+7961
+
+551
+
+69.2 (63.4-75.0)
+
+34 709
+
+1058
+
+30.5 (28.6-32.3)
+
+Moderately averse
+
+2942
+
+165
+
+56.1 (47.5-64.6)
+
+12 012
+
+351
+
+29.2 (26.2-32.3)
+
+1.35 (1.09-1.67)
+
+Least averse
+
+1718
+
+103
+
+60.0 (48.4-71.5)
+
+6067
+
+208
+
+34.3 (29.6-38.9)
+
+1.18 (0.89-1.56)
+
+<100 000
+
+7588
+
+533
+
+70.2 (64.3-76.2)
+
+13 276
+
+496
+
+37.4 (34.1-40.6)
+
+1.50 (1.30-1.74)
+
+100 000-300 000
+
+2942
+
+184
+
+62.5 (53.5-71.6)
+
+19 319
+
+624
+
+32.3 (29.8-34.8)
+
+1.46 (1.21-1.75)
+
+>300 000
+
+2091
+
+102
+
+48.8 (39.3-58.2)
+
+20 193
+
+497
+
+24.6 (22.4-26.8)
+
+1.49 (1.19-1.18)
+
+Overall
+
+12 621
+
+819
+
+64.9 (60.4-69.3)
+
+52 788
+
+1617
+
+30.6 (29.1-32.1)
+
+1.50 (1.36-1.67)
+
+.05
+
+Net worth category, US $
+.96
+
+0.5
+
+1.0
+
+3.0
+
+Hazard Ratio (95% CI)
+
+Data markers indicate the marginal structural model–adjusted hazard ratios
+comparing the negative wealth shock group with the positive wealth without
+
+shock group; the error bars, corresponding 95% CIs. P values correspond with the
+statistical test for differences in the hazard ratios by the subgroup categories.
+
+between covariate measurement and wealth shock measurement. Fourth, study results are generalizable to US adults aged
+51 years or older that may not be applicable to wealth shocks
+occurring at younger ages. Fifth, the results may have period
+and cohort interpretability restrictions. Sensitivity analysis
+stratified on macroeconomic conditions tested for possible differences, but it was not possible to discern the causes of the
+negative wealth shock with certainty. Even in recession periods, it is unknown whether the wealth shock was triggered due
+to macroeconomic causes or personal circumstances. Likewise, follow-up in this study occurred prior to the implementation of the Affordable Care Act (ACA), which has significantly reduced the number of uninsured adults and lowered
+out-of-pocket costs.32 It is possible that increased insurance
+coverage through the ACA has reduced the prevalence of negative wealth shocks driven by medical issues, and there may also
+
+be a reduced prevalence of delaying needed medical care after experiencing wealth shock. There may be birth cohort differences in the associations between negative wealth shock and
+mortality. Similar associations in 2 alternative birth cohorts
+were observed in sensitivity analyses, but differing years and
+ages during follow-up made it difficult to disentangle true cohort similarities and differences.
+
+ARTICLE INFORMATION
+Accepted for Publication: February 24, 2018.
+Author Affiliations: Department of Preventive
+Medicine, Northwestern University Feinberg School
+of Medicine, Chicago, Illinois (Pool); Department of
+Sociology, University of Michigan, Ann Arbor
+(Burgard); Department of Epidemiology, University
+of Michigan, Ann Arbor (Burgard, Needham,
+Mendes de Leon); Institute for Social Research,
+University of Michigan, Ann Arbor (Burgard, Elliott,
+Langa); Department of Biostatistics, University of
+Michigan, Ann Arbor (Elliott); Department of
+Internal Medicine, University of Michigan Medical
+School, Ann Arbor (Langa); Veterans Affairs Center
+for Clinical Management Research, Ann Arbor,
+
+jama.com
+
+Conclusions
+Among US adults aged 51 years or older, loss of wealth over 2
+years was associated with an increased risk of all-cause mortality. Further research is needed to better understand the possible mechanisms for this association and determine whether
+there is potential value for targeted interventions.
+
+Michigan (Langa); Institute for Healthcare Policy
+and Innovation, University of Michigan, Ann Arbor
+(Langa).
+
+Statistical analysis: Pool, Elliott.
+Supervision: Burgard, Needham, Elliott,
+Mendes de Leon.
+
+Author Contributions: Dr Pool had full access to all
+of the data in the study and takes responsibility for
+the integrity of the data and the accuracy of the
+data analysis.
+Concept and design: Pool, Needham,
+Mendes de Leon.
+Acquisition, analysis, or interpretation of data: Pool,
+Burgard, Elliott, Langa, Mendes de Leon.
+Drafting of the manuscript: Pool, Elliott,
+Mendes de Leon.
+Critical revision of the manuscript for important
+intellectual content: Pool, Burgard, Needham,
+Elliott, Langa.
+
+Conflict of Interest Disclosures: The authors have
+completed and submitted the ICMJE Form for
+Disclosure of Potential Conflicts of Interest and
+none were reported.
+Funding/Support: This work was supported
+by grant T32AG027708 from the US National
+Institute on Aging (Dr Mendes de Leon).
+The Health and Retirement Study is sponsored
+by grant U01AG009740 from the US National
+Institute on Aging and is conducted by the
+University of Michigan.
+
+(Reprinted) JAMA April 3, 2018 Volume 319, Number 13
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/03/2018
+
+1349
+
+Research Original Investigation
+
+Negative Wealth Shock and All-Cause Mortality
+
+Role of the Funder/Sponsor: The funders had no
+role in the design and conduct of the study;
+collection, management, analysis, and
+interpretation of the data; preparation, review,
+or approval of the manuscript; and decision to
+submit the manuscript for publication.
+
+10. Fowler KA, Gladden RM, Vagi KJ, Barnes J,
+Frazier L. Increase in suicides associated with home
+eviction and foreclosure during the US housing
+crisis: findings from 16 National Violent Death
+Reporting System states, 2005-2010. Am J Public
+Health. 2015;105(2):311-316.
+
+heterogeneity: an experimental approach in the
+health and retirement study. Q J Econ. 1997;112(2):
+537-579.
+
+REFERENCES
+
+11. Boen C, Yang YC. The physiological impacts of
+wealth shocks in late life: evidence from the Great
+Recession. Soc Sci Med. 2016;150:221-230.
+
+23. Robins JM, Hernán MA, Brumback B. Marginal
+structural models and causal inference in
+epidemiology. Epidemiology. 2000;11(5):550-560.
+
+12. Kalousova L, Burgard SA. Unemployment,
+measured and perceived decline of economic
+resources: contrasting three measures of
+recessionary hardships and their implications for
+adopting negative health behaviors. Soc Sci Med.
+2014;106:28-34.
+
+24. Singer JD, Willett JB. Applied Longitudinal Data
+Analysis: Modeling Change and Event Occurrence.
+New York, NY: Oxford University Press; 2003.
+
+1. Sorlie PD, Backlund E, Keller JB. US mortality by
+economic, demographic, and social characteristics:
+the National Longitudinal Mortality Study. Am J
+Public Health. 1995;85(7):949-956.
+2. Lantz PM, House JS, Lepkowski JM, Williams DR,
+Mero RP, Chen J. Socioeconomic factors, health
+behaviors, and mortality: results from a nationally
+representative prospective study of US adults. JAMA.
+1998;279(21):1703-1708.
+3. Hajat A, Kaufman JS, Rose KM, Siddiqi A,
+Thomas JC. Long-term effects of wealth on
+mortality and self-rated health status. Am J Epidemiol.
+2011;173(2):192-200.
+4. Mejía ST, Settersten RA Jr, Odden MC, Hooker K.
+Responses to financial loss during the Great
+Recession: an examination of sense of control in
+late midlife. J Gerontol B Psychol Sci Soc Sci. 2016;71
+(4):734-744.
+5. Keene DE, Cowan SK, Baker AC. “When you’re in
+a crisis like that, you don’t want people to know”:
+mortgage strain, stigma, and mental health. Am J
+Public Health. 2015;105(5):1008-1012.
+6. Butrica BA, Smith KE, Toder EJ. What the 2008
+stock market crash means for retirement security.
+J Aging Soc Policy. 2010;22(4):339-359.
+7. Pool LR, Needham BL, Burgard SA, Elliott MR,
+de Leon CFM. Negative wealth shock and
+short-term changes in depressive symptoms and
+medication adherence among late middle-aged
+adults. J Epidemiol Community Health. 2017;71(8):
+758-763.
+8. McInerney M, Mellor JM, Nicholas LH. Recession
+depression: mental health effects of the 2008
+stock market crash. J Health Econ. 2013;32(6):
+1090-1104.
+9. McLaughlin KA, Nandi A, Keyes KM, et al. Home
+foreclosure and risk of psychiatric morbidity during
+the recent financial crisis. Psychol Med. 2012;42
+(7):1441-1448.
+
+1350
+
+13. Himmelstein DU, Thorne D, Warren E,
+Woolhandler S. Medical bankruptcy in the United
+States, 2007: results of a national study. Am J Med.
+2009;122(8):741-746.
+14. Sonnega A, Faul JD, Ofstedal MB, Langa KM,
+Phillips JW, Weir DR. Cohort profile: the Health and
+Retirement Study (HRS). Int J Epidemiol. 2014;43
+(2):576-585.
+15. Bugliari D, Campbell N, Chan C, et al. Rand Hrs
+Data Documentation, Version P. Santa Monica, CA:
+RAND Center for the Study of Aging; 2016.
+16. Juster FT, Smith JP. Improving the quality of
+economic data: lessons from the HRS and AHEAD.
+J Am Stat Assoc. 1997;92(440):1268-1278.
+17. Bricker J, Engelhardt GV. Measurement error in
+earnings data in the health and retirement study.
+J Econ Soc Meas. 2008;33(1):39-61.
+18. Weir DR. Socio-economic status and mortality:
+perceptions and outcomes. Paper presented at:
+Population Association of America 2010 Annual
+Meeting; April 15-17, 2010; Dallas, TX.
+http://paa2010.princeton.edu/papers/101560.
+Accessed February 6, 2018.
+19. Howe CJ, Cole SR, Westreich DJ, Greenland S,
+Napravnik S, Eron JJ Jr. Splines for trend analysis
+and continuous confounder control. Epidemiology.
+2011;22(6):874-875.
+20. Cubbin C, Pollack C, Flaherty B, et al. Assessing
+alternative measures of wealth in health research.
+Am J Public Health. 2011;101(5):939-947.
+
+22. Hariharan G, Chapman KS, Domian DL. Risk
+tolerance and asset allocation for investors nearing
+retirement. Financ Serv Rev. 2000;9(2):159-170.
+
+25. Westreich D, Cole SR, Tien PC, et al. Time scale
+and adjusted survival curves for marginal structural
+Cox models. Am J Epidemiol. 2010;171(6):691-700.
+26. Heisler M, Choi H, Rosen AB, et al.
+Hospitalizations and deaths among adults with
+cardiovascular disease who underuse medications
+because of cost: a longitudinal analysis. Med Care.
+2010;48(2):87-94.
+27. Rahimi AR, Spertus JA, Reid KJ, Bernheim SM,
+Krumholz HM. Financial barriers to health care and
+outcomes after acute myocardial infarction. JAMA.
+2007;297(10):1063-1072.
+28. Pammi VSC, Ruiz S, Lee S, Noussair CN,
+Sitaram R. The effect of wealth shocks on loss
+aversion: behavior and neural correlates. Front
+Neurosci. 2017;11:237.
+29. Schulz R, Beach SR, Ives DG, Martire LM, Ariyo
+AA, Kop WJ. Association between depression and
+mortality in older adults: the Cardiovascular Health
+Study. Arch Intern Med. 2000;160(12):1761-1768.
+30. Strandberg TE, Tilvis RS. C-reactive protein,
+cardiovascular risk factors, and mortality in a
+prospective study in the elderly. Arterioscler
+Thromb Vasc Biol. 2000;20(4):1057-1060.
+31. Fichera E, Gathergood J. Do wealth shocks
+affect health? new evidence from the housing
+boom. Health Econ. 2016;25(S2)(suppl 2):57-69.
+32. Obama B. United States health care reform:
+progress to date and next steps. JAMA. 2016;316
+(5):525-532.
+
+21. Barsky RB, Juster FT, Kimball MS, Shapiro MD.
+Preference parameters and behavioral
+
+JAMA April 3, 2018 Volume 319, Number 13 (Reprinted)
+
+© 2018 American Medical Association. All rights reserved.
+
+Downloaded From: on 04/03/2018
+
+jama.com
+
+

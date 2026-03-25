@@ -1,0 +1,1891 @@
+Archives of Gerontology and Geriatrics 81 (2019) 182–191
+
+Contents lists available at ScienceDirect
+
+Archives of Gerontology and Geriatrics
+journal homepage: www.elsevier.com/locate/archger
+
+Objective and subjective ﬁnancial status and mortality among older adults
+in China☆
+
+T
+
+Ruojing Wanga, Qiushi Fengb, Matthew E. Duprec, Aimei Guoa, Li Qiud, Lisha Haoe, Yuan Zhaof,g,
+⁎
+Danan Guh,
+a
+
+Ginling College, Nanjing Normal University, China
+Department of Sociology and Centre for Family and Population Research, National University of Singapore, Singapore
+Department of Population Health Sciences and Department of Sociology, Duke University, USA
+d
+Independent Researcher, New York, USA
+e
+School of Gerography, Nanjing Normal University, China
+f
+Ginling Colleague and School of Gerography, Nanjing Normal University, Nanjing, China
+g
+Jiangsu Center for Collaborative Innovation in Geographical Information Resource Development and Application, Nanjing, China
+h
+United Nations Population Division, New York, NY 10017, USA
+b
+c
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+China
+Mortality
+Objective ﬁnancial status
+Subjective ﬁnancial status
+Oldest-old
+CLHLS
+
+The association between ﬁnancial status and mortality in older adults is well documented. However, it is unclear
+whether the association may vary by objective and subjective indicators of ﬁnancial status. To examine this
+issue, we used the latest four waves (2005, 2008/2009, 2011/2012, and 2014) of the Chinese Longitudinal
+Healthy Longevity Survey (CLHLS) of community-residing adults aged 65 and older (n = 25,954). Financial
+status was assessed using eight objective, subjective, and culturally-oriented measures to capture various dimensions of ﬁnancial resources at older ages. Multivariate hazard models were used to examine how diﬀerent
+indicators of ﬁnancial status were associated with subsequent mortality in all older adults and by age, gender,
+and urban-rural residence. Results showed that higher ﬁnancial status—either objective or subjective—was
+associated with lower risks of mortality. Subjective assessments of ﬁnancial status had stronger associations with
+mortality than objective assessments. The patterns were generally similar between young-old (aged 65–79) and
+the oldest-old (aged 80+), between women and men, and between rural and urban areas. Together, the ﬁndings
+oﬀer new evidence to help improve the socioeconomic gradient in mortality among older adults in China.
+
+1. Introduction
+Adequate ﬁnancial status is an important condition for healthy
+longevity in later life (Marmot, 2002). Studies have consistently shown
+that having higher levels of ﬁnancial status at older ages promotes
+greater psychological well-being, quality of life, self-rated health, and
+cognitive function; and in turn, lowers disability, morbidity, and mortality (Angel, Frisco, Angel, & Chiriboga, 2003; Arber, Fenn, &
+Meadows, 2014; Cheng, Chi, Boey, Ko, & Chou, 2002; Gasiorowska,
+2014; Hirai, Kondo, & Kawachi, 2012; House, Lantz, & Herd, 2005;
+Kahn & Fazio 2005; Khang, Bahk, Yi, & Yun, 2015; Kim, Kim, Lee, Ju, &
+Park, 2017; Momtaz, Ibrahim, Hamid, & Yahaya, 2010; Nummela,
+Sulander, Heinonen, & Uutela, 2007; Xiang, Hao, Qiu, Zhao, & Gu,
+
+2018; Zimmerman & Katon, 2005).
+Income, a major component of one’s ﬁnancial status, is among the
+most widely used indicators in studies on the social gradient and social
+stratiﬁcation of health and mortality—largely due to its variability and
+simplicity in measurement (House et al., 1994, 2005). However, there is
+a debate about the social gradient in health at older ages, particularly at
+advanced ages. Cumulative disadvantage theory emphasizes the accumulation of risks over the life course and thus predicts widening social
+inequalities in health with increasing age (Dannefer, 2003; Dupre,
+2007; O’Rand & Hamil-Luker, 2005; Ross & Wu, 1996). Conversely, the
+age-as-leveler hypothesis proposes a weakening association between
+socioeconomic status and health at older ages. The explanations for
+leveling social inequalities in health have been attributed to biological
+
+Abbreviations: ADL, activities of daily living; CLHLS, Chinese Longitudinal Healthy Longevity Survey; HR, hazard ratio; MMSE, mini-mental status examination
+☆
+Views expressed in the paper are solely of authors and do not reﬂect those of Nanjing Normal University, National University of Singapore, Duke University, and
+the United Nations.
+⁎
+Corresponding author.
+E-mail address: gudanan@yahoo.com (D. Gu).
+https://doi.org/10.1016/j.archger.2018.12.006
+Received 11 May 2018; Received in revised form 4 November 2018; Accepted 21 December 2018
+Available online 24 December 2018
+0167-4943/ © 2018 Published by Elsevier B.V.
+
+Archives of Gerontology and Geriatrics 81 (2019) 182–191
+
+R. Wang et al.
+
+status showed its more robustness in linking with various health outcomes among middle-aged (e.g., Demakakos, Nazroo, Breeze, &
+Marmot, 2008) or older adults (Singh-Manous et al., 2005) than objectively measured socioeconomic status. However, it remains largely
+unknown (1) whether the association between ﬁnancial status and
+health/mortality diﬀer for objective and subjective measures, (2)
+whether the associations persist or weaken with advancing age, (3)
+whether the association is consistent among population subgroups, and
+(4) whether cultural-related measures of ﬁnancial resources also relate
+to mortality in later life. The purpose of this study is to provide the ﬁrst
+investigation about these research questions among adults aged 65 and
+older in mainland China (hereafter China). Using a large national
+longitudinal dataset, multiple indicators of ﬁnancial status, and a wide
+range of covariates, we aim to examine how individual and combined
+indicators of ﬁnancial status are associated with subsequent mortality
+in older adults overall and by age, gender, and urban-rural residence.
+
+processes, the redistribution of “equalizing" resources in society (e.g.,
+Medicare), the disengagement of older adults from socioeconomic activities, the lower frequency of unhealthy behaviors in later life, and
+mortality selection (House et al., 1994, 2005; Luo, Zhang, & Gu, 2015;
+Muennig, 2008; Singh-Manous, Marmot, & Adler, 2005).
+Income, however, is just one of multiple dimensions (measures) of
+an individual’s ﬁnancial resources and status. To date, few studies have
+simultaneously considered multiple measures of ﬁnancial resources
+when examining the link between ﬁnancial status and health. Indeed,
+although objective and subjective assessments of ﬁnancial status have
+been investigated, rarely have they been examined simultaneously or
+compared systematically (for exceptions, see Arber et al., 2014; Kim
+et al., 2017; Nummela et al., 2007; Xiang et al., 2018).
+Objective and subjective measures of ﬁnancial status, though interrelated, capture distinct dimensions of economic well-being in the
+lives of older adults (Kim et al., 2017; Nummela et al., 2007). Objective
+measures of ﬁnancial status often include information on an individual’s income, pension, retirement wages, assets/properties, and
+bank savings. Subjective measures of ﬁnancial status often include the
+perceptions of ﬁnancial adequacy and satisfaction, economic/ﬁnancial
+strains or distresses, economic status in comparison with others, and
+decision-making abilities or power (Gasiorowska, 2014; Kim et al.,
+2017; Lichtenberg et al., 2018; Litwin & Sapir, 2009; Nummela et al.,
+2007; Xiang et al., 2018).
+Although subjective assessments of ﬁnancial status are often based
+on actual resources, the association between objective and subjective
+measures is often not strong (Chan, Ofstedal, & Hermalin, 2002; Tang,
+Luna-Arocas, Sutarso, & Tang, 2004). In part, this is because the subjective assessment of ﬁnancial status can be aﬀected by a myriad of
+psychological and/or cognitive factors (Gasiorowska, 2014; Shaked,
+Williams, Evans, & Zonderman, 2016). In addition, subjective ﬁnancial
+conditions also reﬂect the current needs and life expectations of older
+adults in diﬀerent contexts. Moreover, individual needs, expectations,
+and contexts may change with advancing age due to health deterioration or other important life events (Arber et al., 2014). Therefore,
+subjective assessments of ﬁnancial status may capture individual dynamics and “realities” that are beyond the objective metrics. Indeed,
+among the few studies that have examined both objective and subjective ﬁnancial resources, subjective measures were found to have
+more robust associations with health and well-being (Arber et al., 2014;
+Balabanova & McKee, 2002; Xiang et al., 2018). Furthermore, the
+subjective assessment of ﬁnancial status at older ages is multifactorial.
+For example, the perceived decision-making power in utilizing ﬁnancial
+resources—i.e., the ability to make ﬁnancial decisions—is an often
+overlooked dimension for older adults in the mobilization of resources
+to meet their needs in later life (Chou & Chi, 2002; Xiang et al., 2018;
+Arber et al., 2014; Nummela et al., 2007; Sun, Hilgeman, Durkin, Allen,
+& Burgio, 2009). Indeed, failing to account for such a decision-making
+power has been shown to inﬂuence the association between ﬁnancial
+recourses and health outcomes (Lichtenberg et al., 2018). Thus, it has
+been argued that studies should account for objective and subjective
+measures of ﬁnancial status simultaneously to provide a more comprehensive and multi-dimensional assessment for actual and perceived
+resources (Chan et al., 2002; Sun et al., 2009).
+In addition, in some familialism societies, such as in China, the role
+of intergenerational transfers of wealth has been highlighted as an
+important dimension of ﬁnancial status that can inﬂuence health outcomes (Silverstein, Cong, & Li, 2006). In China, the intergenerational
+transfer of wealth is highly related to the ﬁnancial status of older adults
+(Zhu, 2016). In Confucian societies, individual ﬁnancial resources are
+normally tied to families through a strong culture of familism and ﬁlial
+piety (Silverstein et al., 2006)—whereby giving or receiving ﬁnancial
+resources is common among older adults and their oﬀspring. Cultural
+factors such as these are thus additionally important to the ﬁnancial
+status and health outcomes of older adults in China.
+Several studies focusing on the overall subjective socioeconomic
+
+2. Data and methods
+2.1. Study sample
+We use data from the Chinese Longitudinal Healthy Longevity
+Survey (CLHLS), the largest ongoing nationally-representative longitudinal survey of older adults in China. The CLHLS is conducted
+throughout 22 provinces in mainland China where age-reporting at
+very old ages was shown to be relatively accurate (Zeng, Poston,
+Vlosky, & Gu, 2008). The CLHLS was designed to interview all centenarians in the sampled counties/cities and to collect a roughly equal
+number of respondents by sex in each year of age from 65 to 99. Study
+participants were followed/re-interviewed over time and new respondents were replenished in subsequent waves to maintain suﬃcient
+and representative sample sizes. One Han-dominated county from
+Hainan Province was added in the 2008 wave and beyond, resulting in
+a total of 23 provinces in the CLHLS. A detailed description of the
+sampling design and the data quality assessment of the CLHLS have
+been documented elsewhere (see Chen et al., 2018; Gu, Yang, & Sautter,
+2016; Zeng et al., 2008).
+The latest four waves of CLHLS data were used for analysis and
+included the years 2005, 2008/2009 (hereafter as 2008), 2011/2012
+(hereafter as 2011), and 2014. The ﬁrst three waves of the CLHLS
+(1998, 2000, and 2002) were not included in the analyses because key
+variables on economic conditions were not available. Excluding those
+with no information on survival status at follow-up (the total number of
+the loss was 5669 individuals from 2005 to 2014, accounting for 21.8%
+of all individuals interviewed in 2005–2011), the total analytic sample
+for the present study included 20,285 community-residing adults who
+contributing 33,965 observations from 2005 to 2014.
+Sampling weights for the CLHLS were developed to match the
+composition of the entire elderly population in the sampled provinces
+in China by age, sex, survey year, and urban-rural residence. The total
+elderly population in the sampled provinces were primarily obtained
+from linear interpolation from the two latest censuses and extrapolated
+to years beyond the latest census. The CLHLS sampling weights were
+cross-sectional; and longitudinal weights are not available to account
+for those lost to follow-up.
+2.2. Measurement
+2.2.1. Mortality risk
+All-cause mortality risk of each respondent was measured by the
+duration of exposure (in days) from the date of his or her ﬁrst interview
+to the date of death if he or she died before the 2014 interview, to the
+date of his/her latest interview if he or she was lost to follow-up in a
+subsequent wave, or to the date of the 2014 interview if he or she was
+still alive at the 2014 interview. To better map the mortality risk for
+study variables, we took their dynamic information across waves into
+183
+
+Archives of Gerontology and Geriatrics 81 (2019) 182–191
+
+R. Wang et al.
+
+measured on a ﬁve-point Likert-scale from “never” to “almost daily”
+(scored 0–4, respectively), with a 0.66 reliability coeﬃcient for the sixitem scale. The overall level of leisure activities was then categorized
+into low, moderate, and high levels based on the sample distributions.
+Health conditions included disability in activities of daily living
+(ADL) and cognitive impairment. Following prior research, respondents
+who needed assistance in performing any of the six ADL tasks—i.e.,
+bathing, dressing, indoor transferring, toileting, eating, and continence—he/she was classiﬁed as ADL disabled (Gu, Dupre, & Qiu,
+2017). Cognitive impairment was measured by a previously-validated
+Chinese version of the Mini-Mental State Examination (MMSE), based
+on seven domains—i.e., orientation, attention/registration, calculation,
+drawing, short memory, naming, and language—with a total score of 30
+(Zeng et al., 2008). Respondents with an MMSE score less than 24 were
+considered cognitively impaired (Wen & Gu, 2011). An alternative cutpoint of 18 was also assessed and yielded similar results. Notice that
+there were 43.2% of the sampled persons who were cognitively impaired (including slightly impaired [15.9%], moderately impaired
+[11.2%] and severely impaired [16.2%]). Their information was answered by themselves or in some cases by proxy (usually the next-ofkin). Although previous research has shown that respondents with
+slightly or moderately impaired cognition could still provide reliable
+results (Lee, Wu, & Plassman, 2013), the biases are not free. Fortunately, our sensitive analysis produced comparable results (not
+shown).
+A variable indicating survey year was also included in all models to
+account for possible period eﬀects and/or changes in sample composition across CLHLS waves. With the exception of sex and ethnicity, all
+covariates were time-varying in the analyses.
+
+consideration. In other words, in modeling of mortality risk, the exposure of length and the survival status between each of two adjacent
+waves were recalibrated. An alternative approach that kept the information of study factors at the ﬁrst interview produced comparable
+results. The dates at death were collected from oﬃcial death certiﬁcates
+when available; otherwise, from the next-of-kin and/or the local residential committees. Previous research has shown that the quality of
+mortality data in the CLHLS is high (Zeng et al., 2008).
+2.2.2. Measures of ﬁnancial status
+Following previous literature (Arber et al., 2014; Litwin & Sapir,
+2009; Nummela et al., 2007; Xiang et al., 2018), we measured ﬁnancial
+status using several objective and subjective measures. Objective ﬁnancial status included three variables ascertained from the following
+questions: (1) “What is your main ﬁnancial source for daily expenses?”
+with response options: own pension/retirement wage, spouse, children,
+grandchildren, relatives, own/spousal earnings from work, government
+subsides, other sources. We classiﬁed respondents as ﬁnancially independent if his/her daily expenses are mainly from their own pension/
+earnings or their own work (yes or no); (2) “Do you or your spouse own
+a house/apartment?” (yes or no); and (3) “What is your total household
+income last year (in Chinese currency)?” We generated per capita
+household income by dividing by the total household size and coded
+as < ¥500, ¥500–1000, ¥1000–3000, ¥3000–8000, ¥8000–15,000,
+and > ¥15,000 (Note: 1 USD $ ˜ = 6.8 RMB¥ in 2017). The per capita
+household income was adjusted for the consumer price index based on
+the 2010 year as the radix. Consistent with previous research, the three
+objective measures of ﬁnancial status were self-reported (e.g.,
+Demakakos et al., 2008; House et al., 2005; Singh-Manous et al., 2005).
+Subjective ﬁnancial status included three variables ascertained from
+the following questions: (1) "Can you make a decision on the following
+things?" to indicate the degree and the scope of economic decisionmaking power within the family (coded as holding power on all major
+things, only holding power on own things or non-major family things,
+or no power); (2) "Can you make ends meet in daily expenses?” to indicate the adequacy of ﬁnancial resources (yes or no); and (3) "In
+comparison with others in your neighborhood, how do you rate your
+family's ﬁnancial status?" with responses categorized as very rich/rich
+vs. fair/poor/very poor.
+In addition, we also accounted for ﬁnancial status related to intergenerational exchanges by including two culturally-relevant measures
+(Zhu, 2016; Zimmer & Kwong, 2003) reﬂecting upward and downward
+intergenerational transfers, including (1) receiving money/food from
+their adult children (yes or no) and (2) giving money/food to their adult
+children (yes or no) – derived from two questions: “did you give
+money/food to your children in the past year?” and “did you receive
+money/food from your children in the past year?” In total, eight indicators were used to deﬁne the ﬁnancial status of older adults in China.
+
+2.3. Analytical strategy
+The four waves of longitudinal CLHLS data were pooled with a
+stacked design as employed elsewhere in the literature (Gu et al., 2016;
+Hoﬀman, 2015; Zhang et al., 2017). Multilevel hazard regression
+models were used to examine the association between ﬁnancial status
+and all-cause mortality. Five nested models were tested. Model I included sociodemographic factors, survey year, and each of the individual ﬁnancial status indicators. Model II included sociodemographic factors, survey year, and all eight of the ﬁnancial status
+indicators together. The subsequent models sequentially added family
+support factors (Model III), health behaviors (Model IV), and baseline
+health conditions (Model V) to Model II. Analyses were conducted for
+the entire older-adult sample and separately by age (65–79 and 80+),
+sex, and residential (urban and rural) groups to assess the well-established diﬀerences in ﬁnancial status and mortality among these groups
+in China (Dupre, Liu, & Gu, 2008; Wen & Gu, 2011).
+Preliminary analyses indicated no evidence of multicollinearity in
+the models—with variance inﬂation factors all below 3.5 (Chatterjee &
+Hadi, 2012). Because we include variables related to sample selection
+(i.e., age, sex, and urbanicity), sampling weights were not used in the
+multivariate regression models to avoid unnecessary inﬂation of standard errors (Winship & Radbill, 1994). To be sure, preliminary analyses
+used weighted analyses and the results were consistent with those reported here.
+Participants lost to follow-up were excluded from the analyses. In
+total, about 21% of individuals who were interviewed in 2005, 2008
+and 2011 waves were lost to follow-up in the subsequent wave. We
+found that the sample attrition was not random—i.e., those who were
+lost to follow-up were more unhealthy, in lower socioeconomic status,
+and had less family/social support. For sensitivity analyses, we also
+imputed the survival status and the length of survival for those lost to
+follow-up between an interval of two surveys – by assuming that the
+survival status and the length of survival of those lost to follow-up were
+the same as survivors with the same demographics, socioeconomic
+conditions, family/social support, health behaviors, and health
+
+2.2.3. Covariates
+The analyses adjusted for a wide range of covariates that have been
+associated to either ﬁnancial resources at older ages or mortality (Chan
+et al., 2002; House et al., 1994; Shaked et al., 2016). Sociodemographic
+factors included age, sex, residence (urban vs. rural), ethnicity (Han vs.
+non-Han), years of schooling (0, 1–6, and 7+ years), primary lifetime
+occupation (white collar vs. other occupations), and enrollment in any
+state medical insurance programs such as the new rural cooperative
+medical scheme, urban resident medical scheme, and urban employee
+medical scheme (yes or no). Family and social support resources included current marital status (currently married or not) and coresidence with children (yes or no).
+Health behaviors were measured by levels of reported leisure-time
+activities ascertained from the sum of six items: doing housework,
+gardening, raising pets or domestic animals/poultry, reading books/
+newspapers, watching TV/listening to radio, and any other personal
+outdoor activities such as jogging, exercise, or Taiji. Each item was
+184
+
+Archives of Gerontology and Geriatrics 81 (2019) 182–191
+
+R. Wang et al.
+
+marginally signiﬁcant when baseline health conditions were further
+taken into account (Model VI). Overall, ﬁnancial independence, economic decision-making power, and better family economic conditions
+were consistently associated with lower risks of mortality.
+Table 3 shows that the pattern of associations between the indicators of ﬁnancial status and mortality were generally similar among
+adults aged 65–79 and among adults aged 80 and over, except for a
+signiﬁcant association between income and mortality among older
+adults aged 65–79. A similar associational pattern was also found between women and men, except a persistent signiﬁcant association between ﬁnancial independence and mortality in men when family/social
+support and behavioral factors and baseline health were adjusted for
+(Table 4). In addition, we further found that the associations were more
+or less the same in older adults in urban and rural areas with an exception for the signiﬁcant association between income and mortality in
+urban older adults (Table 5).
+
+Table 1
+Distribution of study variables, CLHLS 2005–2014.
+%a
+Total # of individuals
+
+20,285
+
+% death in 2005–2014
+
+64.8
+
+Financial resources at
+baseline
+Objectively-measured
+Financial independence
+No
+Yes
+Owning 1+ house/apartment
+No
+Yes
+Per capita household income
+< ¥500
+¥500–1,000 (< 500)
+¥1000–3,000 (< 500)
+¥3000–8,000 (< 500)
+¥8000–15,000 (< 500)
+> =¥15,000 (< 500)
+Subjectively-measured
+Having a power in making
+economic-related decisions
+Nothing
+On own things
+On everything
+Self-perceived adequacy of
+ﬁnancial resources
+No
+Yes
+Self-rated family economic
+condition
+Fair/poor
+Rich
+Culturally-measured
+Receiving money from children
+No
+Yes
+Giving money/foods to children
+No
+Yes
+
+73.8
+26.2
+61.2
+38.6
+19.1
+15.2
+32.5
+22.5
+7.4
+3.3
+
+46.4
+30.7
+22.9
+
+23.4
+76.6
+
+85.2
+14.8
+
+15.4
+84.6
+79.3
+20.7
+
+%
+Covariates at baseline
+Mean age (years)
+Sex
+Women
+Men
+Rural-urban residence
+Rural
+Urban
+Ethnicity
+non-Han
+Han
+Years of schooling
+0 years
+1–6 years
+7+ years
+White collar occupation
+No
+Yes
+Covered by public medical
+care program
+No
+Yes
+Currently married
+No
+Yes
+Coresidence with children
+No
+Yes
+Levels of leisure activity
+Low
+Moderate
+High
+ADL disabled
+No
+Yes
+Cognitively impaired
+No
+Yes
+Survey dates (year)
+Wave 2005
+Wave 2008/2009
+Wave 2011/2012
+
+87.2
+57.7
+42.3
+
+63.6
+36.4
+7.8
+93.2
+64.8
+26.7
+8.5
+
+4. Discussion
+
+90.0
+10.0
+
+Based on the largest nationally representative dataset of older adults
+in contemporary China, this study investigated the association between
+ﬁnancial status and mortality in the later life. Key strengths of this
+study included the use of multiple indictors for ﬁnancial status, a wide
+range of covariates, and robust analyses across age, sex, and residential
+locations. Consistent with ﬁndings from other populations (e.g., Arber
+et al., 2014; Kondo, Saito, & Hikichi, 2015; Szanton et al., 2008), our
+results showed that ﬁnancial status is an important predictor of mortality in later life, regardless of age, sex, urban-rural residence, and the
+type of measurement for ﬁnancial status.
+In line with prior research on the dynamics of socioeconomic inequalities in health at older ages (House et al., 1994; O’Rand & HamilLuker, 2005; Dupre, 2007), ﬁndings from this study shed new light on
+these issues in the context of China. Several studies from the West demonstrate evidence for diminishing social gradients in health with advancing age (Arber et al., 2014; House et al., 2005; Mackenbach,
+Meerding, & Kunst, 2007; McDonough, Duncan, Williams, & House,
+1997). Yet there is also increasing evidence to suggest that the socialgradient in health may persist (or widen) among the Chinese elderly
+population (Wen & Gu, 2011; Zhu & Xie, 2007). Our research builds on
+this body of work and provides new evidence that the social gradient—measured by objective and subjective ﬁnancial status—in mortality persists among oldest-old adults in China.
+The reasons for the strong association between ﬁnancial status and
+mortality among older adults in China are multifactorial (Gu et al.,
+2016). Higher levels of ﬁnancial standing may confer greater economic
+and material resources to purchase higher quality foods and nutrition,
+housing, and healthcare, as well as access to higher quality community
+facilities, infrastructure, and living environment (Arber et al., 2014;
+Bartley, 2004; Pampel, Krueger, & Denney, 2010; von Humboldt,
+2016). Older adults with favorable ﬁnancial status also may engage in
+better health behaviors and lifestyles—and enjoy larger social support
+networks—because they can aﬀord participation in various social and
+leisure-time activities (Balia & Jones, 2008; Pampel et al., 2010). In
+addition, greater ﬁnancial resources may provide better opportunities
+to develop better coping skills, limit exposure to ﬁnancial hardship and
+stress (Chou & Chi, 2002), promote optimistic attitudes about the future
+and one’s feelings of usefulness to others (Zhao, Sautter, Qiu, & Gu,
+2017; Zhao, Dupre, Qiu, & Gu, 2017), and improve self-eﬃcacy (see
+Balia & Jones, 2008; Gallo & Matthews, 2003; Lorant et al., 2003;
+Pampel et al., 2010). As a result, this constellation of ﬁnancial-related
+resources are part of a wider repertoire of individual socioeconomic
+resources, may mitigate the progression of aging, functional decline,
+and ultimately, mortality.
+In addition to these general mechanisms, the persistence of the social gradient in health among the Chinese oldest-old may be related to
+the context of China’s transitional economy. Since the 1950’s (and into
+
+10.2
+89.8
+68.3
+31.7
+35.0
+65.0
+33.5
+45.6
+20.9
+75.6
+24.4
+58.8
+43.2
+31.5
+33.9
+20.0
+
+Note: All values are unweighted percentages for individuals, with the exception
+of total number of individuals and mean age.
+
+conditions. The imputed results (available upon request) were very similar to those reported here. All analyses were performed using Stata
+15.0.
+3. Results
+Table 1 presents the overall sample distributions for the study
+variables. Among 20,285 participants who were interviewed in 2005,
+2008, and 2011, approximately 65% died by the time of the 2014 wave.
+Table 2 presents the adjusted relative risks (RR) of mortality for the
+separate and combined indicators of ﬁnancial status. Model I shows that
+most indicators of ﬁnancial status (except family income and upward
+transferring) were associated with lower risks of mortality when examined separately and adjusting for demographic factors and survey
+year. When all eight ﬁnancial indicators were examined simultaneously
+(Model II), the results remained largely consistent—with the exception
+of one indicator (adequacy of ﬁnancial resources) that was no longer
+signiﬁcant. Models III and IV show that the associations between ﬁnancial status and mortality were robust and independent of education,
+occupation, marital status, and coresidence with children. Homeownership was no longer signiﬁcant when health behaviors were taken
+into account (Model V) and giving money/food to children was only
+185
+
+Archives of Gerontology and Geriatrics 81 (2019) 182–191
+
+R. Wang et al.
+
+Table 2
+Relative Risks of Mortality for Objective and Subjective Financial Status at Ages 65+, CLHLS 2005–2014.
+
+Financial status
+Objective
+Financially independent (no)
+Owning 1+ house/apartment (no)
+Per capita household income ¥500–1,000 (< 500)
+Per capita household income ¥1,000–3,000 (< 500)
+Per capita household income ¥3,000–8,000 (< 500)
+Per capita household income ¥8,000–15,000 (< 500)
+Per capita household income > =¥15,000 (< 500)
+Subjective
+Economic decision power on own things (no)
+Economic decision power on everything (no)
+Adequacy of ﬁnancial resources (no)
+Family economic condition, rich (fair/poor)
+Cultural
+Receiving money/foods from children (no)
+Giving money/foods to children (no)
+Sociodemographic background
+Age
+Men (women)
+Urban (rural)
+Han (non-Han)
+1–6 years of schooling (0)
+7+ years of schooling (0)
+White collar (no)
+Covered by public medical care program (no)
+
+Model I
+
+Model II
+
+Model III
+
+Model IV
+
+Model V
+
+0.76***
+0.85***
+0.92
+0.96
+0.95
+0.92*
+0.83*
+
+0.85***
+0.93**
+0.98
+1.04
+1.02
+1.06
+0.99
+
+0.87***
+0.96+
+0.98
+1.03
+1.01
+1.05
+0.98
+
+0.91**
+0.99
+1.00
+1.06
+1.05
+1.11*
+1.03
+
+0.88***
+0.99
+1.00
+1.06
+1.05
+1.11*
+1.03
+
+0.88***
+0.61***
+0.97
+0.87***
+
+0.76***
+0.57***
+1.00
+0.90***
+
+0.76***
+0.59***
+0.99
+0.90***
+
+0.84***
+0.69***
+1.00
+0.93*
+
+0.93**
+0.76***
+1.02
+0.94*
+
+1.00
+0.85***
+
+0.96
+0.89**
+
+0.97
+0.89*
+
+0.99
+0.95*
+
+1.00
+0.96+
+
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+
+1.07***
+1.38***
+1.00
+1.07+
+0.99
+0.96
+1.05
+0.88***
+
+1.07***
+1.42***
+1.00
+1.07+
+1.00
+0.96
+1.05
+0.88***
+
+1.06***
+1.43***
+0.98
+1.04
+1.04
+1.03
+1.05
+0.90**
+
+1.05***
+1.49***
+0.96
+0.97
+1.05
+1.04
+1.02
+0.91**
+
+0.84***
+1.03
+
+0.85***
+1.01
+
+0.85***
+0.99
+
+0.59***
+0.42***
+
+0.70***
+0.52***
+
+Family/social support
+Currently married (no)
+Coresidence with children (no)
+Behaviors
+Leisure activity moderate level (low)
+Leisure activity high level (low)
+Health conditions
+ADL disabled (no)
+Cognitively impaired (no)
+Survey years
+Wave 2008 (2005)
+Wave 2011 (2005)
+
+1.50***
+1.33***
+NA
+NA
+
+0.99
+0.97
+
+1.00
+0.98
+
+0.98
+0.97
+
+0.99
+0.95+
+
+Note: Model I shows the estimates from eight separate models for the individual indicators of ﬁnancial status. Separate estimates for the sociodemographic background and survey years are not reported for the eight models and are noted as not applicable (NA). Models II to Model V include all eight indicators for ﬁnancial
+status. The categories in parentheses for each variable refer to its respective reference group.
++
+p < 0.1.
+* p < 0.05.
+** p < 0.01.
+*** p < 0.001.
+
+2016; Xiang et al., 2018), and is consistent with previous studies focusing on the overall subjective socioeconomic status of adults at
+middle and older ages (Demakakos et al., 2008; Singh-Manous et al.,
+2005). The greater importance of subjective measures may be attributable to several factors. First, subjective measures involve perceptions
+of actual ﬁnancial conditions—which may be shaped by a wide range of
+interconnected factors, such as worldly beliefs and attitudes, cultural
+norms, habits of consumption, daily needs, living arrangements, environments, social comparisons, and other psychosocial processes
+(Angel et al., 2003; Arber et al., 2014; Gasiorowska, 2014; Kim et al.,
+2017; Tang et al., 2004; Whelan & Maitre, 2013). Thus, subjective indicators may capture more comprehensive information than the objective measures (Arber et al., 2014; Zimmerman & Katon, 2005),
+especially with regard to psychosocial dimensions, which may have a
+more direct impact on health outcomes (Karraker, 2014; Sun et al.,
+2009; Whelan & Maitre, 2013). Low subjective levels of ﬁnancial status
+are often associated with other negative dispositions—such as feeling
+helpless, useless, lacking control, and lacking self-conﬁdence (Angel
+et al., 2003; Xiang et al., 2018); as well as greater levels of anxiety,
+stress, and depression (Arber et al., 2014; Bartley, 2004: Kahn & Fazio,
+
+the early 2000’s), the eldercare system was established and matured
+though many reforms that have continued into recent years (Xiang
+et al., 2018). Under the long established system, urban residents,
+especially those who work for the public sector, receive favorable
+pensions, medical care, and many other resources for eldercare. In
+contrast, rural elders are institutionally disadvantaged, especially after
+early economic reforms when the management of health care was decentralized and regional disparities increased (Dong & Phillips, 2008;
+Zhang et al., 2017). In many ways, these regional, rural/urban, and
+public/non-public sectoral factors cemented the historical foundation
+for the health inequalities of current older-adults in China. To address
+these structural and intuitional mechanisms of health inequality, China
+has undergone recent reforms of its medical and pension systems, which
+will likely further impact the social disparities in health among Chinese
+older adults.
+A notable ﬁnding from this study is that subjective indicators of
+ﬁnancial status are generally more powerful in predicting mortality
+than objective indicators. This result is largely in concordant with other
+studies that have compared objective and subjective measures of ﬁnancial resources (Kim et al., 2017; Nummela et al., 2007; Shaked et al.,
+186
+
+Archives of Gerontology and Geriatrics 81 (2019) 182–191
+
+R. Wang et al.
+
+Table 3
+Relative Risks of Mortality for Objective and Subjective Financial Status in Older Adults Aged 65–79 and 80+, CLHLS 2005–2014.
+Ages 65–79 (10,369)
+
+Financial status
+Objective
+Financially independent (no)
+Owning 1+ house/apartment (no)
+Per capita household income ¥500–1,000 (< 500)
+Per capita household income ¥1,000–3,000 (< 500)
+Per capita household income ¥3,000–8,000 (< 500)
+Per capita household income ¥8,000–15,000 (< 500)
+Per capita household income > =¥15,000 (< 500)
+Subjective
+Economic decision power on own things (no)
+Economic decision power on everything (no)
+Adequacy of ﬁnancial resources (no)
+Family economic condition, rich (fair/poor)
+Cultural
+Receiving money/foods from children (no)
+Giving money/foods to children (no)
+Sociodemographic background
+Age
+Men (women)
+Urban (rural)
+Han (non-Han)
+1–6 years of schooling (0)
+7+ years of schooling (0)
+White collar (no)
+Covered by public medical care program (no)
+
+Ages 80+ (n = 23,596)
+
+Model I
+
+Model II
+
+Model V
+
+Model I
+
+Model II
+
+Model V
+
+0.69***
+0.77***
+0.74*
+0.85
+0.75**
+0.77+
+0.65*
+
+0.80**
+0.86*
+0.79*
+0.95
+0.85
+0.93
+0.79
+
+0.83*
+0.90
+0.81+
+0.97
+0.88
+0.98
+0.84
+
+0.80***
+0.87***
+0.97
+1.04
+1.02
+1.03
+0.93
+
+0.90**
+0.94*
+0.97
+1.03
+1.04
+1.05
+1.00
+
+0.94+
+1.00
+0.97
+1.03
+1.07
+1.07
+1.02
+
+1.14+
+0.63***
+0.80***
+0.96
+
+0.81**
+0.62***
+0.889
+1.08
+
+0.96
+0.81*
+0.94
+1.12
+
+0.83***
+0.62***
+0.95***
+0.83***
+
+0.74***
+0.57***
+1.01
+0.87***
+
+0.91***
+0.78***
+1.04
+0.92**
+
+1.09
+0.81**
+
+1.03
+0.87+
+
+1.05
+0.93
+
+0.98
+0.85***
+
+0.97
+0.91***
+
+1.02
+0.97
+
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+
+1.09***
+1.64***
+1.04
+1.04
+0.97
+0.93
+1.16
+0.77*
+
+1.08***
+1.61***
+1.01
+1.00
+1.03
+1.01
+1.14
+0.89
+
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+
+1.06***
+1.34***
+0.99
+1.06
+1.00
+1.01
+1.02
+0.89**
+
+1.04***
+1.44***
+0.95*
+0.97
+1.06
+1.08
+0.98
+0.92*
+
+Family/social support
+Currently married (no)
+Coresidence with children (no)
+
+1.00
+1.07
+
+0.87***
+1.01
+
+Behaviors
+Leisure activity moderate level (low)
+Leisure activity high level (low)
+
+0.55***
+0.46***
+
+0.71***
+0.55***
+
+Health conditions
+ADL disabled (no)
+Cognitively impaired (no)
+
+2.12***
+1.44***
+
+1.49***
+1.33***
+
+Survey years
+Wave 2008 (2005)
+Wave 2011 (2005)
+
+NA
+NA
+
+1.03
+0.89
+
+1.01
+0.81*
+
+NA
+NA
+
+0.98
+0.97
+
+0.98
+0.96
+
+Note: Model I shows the estimates from eight separate models for the individual indicators of ﬁnancial status. Separate estimates for the sociodemographic background and survey years are not reported for the eight models and are noted as not applicable (NA). Models II to Model V include all eight indicators for ﬁnancial
+status. The categories in parentheses for each variable refer to its respective reference group.
++
+p < 0.1.
+* p < 0.05.
+** p < 0.01.
+*** p < 0.001.
+
+social participation when they perceive some degree of ﬁnancial inadequacy (Arber et al., 2014; Bartley, 2004). Consequently, these individuals may have higher rates of social isolation, exclusion, and
+loneliness, which in turn, are among well-known predictors of mortality
+at old ages (Holt-Lunstad, Smith, Baker, Harris, & Stephenson, 2015).
+Fifth, studies have shown that those with low-income do not always
+report ﬁnancial strain (Angel et al., 2003); alternatively, others tend to
+report ﬁnancial adequacy even when their income appears to be relatively low (Litwin & Sapir, 2009). Such scenarios further underscore the
+salience of subjective measures over objective measures in predicting
+risks of mortality.
+Another noteworthy ﬁnding is that downward wealth transfers
+(from older parents to adult children) was associated with lower risks of
+mortality—when baseline health status was not taken into account. As
+such, studies have shown that providing ﬁnancial and instrumental
+support to adult children helps to increase older adults' self-esteem and
+perceived value to other family members (Silverstein et al., 2006; Zhao,
+Dupre et al., 2017). Downward intergenerational transfers also may
+
+2005). Accordingly, some studies have argued that subjective measures
+of ﬁnancial status may better reﬂect the “real world” economic conditions faced by individuals beyond the conventional objective metrics of
+ﬁnancial resources (Chan et al., 2002; Garner, Stinson, & Shipp, 1996).
+Second, similar to the subjective measure of socioeconomic status
+that encompasses self-judgment about cumulative resources over one's
+lifetime (Demakakos et al., 2008), subjective measures of ﬁnancial resources likely involve the self-perception of one's lifetime cumulated
+ﬁnancial resources. If this is the case, subjective measures may better
+reﬂect the advantages and disadvantages of individuals over the life
+course, and in turn, better reﬂect health disparities among older adults
+in the population (O’Rand & Hamil-Luker, 2005). Third, it is also possible that in a collective society like China, and individual's health behaviors and health care decisions are made at the family level rather
+than at the personal level. Consequently, this dynamic would diminish
+the role of income in aﬀecting health compared with the decisionmaking power in ﬁnancial resources.
+Fourth, some studies have shown that people tend to reduce their
+
+187
+
+Archives of Gerontology and Geriatrics 81 (2019) 182–191
+
+R. Wang et al.
+
+Table 4
+Relative Risks of Mortality for Objective and Subjective Financial Status in Older Men and Women, CLHLS 2005–2014.
+Women (n = 19,163)
+
+Financial status
+Objective
+Financially independent (no)
+Owning 1+ house/apartment (no)
+Per capita household income ¥500–1,000 (< 500)
+Per capita household income ¥1,000–3,000 (< 500)
+Per capita household income ¥3,000–8,000 (< 500)
+Per capita household income ¥8,000–15,000 (< 500)
+Per capita household income > =¥15,000 (< 500)
+Subjective
+Economic decision power on own things (no)
+Economic decision power on everything (no)
+Adequacy of ﬁnancial resources (no)
+Family economic condition, rich (fair/poor)
+Cultural
+Receiving money/foods from children (no)
+Giving money/foods to children (no)
+Sociodemographic background
+Age
+Urban (rural)
+Han (non-Han)
+1–6 years of schooling (0)
+7+ years of schooling (0)
+White collar (no)
+Covered by public medical care program (no)
+Family/social support
+Currently married (no)
+Coresidence with children (no)
+
+Men (n = 14,802)
+
+Model I
+
+Model II
+
+Model V
+
+Model I
+
+Model II
+
+Model V
+
+0.77***
+0.86***
+0.90
+0.95
+0.95
+0.90+
+0.78***
+
+0.87**
+0.92**
+0.92+
+0.99
+1.00
+0.98
+0.88+
+
+0.94
+0.95
+0.95
+1.00
+1.03
+1.03
+0.91
+
+0.75***
+0.85***
+0.95
+0.99
+0.96
+0.94
+0.90
+
+0.84***
+0.94*
+0.98
+1.06
+1.06
+1.11
+1.13
+
+0.85***
+1.01
+0.96
+1.05
+1.05
+1.11
+1.13
+
+0.80***
+0.63***
+0.98
+0.88***
+
+0.73***
+0.59**
+1.01
+0.90**
+
+0.91**
+0.79**
+1.04
+0.94
+
+0.99
+0.60***
+0.96
+0.86***
+
+0.80***
+0.57***
+0.99
+0.88**
+
+0.97
+0.75***
+1.03
+0.93*
+
+0.98
+0.85***
+
+0.97
+0.83*
+
+1.04
+0.95
+
+1.02
+0.86***
+
+0.97
+0.91**
+
+1.01
+0.98
+
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+
+1.07***
+1.02
+1.11*
+0.99
+0.92
+1.02
+0.91*
+
+1.05
+0.98
+1.04
+1.06
+1.00
+0.97
+0.94+
+
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+
+1.07***
+0.97
+1.00
+0.99
+0.98
+1.07
+0.82***
+
+1.05
+0.95
+0.92
+1.05
+1.04
+1.06
+0.87**
+
+0.83***
+0.97
+
+0.89**
+1.03
+
+Behaviors
+Leisure activity moderate level (low)
+Leisure activity high level (low)
+
+0.70***
+0.48***
+
+0.70***
+0.55***
+
+Health conditions
+ADL disabled (no)
+Cognitively impaired (no)
+
+1.46***
+1.43***
+
+1.57***
+1.23***
+
+Survey years
+Wave 2008 (2005)
+Wave 2011 (2005)
+
+NA
+NA
+
+0.99
+0.96
+
+1.00
+0.96
+
+NA
+NA
+
+0.97
+0.95
+
+0.96
+0.92
+
+Note: Model I shows the estimates from eight separate models for the individual indicators of ﬁnancial status. Separate estimates for the sociodemographic background and survey years are not reported for the eight models and are noted as not applicable (NA). Models II to Model V include all eight indicators for ﬁnancial
+status. The categories in parentheses for each variable refer to its respective reference group.
++
+p < 0.1.
+* p < 0.05.
+** p < 0.01.
+*** p < 0.001.
+
+in the world (United Nations, 2017). With under-developed system of
+care for older adults, many Chinese are now facing ﬁnancial challenges
+with advancing age—especially in rural and economically disadvantaged areas. In the absence of a mature national pension system
+and a medical insurance scheme, many older adults in China are faced
+by low levels of income, few economic opportunities, and limited recourses to pay for medical bills in later life (Ding, 2013). Thus, our
+analyses of multiple measures of ﬁnancial status provide new insights
+that may help to better target subgroups in the population who are at
+the greatest risks of ﬁnancial hardship and excess mortality. These
+ﬁndings also have important implications for future research. As demonstrated here, objective measures alone may be inadequate in capturing important dimensions of ﬁnancial status (Chan et al., 2002; Sun
+et al., 2009). Instead, we ﬁnd that perceived reports of ﬁnancial status
+provide a more comprehensive picture of the ﬁnancial conditions of
+older adults (Krause, 1997). Therefore, future studies should consider
+including both objective and subjective measures when examining the
+complex relationship between ﬁnancial resources and health outcomes
+(Arber et al., 2014; Bartley, 2004; Chan et al., 2002; Wilkinson &
+Pickett, 2010). However, more research is needed to determine which
+
+help to reduce the risk of loneliness, social isolation, and unhealthy
+behaviors of older adults by enhancing social connections with family
+members (von Humboldt, 2016). Our ﬁndings provide new evidence to
+suggest that culturally-sensitive measures of ﬁnancial status are important to the survival of older adults in China. Nevertheless, we encourage additional studies to further validate these ﬁndings and explore
+the potential pathways contributing to these associations.
+Although the associational patterns of ﬁnancial conditions with
+mortality at later life are generally similar for both the young-old and
+the oldest-old, and for women and men, and for rural and urban older
+adults, some distinction deserves a discussion. In comparison with
+women, the Chinese men are the main source of earning for the family,
+more educated, and more likely to have pensions or retirement wages
+(Zeng, Liu, & George, 2003). A man without a pension/retirement
+salary in China usually has a low status in family, and is more likely to
+have a depression (Feng, 2018). Therefore, for them, ﬁnancial independence may matter to health more for older men than for older
+women.
+Our ﬁndings have potentially important policy implications. China
+is among the large developing nations with the large elderly population
+188
+
+Archives of Gerontology and Geriatrics 81 (2019) 182–191
+
+R. Wang et al.
+
+Table 5
+Adjusted Relative Risks of Mortality for Objective and Subjective Financial Status in Older Adults in Rural and Urban Areas, CLHLS 2005–2014.
+Rural (n = 20,206)
+
+Financial status
+Objective
+Financially independent (no)
+Owning 1+ house/apartment (no)
+Per capita household income ¥500–1,000 (< 500)
+Per capita household income ¥1,000–3,000 (< 500)
+Per capita household income ¥3,000–8,000 (< 500)
+Per capita household income ¥8,000–15,000 (< 500)
+Per capita household income > =¥15,000 (< 500)
+Subjective
+Economic decision power on own things (no)
+Economic decision power on everything (no)
+Adequacy of ﬁnancial resources (no)
+Family economic condition, rich (fair/poor)
+Cultural
+Receiving money/foods from children (no)
+Giving money/foods to children (no)
+Sociodemographic background
+Age
+Men (women)
+Han (non-Han)
+1–6 years of schooling (0)
+7+ years of schooling (0)
+White collar (no)
+Covered by public medical care program (no)
+
+Urban (n = 13,759)
+
+Model I
+
+Model II
+
+Model V
+
+Model I
+
+Model II
+
+Model V
+
+0.64***
+0.84***
+0.95
+0.97
+0.97
+1.00
+0.92
+
+0.72***
+0.92**
+0.98
+1.03
+1.05
+1.12*
+1.07
+
+0.77***
+0.97
+0.99
+1.05
+1.08+
+1.17**
+1.12
+
+0.85***
+0.86***
+0.80**
+0.87*
+0.86**
+0.81***
+0.72***
+
+0.98
+0.94+
+0.81**
+0.91+
+0.90+
+0.88+
+0.84*
+
+1.00
+0.99
+0.82**
+0.91+
+0.91
+0.89+
+0.84*
+
+0.86***
+0.64***
+0.98
+0.90**
+
+0.76***
+0.62***
+0.99
+0.91*
+
+0.93**
+0.81***
+1.01
+0.94+
+
+0.91**
+0.58***
+0.96
+0.83***
+
+0.77***
+0.53***
+1.01
+0.87**
+
+0.93*
+0.71***
+1.07+
+0.94
+
+1.00
+0.85***
+
+0.99
+0.90**
+
+1.05
+0.95
+
+0.99
+0.85***
+
+0.97
+0.90***
+
+1.00
+0.98
+
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+
+1.07***
+1.43***
+1.09*
+0.99
+0.97
+1.11+
+0.86***
+
+1.05***
+1.52***
+0.98
+1.05
+1.04
+1.05
+0.89**
+
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+
+1.07***
+1.35***
+1.00
+0.98
+0.98
+1.00
+0.90+
+
+1.05***
+1.49***
+0.94
+1.04
+1.06
+0.99
+0.95
+
+Family/social support
+Currently married (no)
+Coresidence with children (no)
+
+0.88***
+1.01
+
+0.84***
+0.99
+
+Behaviors
+Leisure activity moderate level (low)
+Leisure activity high level (low)
+
+0.70***
+0.55***
+
+0.70***
+0.49***
+
+Health conditions
+ADL disabled (no)
+Cognitively impaired (no)
+
+1.55***
+1.27***
+
+1.42***
+1.44***
+
+Survey years
+Wave 2008 (2005)
+Wave 2011 (2005)
+
+NA
+NA
+
+1.02
+0.94+
+
+1.02
+0.90**
+
+NA
+NA
+
+0.94+
+0.99
+
+0.93+
+0.99
+
+Note: Model I shows the estimates from eight separate models for the individual indicators of ﬁnancial status. Separate estimates for the sociodemographic background and survey years are not reported for the eight models and are noted as not applicable (NA). Models II to Model V include all eight indicators for ﬁnancial
+status. The categories in parentheses for each variable refer to its respective reference group.
++
+p < 0.1.
+* p < 0.05.
+** p < 0.01.
+*** p < 0.001.
+
+Ethics approval and consent to participate
+
+subjective or objective measures should be pursued to best measure
+ﬁnancial resources among older adults in diﬀerent contexts, including
+China.
+We acknowledge several limitations of this study. First, due to the
+lack of available data, our analyses could not address the role of
+neighborhood conditions (e.g., poverty) that are closely linked with
+individual ﬁnancial resources and also may aﬀect feelings such as
+usefulness (Boardman & Robert, 2000; Pals & Kaplan, 2013). Second,
+we recognize that several psychometric scales that were recently developed to measure ﬁnancial hardship, distress, and well-being (see
+Altice, Banegas, Tucker-Seeley, & Yabroﬀ, 2017) were not included in
+the CLHLS. Therefore, future research may incorporate these scales to
+assess whether they provide greater predictive power over the measures
+used in the current study. Third, recent research has called for additional empirical eﬀorts to examine discrepancies among objective and
+subjective measures of ﬁnancial resources (e.g. Kim et al., 2017). We
+acknowledge these issues and encourage future research to further
+substantiate and extend the results of this analysis.
+
+No ethics approval was required for this study. The data were obtained from a publicly accessible database of the Chinese Longitudinal
+Healthy Longevity Survey at the National Archive of Computerized
+Data on Aging, University of Michigan (http://www.icpsr.umich.edu/
+icpsrweb/NACDA/studies/36179) with a signed data use agreement.
+Consent for publication
+Not applicable.
+Availability of data and materials
+The CLHLS datasets are publicly available at the National Archive of
+Computerized Data on Aging, University of Michigan (http://www.
+icpsr.umich.edu/icpsrweb/NACDA/studies/36179). Researchers can
+obtain these data after submitting a data use agreement to the CLHLS
+team.
+189
+
+Archives of Gerontology and Geriatrics 81 (2019) 182–191
+
+R. Wang et al.
+
+Conﬂict of interests
+
+Garner, T., Stinson, L., & Shipp, S. (1996). Aﬀordability, income adequacy, and subjective
+assessments of economic well-being: Preliminary ﬁndings. Association for Consumer
+Research Conference, Tucson, Arizona.
+Gasiorowska, A. (2014). The relationship between objective and subjective wealth is
+moderated by ﬁnancial control and mediated by money anxiety. Journal of Economic
+Psychology, 43, 64–74.
+Gu, D., Dupre, M. E., & Qiu, L. (2017). Self-perception of uselessness and mortality among
+older adults in China. Archives of Gerontology and Geriatrics, 68, 186–194.
+Gu, D., Yang, F., & Sautter, J. (2016). Socioeconomic status as a moderator between
+frailty and mortality at old ages. BMC Geriatrics, 16(1), 151. https://doi.org/10.
+1186/s12877-016-0322-2.
+Hirai, H., Kondo, K., & Kawachi, I. (2012). Social determinants of active aging:
+Diﬀerences in mortality and the loss of healthy life between diﬀerent income levels
+among older Japanese in the AGES cohort study. Current Gerontology and Geriatrics
+Research, 2012, 1–9. https://doi.org/10.1155/2012/701583.
+Hoﬀman, L. (2015). Longitudinal analysis: Modeling within-person ﬂuctuation and change.
+Routlegde: Taylor & Francis Group: New York.
+Holt-Lunstad, J., Smith, T. B., Baker, M., Harris, T., & Stephenson, D. (2015). Loneliness
+and social isolation as risk factors for mortality: A meta-analytic review. Perspective on
+Psychological Sciences, 10(2), 227–237.
+House, J. S., Lantz, P. M., & Herd, P. (2005). Continuity and change in social stratiﬁcation
+of aging and health over the life course: Evidence from a nationally representative
+longitudinal study from 1986 to 2001/2002 (Americans’ Changing Lives Study).
+Journals of Gerontology: Series B, 60B(Special Issues II), 15–26.
+House, J. S., Lepkowski, J. M., Kinney, A. M., Mero, R. P., Kessler, R. C., & Herzog, R. A.
+(1994). The social stratiﬁcation of aging and health. Journal of Health and Social
+Behavior, 38, 213–234.
+Karraker, A. (2014). "Feeling poor": Perceived economic position and environmental
+mastery among older Americans. Journal of Aging and Health, 26(3), 474–494.
+Kahn, J. R., & Fazio, E. M. (2005). Economic status over the life course and racial disparities in health. Journals of Gerontology: Social Sciences, 60B(Special issue), 85–92.
+Khang, Y.-H., Bahk, J., Yi, N., & Yun, S.-C. (2015). Age- and cause-speciﬁc contributions
+to income diﬀerence in life expectancy at birth: Findings from nationally representative data on one million South Koreans. European Journal of Public Health,
+26(2), 242–248.
+Kim, W., Kim, T. H., Lee, T.-H., Ju, Y. J., & Park, E. (2017). The association between
+objective income and subjective ﬁnancial need and depressive symptoms in South
+Koreans aged 60 and older. Psychogeriatrics, 3, 1–8.
+Kondo, N., Saito, M., Hikichi, H., et al. (2015). Relative deprivation in income and
+mortality by leading causes among older Japanese men and women: AGES cohort
+study. Journal of Epidemiology and Community Health, 69, 680–685.
+Krause, N. (1997). Anticipated support, received support, and economic stress among
+older adults. Journal of Gerontology: Psychological Sciences, 52B(6), 284–293.
+Lee, K. H., Wu, B., & Plassman, B. (2013). Cognitive function and oral health-related
+quality of life in older adults. Journal of the American Geriatrics Society, 61(9),
+1602–1607.
+Lichtenberg, P. A., Ficker, L., Rahman-Filipiak, A., Trato, R., Farrell, C., Speir, J. J., et al.
+(2018). The Lichtenberg Financial Decision Screening Scale (LFDSS): A new tool for
+assessing ﬁnancial decision making and preventing ﬁnancial exploitation. Journal of
+Elder Abuse & Neglect, 28(3), 134–151.
+Litwin, H., & Sapir, E. V. (2009). Perceived income adequacy among older adults in 12
+countries: Findings from the Survey of Health, Ageing, and Retirement in Europe. The
+Gerontologist, 49(3), 397–406.
+Lorant, V., Deliege, D., Eaton, W., Robert, A., Philippot, P., & Ansseau, M. (2003).
+Socioeconomic inequalities in depression: A meta-analysis. American Journal of
+Epidemiology, 157(2), 98–112.
+Luo, Y., Zhang, Z., & Gu, D. (2015). Education and mortality among older adults in China.
+Social Science & Medicine, 127, 134–142.
+Mackenbach, J. P., Meerding, W. J., & Kunst, A. E. (2007). Economic implications of socioeconomic inequalities in health in the European Union. Luxembourg: European
+Commission. [Accessed 22 April 2018] http://ec.europa.eu/health/ph_determinants/
+socio_economics/documents/socioeco_inequalities_en.pdf.
+Marmot, M. (2002). The inﬂuence of income on health: Views of an epidemiologist.
+Health Aﬀairs, 21(2), 31–46.
+McDonough, P., Duncan, G., Williams, D., & House, J. (1997). Income dynamics and adult
+mortality in the United States, 1972 through 1989. American Journal of Public Health,
+87(9), 1476–1483.
+Momtaz, Y., Ibrahim, R., Hamid, T. A., & Yahaya, N. (2010). Sociodemographic predictors
+of elderly’s psychological well-being in Malaysia. Aging & Mental Health, 15(4),
+437–445.
+Muennig, P. (2008). Journal of Health Care for the Poor and Underserved, 19(2), 574–579.
+Nummela, O. P., Sulander, T. T., Heinonen, H. S., & Uutela, A. K. (2007). Self-rated health
+and indicators of SES among the ageing in three types of communities. Scandinavian
+Journal of Public Health, 35, 39–47.
+O’Rand, A. M., & Hamil-Luker, J. (2005). Processes of cumulative adversity: Childhood
+disadvantage and increased risk of heart attack across the life course. Journals of
+Gerontology: Series B, 60B(Special Issue II), 117–124.
+Pals, H., & Kaplan, H. B. (2013). Cumulative and relative disadvantage as long-term
+determinants of negative self-feelings. Sociological Inquiry, 83(1), 130–153.
+Pampel, F. C., Krueger, P. M., & Denney, J. T. (2010). Socioeconomic disparities in health
+behaviors. Annual Review of Sociology, 36, 349–370.
+Ross, C. E., & Wu, C. (1996). Education, age, and the cumulative advantage in health.
+Journal of Health and Social Behavior, 37, 104–120.
+Shaked, D., Williams, M., Evans, M. K., & Zonderman, A. B. (2016). Indicators of subjective social status: Diﬀerential associations across race and sex. SSM Population
+Health, 29(2), 700–707.
+
+No Conﬂict of interest.
+Funding
+The authors declare that they have no ﬁnancial support for this
+study.
+Authors' contributions
+D.G. designed, drafted, and revised the text. D.G. also supervised the
+data analysis. R.W. drafted the literature review, revised the draft, and
+provided some interpretations for the results. Q.F and M.E.D. revise the
+draft, revised the paper, and interpreted the results. A.G., H.L., Y. Z.
+interpreted and revised manuscript. L.Q. prepared the data and performed the analyses. All authors read and approved the ﬁnal version of
+the manuscript.
+Disclaimer
+Views expressed in this paper are solely those of the authors and do
+not necessarily reﬂect the views of Nanjing Normal University, National
+University of Singapore, Duke University, or the United Nations.
+References
+Altice, C. K., Banegas, M. P., Tucker-Seeley, R. D., & Yabroﬀ, K. R. (2017). Financial
+hardships experienced by cancer survivors: A systematic review. Journal of the
+National Cancer Institute, 109(2), 1–17.
+Angel, R. J., Frisco, M., Angel, J. L., & Chiriboga, D. A. (2003). Financial strain and health
+among elderly Mexican-origin individuals. Journal of Health and Social Behavior, 44,
+536–551.
+Arber, S., Fenn, K., & Meadows, R. (2014). Subjective ﬁnancial well-being, income and
+health inequalities in mid and later life in Britain. Social Science & Medicine, 100,
+12–20.
+Balabanova, D. C., & McKee, M. (2002). Self-reported health in Bulgaria: Levels and
+determinants. Scandinavian Journal of Public Health, 30, 306–312.
+Balia, S., & Jones, A. M. (2008). Mortality, lifestyle and socio-economic status. Journal of
+Health Economics, 27(1), 1–26.
+Bartley, M. (2004). Health inequality: An introduction to theories, concepts and methods.
+Cambridge: Polity.
+Boardman, J. D., & Robert, S. A. (2000). Neighborhood socioeconomic status and perceptions of self-eﬃcacy. Sociological Perspectives, 43(1), 117–136.
+Chan, A., Ofstedal, M. B., & Hermalin, A. I. (2002). Changes in subjective and objective
+measures of economic well-being and their interrelationship among older adults in
+Singapore and Taiwan. Social Indicators Research, 57(3), 263–300.
+Chatterjee, S., & Hadi, A. S. (2012). Regression analysis by example (5th ed.). New York:
+Barnes & Noble.
+Chen, H., et al. (2018). Data quality assessment of the 6th and 7th waves CLHLS. In Y.
+Zeng (Ed.). Healthy aging in China: Trends and determinantsBeijing: Science Press [in
+Chinese].
+Cheng, Y. H., Chi, I., Boey, K. W., Ko, L. S. F., & Chou, K. L. (2002). Self-rated economic
+condition and the health of elderly persons in Hong Kong. Social Science & Medicine,
+55, 1415–1424.
+Chou, K.-L., & Chi, I. (2002). Financial strain and life satisfaction in Hong Kong elderly
+Chinese: Moderating eﬀect of life management strategies including selection, optimization, and compensation. Aging & Mental Health, 6(2), 172–177.
+Dannefer, D. (2003). Cumulative advantage/disadvantage and the life course: Cross-fertilizing age and social science theory. Journal of Gerontology: Social Sciences, 58B(6),
+S327–S337.
+Demakakos, P., Nazroo, J., Breeze, E., & Marmot, M. (2008). Socioeconomic status and
+health: The role of subjective social status. Social Science & Medicine, 67, 330–340.
+Ding, Z. (2013). Changes of income sources in China older people: 2005-2010. Population
+Journal, 35(1), 69–77 [in Chinese].
+Dong, Z., & Phillips, M. R. (2008). Evolution of China’s health-care system. The Lancet,
+372(9651), 1715–1716.
+Dupre, M. E. (2007). Educational diﬀerences in age-related patterns of disease:
+Reconsidering the cumulative disadvantage and age-as-leveler hypotheses. Journal of
+Health and Social Behavior, 48(1), 1–15.
+Dupre, M. E., Liu, G., & Gu, D. (2008). Predictors of longevity: Evidence from the oldest
+old in China. American Journal of Public Health, 98(7), 1203–1208.
+Feng, Z. (2018). Childlessness and vulnerability of older people in China. Age and Ageing,
+47, 275–281.
+Gallo, L. C., & Matthews, K. A. (2003). Understanding the association between socioeconomic status and physical health: Do negative emotions play a role? Psychological
+Bulletin, 129(1), 10–51.
+
+190
+
+Archives of Gerontology and Geriatrics 81 (2019) 182–191
+
+R. Wang et al.
+
+Methods & Research, 23, 230–257.
+Xiang, Y., Hao, L., Qiu, L., Zhao, Y., & Gu, D. (2018). Greater ﬁnancial resources are
+associated with lower self-perceived uselessness among older adults in China: The
+urban and rural diﬀerence. Archives of Gerontology and Geriatrics, 75, 171–180.
+Zeng, Y., Liu, Y., & George, L. (2003). Gender diﬀerentials of the oldest old in China.
+Research on Aging, 25, 65–80.
+Zeng, Y., Poston, D. L., Jr., Vlosky, D. A., & Gu, D. (2008). Healthy longevity in China:
+Demographic, socioeconomic, and psychological dimensions. Dordrecht: Springer
+Publishing.
+Zhang, X., Dupre, M. E., Qiu, L., Zhou, W., Zhao, Y., & Gu, D. (2017). Urban-rural differences in the association between access to healthcare and health outcomes among
+older adults in China. BMC Geriatrics, 17(151), 1–11.
+Zhao, Y., Dupre, M. E., Qiu, L., & Gu, D. (2017). Changes in perceived uselessness and
+risks for mortality: Evidence from a National sample of older adults in China. BMC
+Public Health, 17(1), 561–569.
+Zhao, Y., Sautter, J. M., Qiu, L., & Gu, D. (2017). Self-perceived uselessness and associated
+factors among older adults in China. BMC Geriatrics, 17(1), 12–30.
+Zhu, H. (2016). Adult children’s characteristics and intergenerational ﬁnancial transfers
+in urban China. Chinese Journal of Sociology, 2(1), 75–94.
+Zhu, H., & Xie, Y. (2007). Socioeconomic diﬀerentials in mortality among the oldest old in
+China. Research on Aging, 29(2), 125–143.
+Zimmer, Z., & Kwong, J. (2003). Family size and support of older adults in urban and
+rural China: Current eﬀects and future implications. Demography, 40(1), 23–44.
+Zimmerman, F., & Katon, W. (2005). Socioeconomic status, depression disparities, and
+ﬁnancial strain: What lies behind the income-depression relationship? Health
+Economics, 14(12), 1197–1215.
+
+Silverstein, M., Cong, Z., & Li, S. (2006). Intergenerational transfers and living arrangements of older people in rural China: Consequences for psychological well-being.
+Journals of Gerontology, 61(5), S256–266.
+Singh-Manous, A., Marmot, M. G., & Adler, N. E. (2005). Does subjective social status
+predict health and change in health status better than objective status? Psychosomatic
+Medicine, 67(6), 855–861.
+Sun, F., Hilgeman, M. M., Durkin, D. W., Allen, R. S., & Burgio, L. D. (2009). Perceived
+income Inadequacy as a predictor of psychological distress in Alzheimer’s caregivers.
+Psychology and Aging, 24(1), 1–13.
+Szanton, S. L., Allen, J. K., Thorpe, R. J., Jr., Seeman, T., Bandeen-Roche, K., & Fried, L. P.
+(2008). Eﬀect of ﬁnancial strain on mortality in community-dwelling older women.
+Journal of Gerontology B: Psychological Sciences, 63(6), 369–374.
+Tang, T. L. P., Luna-Arocas, R., Sutarso, T., & Tang, D. S. H. (2004). Does the love of
+money moderate and mediate the income-pay satisfaction relationship? Journal of
+Managerial Psychology, 19(2), 111–135.
+United Nations (2017). World population prospects: The 2017 revision. New York: The
+United Nations.
+von Humboldt, S. (2016). Conceptual and methodological issues on the adjustment to aging:
+Perspectives on aging well. Lisbon: Springer Publisher.
+Wen, M., & Gu, D. (2011). The eﬀects of childhood, adult, and community socioeconomic
+conditions on health and mortality among older adults in China. Demography, 48(1),
+153–181.
+Whelan, C. T., & Maitre, B. (2013). Material deprivation, economic stress, and reference
+groups in Europe: An analysis of EU-SILC 2009. European Sociological Review, 29(6),
+1162–1174.
+Wilkinson, R., & Pickett, K. (2010). The spirit level. London: Penguin.
+Winship, C., & Radbill, L. (1994). Sampling weights and regression analysis. Sociological
+
+191
+
+

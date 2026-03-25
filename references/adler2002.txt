@@ -1,0 +1,1065 @@
+At the Intersection of Health, Health Care and Policy
+Cite this article as:
+Nancy E. Adler and Katherine Newman
+Socioeconomic Disparities In Health: Pathways And Policies
+Health Affairs, 21, no.2 (2002):60-76
+doi: 10.1377/hlthaff.21.2.60
+
+The online version of this article, along with updated information and services,
+is available at:
+http://content.healthaffairs.org/content/21/2/60.full.html
+
+For Reprints, Links & Permissions:
+http://healthaffairs.org/1340_reprints.php
+E-mail Alerts : http://content.healthaffairs.org/subscriptions/etoc.dtl
+To Subscribe: http://content.healthaffairs.org/subscriptions/online.shtml
+
+Health Affairs is published monthly by Project HOPE at 7500 Old Georgetown Road, Suite
+600, Bethesda, MD 20814-6133. Copyright © 2002 by Project HOPE - The
+People-to-People Health Foundation. As provided by United States copyright law (Title 17,
+U.S. Code), no part of Health Affairs may be reproduced, displayed, or transmitted in any
+form or by any means, electronic or mechanical, including photocopying or by information
+storage or retrieval systems, without prior written permission from the Publisher. All rights
+reserved.
+
+Not for commercial use or unauthorized distribution
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+SES & Health
+
+Socioeconomic
+Disparities In Health:
+Pathways And Policies
+Inequality in education, income, and occupation exacerbates the
+gaps between the health “haves” and “have-nots.”
+by Nancy E. Adler and Katherine Newman
+ABSTRACT: Socioeconomic status (SES) underlies three major determinants of
+health: health care, environmental exposure, and health behavior. In addition,
+chronic stress associated with lower SES may also increase morbidity and
+mortality. Reducing SES disparities in health will require policy initiatives addressing the components of socioeconomic status (income, education, and
+occupation) as well as the pathways by which these affect health. Lessons for
+U.S. policy approaches are taken from the Acheson Commission in England,
+which was charged with reducing health disparities in that country.
+60
+
+SOCIOECONOMIC
+DISPARITIES
+
+ocioeconomic st at us, whether assessed by income, education, or occupation, is linked to a wide range of health problems, including low birthweight, cardiovascular disease,
+hypertension, arthritis, diabetes, and cancer.1 Lower socioeconomic
+status is associated with higher mortality, and the greatest disparities occur in middle adulthood (ages 45–65).2
+J. Michael McGinnis and William Foege have provided an incisive analysis of the “actual causes” of death in which they estimated
+the number of U.S. deaths caused by factors such as tobacco, diet
+and lack of activity, and toxic agents.3 They noted the mismatch
+between the importance of these factors and allocation of health
+care resources, with most resources going to treat diseases and relatively few to modifying the predisposing factors. To modify these
+risk factors, one needs to look even further upstream to consider
+their “actual determinants.” Socioeconomic status is a key underlying factor. In this paper we examine multiple pathways through
+which it can influence health, and we consider the implications of
+
+S
+
+Nancy Adler is professor of psychology in the Departments of Psychiatry and Pediatrics at
+the University of California, San Francisco (UCSF). She is also director of the UCSF Center
+for Health and Community. Katherine Newman is the Malcolm Wiener Professor of Urban
+Studies at Harvard University’s Kennedy School of Government and dean of social sciences
+at Harvard’s Radcliffe Institute for Advanced Study.
+H E A L T H
+
+A F F A I R S
+
+~
+
+V o l u m e
+
+2 1 ,
+
+N u m b e r
+
+2
+
+©2002 Project HOPE–The People-to-People Health Foundation, Inc.
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+S O C I O E C O N O M I C
+
+D I S P A R I T I E S
+
+these pathways for policy.
+While socioeconomic status is clearly linked to morbidity and
+mortality, the mechanisms responsible for the association are not
+well understood. Identifying these mechanisms provides more options for policy remedies. Given the pervasive effects of socioeconomic status, no single policy, or even one domain of policy, can
+eliminate health disparities. The Acheson Commission in the
+United Kingdom, which was charged with providing policy suggestions for reducing health disparities in that country, made thirtynine recommendations, organized around key populations (such as
+children, older people, and ethnic minorities) and domains (such as
+income and tax benefits, education, and employment).4 If a U.S.
+equivalent of the Acheson Commission were convened, what policies should it consider on the basis of the empirical data? Below we
+consider policies addressing several areas for which the empirical
+evidence is strongest regarding the links between socioeconomic
+status and health.
+
+Components Of Socioeconomic Status
+The most fundamental causes of health disparities are socioeconomic disparities.5 Socioeconomic status has traditionally been defined by education, income, and occupation. Each component provides different resources, displays different relationships to various
+health outcomes, and would be addressed by different policies.
+■ Education. Education is perhaps the most basic SES component since it shapes future occupational opportunities and earning
+potential. It also provides knowledge and life skills that allow
+better-educated persons to gain more ready access to information
+and resources to promote health.6 Marilyn Winkleby and colleagues
+examined how education, income, and occupation relate to risk
+factors for cardiovascular disease; when these were taken together,
+only education remained as a significant predictor.7
+While most studies have examined years of completed education,
+early educational experiences also may be important. Although
+health effects have not been established, programs such as Head
+Start and the Perry Preschool Project provide suggestive evidence
+that there are critical periods when intervention may confer longterm benefits.8
+To the extent that education is key to health inequality, policies
+encouraging more years of schooling and supporting early childhood
+education may have health benefits. When policymakers debate the
+merits of increasing access to education, they rarely consider improvements in the health of the population. Other virtues—increasing human capital, boosting productivity, augmenting lifetime earnH E A L T H
+
+A F F A I R S
+
+~
+
+M a r c h / A p r i l
+
+SES & HEALTH
+
+2 0 0 2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+61
+
+SES & Health
+
+62
+
+SOCIOECONOMIC
+DISPARITIES
+
+H E A L T H
+
+ings, and improving the socialization of the next generation—follow from improvements in educational attainment. But in this area,
+as in others, collateral benefits such as decreasing health care costs
+also might emerge from increased investment in education.
+■ Income. In addition to providing means for purchasing health
+care, higher incomes can provide better nutrition, housing, schooling, and recreation. Independent of actual income levels, the distribution of income within countries and states has been linked to
+rates of mortality.9 Although controversial, one explanation is that
+underinvestment in public goods and welfare and the experience of
+inequality are both greater in more stratified societies and that
+these, in turn, affect health.10 If this is correct, then highly stratified
+societies take an additional toll on health beyond that associated
+with absolute deprivation. Although the association between income and health is stronger at lower incomes, income effects persist
+above the poverty level.11 Health effects at the upper part of the
+distribution may more strongly reflect relative status, while at the
+lower part they may be more linked to absolute deprivation.
+Redistributive policies. U.S. economic policies are a mix of those that
+address poverty or diminish economic disparities and those that
+result in increased disparity. At different points in its history, the
+United States has created policy tools that explicitly reduced economic inequality. The prime example is the introduction of the progressive income tax in 1913. Social Security and the welfare policies
+developed in the 1930s also influenced the contours of inequality,
+although other forces acting simultaneously (for instance, the expansion of the white-collar labor force) created countertendencies.
+Policies that might be said to have moved the country in the opposite direction—toward wealth inequalities—include the mortgage
+deduction allowance built into the tax code, decreases in capital
+gains taxes, and local financing of education budgets (which produce more advantaged districts where wealthier families reside).
+Tax-and-transfer policies may exert less influence than labormarket trends that have increasingly rewarded highly skilled and
+educated workers, but they are important to consider nonetheless
+as we look to understand the overall relationship between stratification and health inequality.12
+Although health effects of relative SES occur across the whole
+range of the SES hierarchy, the burden is particularly great for those
+in poverty. Given this fact, policies intended to increase the income
+(and income security) of the poor should have the greatest positive
+impact on health outcomes. The Earned Income Tax Credit (EITC)
+is a contemporary example of a federal policy that has raised the
+income of working-poor families, while welfare reform in general
+A F F A I R S
+
+~
+
+V o l u m e
+
+2 1 ,
+
+N u m b e r
+
+2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+S O C I O E C O N O M I C
+
+D I S P A R I T I E S
+
+has pushed in the opposite direction, cutting the stipend levels for
+recipients.13 These interventions have affected the distribution of
+resources and therefore the contours of inequality, which at least in
+theory should leave their traces in health outcomes.
+A randomized trial in Canada of income supplements for single
+parents on assistance who began working full time shows how
+complex the effects can be. These supplements did help to increase
+employment and income in the experimental group. To date no
+health data have been reported on the adults, but children in the
+experimental group who were three to eight years old at baseline
+were subsequently reported to have fewer health problems and better cognitive functioning. However, there were no effects for
+younger children and some negative effects on school achievement
+and problem behavior for older children.14
+Research challenges. We found little research in the United States
+examining how redistributive policies or other income distribution
+changes affect health outcomes. Those interested in the relationship
+between inequality and health should be able to show that when the
+former changes, the latter does too. One challenge in doing so is
+specifying the time lags between change in economic conditions and
+when health effects can be seen. The rapid drop in life expectancy in
+Eastern Europe around the time of the fall of communism suggests
+that fundamental changes in social life may take a toll quite quickly;
+the subtler changes associated with growing inequality may take
+longer to observe.15 A second challenge is to isolate the impact of
+redistributive policies and separate their effects from other social
+and economic trends occurring at the same time.
+Economic historians interested in health may help us to understand the relationship of inequality and health. For now, we merely
+note that there is some suggestive evidence. For example, the introduction of Social Security dramatically reduced the proportion of
+elderly who lived in poverty. One legacy of this policy may be the
+fact that SES differences in health now narrow after age sixty-five.
+More research is needed to determine whether interventions in income distribution of this kind produce the sorts of outcomes that
+the theoretical literature on inequality and health would predict.
+Welfare benefits. Addressing the link between income inequality
+and health, the Acheson Commission focused attention on tax-andtransfer benefits. In particular, they suggested increases in transfer
+payments, upgrading of state pensions, and measures to increase the
+take-up rates of existing benefits. The U.S. political climate is far
+more hostile to welfare benefits than are those in the social welfare
+states of Western Europe. Reductions in U.S. welfare stipends have
+been particularly severe since 1996, and the household incomes of
+H E A L T H
+
+A F F A I R S
+
+~
+
+M a r c h / A p r i l
+
+SES & HEALTH
+
+2 0 0 2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+63
+
+SES & Health
+
+“Policies that affect the health of the labor market are perhaps the
+most important medicine we can apply.”
+
+64
+
+SOCIOECONOMIC
+DISPARITIES
+
+H E A L T H
+
+nonworking poor families have declined as a result.
+Labor-market policies. Policies that affect the health of the labor
+market are perhaps the most important medicine we can apply,
+although its ingestion may raise inequality levels at the same time
+that we benefit from the “great American job machine.” In recent
+years the U.S. economy has outstripped virtually all other industrial
+states in generating jobs, albeit at the extremes of well-paid jobs
+available only to the highly skilled and poorly compensated jobs for
+the low skilled. Labor-market inequality may be widening the gaps
+between the health “haves” and “have-nots.” Yet tight labor markets
+have been beneficial for the working poor in particular.16 Late 1990s’
+Federal Reserve policies that lowered interest rates and encouraged
+economic expansion cut unemployment and led to wage increases
+(even at the bottom of the distribution). The additional impact of
+the EITC has raised the income of working-poor households.
+The point here is that many policy domains affect the distribution
+of income, some redistributive and some oriented toward economic
+expansion in which a rising tide lifts more boats than many once
+thought possible. Following Acheson, we suggest that reform proposals of all kinds be examined with more than economic efficiency
+or security in mind. Impact on the nation’s health profile must be
+considered to be at the bottom line as well.
+■ Occupation. Occupational status is a more complex variable,
+and its measurement varies depending on one’s theoretical perspective about the significance of various aspects of work life. One aspect is simply whether or not one is employed, since the employed
+have better health than the unemployed have.17 Although some of
+this association is a function of the “healthy worker” effect, there is
+evidence that being unemployed and the length of unemployment
+affect health status. However, some types of benefits for the unemployed can buffer the adverse effects on health. Entitlement benefits
+appear to reduce some negative health effects, while means-tested
+benefits do not.18 Threat of unemployment and job insecurity can
+affect health as well. Ralph Catalano and Seth Serxner found elevated rates of low birthweight in geographic locales threatened with
+high rates of unemployment.19 Anticipation of plant closings or other
+job threats have been linked to increases in blood pressure, although
+these increases may not become chronic.20
+Among the employed, occupations differ in their prestige, qualifiA F F A I R S
+
+~
+
+V o l u m e
+
+2 1 ,
+
+N u m b e r
+
+2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+S O C I O E C O N O M I C
+
+D I S P A R I T I E S
+
+cations, rewards, and job characteristics, and each of these indicators of occupational status is linked to mortality risk.21 Lower-status
+jobs expose workers to both physical and psychosocial risks. They
+carry a higher risk of occupational injury and exposure to toxic
+substances. In addition, job strain and lack of control over work are
+greater the lower one’s occupational status. In the Whitehall study
+of British civil servants, differences of coronary heart disease incidence by occupational grade were largely accounted for by differences in job control.22
+Government regulation of occupational conditions is also a domain fraught with political conflict. As a rule, we intervene to protect basic physical health and safety but tend not to go further by,
+for example, mandating work reorganizations that promote autonomy, control, and other psychosocial factors that could affect health.
+Recognizing the link between job control and health, the Acheson
+Commission did push in that direction, recommending that wherever possible, private and public employers alter management practices to increase employees’ levels of control over the daily conduct
+of work (pacing, decision making, variety). In the U.S. context,
+researchers need to show that such changes in work conditions will
+either increase—or at least not decrease—profits; improved profits
+could result from increased productivity, reduced absenteeism, or
+reductions in medical costs.
+
+SES & HEALTH
+
+Indirect Pathways
+Marcia Angell has observed that income, education, and occupation
+are powerful yet mysterious determinants of health; they are not
+likely to have a direct effect but serve as proxies for other determinants.23 Hence, what appears to be a direct impact of SES inequality
+may instead be operating through differential exposure to conditions that have more immediate effects on health.
+Pathways by which socioeconomic status influences health
+should be those that affect health more generally, including those
+identified by McGinnis and Foege.24 They used data from a broader
+analysis of the relative impact of four inputs to health: biological
+determinants, health care, environmental exposure, and behavior
+and lifestyle. These factors were identified earlier in the Lalonde
+report as the key causes of morbidity and mortality in Canada.25
+Socioeconomic status underlies three determinants, which together
+are associated with an estimated 80 percent of premature mortality.
+The largest contribution is from behavior and lifestyle, accounting
+for about half of premature mortality, with environmental exposure
+accounting for another 20 percent, and health care, 10 percent.26
+Below we consider how SES may shape each of these pathways.
+H E A L T H
+
+A F F A I R S
+
+~
+
+M a r c h / A p r i l
+
+2 0 0 2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+65
+
+SES & Health
+
+66
+
+SOCIOECONOMIC
+DISPARITIES
+
+H E A L T H
+
+■ SES and environmental exposures. Exposure to damaging
+agents in the environment, including lead, asbestos, carbon dioxide,
+and industrial waste, varies with socioeconomic status. Those lower
+on the SES hierarchy are more likely to live and work in worse
+physical environments. Poorer neighborhoods are disproportionately located near highways, industrial areas, and toxic waste sites,
+since land there is cheaper and resistance to polluting industries,
+less visible. Housing quality is also poorer for low-SES families. As a
+result, compared with high-income families, both children and
+adults from poor families show a sixfold increase in rates of high
+blood lead levels, while middle-income adults and children show a
+twofold increase.27
+Low-SES persons also experience greater residential crowding
+and noise. Crowding within the home appears to be more problematic for health than is area density.28 Noise exposure has been linked
+to poorer long-term memory and reading deficits and to higher levels of overnight urinary catecholomines (epinephrine and norepinephrine) among children and to hypertension among adults.29
+Childhood asthma incidence is rising, especially in urban neighborhoods among low-SES children, and the severity is greater
+among these children.30 Although the jury is out on why, candidate
+explanations include crowding, a decline in housekeeping as a result
+of increased adult work hours, and deteriorating housing stock.31
+Concerns about the health impact of environmental pollution has
+resulted in increasing regulation. The first class-action suit using
+civil rights statutes challenged a sanitary landfill proposed near a
+middle-class African American suburb in 1979. Protests and lawsuits since then have raised the visibility of environmental racism.32
+The broader concept of environmental justice is part of government
+policy dating from 1994, when Executive Order 12898 ordered federal agencies to develop relevant policies. The Environmental Protection Agency (EPA) now defines environmental justice as the “fair
+treatment for people of all races, cultures, and incomes, regarding
+the development of environmental laws, regulation, and policies.”33
+Despite these actions, however, poor minorities are still at far
+greater risk for environmental exposure than are whites in general,
+or middle-class adults and children of any race and ethnicity.
+There are many types of environmental exposures, and each has a
+different policy solution. Advocates have recommended, for example, that environmental impact reports consider SES disparities in
+exposure. In another realm, in Massachusetts it is illegal to sell a
+house with high lead levels to a family with a child under age six;
+enforcement is built into the property transfer system. States vary in
+how much they regulate lead exposure and in the resources they put
+A F F A I R S
+
+~
+
+V o l u m e
+
+2 1 ,
+
+N u m b e r
+
+2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+S O C I O E C O N O M I C
+
+D I S P A R I T I E S
+
+“SES-related health effects of social environments may be even
+more important than those of physical environments.”
+toward enforcement of the statutes, which results in substantial
+differences in exposure. In a state with lax enforcement, children
+living at an address where a previous instance of lead poisoning had
+been reported were more than four times more likely to have high
+blood levels than in a nearby state where statutes were strictly
+enforced.34 This suggests that we need to focus not only on laws but
+on their enforcement.
+■ SES and social environment. SES-related health effects of
+social environments may be even more important than those of
+physical environments. Isolation and lack of engagement in social
+networks are strong predictors of health. The socially isolated have
+relative risks of mortality ranging between 1.9 to almost 5 times
+greater than those with better social connections.35 Patterns of social interaction also affect disease risk. For sexually transmitted
+diseases, transmission is more rapid in high-risk networks, which
+are often clustered in poorer areas, thus putting lower-SES persons
+at greater risk for exposure.
+Social networks and social cohesion are affected by the broader
+environment. Unfortunately, urban planning came late to the recognition that zoning policy has a social impact. In many cities urban
+renewal dismantled long-standing social structures and organization, paving the way for a range of social and health problems.36
+Similarly, the social environments of high-rise housing projects impede community social organization and parental supervision.37
+Communities differ in the extent to which their institutions foster positive social ties.38 Those with greater social cohesion and
+social capital have lower rates of homicide as well as lower overall
+population mortality.39 The literature on social capital has not yet
+explained why neighborhoods with similar demographics differ on
+social cohesion and trust, or established whether social capital is
+stable.40 But the associational evidence between social trust and
+health outcomes is striking and suggests that these are complementary frontiers worthy of exploration for addressing health issues
+along with raising income or educational attainment.
+Both architectural features of communities (plazas, stoops, recreation centers) and institutions (clubs, parent-teacher groups,
+churches, crime control) may promote social integration that in turn
+improves health. Policymakers accustomed to thinking about these
+investments in community infrastructure as costs may also want to
+consider them as benefits if they lower morbidity and mortality.
+H E A L T H
+
+A F F A I R S
+
+~
+
+M a r c h / A p r i l
+
+SES & HEALTH
+
+2 0 0 2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+67
+
+SES & Health
+
+68
+
+SOCIOECONOMIC
+DISPARITIES
+
+H E A L T H
+
+■ SES and health care. Access to, use of, and quality of health
+care vary by socioeconomic status. Among adults, 40 percent of
+those who have not graduated from high school are uninsured, compared with only 10 percent of college graduates; more than 60 percent of the uninsured are in low-income families.41 Persons who lack
+insurance receive less medical care, including screening and treatment, than those who are covered and may receive poorer-quality
+care.42 Although the very poor may be eligible for Medicaid and
+persons over age sixty-five for Medicare, many “eligibles” fail to
+enroll.43 Even in countries that provide universal coverage, persons
+with less income and education do not use health services in the
+same way that their wealthier, better-educated peers do. A Canadian study found that lower-SES Canadians used primary care more
+frequently but, when adjusted for health care need, were less likely
+to get specialty care.44 In the United States, states with greater
+income inequality and higher mortality also have fewer primary care
+doctors per capita.45 This suggests that access to primary care may
+be one pathway by which income inequality affects mortality.
+Affordability and accessibility of health care have received a great
+deal of policy attention. We do not propose to review those efforts
+here but note simply that they are crucial. At the same time, although access to care is important for treatment of disease, it has
+relatively little to do with SES differentials in disease incidence.
+Even in countries with universal health care, SES-driven inequalities in health are pronounced. A recent study from Canada showed
+higher mortality among men with less income, less education, and
+lower occupational status for a variety of causes of death, all of
+which were amenable to medical treatment.46 In England SES disparities in health actually widened after the establishment of the
+National Health Service.47 The provision of universal coverage was
+insufficient to offset broader economic and social changes. Hence,
+while major inroads could be made in reducing health inequality by
+providing universal coverage, this policy strategy will not come
+close to eliminating health inequalities, because the underlying incidence of disease, toxic exposure, and injury is the dominant force.48
+■ SES and behavior/lifestyle. Behavioral factors account for
+about half of premature mortality, and almost all vary by socioeconomic status.49 The greatest behavioral risk for premature mortality
+is tobacco use. Those with less education and less income are more
+likely to smoke.50 Smoking prevalence reflects likelihood of initiating smoking as well as of quitting, and different polices are relevant
+for those stages of smoking. Winkleby and colleagues found that
+neither education nor income was associated with smoking onset.51
+However, the more educated were more likely to try to quit, and
+A F F A I R S
+
+~
+
+V o l u m e
+
+2 1 ,
+
+N u m b e r
+
+2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+S O C I O E C O N O M I C
+
+D I S P A R I T I E S
+
+“Health promotion efforts that are not targeted at the poor are
+likely to increase SES disparities.”
+among those who tried to quit, those with higher incomes were
+more likely to succeed. This suggests that efforts to encourage quitting need to be geared more strongly to those with less education
+and that the means of quitting need to be made more accessible to
+the poor. Higher taxes on cigarettes, resulting in higher prices, can
+reduce consumption.52 However, this increases the economic burden on low-income smokers, who are more likely to lack resources
+to get help in quitting. If taxation policies are used, these need to be
+coupled with more positive approaches to aid in smoking cessation.
+Low socioeconomic status is similarly associated with more sedentary lifestyle and lower consumption of fiber and fresh fruits and
+vegetables.53 Patterns of alcohol use by socioeconomic status are
+more complex, as are the health risks related to alcohol. Moderate
+alcohol consumption is associated with lower mortality, while high
+levels of consumption increase mortality risk. Moderate drinking
+does not show an SES gradient, while heavy drinking is more common at lower SES levels.54
+More research is needed to parse the independent contributions
+that education, income, and occupation make to these behavioral
+patterns. Limited education may mean less exposure to information
+about risk, but the same people may be locked into neighborhoods
+with poor recreational facilities, fewer stores selling fresh produce,
+and more advertising for tobacco and alcohol. Without settling
+these issues in any definitive fashion, the Acheson Commission recommended policy initiatives that encouraged walking, bicycling,
+nutritional information campaigns, and a heavy emphasis on smoking cessation and prevention. However, if such policies are to be
+effective in reducing disparities, they need to be tailored to the life
+circumstances of persons lower on the SES hierarchy.
+Health promotion efforts that are not targeted at the poor are
+likely to increase SES disparities, because they are used more readily
+by those with more resources to act on the information. Rates of
+smoking fell far more quickly among the more educated following
+the U.S. surgeon general’s report on smoking, resulting in the current SES gradient in smoking. Even for those with health insurance,
+smoking-cessation treatment may not be covered.55 Anti-smoking
+media campaigns, such as the one in California, have been relatively
+successful, but these need to be geared to high-risk groups, just as
+tobacco companies target these groups for advertising.56 In terms of
+H E A L T H
+
+A F F A I R S
+
+~
+
+M a r c h / A p r i l
+
+SES & HEALTH
+
+2 0 0 2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+69
+
+SES & Health
+
+70
+
+SOCIOECONOMIC
+DISPARITIES
+
+exercise, the Acheson Commission’s recommendation to increase
+walking and cycling needs to be translated into more specific policies that would be effective in lower-SES neighborhoods, such as
+special provision of bike lanes and safe, well-lit places to walk; these
+are more available in more affluent areas, and a general policy will
+not address the imbalance.
+Among children, school design and resources affect physical activity. Characteristics of school environments such as the area provided for physical activity, available equipment, improvements, and
+supervision have a substantial impact on children’s activity levels.57
+More-affluent schools are more likely to provide these, and their
+availability would be addressed by local school policy.
+■ Chronic stress. The effects of stress were not included in the
+Centers for Disease Control and Prevention (CDC) analyses, and the
+impact is hard to quantify. However, stress can affect health both
+directly and indirectly through its effects on health behavior. While
+people in all walks of life experience stress, lower-SES persons live
+and work in more stressful environments. Eric Brunner identified a
+number of factors that contribute to greater stress at lower SES
+levels, including economic strain, insecure employment, low control
+at work, and stressful life events.58 Some of the factors reviewed
+earlier, including crowding and noise exposure, low control at
+work, and social isolation, may affect health in part through elevated
+stress responses.
+A number of interventions developed to help people manage
+stress and buffer its physiological effects have been shown to reduce
+disease burden. In controlled trials, such programs have been shown
+to reduce hypertension, increase glycemic control among diabetic
+patients, reduce decreases in height among the elderly, increase levels of dehydroepiandrosterone (DHEA) and growth hormone, and
+decrease cortisol levels.59 Nevertheless, these programs have not
+been widely incorporated into health care, nor are they covered by
+most insurance plans. As a result, more-affluent persons can better
+enjoy their benefits, furthering the SES disparities. Within the
+health policy domain, then, some attention should be given to coverage and incentives to use behavioral treatments and stressreduction interventions, particularly tailored for those lower on the
+SES hierarchy.
+
+Policy And Priorities
+Eliminating health disparities will require attention to all SES components and the pathways by which they influence health.60 Some
+are already the focus of debate and action. The United States has
+given much attention to health care and the problems of the uninH E A L T H
+
+A F F A I R S
+
+~
+
+V o l u m e
+
+2 1 ,
+
+N u m b e r
+
+2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+S O C I O E C O N O M I C
+
+D I S P A R I T I E S
+
+sured but has made discouragingly little progress. Echoing the
+Acheson Commission’s focus on early life, an initial step would be
+universal coverage for children. Most states provide coverage for
+lower-income children under Medicaid and the State Children’s
+Health Insurance Program (SCHIP), but we lack a national policy
+that ensures coverage for all children. Attention still would need to be
+paid to problems of access and treatment for those who are insured.
+Even if we provided universal coverage, however, patterns of disease and injury that follow the SES gradient would largely remain.
+Much of the association is due to SES effects in the occurrence of
+disease, and policies to reduce SES effects need to emphasize all of
+the domains discussed earlier.
+■ Challenges in each domain. Redressing fundamental economic and social inequality is no simple matter. Redistribution of
+resources, through the tax code and public investment, is always
+contentious. Interference in the private sector involved in regulating
+occupational conditions is likewise likely to be resisted by employers. Policies that foster educational opportunity may be less politically divisive, but such efforts still have faced stiff opposition. The
+Acheson Commission gave priority to policies that would improve
+the health of women of child-bearing age and children to minimize
+the impact of inequality early in life. Policies that support early
+childhood programs have been supported largely on the basis of
+social outcomes such as school achievement and lower delinquency
+rates; demonstrating the health benefits of such programs (and their
+associated cost savings) may add a rationale for their support.
+■ Need for cost-benefit analysis. Indeed, we would argue (following Alvin Tarlov) that a whole new approach is needed in policy
+circles that would reconsider the benefit side of cost-benefit analysis.61 Traditionally, these calibrations emphasize economic efficiency
+or possibly social justice. What they often leave out—when the
+subject is not explicitly health—is the health-promoting, and potentially cost-saving, prospects of policies that improve education
+or equalize resources. A recent analysis of the potential health benefits of a “living wage” ordinance is one such example.62 Failing to
+capture health improvements that may follow from reduction of
+inequality may mean that policies look more expensive to implement than they are if one takes health spending into account.
+■ Behavioral justice. Although problems remain, disparities
+have been clearly addressed in relation to environmental exposure
+with the environmental justice movement, and in relation to health
+care with debates regarding the uninsured. Focusing on health behavior is potentially problematic, as it can risk “blaming the victim”
+if this behavior is viewed simply as a lifestyle choice. Behavior such
+H E A L T H
+
+A F F A I R S
+
+~
+
+M a r c h / A p r i l
+
+SES & HEALTH
+
+2 0 0 2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+71
+
+SES & Health
+
+as cigarette use, high-fat diets, and lack of exercise is shaped and
+constrained by social and physical environments linked to socioeconomic status.63 Awareness of these constraints may encourage
+policies that engender “behavioral justice,” promoting universal access to the resources needed to engage in health-promoting behavior.64 This will require policies and resources that, among other
+things, counteract the marketing that encourages cigarette, alcohol,
+and junk-food consumption and sedentary activities.
+■ Strong analyses needed. To the extent that each solution
+requires resources, a strong case needs to be made regarding the
+extent of the problem and the efficacy of the proposed policy remedies. Scientists need to show the causal pathways, demonstrate how
+much alteration in underlying inequalities is needed to affect health
+outcomes, and evaluate the economic and social benefits. As
+Michael Marmot points out, policies or interventions that target
+“upstream” effects (for example, income distribution) would have
+the broadest impact but would be the most difficult to evaluate. 65
+
+72
+
+SOCIOECONOMIC
+DISPARITIES
+
+he acheson c ommission was criticized by some for making too many recommendations without setting priorities.66
+However, there are many approaches to reaching the goals
+that they set. The analyses we have presented here suggest that
+multiple approaches are indeed needed to eliminate SES disparities
+in health. Since the relevant sectors operate somewhat independently, there may be less direct competition for priorities than
+occurs within domains, and it makes sense to push on as many
+fronts as possible. What is needed is a broad-gauged approach to
+the multiple determinants of SES disparities in health if we are to
+eliminate, or even greatly reduce, these disparities.
+
+T
+
+Preparation of this paper was supported in part by the John D. and Catherine T.
+MacArthur Foundation Research Network on Socioeconomic Status and Health.
+An earlier version of this paper was presented 4 October 2001 at the conference,
+“Non-Medical Determinants of Health Status,” sponsored by Princeton University’s Center for Health and Wellbeing. The authors gratefully acknowledge the
+help of Judith Stewart and Marilyn Vella.
+
+NOTES
+1. E. Pamuk et al., Socioeconomic Status and Health Chartbook: Health, United States, 1998
+(Hyattsville, Md.: National Center for Health Statistics, 1998).
+2. R.D. Mare, “Socio-Economic Careers and Differential Mortality among Older
+Men in the U.S.,” in Measurement and Analysis of Mortality—New Approaches, ed. J.
+Vallin, S. D’Souza, and A. Palloni (Oxford: Clarendon, 1990), 362–387; P.M.
+Lantz et al., “Socioeconomic Factors, Health Behaviors, and Mortality: Results
+from a Nationally Representative Prospective Study of U.S. Adults,” Journal of
+the American Medical Association 279, no. 21 (1998): 1703–1708; and G. Pappas et
+H E A L T H
+
+A F F A I R S
+
+~
+
+V o l u m e
+
+2 1 ,
+
+N u m b e r
+
+2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+S O C I O E C O N O M I C
+
+D I S P A R I T I E S
+
+al., “The Increasing Disparity in Mortality between Socioeconomic Groups in
+the United States, 1960 and 1986,” New England Journal of Medicine 329, no. 2
+(1993): 103–109.
+3. J.M. McGinnis and W.H. Foege, “Actual Causes of Death in the United
+States,” Journal of the American Medical Association 270, no. 18 (1993): 57–62.
+4. Independent Inquiry into Inequalities in Health: Report (London: Stationery Office,
+1998).
+5. B.G. Link and J. Phelan, “Social Conditions as Fundamental Causes of Disease,” Journal of Health and Social Behavior, Spec. No. (1995): 80–94.
+6. C.E. Ross and C. Wu, “The Links between Education and Health,” American
+Sociological Review (October 1995): 719–745.
+7. M.A. Winkleby et al., “Socioeconomic Status and Health: How Education,
+Income, and Occupation Contribute to Risk Factors for Cardiovascular Disease,” American Journal of Public Health 82, no. 6 (1992): 816–820.
+8. C. Hertzman, “Population Health and Human Development,” in Developmental
+Health and the Wealth of Nations, ed. D.P. Keating and C. Hertzman (New York:
+Guilford Press, 1999), 21–40.
+9. See, for example, R.G. Wilkinson, Unhealthy Societies: The Afflictions of Inequality
+(London: Routledge, 1996); G.A. Kaplan et al., “Inequality in Income and
+Mortality in the United States: Analysis of Mortality and Potential Pathways,”
+British Medical Journal (20 April 1996): 999–1003; B.P. Kennedy, I. Kawachi, and
+D. Prothrow-Stith, “Income Distribution and Mortality: Cross-Sectional Ecological Study of the Robin Hood Index in the United States,” British Medical
+Journal (20 April 1996): 1004–1007 (see also “Important Correction,” 1194); and
+B.P. Kennedy et al., “Income Distribution, Socioeconomic Status, and SelfRated Health: A U.S. Multi-Level Analysis,” British Medical Journal (3 October
+1998): 917–921. This is a controversial area with some conflicting findings. See,
+for example, K. Fiscella and P. Franks, “Poverty or Income Inequality as Predictor of Mortality: Longitudinal Cohort Study,” British Medical Journal (14 June
+1997): 1724–1728.
+10. See A. Deaton, “Inequalities in Income and Inequalities in Health” (Paper
+presented at conference on Increasing Inequality in America, Texas A&M
+University, March 1999); and Fiscella and Franks, “Poverty or Income Inequality as Predictor of Mortality.”
+11. E. Backlund, P.D. Sorlie, and N.J. Johnson, “A Comparison of the Relationships
+of Education and Income with Mortality: The National Longitudinal Mortality Study,” Social Science and Medicine 49, no. 10 (1999): 1373–1384.
+12. D. Ellwood, “Winners and Losers in America: Taking the Measure of the New
+Economic Realities,” in A Working Nation? Workers, Work, and Government in the New
+Economy, ed. D.T. Ellwood and K. Lynn-Dyson (New York: Russell Sage Foundation, 2000).
+13. D. Ellwood, “Anti-Poverty Policy for Families in the Next Century: From
+Welfare to Work—and Worries,” Journal of Economic Perspectives (Winter
+2000): 187.
+14. P. Morris and C. Michalopoulos, The Self-Sufficiency Project at Thirty-six Months:
+Effects on Children of a Program That Increased Parental Employment and Income
+(Ottawa, Ont.: Social Research and Demonstration Corporation, June 2000).
+15. V.M. Shkolnikov et al., “Educational Level and Adult Mortality in Russia: An
+Analysis of Routine Data, 1979 to 1994,” Social Science and Medicine 47, no. 3
+(1998): 357–369; and P. Watson, “Explaining Rising Mortality among Men in
+Eastern Europe,” Social Science and Medicine 41, no. 7 (1995): 923–934.
+16. K. Newman, “In the Long Run: Careers Patterns and Cultural Expectations in
+the Low Wage Labor Force,” Journal of African American Public Policy 6, no. 1
+(2000): 17–62.
+H E A L T H
+
+A F F A I R S
+
+~
+
+M a r c h / A p r i l
+
+SES & HEALTH
+
+2 0 0 2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+73
+
+SES & Health
+
+74
+
+SOCIOECONOMIC
+DISPARITIES
+
+H E A L T H
+
+17. C.E. Ross and J. Mirovsky, “Does Unemployment Affect Health?” Journal of
+Health and Social Behavior 36, no. 3 (1995): 230–243; and S.H. Wilson and G.M.
+Walker, “Unemployment and Health: A Review,” Public Health 107, no. 3 (1993):
+153–162.
+18. E. Rodriguez, “Keeping the Unemployed Healthy: The Effect of Means-Tested
+and Entitlement Benefits in Britain, Germany, and the United States,” American
+Journal of Public Health 91, no. 9 (2001): 1403–1411.
+19. R. Catalano and S. Serxner, “The Effect of Ambient Threats to Employment on
+Low Birthweight,” Journal of Health and Social Behavior 33, no. 4 (1992): 363–377.
+20. S.V. Kasl and S. Cobb, “The Experience of Losing a Job: Some Effects on
+Cardiovascular Functioning,” Psychotherapy Psychosomatics 34, no. 2–3 (1980):
+88–109; and P.L. Schnall et al., “The Impact of Anticipation of Job Loss on
+Psychological Distress and Worksite Blood Pressure,” American Journal of Industrial Medicine 21, no. 3 (1992): 417–432. There are negative findings as well; see
+P.T. Martikainen and T. Valkonen, “The Effects of Differential Unemployment
+Rate Increases of Occupation Groups on Changes in Mortality,” American
+Journal of Public Health (December 1998): 1859–1861.
+21. D.I. Gregorio, S.J. Walsh, and D. Paturzo, “The Effects of Occupation-Based
+Social Position on Mortality in a Large American Cohort,” American Journal of
+Public Health 87, no. 9 (1997): 1472–1475.
+22. M.G. Marmot et al., “Contribution of Job Control and Other Risk Factors to
+Social Variations in Coronary Heart Disease Incidence,” Lancet 350, no. 9073
+(1997): 235–239.
+23. M. Angell, “Privilege and Health: What’s the Connection?” (Editorial), New
+England Journal of Medicine 329, no. 2 (1993): 126–127.
+24. McGinnis and Foege, “Actual Causes of Death in the United States.”
+25. M. Lalonde, A New Perspective on the Health of Canadians, Government of Canada
+Report (Ottawa, Ont.: Minister of Supply and Services Canada, 1981).
+26. P. Lee and D. Paxman, “Reinventing Public Health,” Annual Review of Public
+Health 18 (1997): 1–35. These categories are not independent. For example,
+environments shape behavior, and health care provided to the more affluent
+may be more likely to attend to and treat behavioral factors.
+27. Pamuk et al., Socioeconomic Status and Health Chartbook.
+28. G.W. Evans and S. Saegert, “Residential Crowding in the Context of Inner
+City Poverty,” in Theoretical Perspectives in Environmental-Behavior Research, ed. S.
+Wapner et al. (New York: Kluwer Academic/Plenum Publishers, 2000),
+247–267.
+29. In the short term, catecholomines are helpful in activating heart rate, blood
+pressure, and lipolysis to deal with threat, but sustained high catecholomine
+levels have been linked to hypertension and cardiovascular disease. See, for
+example, U. Lundberg, “Catecholamines,” in Encyclopedia of Stress, Vol. 1, ed. G.
+Fink (San Diego: Academic Press, 2000), 408–413. On the effects in children,
+see, for example, G.W. Evans and S.J. Lepore, “Conceptual and Analytic Issues
+in Crowding Research,” Journal of Environmental Psychology 12, no. 2 (1992):
+163–173. On effects in adults, see A.W. Evans, “Environmental Stress and
+Health,” in Handbook of Health Psychology, ed. A. Baum, T. Revenson, and J.E.
+Singer (Mahwah, N.J.: Erlbaum, 1997).
+30. M. Weitzman et al., “Recent Trends in the Prevalence and Severity of Childhood Asthma,” Journal of the American Medical Association 268, no. 19 (1992):
+2673–2677.
+31. W. Cookson and M.F. Moffatt, “Asthma: An Epidemic in the Absence of
+Infection?” Science 275, no. 5296 (1997): 41–42; and L. Claudio et al., “Socioeconomic Factors and Asthma Hospitalization Rates in New York City,” Journal of
+Asthma 36, no. 4 (1999): 343–350.
+A F F A I R S
+
+~
+
+V o l u m e
+
+2 1 ,
+
+N u m b e r
+
+2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+S O C I O E C O N O M I C
+
+D I S P A R I T I E S
+
+32. R.D. Bullard, “Environmental Justice in the Twenty-first Century,” <www.
+ejrc.cau.edu/ejinthe21century.htm> (6 September 2001).
+33. Ibid.
+34. M.J. Brown et al., “The Effectiveness of Housing Policies in Reducing Children’s Lead Exposure,” American Journal of Public Health 91, no. 4 (2001): 621–624.
+35. L.F. Berkman and T. Glass, “Social Integration, Social Networks, Social Support, and Health,” in Social Epidemiology, ed. L.F. Berkman and I. Kawachi (New
+York: Oxford University Press, 2000), 137–173.
+36. M. Fullilove, “The Environment and Public Health,” in Rebuilding the Unity of
+Health and the Environment, Workshop Summary for the Institute of Medicine
+Roundtable on Environmental Health Sciences, ed. K. Hanna and C. Coussins
+(Washington: National Academy Press, 2001).
+37. For an alternative view, see S. Venkatesh, American Project: The Rise and Fall of a
+Modern Ghetto (Cambridge: Harvard University Press, 2000); and A. Kotlowitz,
+There Are No Children Here (New York: Anchor Books, 1992).
+38. R. Putnam, Bowling Alone: Collapse and Revival of American Community (New York:
+Simon and Schuster, 2000).
+39. See, for example, R. Sampson, S.W. Raudenbush, and F. Earls, “Neighborhoods
+and Violent Crime: A Multilevel Study of Collective Efficacy,” Science 277, no.
+5328 (1997): 918–924.
+40. M. Small, “Opening the Black Box of Neighborhood Effects” (Unpublished
+doctoral dissertation, Department of Sociology, Harvard University, 2001).
+41. A.C. Monheit and J.P. Vistnes, “Race/Ethnicity and Health Insurance Status:
+1987 and 1996,” Medical Care Research and Review 57, supp. 1 (2000): 11–35.
+42. See, for example, C. Hafner-Eaton, “Physician Utilization Disparities between
+the Uninsured and Insured: Comparisons of the Chronically Ill, Acutely Ill,
+and Well Nonelderly Populations,” Journal of the American Medical Association 269,
+no. 6 (1993): 787–792; D.W. Baker, M.F. Shapiro, and C.L. Schur, “Health
+Insurance and Access to Care for Symptomatic Conditions,” Archives of Internal
+Medicine 160, no. 9 (2000): 1269–1274; and H.R. Burstin, S.R. Lipsitz, and T.A.
+Brennan, “Socioeconomic Status and Risk for Substandard Medical Care,”
+Journal of the American Medical Association 268, no. 17 (1992): 2383–2387.
+43. D.J. Gross et al., “Out-of-Pocket Health Spending by Poor and Near-Poor
+Elderly Medicare Beneficiaries,” Health Services Research 34, no. 1, pt. 2 (1999):
+241–254; and T.M. Selden, J.S. Banthin, and J.W. Cohen, “Waiting in the
+Wings: Eligibility and Enrollment in the State Children’s Health Insurance
+Program,” Health Affairs (Mar/Apr 1999): 126–133.
+44. S. Dunlop, P. Coyte, and W. McIsaac, “Socio-Economic Status and the Utilization of Physicians’ Services: Results from the Canadian National Population
+Health Survey,” Social Science and Medicine 51, no. 1 (2000): 123–133.
+45. L. Shi et al., “Income Inequality, Primary Care, and Health Indicators,” Journal
+of Family Practice 48, no. 4 (1999): 275–284.
+46. E. Wood et al., “Social Inequalities in Male Mortality Amenable to Medical
+Intervention in British Columbia,” Social Science and Medicine 48, no. 12 (1999):
+1751–1758.
+47. G. Davey Smith, M. Bartley, and D. Blane, “The Black Report on Socioeconomic
+Inequalities in Health Ten Years On,” British Medical Journal (18–25 August
+1990): 373–377.
+48. N.E. Adler et al., “Socioeconomic Inequalities in Health: No Easy Solution,”
+Journal of the American Medical Association 269, no. 24 (1993): 3140–3145.
+49. McGinnis and Foege, “Actual Causes of Death in the United States.”
+50. Independent Inquiry; and J.P. Pierce et al., “Trends in Cigarette Smoking in the
+United States: Educational Differences Are Increasing,” Journal of the American
+Medical Association 26, no. 1 (1989): 56–60.
+H E A L T H
+
+A F F A I R S
+
+~
+
+M a r c h / A p r i l
+
+SES & HEALTH
+
+2 0 0 2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+75
+
+SES & Health
+
+76
+
+SOCIOECONOMIC
+DISPARITIES
+
+H E A L T H
+
+51. M.A. Winkleby et al., “Pathways by Which SES and Ethnicity Influence Cardiovascular Disease Risk Factors,” in Socioeconomic Status and Health in Industrial
+Nations: Social, Psychological, and Biological Pathways, ed. N.E. Adler et al. (New
+York: New York Academy of Sciences, 1999), 191–209.
+52. F. Chaloupka and K. Warner, “The Economics of Smoking,” NBER Working
+Paper no. 7047 (Cambridge, Mass.: National Bureau of Economic Research, 1999).
+53. Pamuk et al., Socioeconomic Status and Health Chartbook; and S.M. Krebs-Smith et
+al., “U.S. Adults’ Fruit and Vegetable Intakes, 1989 to 1991: A Revised Baseline
+for the Healthy People 2000 Objective,” American Journal of Public Health 85, no.
+12 (1995): 1623–1629.
+54. Pamuk et al., Socioeconomic Status and Health Chartbook.
+55. E.M. Barbeau et al., “Coverage of Smoking Cessation Treatment by Union
+Health and Welfare Funds,” American Journal of Public Health 91, no. 9 (2001):
+1412–1415.
+56. J.L. Stoddard et al., “Tailoring Outdoor Tobacco Advertising to Minorities in
+Los Angeles County,” Journal of Health Communication 3, no. 2 (1998): 137–146.
+57. J.F. Sallis et al., “The Association of School Environments with Youth Physical
+Activity,” American Journal of Public Health 91, no. 4 (2001): 618–620.
+58. E. Brunner, “Stress and the Biology of Inequality,” British Medical Journal (17 May
+1997): 1472–1476.
+59. For a summary, see O.M. Wolkowitz, E.S. Epel, and V.I. Reus, “Antiglucocorticoid Strategies in Treating Major Depression and Improving Health Outcome,” in Physical Consequences of Depression, ed. J. Thakore (Petersfield, U.K.:
+Wrightson Biomedical Publishing, 2001), 181–213; R. Surwit and M. Feinglos,
+“Relaxation Induced Improvement in Glucose Tolerance Is Associated with
+Decreased Plasma Cortisol,” Diabetes Care 7, no. 2 (1984): 203–204; and S.
+Cruess et al., “Reductions in Herpes Simplex Virus Type 2 Antibody Titers
+after Cognitive Behavioral Stress Management and Relationships with
+Neuroendocrine Function, Relaxation Skills, and Social Support in HIVPositive Men,” Psychosomatic Medicine 62, no. 6 (2000): 828–837.
+60. We have focused in this essay on disparities associated with SES; there are
+also marked disparities by race/ethnicity in the United States. Some of these
+disparities may be due to socioeconomic disadvantage, but unique factors
+associated with discrimination and cultural factors may also exist. We did not
+include these issues here, but they must be factored in when considering
+policy approaches to health disparities more broadly.
+61. A.R. Tarlov, “Public Policy Frameworks for Improving Population Health,” in
+Socioeconomic Status and Health in Industrial Nations, ed. Adler et al., 281–293.
+62. R. Bhatia and M. Katz, “Estimation of Health Benefits from a Local Living
+Wage Ordinance,” American Journal of Public Health 91, no. 9 (2001): 1398–1402.
+63. J.W. Lynch, G.A. Kaplan, and J.T. Salonen, “Why Do Poor People Behave
+Poorly? Variation in Adult Health Behaviours and Psychosocial Characteristics by Stages of the Socioeconomic Lifecourse,” Social Science and Medicine
+44, no. 6 (1997): 809–819.
+64. N.E. Adler, “How Socioeconomic Status Operates through the Environment to
+Influence Health” (Presented at the American Public Health Association conference, Boston, 13–14 November 2000).
+65. M. Marmot, “Acting on the Evidence to Reduce Inequalities in Health,” Health
+Affairs (May/June 1999): 42–44.
+66. G. Davey Smith, J.N. Morris, and M. Shaw, “The Independent Inquiry into
+Inequalities in Health,” British Medical Journal (28 November 1998): 1465–1466.
+Sir Donald Acheson replied that they had set priorities in terms of focusing on
+families with children and on the living standards of the poor. See D. Acheson,
+“Inequalities in Health,” British Medical Journal (12 December 1998): 1659.
+A F F A I R S
+
+~
+
+V o l u m e
+
+2 1 ,
+
+N u m b e r
+
+2
+
+Downloaded from content.healthaffairs.org by Health Affairs on March 10, 2015
+by guest
+
+

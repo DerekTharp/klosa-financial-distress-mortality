@@ -1,0 +1,364 @@
+{
+  "construct_validity": {
+    "Household income": {
+      "r": 0.297,
+      "p": 0.0,
+      "N": 9055
+    },
+    "Household net worth": {
+      "r": 0.309,
+      "p": 0.0,
+      "N": 891
+    },
+    "Personal net assets": {
+      "r": 0.259,
+      "p": 0.0,
+      "N": 6945
+    },
+    "CES-D-10 score": {
+      "r": -0.376,
+      "p": 0.0,
+      "N": 10320
+    },
+    "Welfare receipt (NBLSS)": {
+      "r": -0.181,
+      "p": 0.0,
+      "N": 10384
+    },
+    "Depression (binary CES-D)": {
+      "r": -0.222,
+      "p": 0.0,
+      "N": 9484
+    },
+    "Self-rated health (Spearman)": {
+      "rho": -0.385,
+      "p": 0.0,
+      "N": 10384
+    }
+  },
+  "extended_models": [
+    {
+      "Exposure": "Low economic satisfaction (Q1)",
+      "Model": "Model 1: Unadjusted",
+      "HR": 1.864,
+      "CI_low": 1.735,
+      "CI_high": 2.003,
+      "p": 0.0,
+      "N": 10384,
+      "Events": 3074
+    },
+    {
+      "Exposure": "Low economic satisfaction (Q1)",
+      "Model": "Model 2: Demographics",
+      "HR": 1.44,
+      "CI_low": 1.337,
+      "CI_high": 1.55,
+      "p": 0.0,
+      "N": 10384,
+      "Events": 3074
+    },
+    {
+      "Exposure": "Low economic satisfaction (Q1)",
+      "Model": "Model 2a: Demographics + Income",
+      "HR": 1.434,
+      "CI_low": 1.319,
+      "CI_high": 1.56,
+      "p": 0.0,
+      "N": 9055,
+      "Events": 2498
+    },
+    {
+      "Exposure": "Low economic satisfaction (Q1)",
+      "Model": "Model 3: + Health behaviors (original)",
+      "HR": 1.285,
+      "CI_low": 1.188,
+      "CI_high": 1.389,
+      "p": 0.0,
+      "N": 10144,
+      "Events": 2922
+    },
+    {
+      "Exposure": "Low economic satisfaction (Q1)",
+      "Model": "Model 3a: + Health behaviors (expanded)",
+      "HR": 1.272,
+      "CI_low": 1.167,
+      "CI_high": 1.388,
+      "p": 0.0,
+      "N": 8469,
+      "Events": 2373
+    },
+    {
+      "Exposure": "Low economic satisfaction (Q1)",
+      "Model": "Model 3b: + Health + Income",
+      "HR": 1.259,
+      "CI_low": 1.143,
+      "CI_high": 1.388,
+      "p": 0.0,
+      "N": 7361,
+      "Events": 1947
+    },
+    {
+      "Exposure": "Low economic satisfaction (Q1)",
+      "Model": "Model 4: Fully adjusted (original)",
+      "HR": 1.268,
+      "CI_low": 1.17,
+      "CI_high": 1.373,
+      "p": 0.0,
+      "N": 9244,
+      "Events": 2879
+    },
+    {
+      "Exposure": "Low economic satisfaction (Q1)",
+      "Model": "Model 4a: + Income + Drinking + Exercise",
+      "HR": 1.237,
+      "CI_low": 1.121,
+      "CI_high": 1.365,
+      "p": 0.0,
+      "N": 7361,
+      "Events": 1947
+    },
+    {
+      "Exposure": "Low economic satisfaction (Q1)",
+      "Model": "Model 4b: + Continuous CES-D (replaces binary)",
+      "HR": 1.219,
+      "CI_low": 1.102,
+      "CI_high": 1.348,
+      "p": 0.0001,
+      "N": 7307,
+      "Events": 1925
+    },
+    {
+      "Exposure": "Economic dissatisfaction (per 10-pt decrease)",
+      "Model": "Model 2a: Demographics + Income",
+      "HR": 1.089,
+      "CI_low": 1.071,
+      "CI_high": 1.108,
+      "p": 0.0,
+      "N": 9055,
+      "Events": 2498
+    },
+    {
+      "Exposure": "Economic dissatisfaction (per 10-pt decrease)",
+      "Model": "Model 3b: + Health + Income",
+      "HR": 1.05,
+      "CI_low": 1.029,
+      "CI_high": 1.072,
+      "p": 0.0,
+      "N": 7361,
+      "Events": 1947
+    },
+    {
+      "Exposure": "Economic dissatisfaction (per 10-pt decrease)",
+      "Model": "Model 4b: + Continuous CES-D",
+      "HR": 1.043,
+      "CI_low": 1.021,
+      "CI_high": 1.066,
+      "p": 0.0001,
+      "N": 7307,
+      "Events": 1925
+    },
+    {
+      "Exposure": "Welfare receipt (NBLSS)",
+      "Model": "Model 2a: Demographics + Income",
+      "HR": 1.336,
+      "CI_low": 1.107,
+      "CI_high": 1.613,
+      "p": 0.0026,
+      "N": 9055,
+      "Events": 2498
+    },
+    {
+      "Exposure": "Welfare receipt (NBLSS)",
+      "Model": "Model 4b: + Continuous CES-D",
+      "HR": 1.235,
+      "CI_low": 0.991,
+      "CI_high": 1.538,
+      "p": 0.0598,
+      "N": 7307,
+      "Events": 1925
+    }
+  ],
+  "regularisation_sensitivity": [
+    {
+      "Exposure": "Low econ sat (time-varying)",
+      "Penalizer": "Unpenalised",
+      "HR": 1.21,
+      "CI_low": 1.112,
+      "CI_high": 1.316,
+      "p": 0.0,
+      "N": 59929,
+      "Events": 2856
+    },
+    {
+      "Exposure": "Low econ sat (time-varying)",
+      "Penalizer": "Penalised (0.01)",
+      "HR": 1.219,
+      "CI_low": 1.128,
+      "CI_high": 1.316,
+      "p": 0.0,
+      "N": 59929,
+      "Events": 2856
+    },
+    {
+      "Exposure": "HH wealth shock (time-varying)",
+      "Penalizer": "Unpenalised",
+      "HR": 0.977,
+      "CI_low": 0.777,
+      "CI_high": 1.229,
+      "p": 0.8431,
+      "N": 38672,
+      "Events": 1817
+    },
+    {
+      "Exposure": "HH wealth shock (time-varying)",
+      "Penalizer": "Penalised (0.01)",
+      "HR": 0.985,
+      "CI_low": 0.798,
+      "CI_high": 1.216,
+      "p": 0.8878,
+      "N": 38672,
+      "Events": 1817
+    }
+  ],
+  "ICC": {
+    "w1_w2": {
+      "r": 0.513,
+      "N": 8686
+    },
+    "w2_w3": {
+      "r": 0.543,
+      "N": 7752
+    },
+    "w3_w4": {
+      "r": 0.634,
+      "N": 7219
+    },
+    "w4_w5": {
+      "r": 0.599,
+      "N": 6890
+    },
+    "w5_w6": {
+      "r": 0.638,
+      "N": 7363
+    },
+    "w6_w7": {
+      "r": 0.58,
+      "N": 6789
+    },
+    "w7_w8": {
+      "r": 0.571,
+      "N": 6297
+    },
+    "w8_w9": {
+      "r": 0.518,
+      "N": 5875
+    },
+    "ICC1": 0.491,
+    "MSB": 1711.99,
+    "MSW": 224.91
+  },
+  "attrition": {
+    "wave_1": {
+      "low_es_pct": 100.0,
+      "high_es_pct": 100.0,
+      "low_es_n": 2969,
+      "high_es_n": 6515
+    },
+    "wave_2": {
+      "low_es_pct": 90.3,
+      "high_es_pct": 92.2,
+      "low_es_n": 2681,
+      "high_es_n": 6007
+    },
+    "wave_3": {
+      "low_es_pct": 80.1,
+      "high_es_pct": 85.0,
+      "low_es_n": 2379,
+      "high_es_n": 5541
+    },
+    "wave_4": {
+      "low_es_pct": 74.3,
+      "high_es_pct": 81.1,
+      "low_es_n": 2205,
+      "high_es_n": 5281
+    },
+    "wave_5": {
+      "low_es_pct": 68.4,
+      "high_es_pct": 76.7,
+      "low_es_n": 2030,
+      "high_es_n": 4999
+    },
+    "wave_6": {
+      "low_es_pct": 62.6,
+      "high_es_pct": 73.0,
+      "low_es_n": 1859,
+      "high_es_n": 4759
+    },
+    "wave_7": {
+      "low_es_pct": 55.9,
+      "high_es_pct": 68.7,
+      "low_es_n": 1661,
+      "high_es_n": 4475
+    },
+    "wave_8": {
+      "low_es_pct": 50.4,
+      "high_es_pct": 64.8,
+      "low_es_n": 1495,
+      "high_es_n": 4222
+    },
+    "wave_9": {
+      "low_es_pct": 45.6,
+      "high_es_pct": 60.7,
+      "low_es_n": 1354,
+      "high_es_n": 3956
+    }
+  },
+  "power_analysis": {
+    "n_events": 1942,
+    "p_exposed": 0.035,
+    "hr_detectable_80pct": 1.41,
+    "n_exposed_events": 80
+  },
+  "sensitivity_no_refreshment": {
+    "N": 9484,
+    "N_excluded": 900,
+    "health_adj_HR": 1.296,
+    "health_adj_CI": "1.198-1.402",
+    "full_adj_HR": 1.268,
+    "full_adj_CI": "1.170-1.373"
+  },
+  "healthy_baseline": {
+    "N": 1081,
+    "Events": 133,
+    "HR": 1.829,
+    "CI": "1.215-2.753",
+    "p": 0.0038
+  },
+  "dose_response": {
+    "Q4": {
+      "HR": 1.048,
+      "CI_low": 0.89,
+      "CI_high": 1.236,
+      "p": 0.5727
+    },
+    "Q3": {
+      "HR": 1.189,
+      "CI_low": 1.004,
+      "CI_high": 1.407,
+      "p": 0.0443
+    },
+    "Q2": {
+      "HR": 1.136,
+      "CI_low": 0.985,
+      "CI_high": 1.31,
+      "p": 0.0789
+    },
+    "Q1": {
+      "HR": 1.427,
+      "CI_low": 1.239,
+      "CI_high": 1.645,
+      "p": 0.0
+    },
+    "p_trend": 0.0
+  }
+}

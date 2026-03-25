@@ -1,0 +1,46 @@
+{
+  "raw_income_separate": {
+    "HR": 0.937,
+    "CI": [
+      0.849,
+      1.033
+    ],
+    "p": 0.1919
+  },
+  "equiv_income_separate": {
+    "HR": 0.975,
+    "CI": [
+      0.882,
+      1.078
+    ],
+    "p": 0.6237
+  },
+  "combined_raw": {
+    "low_econ_sat_bl": {
+      "HR": 1.304
+    },
+    "low_raw_income": {
+      "HR": 0.904
+    },
+    "on_welfare": {
+      "HR": 1.208
+    },
+    "low_assets": {
+      "HR": 0.963
+    }
+  },
+  "combined_equiv": {
+    "low_econ_sat_bl": {
+      "HR": 1.296
+    },
+    "low_equiv_income": {
+      "HR": 0.931
+    },
+    "on_welfare": {
+      "HR": 1.177
+    },
+    "low_assets": {
+      "HR": 0.963
+    }
+  }
+}

@@ -1,0 +1,63 @@
+Pearlin LI, Menaghan EG, Lieberman MA, Mullan JT. The stress process.
+Journal of Health and Social Behavior 1981; 22(4): 337-356.
+DOI: 10.2307/2136676
+
+CITATION VERIFICATION:
+- Authors: Leonard I. Pearlin (University of California-San Francisco), Elizabeth G. Menaghan (Ohio State University), Morton A. Lieberman (University of Chicago), Joseph T. Mullan (Ohio State University)
+- Journal: Journal of Health and Social Behavior, Vol. 22, No. 4 (Dec., 1981), pp. 337-356
+- Publisher: American Sociological Association
+- JSTOR Stable URL: http://www.jstor.org/stable/2136676
+
+ABSTRACT (from paper):
+This study uses longitudinal data to observe how life events, chronic life strains, self concepts, coping, and social supports come together to form a process of stress. It takes involuntary job disruptions as illustrating life events and shows how they adversely affect enduring role strains, economic strains in particular. These exacerbated strains, in turn, erode positive concepts of self, such as self-esteem and mastery. The diminished self-concepts then leave one especially vulnerable to experiencing symptoms of stress, of which depression is of special interest to this analysis. The interventions of coping and social supports are mainly indirect; that is, they do not act directly to buffer depression. Instead, they minimize the elevation of depression by dampening the antecedent process.
+
+KEY CONTENT FOR MANUSCRIPT REFERENCE:
+
+1. THE STRESS PROCESS MODEL (p. 337):
+"The process of social stress can be seen as combining three major conceptual domains: the sources of stress, the mediators of stress, and the manifestations of stress."
+
+2. SOURCES OF STRESS - TWO TYPES (p. 339):
+- Eventful experience (life events): discrete occurrences
+- Life strains: "relatively continuous problems" - chronic, enduring conditions
+These two sources "may converge in the production of stress" (p. 339)
+
+3. ECONOMIC STRAIN AS KEY MECHANISM (pp. 344-345):
+- Job disruption leads to economic strain, which erodes self-concept (mastery and self-esteem), which increases depression
+- Path model (Figure 1C): Job Events -> Economic Strain -> Changes in Mastery/Self-Esteem -> Depression
+- "job disruption is likely to result in an intensification of economic strain, partly through the reduction of income" (p. 345)
+
+4. ECONOMIC STRAIN MEASURE (Appendix E, p. 355):
+Items measuring difficulty affording necessities:
+1. Are you able to afford a home suitable for (yourself/family)?
+2. Are you able to afford furniture or household equipment that needs to be replaced?
+3. Are you able to afford the kind of car you need?
+4. Do you have enough money for the kind of food (you/your family) should have?
+5. Do you have enough money for the kind of medical care (you/your family) should have?
+6. Do you have enough money for the kind of clothing (you/your family) should have?
+7. Do you have enough money for the leisure activities (you/your family) want(s)?
+8. Do you have a great deal, some, a little, or no difficulty in paying your bills?
+9. At the end of the month do you end up with some money left over, just enough to make ends meet, or not enough money to make ends meet?
+Correlation between time 1 and time 2 measures = .59
+
+5. POSITIVE COMPARISONS / REFERENCE GROUPS (Appendix F, p. 355):
+Items about relative economic standing:
+1. Would you say that your total family income is higher, lower, or about the same as: Most of your friends? Most of your relatives? Most of your neighbors?
+5. How do you think your standard of living from now on will compare with the one you have now?
+6. Compared to four years ago, are you able to afford a better, the same, or lower standard of living?
+This is directly relevant to the relative deprivation argument in the manuscript.
+
+6. COPING AND SOCIAL SUPPORTS AS MEDIATORS (pp. 340-341, 348):
+- Mediators are "mainly indirect" - they do not directly buffer depression
+- Instead they dampen the antecedent process (reduce strain, protect self-concept)
+- Social supports: "being embedded in a network is only the first step toward having access to support; the final step depends on the quality of the relations" (p. 340)
+
+7. KEY FINDING ON MEDIATION (Table 1, p. 348):
+- Coping and social supports "have no direct effect on depression" (B = .03 and -.03, NS)
+- But they reduce economic strain (B = -.19 and -.08) and protect mastery (B = .15 and .11)
+- "the additive effects of the mediators on the stress process are exercised not directly on certain stress outcomes, but indirectly on certain conditions antecedent to the stress" (p. 348)
+
+8. DISCUSSION KEY QUOTE (p. 351):
+"Perhaps the most important lesson that could be conveyed by this analysis is that social stress is not a happening; instead, it is a complex, varied, and intellectually challenging process. Research into social stress needs to be raised to a level that matches the richness and intricacy of what it strives to explain."
+
+RELEVANCE TO MANUSCRIPT:
+The manuscript cites Pearlin (ref 6) for the stress process framework, specifically the distinction between objective stressors and subjective appraisal. The paper supports this: Pearlin distinguishes between objective conditions (job loss, income loss) and subjective appraisals (economic strain, self-concept) as distinct stages in the stress process. The economic strain measure (Appendix E) is conceptually related to KLoSA's economic satisfaction measure. The positive comparisons measure (Appendix F) directly supports the relative deprivation / reference group argument.

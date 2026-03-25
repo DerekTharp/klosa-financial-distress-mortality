@@ -1,0 +1,781 @@
+Journal of Gerontology: SOCIAL SCIENCES
+2008, Vol. 63B, No. 6, S369–S374
+
+Copyright 2008 by The Gerontological Society of America
+
+Effect of Financial Strain on Mortality in
+Community-Dwelling Older Women
+Sarah L. Szanton,1,7 Jerilyn K. Allen,1,3,5 Roland J. Thorpe, Jr.,2,3
+Teresa Seeman,4 Karen Bandeen-Roche,3,7 and Linda P. Fried7
+1
+
+Johns Hopkins University School of Nursing, Baltimore, Maryland.
+Hopkins Center for Health Disparities Solutions, Baltimore, Maryland.
+3
+Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland.
+4
+University of California at Los Angeles School of Medicine.
+5
+Johns Hopkins University School of Medicine, Baltimore, Maryland.
+6
+Johns Hopkins Center on Aging and Health, Baltimore, Maryland.
+7
+Columbia University Mailman School of Public Health, New York, New York.
+2
+
+Objectives. Although it is well established that low socioeconomic status is related to mortality, little research has
+focused on whether financial strain predicts mortality. Still less research has examined this question by race, despite the
+evidence that African Americans suffer earlier mortality and more financial strain at the same levels of socioeconomic
+status than their Caucasian counterparts. We examined the extent to which financial strain was associated with increased
+mortality risk in older women and whether the relationship differed by race.
+Methods. The sample was the Women’s Health and Aging Studies I and II of community- dwelling older women aged
+70 to 79. We used Cox proportional hazards models to estimate the effect of financial strain on 5-year mortality rates.
+Results. Women who reported financial strain were almost 60% more likely to die within 5 years independent of race,
+age, education, absolute income, health insurance status, and comorbidities (p < .001) than their counterparts who did not.
+Although race was not a predictor of mortality, the association between financial strain and mortality was stronger for
+African Americans than for Caucasians (p < .01).
+Discussion. For older women, financial strain may be a better predictor of mortality than annual income, particularly in
+the case of older African American women.
+Key Words: Financial strain—Mortality—Health disparities—Race.
+
+I
+
+N recent years, the need to understand and reduce both
+socioeconomic and racial health disparities has become
+a priority for the National Institutes of Health and the Institute
+of Medicine. An extensive body of research has consistently
+demonstrated a relationship between socioeconomic status
+(SES) and mortality, such that socially and economically
+disadvantaged persons have higher mortality rates relative to
+their more affluent counterparts (Feinglass et al., 2007; Hahn
+et al., 1995; Howard, Anderson, Russell, Howard, & Burke,
+2000; Hummer, Benjamins, & Rogers, 2004; Lantz, House,
+Mero, & Williams, 2005; Steenland, Henley, Calle, & Thun,
+2004; Thom, 2004). This striking difference in death rates
+between groups requires that investigators shift their focus from
+merely documenting to explaining these inequalities.
+Race and SES are distinct but related contributors to
+mortality (Feinglass et al., 2007; Hummer et al., 2004). To understand and reduce health disparities, it is necessary to
+effectively measure SES, which is broadly conceptualized as
+one’s position in the societal structure. Oakes and Rossi (2003,
+p. 775) stated that SES is ‘‘access (realized and potential) to
+desired resources.’’ As is true for any construct, there is a gap
+between the concept and the achievable measurement of its
+attributes in a research study. Studies that examine socioeconomic and racial health disparities measure SES using specific
+variables that cannot fully capture the latent construct of SES.
+
+These measures have usually involved indicators of societal
+position, such as income, years of education achieved,
+occupation, wealth, or, more recently, neighborhood SES
+(Diez-Roux, Merkin, & Arnett, 2001) and perceived SES
+(Adler, Epel, Castellazzo, & Ickovics, 2000; Adler et al., 2008;
+Singh-Manoux, Marmot, & Adler, 2005).
+In addition to the limits that any one indicator of SES has in
+the adult population, each of the commonly used measures of
+SES has added constraints in the context of older adults (Daly,
+Duncan, McDonough, & Williams, 2002; Davey et al., 1998).
+For many older adults, income is predetermined and occupation
+is absent. Education, the most commonly employed SES
+indicator, is a strong predictor of health outcomes in older
+adults. However, even such a strong predictor has limits
+because the same attainment does not confer the same benefits
+to each older adult. For example, African American and
+Caucasian older adults may receive differential benefit from the
+same years of education based on widely differential investment per pupil by race (Manly, 2006).
+Oakes and Rossi (2003, p.775) defined SES as ‘‘access to
+desired resources.’’ Using that definition, we posit that financial
+strain could be considered an additional SES indicator.
+Although researchers currently use actual income as one proxy
+for SES, financial strain provides additional information about
+access to resources because people with similar incomes can
+
+S369
+
+S370
+
+SZANTON ET AL.
+
+have wide variation in the financial strain they experience. The
+distinction between income and financial strain could be
+especially relevant in older adults, who tend to have a truncated
+income range.
+Assessing the subjective measure of financial strain is
+methodologically challenging because the same income and
+expenses might be perceived as a financial strain by one person
+and plentiful by another. However, these perceptions can drive
+important aspects of the hypothesized relationship between
+financial strain and mortality, including decreased social
+activity, physical activity, and health care utilization, among
+other factors (Kahn & Pearlin, 2006).
+Important work has already shown that those reporting
+financial strain have poorer self-rated health (Kahn & Pearlin,
+2006), earlier disability (Matthews, Smith, Hancock, Jagger, &
+Spiers, 2005), increased psychological distress (Angel, Frisco,
+Angel, & Chiriboga, 2003; Ferraro & Su, 1999), and more
+chronic conditions (Kahn & Pearlin, 2006). However, few
+studies of older adults have investigated the relationship
+between financial strain and mortality itself. Blazer, SachsEricsson, and Hybels (2005) found that an index of unmet
+needs, including financial strain, predicted mortality. Lantz and
+colleagues (2005) found that a financial stress index predicted
+mortality, but not independent of income. Krause (2006) found
+that providing church-based social support decreased the
+strength of the relationship between financial strain and
+mortality. However, this study did not assess financial strain
+independent of actual income, nor did it examine mortality
+independent of chronic diseases and health insurance status.
+The current study extends this line of inquiry by asking whether
+financial strain is associated with an increased likelihood of
+mortality independent of actual income, diagnosed health
+conditions, and health insurance status.
+Not only is there limited research on financial strain and
+mortality, but there is even less on how race might affect this
+relationship. Blazer and colleagues (2005) found no racial
+difference in the mortality risk of those reporting unmet needs,
+and Krause (2006) and Lantz and colleagues (2005) included
+race in their models but did not test for interaction effects by
+race. There are at least three reasons why it is important to focus
+on race as well as financial strain. First, despite nationwide
+research attention, African Americans have an earlier onset of
+chronic disease (Hummer et al., 2004), experience worse health
+in middle age (Farmer & Ferraro, 2005), and die at an earlier
+age (Hummer et al., 2004) than do Caucasians. For example,
+using U.S. Vital Statistics and Census data, Hummer and
+colleagues showed that mortality rates in African Americans are
+30% to 50% higher than in Caucasians at ages 65 to 79.
+Second, African American adults accumulate a lifetime of
+social and health insults (Ferraro & Farmer, 1996; Kuh & BenShlomo, 2004) that may make their health more vulnerable
+to financial strain as older adults. Third, research that has
+explicitly examined both race and SES in older adults has found
+significant interactions between race and education as well as
+race and employment status on health effects (Farmer &
+Ferraro, 2005). For instance, Farmer and Ferraro found that as
+educational levels increased, African Americans did not
+experience the same improvements in self-rated health as
+Caucasians. In summary, because of the confounding of race
+and SES in studies (LaVeist, 2005; Laveist, Thorpe, Mance, &
+
+Jackson, 2007), and because of the differential effects of
+education by race, it is important to examine racial interactions
+whenever possible in health disparities research (Kawachi,
+Daniels, & Robinson, 2005).
+Therefore, the primary objective of the current research was
+to examine whether financial strain predicts 5-year all-cause
+mortality in a population of community-dwelling older women
+independent of actual income, diagnosed health conditions, and
+insurance status. A second objective was to use the interaction
+approach to determine whether the relationship between
+financial strain and mortality differs for African American
+and Caucasian women.
+
+METHODS
+
+Study Population and Measures
+Data for this longitudinal analysis came from the Women’s
+Health and Aging Studies (WHAS) I and II, which focused
+primarily on the causes and course of disability. WHAS I and II
+are two prospective, population-based cohort studies that
+recruited community-dwelling older women who were complementary with respect to physical function status. The
+participants in WHAS I and II were randomly selected from
+one Medicare sampling frame using 12 zip codes of Eastern
+Baltimore City and County. Women were eligible for WHAS I
+if they were 65 or older, had difficulty in two or more areas of
+physical functioning (thus representing the one-third most
+disabled older women in the community), and had a MiniMental State Examination score of at least 18. Women were
+eligible for WHAS II if they were between 70 and 79 years of
+age, had difficulty in no or only one area of physical
+functioning (thus drawn from among the two thirds who were
+least disabled), and had a score of at least 24 on the MiniMental State Examination. Both studies have been described
+elsewhere (Fried, Bandeen-Roche, Chaves, & Johnson, 2000;
+Guralnik, Fried, Simonsick, Kasper, & Lafferty, 1995).
+Baseline assessments were performed in 1992–1995 in
+WHAS I and 1994–1996 in WHAS II. Women were eligible
+for inclusion in the combined sample for the current analyses if
+they were between the ages of 70 and 79 with a score of at least
+24 on the Mini-Mental State Examination. The sample size for
+the current analysis was 728. The Johns Hopkins Medical
+Institutions Review Board approved the research protocols.
+Each participant provided written informed consent.
+Sampling weights. —We weighted data in all analyses to
+account for the sampling design and to correct for nonresponse.
+We calculated weights, as described in Guralnik and colleagues
+(1995), for each participant based on the probability of
+selection into the study. These probabilities varied based on
+age, race, and disability status. We then used the sampling
+weights to refer back to the entire population of communitydwelling women.
+Financial strain. —We measured financial strain by using an
+ordinal response to the following question: ‘‘At the end of the
+month, do you have some money left over, just enough, or not
+enough?’’ This measure of resource adequacy was originally
+used by Pearlin, Lieberman, Menaghan, and Mullan (1981) and
+
+FINANCIAL STRAIN AND MORTALITY
+
+S371
+
+Table 1. Survival and Sample Characteristics by Financial Strain, Women’s Health and Aging Studies I and II (N ¼ 728)
+Characteristic
+
+Total
+
+More Than Enough
+(n ¼ 477)
+
+Enough
+(n ¼ 209)
+
+Not Enough
+(n ¼ 44)
+
+p for Trenda
+
+Survival
+Alive (censored), %
+Dead, %
+
+84.1
+16.0
+
+87.4
+12.6
+
+82.8
+17.2
+
+53.3
+46.7
+
+.001
+.001
+
+Independent variables
+Age, M (SD)
+Years of school, M (SD)
+White, %
+Household income ($), M (SD)
+Some investment income, %
+Number of chronic diseasesb
+Medicare A only, %
+
+74.2 (0.1)
+11.3 (3.6)
+76
+21,446 (18,818)
+37.1
+1.2 (1.02)
+10.5
+
+74.2 (0.1)
+12.4 (0.2)
+83
+24,956 (19,433)
+48.5
+1.0 (0.99)
+6.1
+
+74.2 (0.2)
+10.5 (0.4)
+65
+16,035 (16,579)
+17.8
+1.4 (1.06)
+17.7
+
+73.9 (0.5)
+8.1 (0.6)
+59
+10,094 (9,432)
+2.2
+1.5 (0.94)
+24.4
+
+.77
+.04
+.000
+,.001
+,.001
+,.001
+,.001
+
+Notes: Financial strain is an ordinal measure of whether there is more than enough, just enough, or not enough money at the end of the month.
+a
+Tested by ologit; represents the T of the ologit test of differences in means between the three groups.
+b
+Adjudicated at baseline and measured continuously.
+
+was later adopted by two population-based studies: the
+Americans’ Changing Lives Study (House et al., 1994) and
+the Established Populations for the Epidemiologic Studies of
+the Elderly (Cornoni-Huntley et al., 1993). This construct of
+adequacy of income measures the balance between resources
+and need. We should note that there is a subset of individuals
+who may answer that they have enough money when, by an
+objective measure, they do not. Conversely, there is also
+a subset of individuals who will answer that they do not have
+enough money when, by objective measures, they do.
+Therefore, because of the subjectivity in the answers given,
+this question is an indicator of financial strain rather than of
+actual adequacy of resources.
+Mortality. —Vital status was acquired through interviewing
+designated proxies, searching obituaries, and matching the
+National Death Index in a 5-year period. We obtained death
+certificates for 111 of the 117 deaths and recorded date of death
+for each death.
+Covariates. —In the multivariable analyses, we controlled for
+race, age, education, household income, investment income,
+chronic disease, and insurance status, as these are related to both
+mortality and financial strain. We coded race as African
+American or Caucasian. We measured age in years and restricted
+it to 70 to 79 at baseline (the age range that both WHAS studies
+had in common). We measured income as dollars per year and
+log-transformed it because of its non-normal distribution. We
+recorded investment income as the dichotomous answer to the
+question ‘‘Do you have investment income?’’ We measured
+education in years completed. We determined chronic disease
+number at baseline and measured it as a continuous variable. We
+measured insurance status as Medicare Part A only (uninsured
+except for hospitalization), Medicare plus Medicaid, or
+Medicare plus private health insurance.
+
+Analysis
+We compared descriptive statistics for participants based on
+financial strain category. Because the strain measure consisted
+of three ordered categories (more than enough money, just
+enough, and not enough), we used a weighted ordinal logistic
+regression model to evaluate differences across adequacy
+
+categories (see Table 1). To accomplish our first objective,
+we fitted a univariable Cox proportional hazards model to
+examine the risk of mortality with each unit increase in
+financial strain. We then used multivariable Cox proportional
+hazards models to estimate the risk of mortality over the 5 years
+of follow-up (see Table 2). We created interaction terms for
+Financial Strain 3 Race, Educational Attainment 3 Race, and
+Education 3 Financial Strain. Assumptions of proportionality
+were met when evaluated using complementary log-log hazard
+curves and visual inspection. As a sensitivity analysis, we
+modeled financial strain as a nominal variable, which resulted
+in similar results and provided a positive global test of significance. We report survival analysis results as conditional hazard
+ratios (HRs) with 95% confidence intervals (CIs). We used the
+sampling weights described above in each model discussed
+below. We computed variance estimates by direct correction to
+the variance matrix of the estimators. We performed all
+analyses using Stata version 9.0 (College Station, TX).
+
+RESULTS
+Table 1 displayed the baseline characteristics of the 728
+participants, categorized by financial strain. In all, 76% of the
+women were Caucasian, and 23% had an eighth-grade
+education or less. At baseline, 66% responded that they had
+more than enough income, 29% had just enough, and 5% had
+not enough each month. Financial strain differed across the
+races, with Caucasian women more likely to report that they
+had more than enough money at the end of the month (71%). A
+substantial portion of Caucasian women had just enough
+(24%), and few reported not enough income (5%). In contrast,
+almost equal proportions of the African American participants
+had more than enough and just enough money (46% and 43%,
+respectively), and 11% reported not enough income. At
+baseline, 76% of the participants had commercial insurance
+plus Medicare, 13% had Medicaid plus Medicare, and 11% had
+Medicare hospitalization coverage only.
+We then addressed the first objective of our study by asking
+the following question: Was financial strain associated with
+increased mortality risk over 5 years? There were 117 deaths in
+the 5-year follow-up period. According to univariable Cox
+analysis, for each unit increase in financial strain, participants
+
+SZANTON ET AL.
+
+S372
+
+Table 2. Crude and Adjusted Cox Proportional Hazards Models for the Relation Between an Increase in Financial Strain and
+Mortality Among Participants in the Women’s Health and Aging Studies I and II (N ¼ 728)
+Model 1
+
+Model 2
+
+Model 3
+
+Model 4
+
+Model 5
+
+Variable
+
+HR
+
+95% CI
+
+HR
+
+95% CI
+
+HR
+
+95% CI
+
+HR
+
+95% CI
+
+HR
+
+95% CI
+
+Financial straina
+Incomeb
+
+1.57
+
+1.19, 2.06
+
+1.67
+1.17
+
+1.25, 2.23
+0.94, 1.54
+
+1.59
+1
+
+1.16, 2.16
+0.99, 1.00
+
+1.21.19
+1.14
+
+0.83, 1.74
+0.85, 1.51
+
+1.21
+1
+
+0.83, 1.75
+0.99, 1.00
+
+1.06
+0.75
+1.02
+1.34
+1.15
+2.67
+
+0.99, 1.13
+0.46, 1.24
+0.96, 1.09
+1.02, 1.77
+1.00, 1.31
+1.36, 5.21
+
+1.05
+0.29
+1.03
+1.31
+1.17
+2.63
+
+0.98, 1.12
+0.12, 0.71
+0.96, 1.09
+0.99, 1.74
+1.02, 1.34
+1.34, 5.15
+
+1.05
+0.31
+1.01
+1.34
+1.18
+
+0.98, 1.12
+0.12, 0.76
+0.95, 1.08
+1.00, 1.78
+1.02, 1.35
+
+0.78
+
+0.48, 1.26
+
+Other demographics and health
+Agec
+Raced
+Years of education
+Insurance statuse
+Count of comorbidities
+Financial Strain 3 Race
+Wealthf
+
+Notes: Model 1: Unadjusted effect of financial strain. Model 2: Adjusting for income. Model 3: Adjusting for other demographics. Model 4: Testing effect
+modification of race on financial strain’s risk for mortality. Model 5: Adjusting for investment income. HR ¼ hazard ratio; CI ¼ confidence interval.
+a
+An ordinal measure of more than enough, just enough, or not enough money to cover expenses each month.
+b
+Logarithm of household income.
+c
+Baseline age of 70 to 79.
+d
+Odds ratio for Black versus White.
+e
+Medicare hospitalization coverage only (reference) compared to Medicaid/Medicare compared to Medicare plus outpatient coverage.
+f
+No investment income compared to some investment income.
+
+were almost 60% more likely to die within 5 years (HR ¼ 1.57,
+95% CI ¼ 1.19, 2.06). Adding a logarithm of continuous
+income into the model increased the strength of financial
+strain’s mortality prediction to an HR of 1.67 (95% CI ¼ 1.25,
+2.23). Log income itself was not predictive of mortality in any
+model. Neither years of education nor race predicted mortality.
+In addressing our second objective, we found that although
+African American race did not predict mortality in this sample,
+race moderated the effect of financial strain on mortality.
+Perception of financial strain predicted mortality more robustly
+for African Americans. The interaction between race and
+financial strain had an HR of 2.67, indicating that the
+association between financial strain and mortality was more
+than 2.5 times higher among African Americans with financial
+strain than among Caucasians with financial strain. To further
+explore this relationship, we stratified by race and found that
+the main effect of financial strain on mortality was no longer
+significant for Caucasians. The HR for African American
+women alone, upon stratification, was 3.54 (95% CI ¼ 1.95,
+6.43). None of the other interactions were significant.
+
+DISCUSSION
+This study’s primary finding, that older women reporting
+financial strain were more likely to die within 5 years,
+complements the findings of Blazer and colleagues (2005),
+who reported that basic unmet needs predicted mortality.
+Disability often precedes mortality, and Matthews and
+associates (2005) found that those who had inadequate income
+became disabled almost 10 years earlier than those reporting
+adequate income.
+In contrast to Blazer and colleagues’ (2005) study, however,
+we found that race was an effect modifier in the relationship
+between financial strain and mortality. This divergence in
+results could be the result of differences in the measures used
+in the two studies (income constraint being only one part of
+the Duke composite index) or could be because the studies
+
+originated from different parts of the country and therefore
+might reflect differences in financial strain as a result of
+differences in housing, food, and transportation costs. The
+Duke Established Populations for the Epidemiologic Studies of
+the Elderly is based in North Carolina and includes a substantial
+rural population (Cornoni-Huntley et al., 1993), whereas the
+current study drew participants from urban and suburban
+Baltimore, Maryland.
+The results support the approach of testing for possible
+health effects of financial strain by race. This difference in
+financial strain on mortality by race has at least four plausible
+explanations. First, for each category of financial strain, African
+Americans had a lower income than Caucasians, so there was
+likely more strain experienced by African Americans in each
+category. Second, the difference in wealth across race in this
+country is significant (Orzechowski & Sepielli, 2003) and was
+not measured in this study. In other words, a Caucasian
+participant of a particular income who answered ‘‘just enough’’
+on the adequacy instrument was likely to have 5 to 10 times the
+wealth (e.g., in terms of home ownership or retirement
+accounts) of a African American participant with the same
+income and a ‘‘just enough’’ response. Thus, the ability to
+afford, for example, increases in the price of items such as
+medical prescriptions would be differentially robust for the
+Caucasian and African American participants. A third credible
+explanation is that neighborhood effects are confounding the
+data. Due to residential segregation, Caucasians and African
+Americans of similar income tend to live in dissimilar
+neighborhoods with different levels of housing quality, access
+to services, and resources. For example, in Baltimore City and
+in much of Baltimore County, 74% of Caucasians would have
+to move in order for African Americans and Caucasians to be
+evenly dispersed throughout the area (Iceland, Weinberg, &
+Steinmetz, 2002). Because race and neighborhood may be
+related to both the outcome and the predictor, our results may
+be confounded by neighborhood effects on mortality. Fourth,
+the life course effects of accumulated disadvantages on health
+
+FINANCIAL STRAIN AND MORTALITY
+
+and mortality in African Americans are well documented
+(Farmer & Ferraro, 2005; Ferraro & Farmer, 1996; Ferraro,
+Farmer, & Wybraniec, 1997; Kuh & Ben-Shlomo, 2004). Thus,
+at the same level of need, African American older adults are
+likely to have more accumulated physiologic damage that may
+not have been measured in the adjudicated disease measure.
+A limitation that we should note here is the fact that the
+financial strain question asked in this study did not measure
+wealth. Because older adults generally have a limited income,
+wealth (opposed to income) is a crucial resource measure. The
+present study assessed investment income but not home
+ownership or other assets that are potentially, but not currently,
+liquid. Also, the ‘‘income inadequate’’ group contained only
+44 older women. The members of this group, in addition to
+being considerably more likely to die within 5 years, were
+also more likely to have fewer years of education and less
+income and were more likely to be African American. Although
+our analyses controlled for these potential confounding factors,
+it is possible that there was residual confounding occurring
+here as a result of other unmeasured factors, such as the
+lesser quality of the education received by some women
+(Manly, 2006).
+In summary, these data suggest that for older women,
+financial strain may be a better predictor of mortality than
+annual income, particularly for older African American women.
+Future research could use financial strain as an additional
+measure of financial resources in older women. Studying
+financial strain in older adults may be a more precise way of
+observing SES because it probes the issue of adequacy.
+Furthermore, addressing the imbalance between need and
+resource in older adults may be a more practical intervention
+target (e.g., in the form of prescription co-pay supports or
+increases in food stamps) than increasing actual monetary
+supports.
+ACKNOWLEDGMENTS
+This work was supported by National Institutes of Health Grants
+1F31NR009470-01, 1-T32 NR07968-01, R01 AG11703, and
+1R37AG1990502; the John A. Hartford Foundation Building Academic
+Geriatric Nursing Capacity Scholars Program; and the Johns Hopkins Older
+Americans Independence Center (1P50AG 021334-01).
+S. L. Szanton planned the study, analyzed the data, and contributed to
+writing and revising the paper. J. K. Allen contributed to writing and
+revising the paper. R. J. Thorpe contributed to conceptualizing the paper as
+well as revising it. T. Seeman contributed to revising the paper. K.
+Bandeen-Roche consulted on data analysis. L. P. Fried contributed to
+conceptualizing and writing the paper.
+We have no financial relationships to disclose.
+
+CORRESPONDENCE
+Address correspondence to Sarah L. Szanton, PhD, Johns Hopkins
+University School of Nursing, 525 N. Wolfe street #424, Baltimore, MD
+21205. E-mail: sszanton@son.jhmi.edu
+
+REFERENCES
+Adler, N. E., Epel, E. S., Castellazzo, G., & Ickovics, J. R. (2000).
+Relationship of subjective and objective social status with psychological and physiological functioning: Preliminary data in healthy white
+women. Health Psychology, 19, 586–592.
+Adler, N., Singh-Manoux, A., Schwartz, J., Stewart, J., Matthews, K., &
+Marmot, M. G. (2008). Social status and health: A comparison of
+
+S373
+
+British civil servants in Whitehall-II with European- and AfricanAmericans in CARDIA. Social Science & Medicine, 66, 1034–1045.
+Angel, R. J., Frisco, M., Angel, J. L., & Chiriboga, D. A. (2003). Financial
+strain and health among elderly Mexican-origin individuals. Journal of
+Health and Social Behavior, 44, 536–551.
+Blazer, D. G., Sachs-Ericsson, N., & Hybels, C. F. (2005). Perception of
+unmet basic needs as a predictor of mortality among communitydwelling older adults. American Journal of Public Health, 95,
+299–304.
+Cornoni-Huntley, J., Ostfeld, A. M., Taylor, J. O., Wallace, R. B., Blazer,
+D., Berkman, L. F., et al. (1993). Established Populations for
+Epidemiologic Studies of the Elderly: Study design and methodology.
+Aging, 5(1), 27–37.
+Daly, M. C., Duncan, G. J., McDonough, P., & Williams, D. R. (2002).
+Optimal indicators of socioeconomic status for health research.
+American Journal of Public Health, 92, 1151–1157.
+Davey, S. G., Hart, C., Hole, D., MacKinnon, P., Gillis, C., Watt, G., et al.
+(1998). Education and occupational social class: Which is the more
+important indicator of mortality risk? Journal of Epidemiology and
+Community Health, 52(3), 153–160.
+Diez-Roux, A., Merkin, S., & Arnett, D. (2001). Neighborhood of
+residence and incidence of coronary heart disease. New England
+Journal of Medicine, 345, 99–106.
+Farmer, M. M., & Ferraro, K. F. (2005). Are racial disparities in health
+conditional on socioeconomic status? Social Science & Medicine, 60,
+191–204.
+Feinglass, J., Lin, S., Thompson, J., Sudano, J., Dunlop, D., Song, J., et al.
+(2007). Baseline health, socioeconomic status, and 10-year mortality
+among older middle-aged Americans: Findings from the Health and
+Retirement Study, 1992–2002. Journal of Gerontology: Social
+Sciences, 62B, S209–S217.
+Ferraro, K. F., & Farmer, M. M. (1996). Double jeopardy, aging as leveler,
+or persistent health inequality? A longitudinal analysis of white and
+black Americans. Journal of Gerontology: Social Sciences, 51B, S319–
+S328.
+Ferraro, K. F., Farmer, M. M., & Wybraniec, J. A. (1997). Health
+trajectories: Long-term dynamics among black and white adults.
+Journal of Health and Social Behavior, 38, 38–54.
+Ferraro, K. F., & Su, Y. (1999). Financial strain, social relations, and
+psychological distress among older people: A cross-cultural analysis.
+Journal of Gerontology: Social Sciences, 54B, S3–S15.
+Fried, L. P., Bandeen-Roche, K., Chaves, P. H., & Johnson, B. A. (2000).
+Preclinical mobility disability predicts incident mobility disability in
+older women. Journal of Gerontology: Medical Sciences, 55A, M43–
+M52.
+Guralnik, J. M., Fried, L. P., Simonsick, E. M., Kasper, J., & Lafferty, M.
+(1995). The Women’s Health and Aging Study: Health and social
+characteristics of older women with disability. Bethesda, MD: National
+Institutes of Health.
+Hahn, R. A., Eaker, E., Barker, N. D., Teutsch, S. M., Sosniak, W., &
+Krieger, N. (1995). Poverty and death in the United States—1973 and
+1991. Epidemiology, 6, 490–497.
+House, J. S., Lepkowski, J. M., Kinney, A. M., Mero, R. P., Kessler, R. C., &
+Herzog, A. R. (1994). The social stratification of aging and health.
+Journal of Health and Social Behavior, 35, 213–234.
+Howard, G., Anderson, R. T., Russell, G., Howard, V. J., & Burke, G. L.
+(2000). Race, socioeconomic status, and cause-specific mortality.
+Annals of Epidemiology, 10(4), 214–223.
+Hummer, R., Benjamins, M., & Rogers, R. (2004). Racial and ethnic
+disparities in health and mortality among the U.S. elderly population. In
+N. Anderson, R. Bulatao, & B. Cohen (Eds.), Critical perspectives on
+racial and ethnic differences in health in late life (pp. 69–110).
+Washington, DC: National Academy Press.
+Iceland, J., Weinberg, D. H., & Steinmetz, E. (2002, August). Racial and
+ethnic residential segregation in the United States: 1980–2000.
+Washington, DC: U.S. Government Printing Office.
+Kahn, J. R., & Pearlin, L. I. (2006). Financial strain over the life course and
+health among older adults. Journal of Health and Social Behavior, 47,
+17–31.
+Kawachi, I., Daniels, N., & Robinson, D. E. (2005). Health disparities by
+race and class: Why both matter. Health Affairs, 24(2), 343–352.
+Krause, N. (2006). Church-based social support and mortality. Journal of
+Gerontology: Social Sciences, 61B, S140–S146.
+
+S374
+
+SZANTON ET AL.
+
+Kuh, D., & Ben-Shlomo, Y. (2004). A life course approach to
+chronic disease epidemiology (2nd ed.). New York: Oxford University
+Press.
+Lantz, P. M., House, J. S., Mero, R. P., & Williams, D. R. (2005). Stress,
+life events, and socioeconomic disparities in health: Results from the
+Americans’ Changing Lives study. Journal of Health and Social
+Behavior, 46, 274–288.
+LaVeist, T. A. (2005). Disentangling race and socioeconomic status: A
+key to understanding health inequalities. Journal of Urban Health, 82(2
+Suppl. 3), iii26–34.
+Laveist, T. A., Thorpe, R. J., Jr., Mance, G. A., & Jackson, J. (2007).
+Overcoming confounding of race with socio-economic status and
+segregation to explore race disparities in smoking. Addiction,
+102(Suppl. 2), 65–70.
+Manly, J. J. (2006). Deconstructing race and ethnicity: Implications for
+measurement of health outcomes. Medical Care, 44(11 Suppl. 3),
+S10–S16.
+Matthews, R. J., Smith, L. K., Hancock, R. M., Jagger, C., & Spiers, N. A.
+(2005). Socioeconomic factors associated with the onset of disability in
+older age: A longitudinal study of people aged 75 years and over. Social
+Science & Medicine, 61, 1567–1575.
+
+Oakes, J. M., & Rossi, P. H. (2003). The measurement of SES in health
+research: Current practice and steps toward a new approach. Social
+Science & Medicine, 56, 769–784.
+Orzechowski, S., & Sepielli, P. (2003). Net worth and asset ownership of
+households: 1998 and 2000 (Report No. P70–88). Washington, DC:
+U.S. Census Bureau.
+Pearlin, L. I., Lieberman, M. A., Menaghan, E. G., & Mullan, J. T. (1981). The
+stress process. Journal of Health and Social Behavior, 22, 337–356.
+Singh-Manoux, A., Marmot, M. G., & Adler, N. E. (2005). Does subjective
+social status predict health and change in health status better than
+objective status? Psychosomatic Medicine, 67, 855–861.
+Steenland, K., Henley, J., Calle, E., & Thun, M. (2004). Individual- and
+area-level socioeconomic status variables as predictors of mortality in
+a cohort of 179,383 persons. American Journal of Epidemiology, 159,
+1047–1056.
+Thom, T. (2004). Morbidity and mortality: 2004 chartbook on cardiovascular, lung, and blood diseases. Washington, DC: Public Health Service.
+Received August 30, 2007
+Accepted July 23, 2008
+Decision Editor: Neal M. Krause, PhD
+
+

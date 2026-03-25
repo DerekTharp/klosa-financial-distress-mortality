@@ -1,0 +1,5 @@
+Exposure,Penalizer,HR,CI_low,CI_high,p,N,Events
+Low econ sat (time-varying),Unpenalised,1.21,1.112,1.316,0.0,59929,2856
+Low econ sat (time-varying),Penalised (0.01),1.219,1.128,1.316,0.0,59929,2856
+HH wealth shock (time-varying),Unpenalised,0.977,0.777,1.229,0.8431,38672,1817
+HH wealth shock (time-varying),Penalised (0.01),0.985,0.798,1.216,0.8878,38672,1817

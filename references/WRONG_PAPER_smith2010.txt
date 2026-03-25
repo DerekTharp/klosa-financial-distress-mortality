@@ -1,0 +1,878 @@
+Social Science & Medicine 71 (2010) 345e352
+
+Contents lists available at ScienceDirect
+
+Social Science & Medicine
+journal homepage: www.elsevier.com/locate/socscimed
+
+Antiretroviral therapy and reproductive life projects: Mitigating the stigma of
+AIDS in Nigeria
+Daniel Jordan Smith a, *, Benjamin C. Mbakwem b
+a
+b
+
+Department of Anthropology, Brown University, Box 1921, 128 Hope Street, Providence, RI, United States
+Community and Youth Development Initiatives, 54 Ekwema Crescent, Ikenegbu Layout, Owerri, Imo State, Nigeria
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Available online 29 April 2010
+
+As millions of people infected with HIV in Africa are increasingly able to live longer and healthier lives
+because of access to antiretroviral therapy, concerns have emerged that people might eschew protective
+practices after their health improves. Extending beyond the notion of sexual “disinhibition,” researchers
+have begun to analyze the sexual behavior of people in treatment through the perspective of their
+marital and childbearing aspirations. This article explores the reproductive life projects of HIV-positive
+men and women in southeastern Nigeria, showing how actions that contradict medical advice are
+understandable in the context of patients’ socially normative desires for marriage and children. Based on
+in-depth interviews and observations (JuneeDecember 2004; JuneeJuly 2006; JuneeJuly 2007) of
+people enrolled in the region’s oldest treatment program, we argue that broadly held social expectations
+with regard to reproduction are experienced even more acutely by HIV-positive people. This is because in
+Nigeria the stigma associated with AIDS is closely tied to widespread perceptions of social and moral
+crisis, such that AIDS itself is seen as both a cause and a symptom of anxiety-producing forms of social
+change. Speciﬁcally, in an era of rapid societal transformation, Nigerians see sexual promiscuity and the
+alienation of young people from traditional obligations to kin and community as indicative of threatened
+social reproduction. For people who are HIV-positive, marrying and having children offer not only the
+opportunity to lead normal lives, but also a means to mitigate the stigma associated with the disease.
+Four ethnographic case studies are provided to exemplify how and why social and personal life projects
+can trump or complicate medical and public health priorities. These examples suggest that treatment
+programs must openly address and proactively support the life projects of people on antiretroviral
+therapy if the full beneﬁts of expanded access to treatment are to be realized.
+Ó 2010 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Nigeria
+Antiretroviral therapy (ART)
+HIV/AIDS
+Life projects
+Marriage
+Reproduction
+Stigma
+
+Introduction
+Over the past several years, antiretroviral therapy (ART) for HIV
+and AIDS has become widely available in poor countries, with
+millions of people beneﬁting from increased donor commitments,
+lower drug costs, and expanding governmental and non-governmental programs. This enormous increase in access is laudable for
+enabling people to live longer and healthier lives despite HIV
+infection. However, it also creates a whole range of new possibilities and problems, as those receiving treatment re-imagine and
+forge their larger “life projects” e that is, the socially attuned and
+culturally inﬂected aims and aspirations they have for their life
+course. In particular, as people realize that HIV infection is no
+longer a certain death sentence, they strive to actualize their most
+important priorities, which in Nigeria (and elsewhere) almost
+* Corresponding author. Tel.: þ1 401 863 7065; fax: þ1 401 863 7588.
+E-mail address: daniel_j_smith@brown.edu (D.J. Smith).
+0277-9536/$ e see front matter Ó 2010 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.socscimed.2010.04.006
+
+always include sexual relations, marriage, and childbearing. Yet
+even as ART enables men and women living with HIV to embark on
+the life projects of marriage and reproduction, they also face
+numerous social, ethical, and medical dilemmas as they try to live
+out their ambitions and live up to social norms. Although ART
+permits people with HIV to hope for and undertake these life
+projects, it also complicates them, as the medical consequences and
+public health implications of sex and reproduction conﬂict with
+personal priorities and social expectations. Conversely, achieving
+their reproductive goals frequently impinges on people’s capacity
+to stay on therapy, follow recommended treatment regimes, and
+take adequate precautions to protect others (and themselves) from
+further infection.
+As in many parts of the world, life-saving antiretroviral drugs
+(ARVs) have only recently become more widely available to
+Nigerians. Africa’s most populous country, with more than 140
+million people, has an adult HIV infection rate estimated to be 3.1
+percent, translating into approximately 2.6 million people currently
+
+346
+
+D.J. Smith, B.C. Mbakwem / Social Science & Medicine 71 (2010) 345e352
+
+living with the virus (UNAIDS, 2008). The Nigerian federal
+government launched a small-scale treatment program in 2001
+that enrolled fewer than 10,000 people over four years. In late
+2005, in conjunction with the increased support for antiretroviral
+therapy provided by international donors such as The Global Fund
+and the U.S. President’s Emergency Plan for AIDS Relief, Nigeria’s
+President Olusegun Obasanjo announced that all people in the
+country who need ART (deﬁned in Nigeria as people with CD4
+counts below 200 or who present with AIDS) would receive drugs
+free of charge. The initial goal was to reach 250,000 people by June
+2006. While this ambitious target was not achieved, 2008 estimates
+indicate that approximately 200,000 Nigerians are receiving
+treatment through the scaled-up program, and enrollment
+continues to grow.
+As ART has expanded, attention has begun to turn to the
+implications of treatment with regard to prevention, and speciﬁcally the sexual behavior of recipients (Cusick & Rhodes, 2000;
+Lurie et al., 2008; Moore & Oppong, 2007; Seeley et al., 2009).
+Part of the motivation for studies of the sexual behavior of people
+on ART is a fear that successful treatment will lead to sexual
+“disinhibition” e that is, with the availability of successful treatment, people may eschew protective behaviors. Research in
+developing countries has mainly addressed behavior identiﬁed as
+risky by utilizing quantitative data from surveys (Bateganya et al.,
+2005; Loubiere et al., 2009; Moatti et al., 2003). More recently,
+studies have considered the sexual behavior of people on ART from
+the perspective of their marital and reproductive goals (Cooper,
+Harries, Myer, Orner, & Bracken, 2007; Homsy et al., 2009; Myer,
+Morroni, & Rebe, 2007). This trajectory of research suggests that
+the conduct of people in treatment for HIV must be understood
+through a lens that connects sexuality to gender, reproduction, and
+larger social contexts (Gruskin, Firestone, MacCarthy, & Ferguson,
+2008; Hirsch, 2007; Laher et al., 2009; Persson & Richards, 2008).
+But surprisingly little ethnographic research has been undertaken
+on the topic (for exceptions, see Castro, Khawja, & González-Núñez,
+2007; Watt et al., 2009; Ware et al., 2009). An anthropological
+approach can provide the wider social perspective and the intimate
+details of individual lives that are necessary to make sense of
+behaviors that would otherwise be difﬁcult to understand.
+This paper reports on ethnographic research conducted among
+people on ART in southeastern Nigeria, focusing particularly on the
+intersection between the therapeutic itineraries of individuals on
+treatment and their reproductive life projects. Four emblematic
+case studies are presented to understand how marriage and
+childbearing are particularly salient in explaining why people’s
+larger life projects can complicate and even trump medical and
+public health priorities in Nigeria and beyond. In an era of rapid
+social change, anxieties about the future of traditional kinship are
+widespread. Ordinary Nigerians often interpret HIV and AIDS as
+symptomatic of a general sense of social and moral crisis in which
+perceptions of unfettered promiscuous sex abound. In response to
+widely shared apprehensions about social reproduction, young
+Nigerians e regardless of their HIV status e commonly experience
+intense pressures to marry and have children. But for people who
+are HIV-positive, these expectations are even sharper, not only
+because ART makes possible the desire to reclaim normal life
+courses, but also because part of AIDS’s social stigma derives from
+its moral association with the breakdown of pro-kinship values that
+are widely perceived to be essential to stable social reproduction.
+For people who are on ART, successful marriage and childbearing
+are inextricably tied to protecting their social reputations, hiding
+their HIV-positive status, and avoiding stigma. Marrying and
+having children offer path to normalcy, but also a way of countering
+the popular perception that people contract HIV because they
+behave in ways that ﬂout widely accepted moral notions that
+
+connect sex and social reproduction. Marriage and fertility fulﬁll
+these obligations of social reproduction, contesting the idea that
+AIDS is a cause and a symptom of social and moral failures. In
+Nigeria e and arguably in many African settings where the situation
+is similar e successful expansion of treatment and continued efforts
+at prevention require policies and programs that more readily
+acknowledge and more explicitly enable people’s larger life projects.
+Research setting and methods
+The ﬁndings presented in this paper are the result of several
+years of work and study by the authors with patients receiving
+ARVs from the Federal Medical Centre (FMC) in the southeastern
+Nigerian city of Owerri. Until recently, FMC-Owerri was the only
+facility in the region offering ART. The hospital initially enrolled 450
+adults living with HIV, and from 2002 through 2005 these individuals received drugs at a highly subsidized rate (less than $10 per
+person per month). In 2006, following the new policy of free drugs
+and the plans for a massive scale-up, FMC-Owerri began expanding
+its government-supported program with a target of 2000 patients.
+By 2007 this target was achieved.
+The ﬁrst author has worked in southeastern Nigeria since 1989,
+initially as a public health advisor based in Owerri for three years,
+and since 1994 as an anthropologist. He has studied Nigeria’s HIV
+epidemic since 2000, and from 2004 to 2007 conducted extended
+interviews with people receiving ART through the FMC-Owerri
+program. In 2004, he led the Nigeria component of an NIH-funded
+ﬁve-country comparative ethnographic research project, “Love,
+Marriage, and HIV,” in which the marital and reproductive experiences and plans of people on ART became an important subtheme of the larger study (Hirsch et al., 2009).
+The second author founded the Owerri-based non-governmental organization, Community and Youth Development Initiatives (CYDI), in 2001, with the principal aim of addressing Nigeria’s
+AIDS epidemic by mobilizing local people and resources to increase
+effective prevention, offer counseling, and provide care and support
+for individuals living with the virus. CYDI has worked to organize
+prevention activities for hard-to-reach populations like urban nonschool youths, created the most prominent and popular center for
+counseling and information about HIV and AIDS in the city, and
+helped to found the ﬁrst support group in Imo State for people
+living with HIV, called the Association for Positive Care (AsPoCa),
+which is comprised of dozens of individuals receiving ART through
+the FMC-Owerri program. The second author has counseled scores
+of people who are HIV-positive.
+The ﬁndings in the paper are the result of the observations,
+interviews, and experiences of the authors working with HIVinfected people receiving ART. Participants were recruited through
+information provided about the study on clinic days and at meetings of a local support group for people living with HIV. This
+opportunistic sample included a range of ages and marital statuses,
+equal numbers of men and women, and individuals who had been
+on treatment for as long as four years and as brieﬂy as six months.
+Interviews were conducted by the authors, in mixtures of English,
+Pidgin English, and Igbo, with 22 people receiving treatment.
+Interviews were transcribed (and, where necessary, translated into
+English) and coded using the qualitative software data organizing
+program, Atlas.ti. Interviews were supplemented by observations
+and interactions with study subjects outside the context of formal
+interviews. All of the names of the individuals whose cases are
+described are pseudonyms, and aspects of their stories have been
+disguised to protect their anonymity. Each interviewee provided
+formal consent to participate in the study and IRB approval for the
+research was obtained at Brown University in the USA and at Abia
+State University in Nigeria.
+
+D.J. Smith, B.C. Mbakwem / Social Science & Medicine 71 (2010) 345e352
+
+Conceptual framework and analytical approach
+The interpretation of research ﬁndings is grounded in
+a conceptual framework that situates the reproductive and therapeutic behavior of people on ART in the context of widespread
+anxieties about social reproduction created by Nigeria’s AIDS
+epidemic, together with the enduring importance of marriage and
+fertility e both generally, and as these values have been accentuated by the threat of AIDS. As in many African societies, in Igbospeaking southeastern Nigeria marriage remains one of the most
+important individual aspirations and social duties in a person’s life
+(Isiugo-Abanihe, 1998; Smith, 2001). It is hard to overstate the
+centrality of matrimony in the life course. In Igbo society, marriage
+is nearly universal and the failure to marry is highly stigmatizing.
+Marital unions are seen as a collective project in which extended
+families and communities are highly invested.
+Yet at the same time that marriage remains a pillar of social
+reproduction and a pivotal rite of passage in the individual life
+course, the institution has not been immune to the dramatic pace of
+social change that characterizes contemporary Nigeria. In general,
+younger people are more likely than their parents to name
+romantic love as a signiﬁcant criterion for selecting a spouse, and
+the notion of individual choice (as opposed to arranged marriage) is
+now widely accepted (though, in fact, families still exert considerable inﬂuence). Today, in addition to inﬂation in the amount of
+expected bridewealth required for marriage (bridewealth being the
+gifts that are transferred from the husband’s family to the wife’s
+family), the costs of wedding ceremonies are exorbitant. As a result
+of all these changes, although marriage is universally expected in
+Igbo society, elders are anxious about the types of partners that
+young people might choose and young people are worried about
+whether they can ever afford a wedding.
+The AIDS epidemic intersects with these anxieties in powerful
+ways. The stigma attached to HIV and AIDS is inextricably intertwined with a collective sense that processes of social change are
+unsettling, and with the tendency to blame individual moral failures for this perception of decline. In Nigeria, as in many places in
+Africa, HIV is perceived as a disease of modernity, associated with
+social changes attributed to urbanization, globalization, and
+development (Setel, 1999). A widespread sense of social crisis is
+expressed in the idiom of moral decline, and nowhere is this unease
+more powerfully articulated than with regard to concerns over
+sexual promiscuity. It is one of the great ironies of the African HIV
+epidemic that while Western societies tend to depict AIDS as the
+consequence of traditional African sexual and cultural practices, in
+African societies people explain AIDS as the result of too much
+change, excessive Western inﬂuence, and the bastardization of
+traditional culture (Rodlach, 2007; Setel, 1996). The association of
+modern sexualities with anxieties about growing individualism,
+unbridled materialism, and threatened social reproduction ﬁnds
+a ready medium for expression in the AIDS epidemic, a fact that
+reverberates in the lives of Nigerians who are HIV-positive.
+Until the availability of ART, the notion that HIV was not only
+a medical death sentence but also a social death sentence was very
+much the perception in Nigeria. Understanding the nature of the
+social death sentence, and the restoration of life projects enabled by
+ART, requires recognizing that stigmatization of the disease is
+bound up with the fact that a life cut short by AIDS was often a life
+without reproduction. It is possible to hide one’s HIV status, but it is
+not possible to hide whether or not one is married and has children,
+a point that will emerge repeatedly in the four case studies that
+follow.
+With the possibility of treatment and a prolonged life, the most
+important goals that people receiving ART pursue are the life
+projects of marriage and childbearing. We argue that the high
+
+347
+
+priority that people on ART attach to marriage and reproduction is
+explained not only by their overall value in Nigerian society, but
+also by the fact that HIV itself is associated with the very threats to
+social reproduction e by which we mean perceptions of widespread promiscuity and challenges to kinship and community
+posed by contemporary social change e that are so widely decried
+in Nigeria. Although it is possible to achieve one without the other,
+and although we have separated the discussions of marriage and
+childbearing for analytical purposes, as the cases below show, for
+many people the desires for marriage and children e and the effort
+to realize these aspirations e are mutually constituted and deeply
+intertwined.
+The following analysis will present and explicate four separate
+case studies. These were chosen for the ways that they illustrate
+and represent more general themes in how many individuals
+balance their life projects with their ARV treatment. We describe
+each case study in detail in order to highlight the threads that were
+common across our larger subject population, as well as the ways in
+which each individual’s seemingly contradictory or risky choices
+can best be understood in the broader context of their lives.
+
+Therapeutic itineraries and pathways to marriage
+For unmarried young adults and older adults widowed by AIDS,
+as the shock of an HIV diagnosis is mitigated over time and as the
+positive effects of ART are experienced in terms of restored health
+and a psychological realization of a possible future, the desire for
+and obstacles to ﬁnding a marriage partner become the most
+pressing issues they face. Finding a spouse while taking ARVs
+creates ethical dilemmas about disclosure, poses impediments to
+taking the drugs, and generates possible risks to the health of both
+partners in such relationships. At counseling sessions offered in
+conjunction with ART, patients are made well aware of the medical
+necessity of strict observance of therapy regimens and the dangers
+to themselves and others if they engage in unprotected sex. It
+should be noted that considerable evidence exists that as ART
+lowers viral loads it also reduces the risk of transmission (Attia,
+Egger, Müller, Zwahlen, & Low, 2009). But in Nigeria the common
+message ART patients receive is that sex without condoms is risky.
+However, condom use is complicated by the fact that unprotected
+sex is commonly seen in southeastern Nigeria as both a marker of
+trust and an expression of the possibility that a relationship could
+evolve into marital union with children (Smith, 2004). Public health
+messages about how to keep oneself and others healthy clash with
+social expectations and conventions about how to conduct a relationship that might lead to marriage. The challenges of navigating
+the landscape of sex, marriage, and reproduction are intensiﬁed by
+the fact that HIV itself is seen as a symbol of social crisis and moral
+decline.
+Ifeoma’s story illustrates some of the typical dynamics that
+unfold as a person on ARVs begins to reconstruct a life project,
+looking to marry but struggling with whether or how to reveal her
+status, and how to take her drugs while in a relationship with a man
+who did not know that she was HIV-positive. Ifeoma came to the
+FMC-Owerri in December 2002 desperately sick. She had large
+ulcers in her mouth. She couldn’t eat and appeared severely wasted
+e even on the verge of death. Ifeoma tested positive for both HIV1
+and HIV2 and was immediately started on ART. Over time she
+recovered remarkably well, to the point where the staff at CYDI said
+that her plump ﬁgure and smooth skin were prime examples of the
+astonishing effects of ARVs and evidence of the veracity of the
+often-cited AIDS message in Nigeria that “AIDS no dey show for
+face” (Pidgin English for “you cannot tell if someone has HIV by
+looking at them”).
+
+348
+
+D.J. Smith, B.C. Mbakwem / Social Science & Medicine 71 (2010) 345e352
+
+A couple of years prior to her illness, Ifeoma had been separated
+from her husband. Shortly after their ﬁrst child was born, they had
+a serious ﬁght that led her to return to her family and her natal
+community. The separation lasted several months and at one point
+during this estrangement she heard that both her husband and her
+infant son were sick. Before she could arrange to visit, she learned
+that they both had died. Rumors circulated that the man died of
+AIDS. At that time, Ifeoma’s mother urged her to get an HIV test, but
+she refused. She felt perfectly ﬁne and did not believe that her
+husband and child had died of AIDS, much less that she could feel
+so healthy and also be infected.
+About seven months later she became ill with a fever and
+diarrhea and went to a local hospital. Unknown to her, the hospital
+conducted an HIV test. She recalled being summoned to the
+doctor’s ofﬁce, without any of the preparations of pretest counseling. The doctor began by saying things like “you know, in this
+world man proposes but God disposes” and “some news can appear
+to be too bad, but over time we realize it’s not the end of the world.”
+He then revealed that she was HIV-positive. Ifeoma reportedly
+fainted and remembers waking up with water being thrown on her
+face and a crowd of doctors and nurses surrounding her.
+After her husband’s death but prior to learning of her HIVpositive status, she had begun a relationship with a man in a nearby
+city. When she got sick her new partner did not know of the extent
+of her illness or her HIV status because she had returned to her
+natal home. Prior to her illness, Ifeoma and her boyfriend had
+frequent unprotected sex and the man was encouraging her to get
+pregnant to “fast-forward” a marriage. He wanted evidence of her
+fecundity before formalizing their relationship. After learning that
+she was HIV-positive, Ifeoma felt she could not tell him her status
+without jeopardizing the relationship. She believed that once he
+found out he would make inquiries about her past and discover the
+rumors that her ﬁrst husband had died of AIDS. This news, she
+thought, would make him suspect that she began having unprotected sex with him knowing full well that she was HIV-positive.
+Further, she felt it was impossible to introduce condoms into their
+sexual relationship given their shared desire for her to get pregnant. There would be no reasonable way to explain her sudden
+desire for protection.
+Taking her drugs required vigilance to maintain her secret.
+Each of Ifeoma’s three antiretroviral drugs was a separate pill and
+each had to be taken twice a day. Combined with the various
+vitamins she also took, it meant that a monthly supply was more
+than 200 pills. To navigate this problem, Ifeoma took advantage of
+one aspect of household gender inequality. She hid the pills under
+the sink in the kitchen e a room, she reported, her boyfriend
+almost never entered. Further, she would time her dishwashing e
+a task he never undertook e to coincide with when she needed to
+take her medications. In this way she managed to keep her secret
+and stay on her drugs. At the time that we lost contact with
+Ifeoma e she moved to the city of Port Harcourt with her
+boyfriend and planned to try to collect her ARVs there e she was
+still hoping to get pregnant, marry her boyfriend, and eventually
+ﬁnd a way to disclose her status.
+For many people on ARVs like Ifeoma, issues of disclosure are
+central to the endeavor of navigating sexual and romantic relationships, and these issues frequently come to a head around plans
+for marriage. With the increasing awareness of the risks of HIV in
+Nigeria, many churches, including the Catholic Church, now require
+couples to undergo HIV tests if they wish to be married in the
+church. The prospect of being tested before marriage creates great
+anxieties for individuals who are HIV-positive. People create all
+kinds of ways to deal with this problem, including using premarital
+testing as a way to gracefully disclose their infection without
+revealing that they have previously kept it secret.
+
+The case of Chinyere is illustrative. On World AIDS Day in
+December 2003, Chinyere came to CYDI’s ofﬁce in search of help.
+After crying until she was exhausted, she narrated her story to
+Benjamin, this paper’s second author. Early in 2003 she had gone to
+the hospital very sick. Unknown to her, she was admitted at an
+institution notorious for its unwillingness to treat HIV cases. After
+a short stay at the hospital a nurse asked her to follow her to the
+doctor’s ofﬁce. Barely able to walk, Chinyere dragged herself into
+the doctor’s consulting room. As she sat down he held up her lab
+result and shouted: “Look at you! The sin of fornication has ﬁnally
+caught up with you! Before I open my eyes I want you out of this
+building. We don’t treat people like you here.” While the willingness of health professionals in Nigeria to treat HIV has improved
+dramatically in recent years, some doctors still refuse to care for
+AIDS patients, and hospitals and clinics can be venues for the
+perpetuation of discrimination. Banished from that hospital, she
+eventually received treatment from another doctor who willingly
+treated HIV patients. She got well and for many months Chinyere
+felt perfectly ﬁne. She put her HIV status out of her mind.
+The following August, an Igbo man based in Europe whom her
+family wanted her to marry came home for a visit, partly with the
+idea of seeing whether Chinyere was the woman for him. As indicated earlier, in contemporary southeastern Nigeria, young people
+increasingly choose their own spouses independent of family
+preferences, often based on an ideal of romantic love, but the role of
+families in suggesting possible spouses and advocating for (or
+rejecting) particular unions remains prominent. Igbo men who
+have migrated overseas are particularly liable to look for help in
+ﬁnding “a good girl from home” to marry. When Obi returned to
+Nigeria, he and Chinyere got along well. With his migrant’s wealth,
+they traveled around the country and Chinyere enjoyed his
+company. Eventually, they started having sex. Just before he was to
+return to Europe, she fell sick e so sick that she could not even
+escort him to Lagos for his departure.
+When Chinyere arrived at CYDI she was frightened about her
+future. During Obi’s visit things had gone so well that they had
+initiated the ﬁrst steps in the traditional marriage ceremony and
+Chinyere had moved in with her future mother-in-law. CYDI helped
+her get immediate treatment, and eventually aided her in getting
+enrolled in the ART program. She began to get well physically, but
+in Chinyere’s mind she had bigger problems e the possibility that
+her HIV infection would derail her marriage. Obi was a wealthy
+man. He was sending money home to build a big house in his
+village. Chinyere was handling the money, meaning that she always
+had cash. Her future mother-in-law liked her. She and Obi genuinely seemed to care for each other. There was the added enticement that she might eventually join her husband overseas. The
+possibility of losing it all if her HIV status was revealed was
+terrifying.
+Not too long after Chinyere started on her ARVs Obi arranged to
+have the next steps of the traditional wedding ceremony undertaken in his absence. The traditional wedding, where the two
+extended families come together to perform the customary rituals,
+is often completed in the absence of one or both of the betrothed,
+especially in this era of far-ﬂung migration. The plan was that they
+would also be married in the church when Obi next returned to
+Nigeria. In the week leading up to the traditional ceremony, Chinyere experienced terrible rashes all over her body, a common
+reaction to nevirapine, one of the ﬁrst-line drugs in the ARV
+combination provided in Nigeria’s ART program. She came to CYDI
+frantic about her appearance, worried that someone might guess
+that she had HIV, and fretting that she couldn’t possibly wear
+a turtleneck at her traditional wedding ceremony, where the bride
+is expected to dress in the latest fashions. She eventually told her
+mother-in-law that she had an allergic reaction to an everyday
+
+D.J. Smith, B.C. Mbakwem / Social Science & Medicine 71 (2010) 345e352
+
+medication and this was the story conveyed to the larger wedding
+party. Chinyere made it through the traditional wedding without
+her HIV status being discovered, but she still faced the fact that Obi
+would soon come home for the church wedding, and she had not
+revealed her status to him.
+The impending church wedding hastened her dilemma because
+she and Obi were Catholics and, as mentioned above, HIV tests were
+required of all couples wanting to marry in the church. Chinyere
+came to CYDI pleading for assistance either to obtain a fake HIV lab
+result or ﬁnd someone who was HIV-negative who could take the
+test in her name. It is widely known that in Nigeria fake lab results
+are sought and sometimes issued to enable church weddings.
+When she was told that CYDI would not facilitate such a scam, she
+discussed with her counselor other possibilities. She settled on the
+idea that she would go together with her ﬁancé for pretest counseling, pretend it was her ﬁrst test, and feign horror when her result
+was revealed. She banked on the hope that Obi would stick by her
+when her status was revealed now that they were traditionally
+married, and that she would avoid the worse consequences of his
+discovering her longer-term deception.
+On the appointed day, when she and Obi went for their results,
+Chinyere fainted dramatically. Her gamble paid off. Although Obi
+tested HIV-negative, he did not threaten divorce, as many Nigerian
+men do when they ﬁnd out their wife is positive and they are
+negative. CYDI staff attributed Obi’s seemingly enlightened
+response to all the time he had spent in Europe, but we can only
+speculate about the reasons for his tolerance because we were
+unable to interview him. Perhaps the most illuminating aspect of
+the story is that once Chinyere’s status was known Obi became a coconspirator in ﬁguring out how to get married in the Catholic
+Church. He could accept his wife’s HIV status, but he could not live
+without the social recognition of a church wedding and he
+personally arranged to secure a fake result for Chinyere.
+Chinyere eventually became pregnant, and with the aid of
+treatment her child was born HIV-negative. She did not breastfeed
+the baby boy and again had to invent an explanation to cover her
+unusual behavior. Over time she lost contact with CYDI, but at last
+report her marriage remained amicable, her child was healthy, and
+only she and Obi knew her HIV status.
+ART, reproduction, and “Normal Lives”
+It is hard to exaggerate the importance of childbearing in
+southeastern Nigeria and throughout much of Africa. As the
+renowned anthropologist Meyer Fortes argued long ago, “parenthood is regarded as a sine qua non for the attainment of the full
+development of the complete person to which all aspire” (1978:
+125). Having children is not only a means to individual personhood,
+but also a fulﬁllment of one’s obligations to kin and community.
+Biological reproduction is part of social reproduction. Through
+marriage and parenthood, one not only reproduces and replaces
+individuals, one also creates and builds the social networks through
+which people survive and prosper. Every Igbo person assumes he or
+she will marry and have children, and childlessness is the highest of
+calamities. Personal lives are devastated by it and popular culture is
+obsessed with it, a fact illustrated by the frequency with which
+infertility is a central theme in ﬁlms produced by Nigeria’s growing
+video industry.
+It this context, it is no wonder that for people on ART one of the
+predominant aspirations once they begin to feel healthy is to have
+children. Many ART patients embark on or resume childbearing, but
+the process is fraught with social obstacles and potential health
+consequences. A particularly poignant case exempliﬁes the social
+and symbolic importance of children in Igbo society in general and
+for people living with HIV in particular.
+
+349
+
+Ukachi was a young woman who periodically attended the
+Monday ART clinic at FMC-Owerri to collect her drugs. But she did
+not join the support group and seemed to have little or no interaction with other people on ARVs. One day, she approached a CYDI
+staff member. She was worried that she might be infecting her
+boyfriend or that she was being re-infected by him. They were
+hoping to marry and have children and she didn’t know what to do.
+It turned out that Ukachi was already a single mother. She had
+a four-year-old son to whom she gave birth long before she
+discovered she was HIV-positive. Over time, we learned that as
+a teenager she had fallen deeply in love with her cousin. In Igbo
+culture they were absolutely forbidden to marry and their relationship was a secret. They fantasized about moving abroad so that
+they could be together but that was never possible. Although they
+knew they could never marry, they decided to have a child together
+as an enduring expression of their love. When Ukachi became
+pregnant her family pressured her to reveal the identity of the
+father, even beating her for the information, but she never exposed
+her cousin. Eventually, he married and had children with another
+woman, but he and Ukachi continued to proclaim their love to each
+other and he secretly supported her in raising their child.
+After several years of pining for her cousin, Ukachi resolved that
+she too would have to marry and have a family of her own, and she
+set her mind to that task. She started a relationship with a man
+whom she thought might make a good husband. Several months
+into that relationship, one of her relatives was in an accident and
+she traveled to the hospital to donate blood. As part of that process
+her blood was screened and she was informed that she was HIVpositive. She had never been sick and for several months she tried
+to ignore the result, continuing her relationship with her boyfriend.
+Finally, she decided to travel to Owerri to seek a conﬁrmatory test at
+the FMC. She was indeed HIV-positive. She followed up with more
+tests and when it was revealed that her CD4 count was low she
+started on ARVs.
+All of the information she had learned through post-test counseling and the programs run by CDYI made her fearful that she
+might be infecting her boyfriend, but also apprehensive about
+whether he might have infected her. He had recently been sick, but
+claimed it was malaria. She wanted to persuade him to do an HIV
+test, but didn’t know how without making him suspect she was
+infected. He wanted her to get pregnant before they set a date for
+marrying, so she was as worried about getting pregnant as about
+protecting her health. With time, the boyfriend decided they
+should proceed with the traditional wedding even though Ukachi
+was not pregnant. Shortly after they married she became pregnant.
+She stopped coming to Owerri for her drugs and for a long time we
+lost contact.
+Ukachi had moved to the city of Enugu with her new husband
+and had indeed stopped taking her medication. We learned this
+because when she was seven months pregnant she went for
+antenatal care in Enugu and the clinic staff said they would not
+agree to assist her delivery unless she did an HIV test. Faced with
+the possibility of exposure (her husband still did not know her
+status), she traveled to Owerri so that she could give birth at the
+FMC. Once one of the most beautiful and healthy looking of all the
+patients in the ART program, Ukachi looked sickly and wasted. She
+stayed in Owerri long enough to have her baby, but returned shortly
+thereafter to Enugu. When we asked why she had stopped taking
+her medication, she said she feared she could not hide or explain all
+the pills (as a patient coming from Enugu e two hours away e she
+could collect three months of pills, which, including vitamins,
+would amount to over 600 tablets). Rather than risk facing the
+consequences of revealing her HIV status and possibly undermining her marriage, she chose to have a child who would solidify
+the relationship and she stopped taking her drugs, even though
+
+350
+
+D.J. Smith, B.C. Mbakwem / Social Science & Medicine 71 (2010) 345e352
+
+these actions posed potentially disastrous health consequences for
+her, her baby, and others. It is impossible to understand Ukachi’s
+therapeutic itinerary without accounting for the primacy of
+marriage and reproduction in the socially shared conceptions of
+why one would care to be alive in the ﬁrst place. For people who are
+HIV-positive, fears of disclosure and awareness of the stigma
+associated with AIDS heighten the urgency of constructing a life
+project that looks normal to partners, family, and society.
+Concerns about appearing normal extend beyond people who
+are infected to their spouses and families. We observed numerous
+cases where an uninfected spouse who knew his or her partner was
+HIV-positive nevertheless exerted tremendous pressure to
+procreate. Nnamdi was a founding member of AsPoCa, the Owerri
+support group. He learned he was HIV-positive after becoming
+extremely sick. At the time that he was diagnosed with HIV he tried
+numerous treatments, including various traditional doctors,
+without improving signiﬁcantly. When the FMC-Owerri ART
+program began in 2002 he was one of the ﬁrst to enroll. He told his
+wife of his problem immediately e in fact, he had no choice because
+when he ﬁrst received his lab result several family members were
+with him in the hospital and the indiscreet staff revealed his HIVpositive status to him in front of the visitors. His wife stuck by him
+steadfastly. She tested negative for the virus. At the time of his
+diagnosis they had two young sons.
+Nnamdi said that when he was sick he never even thought of
+sex, much less of having another child. But when he became better
+after beginning ART he and his wife resumed a sexual relationship.
+Nnamdi reported that he always used condoms. About a year or so
+after he had started on ART, he sought counseling at CYDI because
+his wife began putting pressure on him to have another child. As
+a leader of AsPoCa he was well versed in the most up-to-date
+information about risks, prevention, and treatment. He said he did
+not want to expose his wife to HIV, and he was not inclined to risk
+unprotected sex to produce a pregnancy when they already had
+two HIV-negative sons. Because of the patrilineal structure of Igbo
+lineages, people are greatly concerned with having sons to pass on
+their names, land, and property. Normally, Nnamdi would have
+been eager to have another child and happy to have a daughter, but
+under the circumstances, he said, “I am ok with two sons.”
+His wife, Ogechi, was, however, intensely desirous of having
+a third child. Nnamdi wasn’t sure how to negotiate her increasing
+insistence so he asked if he could bring Ogechi to CYDI for counseling. At CYDI she was told about the dangers of unprotected sex
+for herself and about the possible risks of mother-to-child transmission. She knew the facts already and still wanted to get pregnant. She explained that her friends and relatives had been asking
+for some time why she had not had another child. She said,
+“Everyone is always asking about my next issue (offspring). I do not
+feel normal with only two children. I can’t tell them why we are not
+having more issues (children).” In addition to the social pressure to
+have more children, she also expressed a strong desire for
+a daughter. Regarding the possibility of contracting HIV herself, she
+simply said, “My husband is healthy now that he is taking his drugs.
+If I become infected I will also take drugs.” As with many Nigerians,
+the desire for more children eclipsed any perspective on long-term
+health risks to herself.
+CYDI referred Ogechi to the doctor in charge of the ART clinic at
+FMC-Owerri to make sure that she fully understood the medical
+risks. To date, Ogechi has not had another child. But the reason was
+not from a greater understanding of the health risks; it was due to
+a change in her perception of her marriage, and particularly the
+behavior of her husband, who she discovered was cheating on her.
+Had Nnamdi not resumed a pattern of extramarital relationships
+that Ogechi found reprehensible, there is no reason to think that
+she wouldn’t have continued to insist on another child.
+
+It should be clear that marriage and reproduction are among
+the most important dimensions of forging a normal life in
+southeastern Nigeria, a fact that is accentuated for people on ART
+because HIV is associated with collective anxieties about social
+reproduction. But of course in Nigeria, as everywhere, social
+norms are by no means monolithic. A “normal” life is not
+reducible to the duties promulgated in formal social conventions.
+Nnamdi’s resumption of habitual extramarital sex is emblematic
+of the multiple forms of normalcy and the kinds of resurrected
+life projects that must be understood in the context of the
+availability of antiretroviral treatment. In his public persona as an
+AsPoCa leader and in private conversations with friends at CYDI
+Nnamdi presented himself as someone who steadfastly adhered
+to moral and medical codes, which prohibit extramarital sex. To
+people who knew he was HIV-positive he spoke with great
+authority about all the things that one must do e and that he said
+he did e to protect the health of himself and others. But over time
+we began hearing stories from women who joined AsPoCa that
+Nnamdi was one of a number of men in the group who preyed
+upon single or newly widowed women, taking advantage of their
+vulnerability to entice them into sexual relationships. Nnamdi’s,
+wife, Ogechi, eventually came to CYDI to complain about her
+husband’s behavior. She was now worried about protecting
+herself and no longer demanded another child. In the words of
+one CYDI staff member, “She no longer sees him as a loving
+husband for whom she will do anything in his time of need. Now
+she sees him as the man she’s living in the same house with
+whose actions she cannot predict or control.” In her words, “he is
+back to normal,” with all the unhappy connotations it implied.
+Nnamdi’s apparent sexual “disinhibition” needs to be understood
+in context. Rather than simply a deviation from medical advice
+(and from the normative life projects of marriage and reproduction), his behavior is in fact part of common pattern among
+married men in Nigeria, who reinforce their social status through
+extramarital relationships with younger women (Smith, 2007).
+For Nnamdi, his health brought about a return to normal sexual
+life, both as a husband and outside his marriage.
+Conclusion
+For most people who are enrolled in Nigeria’s expanding antiretroviral therapy program, the opportunity to resume a normal life
+is cherished and ardently pursued. In our experience, the most
+valued part of a resurrected life in Nigeria is the chance to marry (or
+remarry) and have children. While the vast majority of people on
+ARVs at the FMC-Owerri are mindful of the continued risks, and
+committed to keeping themselves and their loved ones safe, the
+physical risks to personal and public health are factored into
+a larger equation in which the very reasons for being alive are
+always paramount.
+In southeastern Nigeria, marriage and parenthood, the principal
+tasks of biological and social reproduction, reign supreme in the
+hierarchy of social expectations and individual aspirations. For
+people who are HIV-positive, the importance of these life projects is
+felt even more sharply because the stigma of AIDS derives from the
+popular perception that infection is indicative of moral failings e
+like sexual promiscuity and weakening ties to kin and community
+e that are seen as responsible for threatened social reproduction.
+By pursuing normative life projects, people on ARVs mark themselves as morally legitimate despite their HIV status e in other
+words, they contradict the stereotype surrounding HIV. As the cases
+of Nnamdi and Chinyere demonstrated, when individuals pursued
+the pro-social life projects of childbearing and faithful marriage,
+many spouses dismissed the stigma of their partner’s HIV and were
+willing to overlook the risks that their marriage posed to their own
+
+D.J. Smith, B.C. Mbakwem / Social Science & Medicine 71 (2010) 345e352
+
+health. However, just as Nnamdi’s wife began to fear for her own
+status only after she discovered her husband was having extramarital affairs, so the stigma associated with HIV becomes most
+salient e perhaps ironically e when HIV-positive people do not
+commit themselves wholeheartedly to marriage and childbearing.
+Marrying and having children are ways of asserting one’s contribution to family, community, and society, as well as deﬂecting the
+moral stigma associated with the disease.
+For many people on ARVs the dilemmas of how to make families
+while living with HIV are resolved, or at least addressed, by seeking
+partners from within support groups like AsPoCa. At FMC-Owerri,
+AsPoCa has been a principal meeting ground for people seeking
+sexual partners and possible spouses. Several other support groups
+have been established in the region and anecdotal reports suggest
+that they have also become arenas for sexual networking and
+marriage markets (see also Rhine, 2009). Further, as in the larger
+society, not all of what goes on in the support group is laudable e
+for example, as members of support groups are sometimes subject
+to pressure from other members to engage in sexual relationships.
+But overall, the emerging communities of people living with HIV
+seem to be a positive development, enabling people to forge life
+projects, including reproduction, in ways that make it easier to
+address both social and medical realities.
+The lives of people living with HIV remain intertwined with the
+wider population of people who do not know their status. Life
+projects, especially reproductive life projects, continue to pose
+social predicaments, public health risks, and existential dilemmas.
+Whether, when, and how to disclose one’s HIV status; how to marry
+and have children in ways that meet social expectations and achieve personal ambitions; and how to stay healthy and on drugs
+while doing so e these are all priority issues for people who have
+been provided another chance at life by ART.
+As the cases described above have illustrated, the availability of
+drugs has restored the possibility of normal lives for people with
+HIV that were perceived as impossible given the social and biological death sentences associated with AIDS in Nigeria. But stigma
+remains powerful. As a result, people on ARVs continue to try to
+manage their treatment mostly in secret, while they simultaneously craft public lives that are seen as upholding the values of
+creating and perpetuating families, in the process securing the
+future of local culture through marriage and childbearing, and in so
+doing hopefully mitigating against potential stigma if and when
+their status is discovered.
+Based on the ﬁndings from this ethnographic examination of
+a small population of people on ART in southeastern Nigeria, it is
+clear that organizations that provide treatment and counseling
+face many challenges in promoting behaviors that are in the
+interest of both their individual patients and broader public
+health. The experiences at FMC-Owerri and CYDI suggest that it is
+crucial to acknowledge, understand, and support the restoration
+of reproductive life projects. Given how important sexual relationships, marriage, and reproduction are for people on ART in
+southeastern Nigeria e and the likelihood that these priorities
+will be similar in many other societies e clinicians, counselors,
+and other public health personnel need to be mindful that their
+messages and advice will be heeded much more effectively if they
+enable these life projects. There is probably no way to avoid the
+fact that the fulﬁllment of personal aspirations and social
+expectations sometimes directly conﬂicts with public health
+interests. But as the stories described here attest, people on ART
+are highly attuned to these issues; most of them take all of this
+into account to the extent that they can. The life projects of
+people on ARVs are complicated, contradictory, and messy.
+Perhaps we should not expect much different; ART allows people
+infected with HIV to live normal lives.
+
+351
+
+Acknowledgements
+This research was supported by National Institutes of Health
+grant no. R01 HD041724. We would like to thank colleagues Bianca
+Dahl, Constance Nathanson, Jennifer Hirsch, Shanti Parikh, Harriet
+Phinney, and Holly Wardlow for their various contributions to
+thinking through the ideas developed in this paper, as well Dr.
+Eugenia Ofundu at the Federal Medical Centre in Owerri, Nigeria for
+her many insights about the lives of people receiving ART.
+References
+Attia, S., Egger, M., Müller, M., Zwahlen, M., & Low, N. (2009). Sexual transmission of
+HIV according to viral load and antiretroviral therapy: systematic review and
+meta-analysis. AIDS, 23(11), 1397e1404.
+Bateganya, M., Colfax, G., Shafer, L. A., Kityo, C., Mugyenyi, P., Serwadda, D., et al.
+(2005). Antiretroviral therapy and sexual behavior: a comparative study between
+antiretroviral-naive and -experienced patients at an urban HIV/AIDS care and
+research center in Kampala, Uganda. AIDS Patient Care and STDs, 19(11), 760e768.
+Castro, A., Khawja, Y., & González-Núñez, I. (2007). Sexuality, reproduction, and HIV
+in women: the impact of antiretroviral therapy in elective pregnancies in Cuba.
+AIDS, 21(S5), S49eS54.
+Cooper, D., Harries, J., Myer, L., Orner, P., & Bracken, H. (2007). “Life is still going on”:
+reproductive intentions among HIV-positive women and men in South Africa.
+Social Science & Medicine, 65(2), 274e283.
+Cusick, L., & Rhodes, T. (2000). Sustaining sexual safety in relationships: HIV
+positive people and their sexual partners. Culture, Health & Sexuality, 2(4),
+473e487.
+Fortes, M. (1978). Parenthood, marriage and fertility in West Africa. Journal of
+Development Studies, 14(4), 121e148.
+Gruskin, S., Firestone, R., MacCarthy, S., & Ferguson, L. (2008). HIV and pregnancy
+intentions: do services adequately respond to women’s needs? American Journal of Public Health, 98(10), 1746e1750.
+Hirsch, J. (2007). Gender, sexuality, and antiretroviral therapy: using social science
+to enhance outcomes and inform secondary prevention strategies. AIDS, 21
+(Suppl. 5), S21eS29.
+Hirsch, J., Wardlow, H., Smith, D., Phinney, H., Parikh, S., & Nathanson, C. (2009). The
+secret: Love, marriage, and HIV. Nashville: VanderbiltUniversity Press.
+Homsy, J., Bunnell, R., Moore, D., King, R., Malamba, S., Nakityo, R., et al. (2009).
+Reproductive intentions and outcomes among women on antiretroviral therapy
+in rural Uganda: a prospective cohort study. PLoS One, 41, e4149.
+Isiugo-Abanihe, U. (1998). Stability of marital unions and fertility in Nigeria. Journal
+of Biosocial Science, 30(1), 33e41.
+Loubiere, S., Peretti-Watel, P., Boyer, S., Blanche, J., Abega, S.-C., & Spire, B.
+(2009). HIV disclosure and unsafe sex among HIV-infected women in
+Cameroon: results from the ANSR-EVAL study. Social Science & Medicine, 69
+(6), 885e891.
+Laher, F., Todd, C. S., Stibich, M. A., Phofa, R., Behane, X., Mohapi, L., et al. (2009). A
+qualitative assessment of decisions affecting contraceptive utilization and
+fertility intentions among HIV-positive women in Soweto, South Africa. AIDS
+and Behavior, 13(Suppl. 1), 47e54.
+Lurie, M., Pronyk, P., de Moor, E., Heyer, A., de Bruyn, G., Struthers, H., et al. (2008).
+Sexual behavior and reproductive health among HIV-infected patients in urban
+and rural South Africa. Journal of Acquired Immune Deﬁciency Syndromes, 47(4),
+484e493.
+Moatti, J. P., Prudhomme, J., Traore, D. C., Juillet-Amari, A., Akribi, H. A. D., &
+Msellati, P. (2003). Access to antiretroviral treatment and sexual behaviours of
+HIV-infected patients aware of their serostatus in Cote d’Ivoire. AIDS, 17(Suppl.
+3), S69eS77.
+Moore, A., & Oppong, J. (2007). Sexual risk behavior among people living with HIV/
+AIDS in Togo. Social Science & Medicine, 64(5), 1057e1066.
+Myer, L., Morroni, C., & Rebe, K. (2007). Prevalence and determinants of fertility
+intentions of HIV-infected women and men receiving antiretroviral therapy in
+South Africa. AIDS Patient Care and STDs, 21(4), 278e285.
+Persson, A., & Richards, W. (2008). Vulnerability, gender and “proxy negativity”:
+women in relationships with HIV-positive men in Australia. Social Science &
+Medicine, 67(5), 799e807.
+Rhine, K. (2009). Support groups, marriage, and the management of ambiguity
+among HIV-positive women in northern Nigeria. Anthropological Quarterly, 82
+(2), 369e400.
+Rodlach, A. (2007). Witches, westerners, and HIV: AIDS and cultures of blame in Africa.
+Walnut Creek, CA: Left Coast Press.
+Seeley, J., Russell, S., Khana, K., Ezati, E., King, R., & Bunnell, R. (2009). Sex after ART:
+sexual partnerships established by HIV-infected persons taking anti-retroviral
+therapy in Eastern Uganda. Culture, Health & Sexuality 1e14.
+Setel, P. (1996). AIDS as a paradox of manhood and development in Kilimanjaro,
+Tanzania. Social Science & Medicine, 43(8), 1169e1178.
+Setel, P. (1999). A plague of paradoxes: AIDS, culture and demography in northern
+Tanzania. Chicago: University of Chicago Press.
+Smith, D. J. (2001). Romance, parenthood and gender in a modern African society.
+Ethnology, 40(2), 129e151.
+
+352
+
+D.J. Smith, B.C. Mbakwem / Social Science & Medicine 71 (2010) 345e352
+
+Smith, D. J. (2004). Premarital sex, procreation and HIV risk in Nigeria. Studies in
+Family Planning, 35(4), 223e235.
+Smith, D. J. (2007). Modern marriage, men’s extramarital sex, and HIV risk in
+Nigeria. American Journal of Public Health, 97(6), 997e1005.
+UNAIDS (2008). Epidemiological fact sheet on HIV and AIDS, Nigeria 2008.
+Geneva.
+
+Ware, N., Idoko, J., Kaaya, S., Biraro, I., Wyatt, M., Agbaji, O., et al. (2009). Explaining
+adherence success in sub-Saharan Africa: an ethnographic study. PLOS Medicine,
+6(1), 39e47.
+Watt, M., Maman, S., Earp, J., Eng, E., Setel, P., Golin, C., et al. (2009). “It’s all the time
+in my mind”: facilitators of adherence to antiretroviral therapy in a Tanzanian
+setting. Social Science & Medicine, 68(10), 1793e1800.
+
+

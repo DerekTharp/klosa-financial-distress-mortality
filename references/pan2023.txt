@@ -1,0 +1,1246 @@
+Original Investigation | Public Health
+
+Negative Wealth Shock and Cognitive Decline and Dementia
+in Middle-Aged and Older US Adults
+Liulu Pan, MS; Bin Gao, MD; Junpeng Zhu, MD; Jing Guo, PhD
+
+Abstract
+IMPORTANCE As a financial hardship, negative wealth shock has been implicated in some adverse
+health outcomes. However, associations between negative wealth shock and cognitive decline and
+dementia have not been examined.
+OBJECTIVE To investigate whether negative wealth shock was associated with cognitive decline
+and incident dementia among middle-aged and older US adults.
+
+Key Points
+Question Is an experience of negative
+wealth shock—a loss of 75% or more in
+total wealth over a 2-year period—
+associated with cognitive decline and
+dementia risks among middle-aged and
+older US adults?
+Findings In this cohort study of 8082
+
+DESIGN, SETTING, AND PARTICIPANTS The Health and Retirement Study (HRS) is a prospective
+
+participants, those with negative wealth
+
+cohort study conducted biennially among US adults older than 50 years. Data from the HRS from
+
+shock had faster decline in cognition and
+
+calendar years 1996 to 2020 were analyzed from July 1 to 31, 2023. The final sample included 8082
+
+elevated risks of dementia when
+
+participants with complete data of interest.
+
+compared with those who had positive
+wealth without shock.
+
+EXPOSURES Wealth status was quantified with questionnaires. Negative wealth shock was defined
+as a loss of 75% or more in total wealth over a 2-year period. Asset poverty was defined as zero or
+less total net wealth.
+
+Meaning These findings suggest that
+negative wealth shock is a risk factor for
+cognitive decline and dementia in
+middle-aged and older adults.
+
+MAIN OUTCOMES AND MEASURES Cognitive function was assessed with the modified Telephone
+Interview for Cognitive Status (TICS-m). Dementia status was determined with TICS-m scores and
+proxy assessment.
+
++ Supplemental content
+
+RESULTS Among 8082 participants included (mean [SD] age, 63.7 [5.7] years; 4179 women [51.7%]
+
+Author affiliations and article information are
+listed at the end of this article.
+
+and 3903 men [48.3%]; 1111 Black [13.7%], 6689 White [82.7%], and 282 other [3.5%]), 1441
+developed incident dementia over a median follow-up time of 14 (IQR, 7-20) years. Compared with
+participants who had positive wealth without shock, those with negative wealth shock had
+accelerated cognitive decline (β coefficient, −0.014 [95% CI, −0.027 to −0.001]; P = .03) and
+increased risks of dementia (hazard ratio [HR], 1.27 [95% CI, 1.11-1.46]; P < .001). Higher dementia
+risks were also found in participants with asset poverty at baseline (HR, 1.61 [95% CI, 1.30-2.00];
+P < .001). Associations were found in White participants (HR, 1.34 [95% CI, 1.14-1.58]; P < .001) and
+participants younger than 65 years (HR, 1.38 [95% CI, 1.13-1.68]; P = .001) but not in other races and
+ethnicities or those 65 years or older.
+CONCLUSIONS AND RELEVANCE In this cohort study, negative wealth shock was associated with
+accelerated cognitive decline and elevated risks of dementia among middle-aged and older US
+adults, with modifications by age and ethnicity. These findings should be confirmed by further
+prospective and interventional studies.
+JAMA Network Open. 2023;6(12):e2349258. doi:10.1001/jamanetworkopen.2023.49258
+
+Open Access. This is an open access article distributed under the terms of the CC-BY License.
+JAMA Network Open. 2023;6(12):e2349258. doi:10.1001/jamanetworkopen.2023.49258 (Reprinted)
+
+Downloaded from jamanetwork.com by guest on 02/19/2026
+
+December 26, 2023
+
+1/11
+
+JAMA Network Open | Public Health
+
+Negative Wealth Shock and Cognitive Decline and Dementia in US Adults
+
+Introduction
+The worldwide number of cases with dementia was estimated at more than 50 million in 2019 and is
+expected to triple by 2050 worldwide.1 Dementia was regarded as the seventh leading cause of
+death in 20192 and is expected to be the sixth leading cause of years of life lost in 2040, according to
+the globally forecasting data.3 Due to the absence of effective medical treatment, identification of
+early markers and populations at high risk for cognitive impairment and dementia are desirable for
+dementia prevention and research.
+Lower socioeconomic status, including low income and low wealth, has been found to be
+associated with a later diagnosis4 and elevated risks of dementia.5 Negative wealth shock is defined
+as a sudden loss of wealth caused by rapid depletion of assets and accumulation of new debts,6
+implying a decreased consumption of health-enhancing goods and services.7 Data from previous
+studies indicated that negative wealth shock induces physiological and psychological stress, such as
+higher blood pressure, inflammation,8 and mental disorders.6 Additionally, negative wealth shock
+has been reported to be associated with other health problems, including cardiovascular
+dysfunction,9 substance abuse,10 depression,6 and higher mortality.11 The aforementioned adverse
+outcomes (eg, inflammation, depression, and cardiovascular diseases) are also risk factors for
+incident dementia.12 A recent study has reported associations between negative wealth shock and
+cognitive function that was measured at only 1 time point.13 However, whether negative wealth
+shock is a risk factor for cognitive decline and dementia has not been evaluated previously. Based on
+the longitudinal data of the Health and Retirement Study (HRS),14 the aim of this study was to
+examine associations of negative wealth shock with cognitive decline and incident dementia in
+middle-aged and older adults in the US.
+
+Methods
+Study Design and Participants
+The HRS, an ongoing longitudinal cohort study among US residents older than 50 years, was
+launched in 1992 and biennially collects information covering a wide range of topics, including
+demographic characteristics, lifestyle, health status, employment, and economic condition.14 The
+HRS had a high response rate of approximately 85% during follow-up.14 We used the RAND HRS
+Longitudinal File, which is a publicly available and streamlined data set containing the most
+commonly used HRS variables.15 The modified Telephone Interview for Cognitive Status (TICS-m) has
+been conducted to assess cognitive function since wave 3.16 In the present study, 24-year data from
+waves 3 (1996) to 15 (2020) were available for the data analysis. The HRS was approved by the
+University of Michigan Institutional Review Board. All participants provided written informed
+consent before interview. This study followed the Strengthening the Reporting of Observational
+Studies in Epidemiology (STROBE) reporting guideline.
+The baseline waves corresponded to the first occurrence for participants with negative wealth
+shock and the first assessment on wealth status for participants without negative wealth shock
+during the whole study period. Among 13 651 participants, we excluded individuals who had no data
+during waves 3 to 15 (n = 256), were younger than 50 years (n = 1518), had prevalent dementia
+(n = 1823), had only 1 cognitive assessment during the study period (n = 1537), or had missing data on
+covariates (n = 435) (eFigure in Supplement 1). A total of 8082 participants with complete data of
+interest were retained in the data analysis.
+
+Assessment of Wealth Status
+During the interview period, questionnaires were used to collect information on different wealth
+components, including housing, vehicles, businesses, checking and savings accounts, individual
+retirement accounts, stocks, and any other substantial assets. Outstanding debts including home
+mortgages, home loans, and other debts (eg, credit card balances, life insurance policy loans, loans
+
+JAMA Network Open. 2023;6(12):e2349258. doi:10.1001/jamanetworkopen.2023.49258 (Reprinted)
+
+Downloaded from jamanetwork.com by guest on 02/19/2026
+
+December 26, 2023
+
+2/11
+
+JAMA Network Open | Public Health
+
+Negative Wealth Shock and Cognitive Decline and Dementia in US Adults
+
+from relatives, and medical debts) were also collected. The net value of total wealth was estimated
+as the sum of all wealth components less all debts and was adjusted to 2020 US dollars using the
+Consumer Price Index. Negative wealth shock was defined as a loss of 75% or more in total wealth
+between 2 consecutive interviews.11 According to a previous study,11 wealth levels were categorized
+into 3 exclusive groups of positive wealth without shock, asset poverty (zero or negative total net
+wealth) at baseline, and negative wealth shock.
+
+Assessment of Cognition and Dementia
+We used a researcher-contributed data set that contains cognitive scores and dementia status and is
+publicly available on the HRS website.17 Cognitive performance was quantified with the TICS-m,
+which contains 3 tests consisting of immediate and delayed recall items, serial subtraction by 7, and
+counting backward. Total scores of TICS-m, ranging from 0 to 27 points, were calculated by summing
+the scores of each cognitive test, with higher scores indicating better cognitive function. Results from
+some previous studies have suggested that the TICS-m is validated for dementia screening.16,18 Cases
+of dementia were determined as those whose TICS-m scores are less than 6 points according to the
+criteria of Langa-Weir classification of cognitive function.16,18
+Composite cognitive scores for proxy respondents were calculated with proxy assessment of
+limitations in 5 instrumental activities of daily living (taking medication, cooking, using the telephone,
+managing money, and shopping; range, 0-5 points), memory levels (excellent, very good, good, fair,
+and poor; range, 0-4 points), and the interviewer assessment of whether the respondents had
+cognitive impairment (no, maybe, and yes; range, 0-2 points). Total scores (range, 0-11 points) of
+proxy assessment were calculated, with higher scores indicating poorer cognitive performance.
+Participants were also classified as having dementia with proxy assessment scores of 6 or greater.18
+
+Covariates
+Covariates were chosen based on associations with wealth status and cognitive function in the extant
+studies.9,11,12 Structured questionnaires were applied in the interview to collect information on age
+(in years), sex (male or female), self-reported race and ethnicity (Black, White, and other [includes
+American Indian or Alaska Native, Asian, Native Hawaiian or Other Pacific Islander, and any other selfspecified race]; the latter category was combined to protect the privacy of the small number of
+participants), and years of education. Self-reported marital status was categorized into 3 levels:
+married or partnered; separated, divorced, or widowed; and never married. Smoking status was
+divided into 3 groups of never, current, and past smoking. Depressive disorders were defined as
+having scores on the 8-item short version of Center for Epidemiological Studies Depression Scale of
+3 or greater.19 The multimorbidity burden (range, 0-8) was calculated as the total number of selfreported chronic health conditions, including hypertension, diabetes, cancer, lung diseases, heart
+diseases, stroke, psychological problems, and arthritis. Participants were asked whether they had
+engaged in vigorous physical activity 3 or more times per week. Disability was defined as having any
+difficulties in daily living activities of bathing, dressing, transferring, toileting, eating, and walking
+across a room. The total wealth at baseline was also used as a covariate in the association analysis.
+
+Statistical Analysis
+Data were analyzed from July 1 to 31, 2023. The baseline characteristics of participants by wealth
+groups were compared using the analysis of variance for continuous variables and χ2 test for
+categorical variables. Associations between wealth status and longitudinal cognitive decline were
+estimated with mixed-effects linear regression models in which a participant-specific random
+intercept and slope of wealth status were applied. The mixed-effects linear regression models were
+constructed with wealth category, time, and a product term of wealth category × time as predictive
+factors and cognitive scores as the dependent variable. A significant interaction term between
+wealth category and time indicates differential rates of change in cognition as a function of wealth
+status. Positive wealth without shock defined the reference group. Model 1 was adjusted for age, sex,
+
+JAMA Network Open. 2023;6(12):e2349258. doi:10.1001/jamanetworkopen.2023.49258 (Reprinted)
+
+Downloaded from jamanetwork.com by guest on 02/19/2026
+
+December 26, 2023
+
+3/11
+
+JAMA Network Open | Public Health
+
+Negative Wealth Shock and Cognitive Decline and Dementia in US Adults
+
+race and ethnicity, and years of education; model 2 was additionally adjusted for marital status,
+smoking, depressive disorder, comorbidity, physical activity, disability, and levels of total wealth
+(centralized transformation) at baseline.
+Cox proportional hazards regression models were used to analyze associations between wealth
+categories and incident dementia. Ages at interview were used as the time scale. The survival time
+was calculated as years of follow-up between baseline and the occurrence of incident dementia,
+death, loss of follow-up, or the last visit (whichever came first). The product-term interactions
+between wealth status and each covariate were separately examined with the Wald test. The Cox
+proportional hazards regression models were adjusted for the same covariates as mixed-effects
+models. An example of statistical code for regression models is provided in eTable 1 in Supplement 1.
+Some sensitivity analyses were performed for association analyses. First, participants who had
+follow-up time of less than 2 years were excluded. Second, the APOE-E4 allele status was additionally
+adjusted among participants with complete data on APOE-E4 measurement. Third, the cut point for
+negative wealth shock was set at 50%. Weighted Cox proportional hazards regression models were
+also conducted in consideration of the complex study design.
+All data analyses were conducted with R, version 4.2.1 (R Project for Statistical Computing).
+Two-sided P < .05 was considered statistically significant.
+
+Results
+Baseline Characteristics
+Among 8082 participants, the mean (SD) age was 63.7 (5.7) years. Men accounted for 3903
+participants (48.3%) and women for 4179 (51.7%). A total of 1111 participants (13.7%) were Black,
+6689 (82.7%) were White, and 282 (3.5%) were of other race or ethnicity. There were 1441
+participants with no prevalent dementia at baseline who developed an incident dementia over a
+median follow-up time of 14 (IQR, 7-20) years, for a total of 107 356 person-years. There were 2185
+participants who experienced negative wealth shock and 339 had asset poverty at baseline (Table 1).
+Compared with participants who had positive wealth without shock (n = 5558), individuals with
+negative wealth shock were more likely to be older, of Black race, current smokers, and separated,
+divorced, or widowed or never married. They were also more likely to have fewer years of education,
+depressive disorder, more comorbidities, less physical activity, disability, higher levels of total wealth,
+and poorer cognition at baseline. Differences in race and ethnicity, years of education, marital status,
+smoking, depressive disorder, comorbidity, physical activity, disability, total wealth, and cognitive
+scores were more apparent between the asset poverty group and the positive wealth without shock
+group. Compared with the included participants, excluded individuals were more likely to be
+younger, men, of Black race, married or partnered, and current smokers and to have disability and
+positive wealth without shock (eTable 2 in Supplement 1). Excluded participants also had less
+education, more comorbidities, lower levels of physical activity, and lower cognitive scores.
+
+Associations Between Wealth Status and Cognitive Decline
+Compared with participants who had positive wealth without shock, those with asset poverty at
+baseline (β coefficient, −0.619 [95% CI, −0.987 to −0.252]; P = .001) and negative wealth shock (β
+coefficient, −0.492 [95% CI, −0.669 to −0.315]; P < .001) had significantly lower cognitive scores at
+baseline (Table 2). In the analysis on longitudinal associations, participants with negative wealth
+shock (β coefficient, −0.014 [95% CI, −0.027 to −0.001]; P = .03) experienced faster decline in
+cognitive scores. The rate of change in cognitive scores was not significant (β coefficient, −0.024
+[95% CI, −0.048 to 0.0001]; P = .05) for individuals in the asset poverty group.
+
+Associations Between Wealth Status and Incident Dementia
+The results of our Kaplan-Meier analysis suggest that the probabilities of incident dementia were
+different across wealth categories (Figure 1) (log-rank test; P < .001). The incidence rates of dementia
+JAMA Network Open. 2023;6(12):e2349258. doi:10.1001/jamanetworkopen.2023.49258 (Reprinted)
+
+Downloaded from jamanetwork.com by guest on 02/19/2026
+
+December 26, 2023
+
+4/11
+
+JAMA Network Open | Public Health
+
+Negative Wealth Shock and Cognitive Decline and Dementia in US Adults
+
+were 10.20 (95% CI, 9.51-10.89) per 1000 person-years for positive wealth without shock, 29.33
+(95% CI, 23.83-34.84) per 1000 person-years for asset poverty at baseline, and 22.97 (95% CI,
+20.94-24.99) per 1000 person-years for negative wealth shock (Table 3). Compared with individuals
+who had positive wealth without shock, the hazard ratio (HR) for dementia was 1.61 (95% CI, 1.302.00; P < .001) for those with asset poverty at baseline and 1.27 (95% CI, 1.11-1.46; P < .001) for those
+with negative wealth shock.
+We found significant interactions between wealth status and age (P = .01 for interaction) and
+but not between wealth status and race (P = .07 for interaction). Data analyses stratified by age
+groups (<65 years, ⱖ65 to <70 years, and ⱖ70 years) indicated that associations between negative
+wealth shock and dementia risks were positive among those younger than 65 years (HR, 1.38 [95%
+CI, 1.13-1.68]; P = .001) but not among the population 65 years or older (Figure 2). Positive
+associations were also found for White individuals (HR, 1.34 [95% CI, 1.14-1.58]; P < .001) but not for
+individuals of other races or ethnicities (Figure 2).
+
+Table 1. Baseline Characteristics by Wealth Status
+Participant groupa
+
+Characteristic
+
+Total
+(N = 8082)
+
+Positive wealth
+without shock
+(n = 5558)
+
+Asset poverty
+at baseline
+(n = 339)
+
+Negative
+wealth shock
+(n = 2185)
+
+P value
+
+Age, mean (SD), y
+
+63.7 (5.7)
+
+62.2 (4.4)
+
+62.8 (4.7)
+
+67.6 (6.8)
+
+<.001
+
+Men
+
+3903 (48.3)
+
+2895 (52.1)
+
+138 (40.7)
+
+870 (39.8)
+
+Women
+
+4179 (51.7)
+
+2663 (47.9)
+
+201 (59.3)
+
+1315 (60.2)
+
+Black
+
+1111 (13.7)
+
+524 (9.4)
+
+119 (35.1)
+
+468 (21.4)
+
+White
+
+6689 (82.7)
+
+4890 (88.0)
+
+195 (57.5)
+
+1604 (73.4)
+
+Otherb
+
+282 (3.5)
+
+144 (2.6)
+
+25 (7.4)
+
+113 (5.2)
+
+12.41 (3.02)
+
+12.76 (2.85)
+
+10.74 (3.23)
+
+11.76 (3.24)
+
+Married or partnered
+
+5909 (73.1)
+
+4616 (83.1)
+
+152 (44.8)
+
+1141 (52.2)
+
+Separated, divorced,
+or widowed
+
+1947 (24.1)
+
+825 (14.8)
+
+172 (50.7)
+
+950 (43.5)
+
+Never married
+
+226 (2.8)
+
+117 (2.1)
+
+15 (4.4)
+
+94 (4.3)
+
+Sex
+<.001
+
+Race and ethnicity
+
+Educational attainment,
+mean (SD), y
+
+<.001
+<.001
+
+Marital status
+
+<.001
+
+Smoking
+Never
+
+3043 (37.7)
+
+2130 (38.3)
+
+96 (28.3)
+
+817 (37.4)
+
+Past
+
+3603 (44.6)
+
+2517 (45.3)
+
+139 (41.0)
+
+947 (43.3)
+
+Current
+
+1436 (17.8)
+
+911 (16.4)
+
+104 (30.7)
+
+421 (19.3)
+
+No
+
+6364 (78.7)
+
+4619 (83.1)
+
+198 (58.4)
+
+1547 (70.8)
+
+Yes
+
+1718 (21.3)
+
+939 (16.9)
+
+141 (41.6)
+
+638 (29.2)
+
+1.61 (1.35)
+
+1.35 (1.17)
+
+2.19 (1.51)
+
+2.17 (1.52)
+
+<3 Times/wk
+
+4166 (51.5)
+
+2644 (47.6)
+
+231 (68.1)
+
+1291 (59.1)
+
+≥3 Times/wk
+
+3916 (48.5)
+
+2914 (52.4)
+
+108 (31.9)
+
+894 (40.9)
+
+7085 (87.7)
+
+5094 (91.7)
+
+235 (69.3)
+
+1756 (80.4)
+
+<.001
+
+Depressive disorder
+
+No. of comorbidities,
+mean (SD)
+
+<.001
+<.001
+
+Physical activity
+<.001
+
+Disability
+No
+Yes
+
+997 (12.3)
+
+464 (8.3)
+
+104 (30.7)
+
+429 (19.6)
+
+Total wealth as centralized
+transformation, mean (SD), $
+
+−0.00 (1.04)
+
+−0.02 (0.44)
+
+−0.29 (0.04)
+
+0.08 (1.88)
+
+<.001
+
+c
+
+16.45 (4.17)
+
+17.15 (3.99)
+
+14.75 (4.42)
+
+14.92 (4.12)
+
+<.001
+
+6641 (82.2)
+
+4721 (84.9)
+
+230 (67.8)
+
+1690 (77.3)
+
+Cognitive scores, mean (SD)
+
+a
+
+Unless specified otherwise, data are expressed as
+No. (%) of participants. Percentages have been
+rounded and may not total 100.
+
+b
+
+Includes American Indian or Alaska Native, Asian,
+Native Hawaiian or Other Pacific Islander, or any
+other self-specified race.
+
+c
+
+Assessed using the modified Telephone Interview for
+Cognitive Status. Scores range from 0 to 27, with
+higher scores indicating better cognitive status.
+
+<.001
+
+Dementia status
+No dementia
+Incident
+
+1441 (17.8)
+
+837 (15.1)
+
+109 (32.2)
+
+495 (22.7)
+
+JAMA Network Open. 2023;6(12):e2349258. doi:10.1001/jamanetworkopen.2023.49258 (Reprinted)
+
+Downloaded from jamanetwork.com by guest on 02/19/2026
+
+<.001
+
+December 26, 2023
+
+5/11
+
+JAMA Network Open | Public Health
+
+Negative Wealth Shock and Cognitive Decline and Dementia in US Adults
+
+Sensitivity Analysis
+Similar results were found in the sensitivity analyses when removing participants with follow-up time
+of less than 2 years (n = 7987) (eTables 3 and 4 in Supplement 1), when additionally adjusting for
+APOE-E4 allele status (n = 5452) (eTables 5 and 6 in Supplement 1), and when the cut point for the
+negative wealth shock was set at 50% (n = 7936) (eTables 7 and 8 in Supplement 1). Positive
+associations between negative wealth shock and dementia risks were also found in weighted Cox
+proportional hazards regression models (eTable 9 in Supplement 1).
+
+Table 2. Associations Between Wealth Status and Cognitive Decline With Mixed-Effects Model
+Model 1a
+Wealth status
+
+Model 2b
+
+β Coefficient (95% CI)
+
+P value
+
+β Coefficient (95% CI)
+
+P value
+
+Positive wealth without shock
+
+1 [Reference]
+
+Asset poverty at baseline
+
+−0.974 (−1.349 to
+−0.598)
+
+NA
+
+1 [Reference]
+
+NA
+
+<.001
+
+−0.619 (−0.987 to
+−0.252)
+
+.001
+
+Negative wealth shock
+
+−0.671 (−0.849 to
+−0.494)
+
+<.001
+
+−0.492 (−0.669 to
+−0.315)
+
+<.001
+
+Baseline
+
+Abbreviation: NA, not applicable.
+
+Longitudinal
+Positive wealth without shock × time
+
+1 [Reference]
+
+NA
+
+1 [Reference]
+
+NA
+
+Asset poverty at baseline × time
+
+−0.026 (−0.051 to
+−0.002)
+
+.03
+
+−0.024 (−0.048 to
+0.0001)
+
+.05
+
+Negative wealth shock × time
+
+−0.015 (−0.028 to
+−0.003)
+
+.02
+
+−0.014 (−0.027 to
+−0.001)
+
+.03
+
+a
+
+Adjusted for age, sex, race and ethnicity, and
+educational level.
+
+b
+
+Adjusted covariates in model 1 plus marital status,
+smoking, depressive disorder, number of
+comorbidities, physical activity, disability, and
+centralized total net wealth.
+
+Figure 1. Incident Dementia by Wealth Status
+
+Survival probability of incident dementia
+
+1.0
+
+Positive wealth without shock
+
+0.8
+
+Negative wealth shock
+
+0.6
+
+Asset poverty at baseline
+
+P <.001
+0.4
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+Follow-up time, y
+No. at risk
+Positive wealth without shock
+Asset poverty at baseline
+Negative wealth shock
+
+5558
+339
+2185
+
+4886
+262
+1641
+
+4161
+181
+1042
+
+3113
+107
+526
+
+2026
+58
+219
+
+Kaplan-Meier curves show the survival probabilities of
+incident dementia by wealth status (log-rank
+test; P < .001).
+
+Table 3. Associations Between Wealth Status and Incident Dementia With Cox Proportional Hazards Regression Model
+Model 2b
+
+Incidence rate per 1000
+person-years (95% CI)
+
+HR (95% CI)
+
+P value
+
+HR (95% CI)
+
+P value
+
+Positive wealth without
+shock
+
+837/82 088
+
+10.20 (9.51-10.89)
+
+1 [Reference]
+
+NA
+
+1 [Reference]
+
+NA
+
+Asset poverty at baseline
+
+109/3716
+
+29.33 (23.83-34.84)
+
+2.11 (1.72-2.60)
+
+<.001
+
+1.61 (1.30-2.00)
+
+<.001
+
+Negative wealth shock
+
+495/21 552
+
+22.97 (20.94-24.99)
+
+1.47 (1.29-1.67)
+
+<.001
+
+1.27 (1.11-1.46)
+
+<.001
+
+Wealth status
+
+Abbreviation: HR, hazard ratio.
+a
+
+Model 1a
+
+No. of
+events/person-years
+
+Adjusted for age, sex, race and ethnicity, and educational level.
+
+b
+
+Adjusted covariates in model 1 plus marital status, smoking, depressive disorder,
+number of comorbidities, physical activity, disability, and centralized total net wealth.
+
+JAMA Network Open. 2023;6(12):e2349258. doi:10.1001/jamanetworkopen.2023.49258 (Reprinted)
+
+Downloaded from jamanetwork.com by guest on 02/19/2026
+
+December 26, 2023
+
+6/11
+
+JAMA Network Open | Public Health
+
+Negative Wealth Shock and Cognitive Decline and Dementia in US Adults
+
+Discussion
+In this prospective cohort study of 8082 adults older than 50 years living in the US, we found that
+negative wealth shock was associated with cognitive decline and elevated dementia risks, especially
+among White participants who were younger than 65 years. Our findings might shed light on the
+specific characteristics of populations who were at high risk of dementia and highlight the
+implementation of government policies and public health strategies to enhance the financial, social,
+and psychological supports for dementia prevention.
+A wide range of studies5,20,21 have concluded that lower socioeconomic status in midlife, usually
+quantified by levels of income, education, and occupation, is associated with increased risks of
+dementia and dementia-related mortality. Similarly, our results showed associations between asset
+poverty and higher dementia risks. We also found that an experience of negative wealth shock was
+associated with accelerated decline in cognition and elevated risks of dementia among middle-aged
+and older adults, independent of covariates including levels of total net wealth at baseline.
+In line with our findings, higher income volatility and more income drops of at least 25% over a
+20-year period were associated with poorer cognitive function, smaller total brain volume, and worse
+microstructural integrity in the brain among 3287 adults with a mean age of 30 years.22 A 4-year
+follow-up study reported that associations between negative wealth shock and subsequent cognitive
+scores of older adults were significantly inverse in the US and China, but not in England or Mexico,
+suggesting the effects of macrolevel socioeconomic structures.13 Additionally, negative wealth shock
+could be regarded as a stressful life-course event. It has been reported that adverse events in late
+life, including the experience of major financial problems, were associated with increased risks of
+dementia among 12 789 community-dwelling Australians 70 years and older.23 The experimental
+evidence has suggested that psychological stress may increase the activation of the hypothalamicpituitary-adrenal axis, inducing a dysregulation of glucocorticoid levels, which may increase brain
+vulnerability and pathological cognitive impairment.24
+Data from 2 previous studies using HRS data indicated that wealth loss induced an impairment
+in mental health,25 and negative wealth shock was associated with short-term changes in depressive
+symptoms.6 Strong associations between early-, middle-, and late-life depression and subsequent
+incident dementia have been found in 1.4 million Danish citizens (median age, 50.8 [IQR, 34.7-70.7]
+years).26 Increased levels of systolic blood pressure and inflammatory biomarkers were found in 930
+US older adults who experienced a wealth shock.8 Associations of cardiovascular problems and
+inflammation with impaired cognition and dementia have been documented.12 As a result, the
+pathway from negative wealth shock to dementia may also be linked by the intermediate conditions
+of depression, cardiovascular problems, and inflammation.
+Our results suggest that associations between negative wealth shocks and incident dementia
+are stronger among participants younger than 65 years than among those 65 years or older. As
+people age, they are more likely to have an increase in positive emotions and a reduction in negative
+
+Figure 2. Associations Between Negative Wealth Shock and Dementia Stratified by Age and Ethnicity
+Participants,
+No.
+
+Events,
+No.
+
+Personyears
+
+HR (95% CI)
+
+<65
+
+4711
+
+642
+
+71 818
+
+1.38 (1.13-1.68)
+
+.001
+
+65-69
+
+1883
+
+422
+
+23 256
+
+1.25 (0.99-1.58)
+
+.06
+
+≥70
+
+1149
+
+268
+
+8566
+
+1.11 (0.80-1.55)
+
+.53
+
+White
+
+6494
+
+983
+
+88 582
+
+1.34 (1.14-1.58)
+
+<.001
+
+Black
+
+992
+
+288
+
+11 813
+
+1.03 (0.79-1.36)
+
+.82
+
+Other
+
+257
+
+61
+
+3245
+
+1.36 (0.75-2.47)
+
+Stratification
+Age, y
+
+Favors Favors
+no dementia incident dementia
+
+P value
+
+Race
+
+.31
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+HR (95% CI)
+
+JAMA Network Open. 2023;6(12):e2349258. doi:10.1001/jamanetworkopen.2023.49258 (Reprinted)
+
+Downloaded from jamanetwork.com by guest on 02/19/2026
+
+2.5
+
+A fully adjusted Cox proportional hazards regression
+model was used to analyze associations between
+wealth status and incident dementia, with participants
+who had positive wealth without shock as the
+reference group. HR indicates hazard ratio.
+
+December 26, 2023
+
+7/11
+
+JAMA Network Open | Public Health
+
+Negative Wealth Shock and Cognitive Decline and Dementia in US Adults
+
+emotions and cope better with negative events.27,28 Older adults have higher levels of experiencebased knowledge and lower levels of negative emotions, which are beneficial to financial
+decision-making.28 As a result, the adverse effect of negative wealth shock on dementia may be
+weaker in older participants than in younger ones.
+In addition, significantly positive associations between negative wealth shock and dementia
+were found in the White but not in Black participants or those of other races or ethnicities. Some
+studies reported that White individuals have higher levels of depressive and anxiety symptoms
+compared with Black individuals.29 Black individuals are also more likely to have complete mental
+health than White individuals, implying a higher prevalence of common psychological disorders in
+White individuals.30 As a result, we suggest that White individuals appear to be more sensitive to
+such stressors as negative wealth shock and therefore have higher risks for psychological issues that
+are associated with dementia.
+Nonsignificant associations in participants 65 years or older should be interpreted with caution,
+as the smaller sample size of those aged 65 to 69 years (n = 1883) and 70 years and older (n = 1149)
+in this study may have lower statistical power compared with the larger sample size of those younger
+than 65 years (n = 4711). Similarly, lack of association in Black participants or those of other races or
+ethnicities should also be noticed due to the smaller sample size compared with White participants.
+Our findings linked the experience of financial hardship and dementia, which were useful to
+identify the vulnerable population and to make corresponding interventions. Some government
+policies including unemployment insurance31 and the earned income tax credit32 have been
+proposed to offset the burdens of wealth shock such as loss of a job and financial emergencies. The
+US Supplemental Nutritional Assistance Program has a substantial consumption-smoothing effect
+among low-income households during a period of income shock.33 Additionally, a greater cognitive
+resilience has been found among people with a better social support among US adults with a mean
+age of 63 years.34
+
+Limitations
+This study has some limitations. First, the Langa-Weir classification of cognitive function has been
+reported to be validated for dementia screening among HRS participants 70 years or older16;
+however, whether it is appropriate for persons younger than 70 years has not been verified. Second,
+information on total wealth was collected via questionnaires that might lead to recall bias. Third,
+causes of negative wealth shock were not clarified, which precluded us from making strategies for
+the precise prevention. Fourth, there is a possibility of reverse causation in which the causes of
+negative wealth shock are associated with the risk of cognitive impairment, such as losing a job due
+to early cognitive decline or cognitive impairment in the context of serious illness. Fifth, participants
+50 years and older were enrolled in the HRS, and the history of negative wealth shock before the
+enrollment could not be captured. Additionally, wealth changes after the occurrence of negative
+wealth shock were not considered, which might induce biased estimations.
+
+Conclusions
+The findings of this cohort study suggest that an experience of negative wealth shock was associated
+with accelerated cognitive decline and elevated risks of dementia among the middle-aged and older
+US adults. The negative wealth shock–associated dementia risks were more apparent among White
+participants and those who were younger. Further prospective and interventional studies are
+warranted to confirm our findings.
+
+JAMA Network Open. 2023;6(12):e2349258. doi:10.1001/jamanetworkopen.2023.49258 (Reprinted)
+
+Downloaded from jamanetwork.com by guest on 02/19/2026
+
+December 26, 2023
+
+8/11
+
+JAMA Network Open | Public Health
+
+Negative Wealth Shock and Cognitive Decline and Dementia in US Adults
+
+ARTICLE INFORMATION
+Accepted for Publication: November 9, 2023.
+Published: December 26, 2023. doi:10.1001/jamanetworkopen.2023.49258
+Open Access: This is an open access article distributed under the terms of the CC-BY License. © 2023 Pan L et al.
+JAMA Network Open.
+Corresponding Author: Jing Guo, PhD, Office 207, Zhejiang Provincial Key Laboratory of Precision Diagnosis and
+Therapy for Major Gynecological Diseases, Women’s Hospital, Zhejiang University School of Medicine, 268#
+Shangcheng District, Hangzhou, Zhejiang 310020, China (guojingzju@zju.edu.cn).
+Author Affiliations: Zhejiang University School of Medicine, Hangzhou, China (Pan); Department of Psychiatry,
+The Second Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China (Gao); Center for
+Rehabilitation Medicine, Department of Psychiatry, Zhejiang Provincial People’s Hospital (Affiliated People’s
+Hospital, Hangzhou Medical College), Hangzhou, China (Zhu); Zhejiang Provincial Key Laboratory of Precision
+Diagnosis and Therapy for Major Gynecological Diseases, Women’s Hospital, Zhejiang University School of
+Medicine, Hangzhou, China (Guo).
+Author Contributions: Dr Guo had full access to all of the data in the study and takes responsibility for the
+integrity of the data and the accuracy of the data analysis.
+Concept and design: Zhu, Guo.
+Acquisition, analysis, or interpretation of data: Pan, Gao, Guo.
+Drafting of the manuscript: Pan, Guo.
+Critical review of the manuscript for important intellectual content: Gao, Zhu, Guo.
+Statistical analysis: Guo.
+Administrative, technical, or material support: Guo.
+Supervision: Gao, Zhu, Guo.
+Conflict of Interest Disclosures: None reported.
+Data Sharing Statement: See Supplement 2.
+REFERENCES
+1. GBD 2019 Dementia Forecasting Collaborators. Estimation of the global prevalence of dementia in 2019 and
+forecasted prevalence in 2050: an analysis for the Global Burden of Disease Study 2019. Lancet Public Health.
+2022;7(2):e105-e125. doi:10.1016/S2468-2667(21)00249-8
+2. GBD 2019 Collaborators. Global mortality from dementia: application of a new method and results from the
+Global Burden of Disease Study 2019. Alzheimers Dement (N Y). 2021;7(1):e12200. doi:10.1002/trc2.12200
+3. Foreman KJ, Marquez N, Dolgert A, et al. Forecasting life expectancy, years of life lost, and all-cause and causespecific mortality for 250 causes of death: reference and alternative scenarios for 2016-40 for 195 countries and
+territories. Lancet. 2018;392(10159):2052-2090. doi:10.1016/S0140-6736(18)31694-5
+4. Petersen JD, Wehberg S, Packness A, et al. Association of socioeconomic status with dementia diagnosis among
+older adults in Denmark. JAMA Netw Open. 2021;4(5):e2110432. doi:10.1001/jamanetworkopen.2021.10432
+5. Cadar D, Lassale C, Davies H, Llewellyn DJ, Batty GD, Steptoe A. Individual and area-based socioeconomic
+factors associated with dementia incidence in England: evidence from a 12-year follow-up in the English
+Longitudinal Study of Ageing. JAMA Psychiatry. 2018;75(7):723-732. doi:10.1001/jamapsychiatry.2018.1012
+6. Pool LR, Needham BL, Burgard SA, Elliott MR, de Leon CFM. Negative wealth shock and short-term changes in
+depressive symptoms and medication adherence among late middle-aged adults. J Epidemiol Community Health.
+2017;71(8):758-763. doi:10.1136/jech-2016-208347
+7. Alley DE, Lloyd J, Pagán JA, Pollack CE, Shardell M, Cannuscio C. Mortgage delinquency and changes in access
+to health resources and depressive symptoms in a nationally representative cohort of Americans older than 50
+years. Am J Public Health. 2011;101(12):2293-2298. doi:10.2105/AJPH.2011.300245
+8. Boen C, Yang YC. The physiological impacts of wealth shocks in late life: evidence from the Great Recession. Soc
+Sci Med. 2016;150:221-230. doi:10.1016/j.socscimed.2015.12.029
+9. Machado S, Sumarsono A, Vaduganathan M. Midlife wealth mobility and long-term cardiovascular health. JAMA
+Cardiol. 2021;6(10):1152-1160. doi:10.1001/jamacardio.2021.2056
+10. Kalousova L, Burgard SA. Unemployment, measured and perceived decline of economic resources:
+contrasting three measures of recessionary hardships and their implications for adopting negative health
+behaviors. Soc Sci Med. 2014;106:28-34. doi:10.1016/j.socscimed.2014.01.007
+
+JAMA Network Open. 2023;6(12):e2349258. doi:10.1001/jamanetworkopen.2023.49258 (Reprinted)
+
+Downloaded from jamanetwork.com by guest on 02/19/2026
+
+December 26, 2023
+
+9/11
+
+JAMA Network Open | Public Health
+
+Negative Wealth Shock and Cognitive Decline and Dementia in US Adults
+
+11. Pool LR, Burgard SA, Needham BL, Elliott MR, Langa KM, Mendes de Leon CF. Association of a negative wealth
+shock with all-cause mortality in middle-aged and older adults in the United States. JAMA. 2018;319(13):
+1341-1350. doi:10.1001/jama.2018.2055
+12. Livingston G, Huntley J, Sommerlad A, et al. Dementia prevention, intervention, and care: 2020 report of the
+Lancet Commission. Lancet. 2020;396(10248):413-446. doi:10.1016/S0140-6736(20)30367-6
+13. Cho TC, Yu X, Gross AL, et al. Negative wealth shocks in later life and subsequent cognitive function in older
+adults in China, England, Mexico, and the USA, 2012-18: a population-based, cross-nationally harmonised,
+longitudinal study. Lancet Healthy Longev. 2023;4(9):e461-e469. doi:10.1016/S2666-7568(23)00113-7
+14. Sonnega A, Faul JD, Ofstedal MB, Langa KM, Phillips JW, Weir DR. Cohort profile: the Health and Retirement
+Study (HRS). Int J Epidemiol. 2014;43(2):576-585. doi:10.1093/ije/dyu067
+15. Health and Retirement Study. RAND HRS Longitudinal File 2020. Accessed July 19, 2023. https://hrsdata.isr.
+umich.edu/data-products/rand-hrs-longitudinal-file-2020
+16. Crimmins EM, Kim JK, Langa KM, Weir DR. Assessment of cognition using surveys and neuropsychological
+assessment: the Health and Retirement Study and the Aging, Demographics, and Memory Study. J Gerontol B
+Psychol Sci Soc Sci. 2011;66(suppl 1):i162-i171. doi:10.1093/geronb/gbr048
+17. Langa KM, Weir DR, Kabeto M, Sonnega A. Langa-Weir classification of cognitive function (1995-2020).
+Accessed October 30, 2023. https://hrsdata.isr.umich.edu/data-products/langa-weir-classification-cognitivefunction-1995-2020
+18. Langa KM, Larson EB, Crimmins EM, et al. A comparison of the prevalence of dementia in the United States in
+2000 and 2012. JAMA Intern Med. 2017;177(1):51-58. doi:10.1001/jamainternmed.2016.6807
+19. Dang L, Dong L, Mezuk B. Shades of blue and gray: a comparison of the Center for Epidemiologic Studies
+Depression Scale and the Composite International Diagnostic Interview for Assessment of Depression Syndrome
+in Later Life. Gerontologist. 2020;60(4):e242-e253. doi:10.1093/geront/gnz044
+20. Kivimäki M, Batty GD, Pentti J, et al. Association between socioeconomic status and the development of
+mental and physical health conditions in adulthood: a multi-cohort study. Lancet Public Health. 2020;5(3):
+e140-e149. doi:10.1016/S2468-2667(19)30248-8
+21. Korhonen K, Einiö E, Leinonen T, Tarkiainen L, Martikainen P. Midlife socioeconomic position and old-age
+dementia mortality: a large prospective register-based study from Finland. BMJ Open. 2020;10(1):e033234. doi:
+10.1136/bmjopen-2019-033234
+22. Grasset L, Glymour MM, Elfassy T, et al. Relation between 20-year income volatility and brain health in midlife:
+the CARDIA study. Neurology. 2019;93(20):e1890-e1899. doi:10.1212/WNL.0000000000008463
+23. Nilaweera D, Gurvich C, Freak-Poli R, et al. Adverse events in older adults and the risk of dementia and
+cognitive decline. J Affect Disord Rep. 2023;13:100592. doi:10.1016/j.jadr.2023.100592
+24. de Souza-Talarico JN, Marin MF, Sindi S, Lupien SJ. Effects of stress hormones on the brain and cognition:
+evidence from normal to pathological aging. Dement Neuropsychol. 2011;5(1):8-16. doi:10.1590/S198057642011DN05010003
+25. Schwandt H. Wealth shocks and health outcomes: evidence from stock market fluctuations. Am Econ J Appl
+Econ. 2018;10(4):349-377. doi:10.1257/app.20140499
+26. Elser H, Horváth-Puhó E, Gradus JL, et al. Association of early-, middle-, and late-life depression with incident
+dementia in a Danish cohort. JAMA Neurol. 2023;80(9):949-958. doi:10.1001/jamaneurol.2023.2309
+27. Carstensen LL, Pasupathi M, Mayr U, Nesselroade JR. Emotional experience in everyday life across the adult
+life span. J Pers Soc Psychol. 2000;79(4):644-655. doi:10.1037/0022-3514.79.4.644
+28. Eberhardt W, Bruine de Bruin W, Strough J. Age differences in financial decision making: the benefits of more
+experience and less negative emotions. J Behav Decis Making. 2019;32(1):79-93. doi:10.1002/bdm.2097
+29. Williams DR. Stress and the mental health of populations of color: advancing our understanding of racerelated stressors. J Health Soc Behav. 2018;59(4):466-485. doi:10.1177/0022146518814251
+30. Keyes CL. Promoting and protecting mental health as flourishing: a complementary strategy for improving
+national mental health. Am Psychol. 2007;62(2):95-108. doi:10.1037/0003-066X.62.2.95
+31. Mitman K, Rabinovich S. Optimal unemployment insurance in an equilibrium business-cycle model. J Monet
+Econ. 2015;71:99-118. doi:10.1016/j.jmoneco.2014.11.009
+32. Mendenhall R, Edin K, Crowley S, et al. The role of earned income tax credit in the budgets of low-income
+households. Soc Serv Rev. 2012;86:367-400. doi:10.1086/667972
+33. Blundell R, Pistaferri P. Income volatility and household consumption: the impact of food assistance programs.
+J Hum Resour. 2003;38:1032-1050. doi:10.2307/3558980
+
+JAMA Network Open. 2023;6(12):e2349258. doi:10.1001/jamanetworkopen.2023.49258 (Reprinted)
+
+Downloaded from jamanetwork.com by guest on 02/19/2026
+
+December 26, 2023
+
+10/11
+
+JAMA Network Open | Public Health
+
+Negative Wealth Shock and Cognitive Decline and Dementia in US Adults
+
+34. Salinas J, O’Donnell A, Kojis DJ, et al. Association of social support with brain volume and cognition. JAMA
+Netw Open. 2021;4(8):e2121122. doi:10.1001/jamanetworkopen.2021.21122
+SUPPLEMENT 1.
+eFigure. Flowchart of Participant Selection
+eTable 1. An Example Statistical Code for Regression Models
+eTable 2. Comparison of Characteristics Between the Included and Excluded Participants
+eTable 3. Associations Between Wealth Status and Cognitive Decline When Removing Participants With Follow-Up
+Time of Less Than 2 Years (n = 7987)
+eTable 4. Associations Between Wealth Status and Incident Dementia When Removing Participants With
+Follow-Up Time of Less Than 2 Years (n = 7987)
+eTable 5. Associations Between Wealth Status and Cognitive Decline When Additionally Adjusting for APOE-E4
+Allele Status (n = 5452)
+eTable 6. Associations Between Wealth Status and Incident Dementia When Additionally Adjusting for APOE-E4
+Allele Status (n = 5452)
+eTable 7. Associations Between Wealth Status and Cognitive Decline When the Cut Point for the Negative Wealth
+Shock Was Set at 50% (n = 7936)
+eTable 8. Associations Between Wealth Status and Incident Dementia When the Cut Point for the Negative Wealth
+Shock Was Set at 50% (n = 7936)
+eTable 9. Associations Between Wealth Status and Incident Dementia With Weighed Cox Regression Model (n =
+8082)
+SUPPLEMENT 2.
+Data Sharing Statement
+
+JAMA Network Open. 2023;6(12):e2349258. doi:10.1001/jamanetworkopen.2023.49258 (Reprinted)
+
+Downloaded from jamanetwork.com by guest on 02/19/2026
+
+December 26, 2023
+
+11/11
+
+

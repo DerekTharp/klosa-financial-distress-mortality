@@ -1,0 +1,426 @@
+{
+  "description": "Marginal structural models with stabilised IPTW",
+  "implementation": [
+    "Denominator uses lagged confounders (L_{t-1})",
+    "Combined model uses sequential joint weights",
+    "Bootstrap CIs (1000 iterations, person-level resampling)",
+    "Full weight diagnostics reported"
+  ],
+  "notes": {
+    "MSM_estimand": "Total effect (all pathways including through depression/IADL)",
+    "standard_estimand": "Controlled direct effect (blocking depression/IADL pathways)",
+    "interpretation": "MSM and standard estimates answer different causal questions and are complementary, not contradictory"
+  },
+  "separate_models": {
+    "low_econ_sat": {
+      "label": "Low economic satisfaction",
+      "MSM_total_effect": {
+        "HR": 1.909,
+        "CI_lower": 1.763,
+        "CI_upper": 2.072,
+        "bootstrap_SE": 0.0399,
+        "bootstrap_p": 0.001,
+        "n_bootstraps": 1000
+      },
+      "standard_adjusted_direct_effect": {
+        "HR": 1.23,
+        "CI_lower": 1.134,
+        "CI_upper": 1.334,
+        "p": 0.0
+      },
+      "weight_diagnostics": {
+        "mean": 1.0025,
+        "sd": 0.2621,
+        "min": 0.4118,
+        "max": 2.2697,
+        "P1": 0.4118,
+        "P5": 0.6472,
+        "P25": 0.9052,
+        "P50": 1.0,
+        "P75": 1.022,
+        "P95": 1.4857,
+        "P99": 2.2695,
+        "ESS": 59112,
+        "N": 63153
+      },
+      "covariate_balance": [
+        {
+          "covariate": "age_10",
+          "SMD_unweighted": 0.3041,
+          "SMD_weighted": 0.2077,
+          "reduction_pct": 31.7
+        },
+        {
+          "covariate": "female",
+          "SMD_unweighted": 0.1328,
+          "SMD_weighted": 0.1255,
+          "reduction_pct": 5.5
+        },
+        {
+          "covariate": "married",
+          "SMD_unweighted": -0.3884,
+          "SMD_weighted": -0.2377,
+          "reduction_pct": 38.8
+        },
+        {
+          "covariate": "edu_middle",
+          "SMD_unweighted": -0.0867,
+          "SMD_weighted": -0.0888,
+          "reduction_pct": -2.4
+        },
+        {
+          "covariate": "edu_high",
+          "SMD_unweighted": -0.3131,
+          "SMD_weighted": -0.3146,
+          "reduction_pct": -0.5
+        },
+        {
+          "covariate": "edu_college",
+          "SMD_unweighted": -0.2776,
+          "SMD_weighted": -0.2798,
+          "reduction_pct": -0.8
+        },
+        {
+          "covariate": "self_rated_health",
+          "SMD_unweighted": 0.7545,
+          "SMD_weighted": 0.62,
+          "reduction_pct": 17.8
+        },
+        {
+          "covariate": "chronic_count",
+          "SMD_unweighted": 0.3538,
+          "SMD_weighted": 0.2035,
+          "reduction_pct": 42.5
+        },
+        {
+          "covariate": "current_smoker",
+          "SMD_unweighted": 0.0708,
+          "SMD_weighted": 0.0305,
+          "reduction_pct": 56.9
+        },
+        {
+          "covariate": "depression",
+          "SMD_unweighted": 0.3963,
+          "SMD_weighted": 0.313,
+          "reduction_pct": 21.0
+        },
+        {
+          "covariate": "iadl",
+          "SMD_unweighted": 0.3838,
+          "SMD_weighted": 0.2629,
+          "reduction_pct": 31.5
+        },
+        {
+          "covariate": "bmi",
+          "SMD_unweighted": -0.1261,
+          "SMD_weighted": -0.0775,
+          "reduction_pct": 38.5
+        }
+      ]
+    },
+    "low_income_tv": {
+      "label": "Low household income",
+      "MSM_total_effect": {
+        "HR": 1.529,
+        "CI_lower": 1.415,
+        "CI_upper": 1.663,
+        "bootstrap_SE": 0.0412,
+        "bootstrap_p": 0.001,
+        "n_bootstraps": 1000
+      },
+      "standard_adjusted_direct_effect": {
+        "HR": 1.151,
+        "CI_lower": 1.062,
+        "CI_upper": 1.247,
+        "p": 0.0006
+      },
+      "weight_diagnostics": {
+        "mean": 0.9808,
+        "sd": 0.2985,
+        "min": 0.3371,
+        "max": 2.5197,
+        "P1": 0.3371,
+        "P5": 0.5574,
+        "P25": 0.8892,
+        "P50": 0.9811,
+        "P75": 1.0,
+        "P95": 1.4764,
+        "P99": 2.5196,
+        "ESS": 57800,
+        "N": 63153
+      },
+      "covariate_balance": [
+        {
+          "covariate": "age_10",
+          "SMD_unweighted": 0.8828,
+          "SMD_weighted": 0.5995,
+          "reduction_pct": 32.1
+        },
+        {
+          "covariate": "female",
+          "SMD_unweighted": 0.2152,
+          "SMD_weighted": 0.2319,
+          "reduction_pct": -7.8
+        },
+        {
+          "covariate": "married",
+          "SMD_unweighted": -0.5699,
+          "SMD_weighted": -0.3931,
+          "reduction_pct": 31.0
+        },
+        {
+          "covariate": "edu_middle",
+          "SMD_unweighted": -0.1477,
+          "SMD_weighted": -0.1526,
+          "reduction_pct": -3.3
+        },
+        {
+          "covariate": "edu_high",
+          "SMD_unweighted": -0.4699,
+          "SMD_weighted": -0.5046,
+          "reduction_pct": -7.4
+        },
+        {
+          "covariate": "edu_college",
+          "SMD_unweighted": -0.3077,
+          "SMD_weighted": -0.3249,
+          "reduction_pct": -5.6
+        },
+        {
+          "covariate": "self_rated_health",
+          "SMD_unweighted": 0.6298,
+          "SMD_weighted": 0.5049,
+          "reduction_pct": 19.8
+        },
+        {
+          "covariate": "chronic_count",
+          "SMD_unweighted": 0.4873,
+          "SMD_weighted": 0.3208,
+          "reduction_pct": 34.2
+        },
+        {
+          "covariate": "current_smoker",
+          "SMD_unweighted": -0.1291,
+          "SMD_weighted": -0.1141,
+          "reduction_pct": 11.6
+        },
+        {
+          "covariate": "depression",
+          "SMD_unweighted": 0.203,
+          "SMD_weighted": 0.1548,
+          "reduction_pct": 23.7
+        },
+        {
+          "covariate": "iadl",
+          "SMD_unweighted": 0.1994,
+          "SMD_weighted": 0.1277,
+          "reduction_pct": 36.0
+        },
+        {
+          "covariate": "bmi",
+          "SMD_unweighted": -0.1528,
+          "SMD_weighted": -0.0778,
+          "reduction_pct": 49.1
+        }
+      ]
+    }
+  },
+  "combined_model": {
+    "low_econ_sat": {
+      "MSM_total_effect": {
+        "HR": 1.797,
+        "CI_lower": 1.652,
+        "CI_upper": 1.948,
+        "bootstrap_SE": 0.0434,
+        "bootstrap_p": 0.001,
+        "n_bootstraps": 1000
+      },
+      "standard_adjusted_direct_effect": {
+        "HR": 1.193,
+        "CI_lower": 1.096,
+        "CI_upper": 1.298,
+        "p": 0.0
+      }
+    },
+    "low_income_tv": {
+      "MSM_total_effect": {
+        "HR": 1.396,
+        "CI_lower": 1.275,
+        "CI_upper": 1.528,
+        "bootstrap_SE": 0.0456,
+        "bootstrap_p": 0.001,
+        "n_bootstraps": 1000
+      },
+      "standard_adjusted_direct_effect": {
+        "HR": 1.122,
+        "CI_lower": 1.034,
+        "CI_upper": 1.217,
+        "p": 0.0056
+      }
+    }
+  },
+  "joint_weight_diagnostics": {
+    "mean": 0.9845,
+    "sd": 0.3671,
+    "min": 0.2719,
+    "max": 2.8354,
+    "P1": 0.272,
+    "P5": 0.4867,
+    "P25": 0.8326,
+    "P50": 0.9923,
+    "P75": 1.004,
+    "P95": 1.6306,
+    "P99": 2.8352,
+    "ESS": 55445,
+    "N": 63153
+  },
+  "joint_covariate_balance_satisfaction": [
+    {
+      "covariate": "age_10",
+      "SMD_unweighted": 0.3041,
+      "SMD_weighted": 0.2355,
+      "reduction_pct": 22.6
+    },
+    {
+      "covariate": "female",
+      "SMD_unweighted": 0.1328,
+      "SMD_weighted": 0.1287,
+      "reduction_pct": 3.1
+    },
+    {
+      "covariate": "married",
+      "SMD_unweighted": -0.3884,
+      "SMD_weighted": -0.2567,
+      "reduction_pct": 33.9
+    },
+    {
+      "covariate": "edu_middle",
+      "SMD_unweighted": -0.0867,
+      "SMD_weighted": -0.0744,
+      "reduction_pct": 14.2
+    },
+    {
+      "covariate": "edu_high",
+      "SMD_unweighted": -0.3131,
+      "SMD_weighted": -0.3152,
+      "reduction_pct": -0.7
+    },
+    {
+      "covariate": "edu_college",
+      "SMD_unweighted": -0.2776,
+      "SMD_weighted": -0.2833,
+      "reduction_pct": -2.1
+    },
+    {
+      "covariate": "self_rated_health",
+      "SMD_unweighted": 0.7545,
+      "SMD_weighted": 0.6452,
+      "reduction_pct": 14.5
+    },
+    {
+      "covariate": "chronic_count",
+      "SMD_unweighted": 0.3538,
+      "SMD_weighted": 0.2354,
+      "reduction_pct": 33.5
+    },
+    {
+      "covariate": "current_smoker",
+      "SMD_unweighted": 0.0708,
+      "SMD_weighted": 0.0136,
+      "reduction_pct": 80.8
+    },
+    {
+      "covariate": "depression",
+      "SMD_unweighted": 0.3963,
+      "SMD_weighted": 0.3271,
+      "reduction_pct": 17.5
+    },
+    {
+      "covariate": "iadl",
+      "SMD_unweighted": 0.3838,
+      "SMD_weighted": 0.2919,
+      "reduction_pct": 24.0
+    },
+    {
+      "covariate": "bmi",
+      "SMD_unweighted": -0.1261,
+      "SMD_weighted": -0.0929,
+      "reduction_pct": 26.3
+    }
+  ],
+  "joint_covariate_balance_income": [
+    {
+      "covariate": "age_10",
+      "SMD_unweighted": 0.8828,
+      "SMD_weighted": 0.6029,
+      "reduction_pct": 31.7
+    },
+    {
+      "covariate": "female",
+      "SMD_unweighted": 0.2152,
+      "SMD_weighted": 0.235,
+      "reduction_pct": -9.2
+    },
+    {
+      "covariate": "married",
+      "SMD_unweighted": -0.5699,
+      "SMD_weighted": -0.3982,
+      "reduction_pct": 30.1
+    },
+    {
+      "covariate": "edu_middle",
+      "SMD_unweighted": -0.1477,
+      "SMD_weighted": -0.1509,
+      "reduction_pct": -2.1
+    },
+    {
+      "covariate": "edu_high",
+      "SMD_unweighted": -0.4699,
+      "SMD_weighted": -0.508,
+      "reduction_pct": -8.1
+    },
+    {
+      "covariate": "edu_college",
+      "SMD_unweighted": -0.3077,
+      "SMD_weighted": -0.3254,
+      "reduction_pct": -5.8
+    },
+    {
+      "covariate": "self_rated_health",
+      "SMD_unweighted": 0.6298,
+      "SMD_weighted": 0.539,
+      "reduction_pct": 14.4
+    },
+    {
+      "covariate": "chronic_count",
+      "SMD_unweighted": 0.4873,
+      "SMD_weighted": 0.3441,
+      "reduction_pct": 29.4
+    },
+    {
+      "covariate": "current_smoker",
+      "SMD_unweighted": -0.1291,
+      "SMD_weighted": -0.1149,
+      "reduction_pct": 11.0
+    },
+    {
+      "covariate": "depression",
+      "SMD_unweighted": 0.203,
+      "SMD_weighted": 0.1721,
+      "reduction_pct": 15.2
+    },
+    {
+      "covariate": "iadl",
+      "SMD_unweighted": 0.1994,
+      "SMD_weighted": 0.1436,
+      "reduction_pct": 28.0
+    },
+    {
+      "covariate": "bmi",
+      "SMD_unweighted": -0.1528,
+      "SMD_weighted": -0.0819,
+      "reduction_pct": 46.4
+    }
+  ],
+  "n_bootstrap": 1000
+}

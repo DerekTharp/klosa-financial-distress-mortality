@@ -1,0 +1,1001 @@
+© 2024 International Monetary Fund
+
+WP/24/223
+
+IMF Working Paper
+Asia Pacific Department
+Parametric Pension Reform Options in Korea
+Prepared by: Daniel Baksa, Boele Bonthuis, Si Guo, and Zsuzsa Munkacsi
+Authorized for distribution by Harald Finger
+October 2024
+
+IMF Working Papers describe research in progress by the author(s) and are published to elicit
+comments and to encourage debate. The views expressed in IMF Working Papers are those of the
+author(s) and do not necessarily represent the views of the IMF, its Executive Board, or IMF management.
+
+ABSTRACT: Population aging in Korea will pose substantial challenges to the financial sustainability of its
+public pension system. Under current policies and plausible assumptions, public pension spending can
+increase by as much as 4 percent of GDP during 2020-70, while contribution revenue will largely stay constant.
+This expected rise in public pension spending mainly reflects the increase in the old-age dependency ratio (and
+therefore the number of pension recipients), the deceleration in GDP growth in response to demographic
+changes, and, to a lesser extent, the maturing of the National Pension Scheme. Three pension policies are
+considered to stabilize the public debt- to-GDP ratio: a retirement age increase, higher social security
+contributions, and a lower pension replacement rate, and a combination of all three. The adjustments need to
+be large to stabilize the debt-to-GDP ratio if each policy lever is used in isolation. A combination of smaller
+adjustments of multiple parameters yields better results.
+RECOMMENDED CITATION: Baksa et al, “Parametric Pension Reform Options in Korea” IMF Working Papers
+2024/223 (Washington: International Monetary Fund)
+
+JEL Classification Numbers:
+
+C68, H31, H55, J22, J26
+
+Keywords:
+
+Aging; pensions; overlapping generations model
+
+Author’s E-Mail Address:
+
+dbaksa2@imf.org, bbonthuis@imf.org, sguo@imf.org,
+zmunkacsi@imf.org
+
+* “The author(s) would like to thank” footnote, as applicable.
+
+©International Monetary Fund. Not for Redistribution
+
+WORKING PAPERS
+
+Parametric Pension Reform
+Options in Korea
+Prepared by: Daniel Baksa, Boele Bonthuis, Si Guo, and Zsuzsa Munkacsi1
+
+1
+
+The authors are thankful for the very useful comments received from the Korean Ministry of Health and Welfare, the Ministry of
+Economy and Finance, the National Pension Service, Csaba Feher and Harald Finger and the IMF’s Korea country team. Any
+remaining errors are the responsibility of the authors.
+
+©International Monetary Fund. Not for Redistribution
+
+IMF WORKING PAPERS
+
+Contents
+Introduction ......................................................................................................................................................... 3
+Demographic changes and the pension schemes in Korea ........................................................................... 6
+Demographics ................................................................................................................................................ 6
+The current pension system in Korea ............................................................................................................. 7
+The Basic Pension................................................................................................................................... 7
+Contributory pensions.............................................................................................................................. 8
+The Model .......................................................................................................................................................... 12
+Theoretical Structure .................................................................................................................................... 12
+Calibration .................................................................................................................................................... 16
+Results ............................................................................................................................................................... 17
+Baseline Scenario. ....................................................................................................................................... 17
+Reform options ............................................................................................................................................. 18
+Conclusion ......................................................................................................................................................... 21
+References ......................................................................................................................................................... 23
+
+INTERNATIONAL MONETARY FUND
+
+©International Monetary Fund. Not for Redistribution
+
+2
+
+1
+
+Introduction
+
+Korea’s demographic structure is expected to experience a drastic change due to population aging.
+Figure 1 illustrates the projected old-age dependency ratio (OADR), defined as the ratio of the size
+of the population aged 65 and above to the number of people aged 15-64, in selected countries and
+regions based on the United Nations’ World Population Prospects 2022.1 A higher OADR means
+the proportion of the elderly is higher. Even though Korea’s current population is still relatively
+young, it will age rapidly compared to other countries. The rapidly changing population structure
+is the result of lower fertility rates and longer life expectancy. By 1990 the fertility rate had dropped
+from almost 6 in 1950 to well below 2, falling even further below 1 by 2020. At the same time, life
+expectancy at age 65 increased from 15 years in 1990 to more than 20 in 2020. While fertility is
+projected to rebound somewhat, the increase is not enough to offset aging in any meaningful way,
+especially since life expectancy is projected to increase further.
+Aging comes with adverse macroeconomic implications: a shrinking labor force, a drop in consumption and investment growth, and so in GDP growth. Among the many challenges related to
+the aging population structure, another important issue is the fiscal sustainability of the pension
+system. Rapid aging has led to upward pressure on pension spending and will continue to do so in
+the future. While the Korean authorities have taken important steps in the past to improve the fiscal sustainability of the pension system, more adjustments are likely needed to ensure the long-run
+fiscal sustainability of the system.
+The Korean pension system is still maturing. The main scheme, administered by the National
+Pension Service (NPS), was introduced in 1988 resulting in relatively low current spending on earningsrelated pensions. In addition, pension spending on non-contributory pensions has also been relatively low, despite many older individuals not having significant pension entitlements in the earningsrelated scheme. However, spending has increased, as a result of a maturing pension system, aging
+and increasing generosity of non-contributory pensions. Pension spending, on all schemes combined, has increased from 1.8 percent to 4.0 percent of GDP between 2009 and 2022 and is projected
+to rise significantly further in coming years.2 In the rest of the paper we focus on the NPS and the
+basic pension, which constitutes about 2/3rds (and rising) of overall pension spending.
+
+1
+2
+
+Data was downloaded from https://population.un.org/wpp/.
+This includes NPS, special regimes and the Basic Pension (source: IMF (2023)).
+
+3
+
+©International Monetary Fund. Not for Redistribution
+
+Figure 1: Old-age Dependency Ratio (percent)
+100
+Korea
+Japan
+China
+U.S.
+Europe 40
+
+80
+60
+40
+20
+0
+2020
+
+2030
+
+2040
+
+2050
+
+2060
+
+Note: OADR is defined as the ratio of the number of population aged 65+ to the number of population aged 15-64. Data
+source: UN World Population Prospects 2022.
+
+Currently, the majority of Korean workers are covered by the NPS, which operates on a pay-asyou-go defined benefit basis but has a sizable reserve fund. Despite the NPS’s annual surpluses
+in recent years (the result of its relative immaturity), rapid aging would imply that the pension
+expenditure will keep increasing and the NPS would go into deficit in 2041 and assets would be
+depleted by 2055 (NABO (2023)), despite legislated reductions of replacement rates and increases
+in the retirement age. At the same time, the relatively high elderly poverty rate (OECD (2023)) (40
+percent) and the substantial reductions in accrual rates (from 1.75 percent in 1988 to 1 percent by
+2028), and the change in the retirement age (from the current 62 to 65 by 2033) announced in previous
+reforms imply limited room to improve the long-term financial sustainability of the pension system
+through further lowering the replacement rate or increasing the pension retirement age in the short
+run.
+This paper seeks to explore answers to three questions related to pension sustainability. First,
+what would be the projected fiscal position under current policies, against the backdrop of projected
+demographic changes? Second, what is the quantitative importance of different factors in influencing the projected trajectory, such as the demographic changes and the announced pension reforms?
+Third, which policies could help improve the long-term fiscal sustainability (of pensions) in Korea?
+We focus on the fiscal position instead of the financial health of the NPS alone because the government might eventually be responsible for the pension liabilities when the reserve assets of the NPS
+and other pension funds have been depleted. The results in this paper should be interpreted as an
+
+4
+
+©International Monetary Fund. Not for Redistribution
+
+academic exercise, exploring what the fiscal implications of aging could be if there were no further
+reforms to the NPS and the government eventually stepped in to cover the resulting deficit.
+The paper applies OGRE, a dynamic overlapping generation with retirement model developed
+in Baksa and Munkacsi (2016) to Korea. The model structure is close to Gertler (1999), which incorporates pension income into a perpetual youth overlapping generation model. Compared with
+Gertler (1999), we add more fiscal instruments, such as social security contributions, labor taxes, and
+consumption taxes into the model for more practical policy analysis. We also modeled unemployment à la Blanchard and Gali (2010) as the demographic shocks and changes in fiscal policies may
+have impact on labor market and output.
+We calibrate the model to Korea to study fiscal trajectories under current policies and announced
+future policy changes. We find that, under these assumptions, pension spending would increase by
+4 percentage points of GDP by 2070 while contribution revenue would remain largely constant. If
+this additional spending is absorbed by the government, the consolidated government’s net debt
+is expected to increase by nearly 180 percent of GDP by 2070. Only one fifth of the increase in
+debt is attributed to non-demographic factors, such as the expected increase in the number of NPS
+beneficiaries as the NPS matures. About four fifths of the debt increase is explained by the sharp
+change in demographics.
+Compared to previous studies on Korea’s pension sustainability, such as MHW (2018) and Kim
+(2002) which also predict the future rise in public debt, this paper, with its general equilibrium model
+structure, can better capture the interconnections between demographics, investment, employment
+and growth. For example, under similar demographic assumptions, the projected economic growth
+rates in our model are notably lower than the studies above, because capital accumulation is assumed
+to endogenously decelerate in response to the decline in the size of working-age population.
+The rest of the paper is organized as follows. Section 2 briefly describes the demographic changes
+in Korea and its current pension system. Section 3 lays out the model structure and calibration.
+Section 4 discusses the results of model predictions, including reform options to stabilize public
+debt. Section 5 concludes.
+
+5
+
+©International Monetary Fund. Not for Redistribution
+
+2
+
+Demographic changes and the pension schemes in Korea
+
+2.1
+
+Demographics
+
+Korea’s population is aging, reflecting the consequences of rising life expectancy and declining fertility rates. As shown in Figures 2 and 3, the fertility rate in Korea had been substantially higher
+than in Japan before the mid-1980s, while life expectancy in Korea was lower than in Japan, explaining the relatively younger population structure than Japan as of now (Figure 1). As Korea’s income
+level grew, the life expectancy of Koreans at age 65 has almost doubled from 11.6 years in 1960 to 21.5
+years in 2020, only slightly below the life expectancy in Japan (22.6 years in 2020). At the same time,
+fertility in Korea declined from 6.0 in 1960 to less than 1 in 2023, a level even lower than Japan. These
+demographic changes explain why Korea’s OADR is expected to surpass Japan by around 2050, as
+shown in Figure 1.
+Population projections from Statistics Korea under the medium population growth scenario3
+show that the projected population aged 25 and above will peak in 2032 (the population between 25
+and 64 started to decline in 2022). In contrast, the size of population older than 65 will continue to
+rise and eventually exceed the size of 25-64 group by 2058.
+
+Figure 2: Fertility Rate (in percent)
+
+6
+
+Korea
+Japan
+
+4
+
+2
+
+0
+1960 1970 1980 1990 2000 2010 2020
+Note: fertility rate measures the average number of children that a woman would have in her life time. Data source: UN
+Population Prospects.
+
+3
+
+Korea Statistics publishes its population projections under three (low, medium and high) population growth scenarios.
+The projections under low and high population growth scenarios will be shown in the model calibration section.
+
+6
+
+©International Monetary Fund. Not for Redistribution
+
+Figure 3: Life Expectancy at 65 (in years)
+25
+Korea
+Japan
+20
+
+15
+
+10
+1960 1970 1980 1990 2000 2010 2020
+
+2.2
+
+The current pension system in Korea
+
+Korea has a multi-tier pension system. The first tier is the basic old-age pension, which was introduced
+in 2007 to stabilize living standards of the elderly, especially for retirees who do not have other
+pension income. The means-tested amount each individual receives depends on his or her income
+level, the total period of time he or she contributed to the NPS, and other status (e.g. single or couple,
+having a property or not). The basic old-age pension is funded by the government budget.
+The second tier consists of the National Pension Scheme (NPS), for the majority of Korean workers, and occupational pension schemes for certain occupations, such as civil servants, teachers and
+military staff.
+The third tier includes corporate pensions, retirement pay allowance and other private pensions.
+Only a relatively small fraction of workers are covered by these schemes, complementing the income
+from public pensions in the first and second tier. The sustainability of pension schemes in the third
+tier has no direct fiscal impact, as they are not backed by the government. Thus, in this paper, the
+discussions will only focus on the schemes falling into the first and second tier.
+
+The Basic Pension.
+Apart from the NPS the majority of retirees in Korea also receive a social pension called the Basic
+Pension. In 2022, 6.2 million people received a (partial) Basic Pension, among which 2.9 million
+also received a pension from the NPS. The total number of basic pension recipients corresponds
+to the target of reaching the 70 percent poorest among the elderly. Retirees can access the Basic
+
+7
+
+©International Monetary Fund. Not for Redistribution
+
+Pension from age 65 and the amount is dependent on household income and composition. The
+benefit formula divides recipients in three categories, those receiving the full Basic Pension (i.e.,
+old-age pension income below KRW 484 770), those receiving a partial Basic Pension for which the
+full Basic Pension amount is withdrawn against (part of) own NPS benefits, and those receiving half
+the full Basic Pension in case the withdrawal formula would lead to a negative value. The richest 30
+percent of the elderly population does not receive a Basic Pension. Spending on the Basic Pension
+has increased from 0.3 percent of GDP in 2009 to 0.9 percent of GDP in 2022.
+Contributory pensions.
+The Korean pension system is a relatively young system. Civil service pensions, the Government
+Employee Pension Scheme (GEPS), have been introduced in 1966, while mandatory pensions for
+the private sector were introduced in 1988 under the National Pension Scheme (NPS). Initially the
+NPS only covered workers in companies with 10 or more employees. Gradually the coverage has
+increased to include all employees and the self-employed. In addition to the GEPS and the NPS, the
+two biggest pension schemes, there are special regimes for the military, private school teachers, and
+special post office workers.
+The slow expansion in coverage means that beneficiaries are a small but growing share of the
+elderly population. The number of NPS contributors grew from 4.4 million in 1988 to 22.5 million
+in 2022. That constitutes an increase from 15 percent of the working age population to 64 percent
+of the working age population. Similarly, beneficiaries grew from 1.1 million in 2003 (27 percent of
+the elderly population) to 6.4 million in 2022 (71 percent of the elderly population). However, none
+of the beneficiaries contributed to the NPS for their entire career, leading to relatively low average
+pension benefits of 586 thousand KRW per month in 2022 (15 percent of the average wage).
+The slow expansion in coverage also means that pension spending is low but rising. Pension
+spending on the NPS has increased from 0.6 percent to 1.6 percent of GDP between 2009 and 2022
+and, because of rapid aging, is projected to rise significantly further in coming years.The NPS is
+expected to go into deficit in 2041 and run out of assets by 2055, despite legislated reductions of
+replacement rates and increases in the retirement age (NABO (2023)). The civil service pension
+scheme (GEPS) is already running deficits, despite a slower growth in expenditure.4 However, at
+the same time its assets are not used to cover these deficits.
+4
+
+Spending has increased from 0.6 percent of GDP in 2009 to 1.0 percent of GDP in 2022.
+
+8
+
+©International Monetary Fund. Not for Redistribution
+
+Box 1: Interaction between NPS and the Basic Pension .
+The NPS is relatively redistributive while the Basic Pension redistributes less than typical social
+pensions. While NPS benefits are strongly linked to career length, they are not as strongly linked
+to earnings levels. This is because half the reference wage depends on the economy wide average
+earnings (to be more precise: the average income of national pension subscribers over the past three
+years). This means that low earners receive relatively higher benefits than their contributions would
+suggest in a purely proportional defined benefit scheme while high earners receive lower benefits.
+At the same time, the Basic Pension depends on total old-age income for eligibility criteria, but the
+withdrawal rate of the Basic Pension only depends on the A-value of the NPS pension, this A-value
+is linked to the average earnings of NPS contributors over the past three years (see above). This
+means for a given career length, individuals with different past earnings levels will receive the same
+Basic Pension benefit.5 Taken together the total pension benefit can be expressed as the sum of the
+NPS pension (A + B) and the basic pension (S or S reduced by part of the NPS pension):
+
+𝑏𝑒𝑛𝑒𝑓 𝑖𝑡𝑡𝑜𝑡𝑎𝑙 =
+
+⎧
+⎪
+⎪
+⎨𝐴 + 𝐵 + 𝑆,
+
+if old-age income < 1.5𝑆
+
+⎪
+⎪
+⎩𝐴 + 𝐵 + 𝑚𝑎𝑥(𝑆 − 2 𝐴, 0) + 0.5𝑆,
+3
+
+otherwise
+
+in which 𝐴 is based on the average salary in the economy and 𝐵 is the part of the pension that
+depends on own earnings, together they form the total NPS benefit, the rest is Basic Pension, with
+𝑆 the full Basic Pension amount (KRW 484 770). This can be rewritten as:
+
+𝑏𝑒𝑛𝑒𝑓 𝑖𝑡𝑡𝑜𝑡𝑎𝑙 =
+
+⎧
+⎪
+⎪
+⎪
+𝐴 + 𝐵 + 𝑆,
+⎪
+⎪
+⎪
+⎨
+
+if old-age income < 1.5𝑆
+
+1
+
+if old-age income ≥ 1.5𝑆&𝐴 < 1.5𝑆
+
+𝐴 + 𝐵 + 0.5𝑆,
+
+otherwise
+
+3 𝐴 + 𝐵 + 1.5𝑆,
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎩
+
+In the second case, this means that pensioners should be indifferent between receiving the current
+NPS pension plus partial Basic Pension and receiving a reduced NPS pension (33 percent of the A
+value) but receiving one and a half times the current full Basic Pension. To make pensioners with
+less than 1.5 times the full Basic Pension amount as income at least as well off, the Basic Pension
+amount should be raised further, depending on the ratio of the average wage to the minimum wage.
+Since its inception in 1988 the NPS has changed significantly. Apart from the increased coverage, the contribution, benefit and eligibility rules were gradually adjusted to reflect the increasing
+
+9
+
+©International Monetary Fund. Not for Redistribution
+
+pressure on pension finances. Contribution rates were raised from 3 percent to 9 percent in 1998.
+Accrual rates were reduced from 1.75 percent per year of contributions to 1.0625 percent in 2023,
+further decreasing to 1 percent in 2028. The reference wage used in benefit calculations has become
+more redistributive with a greater importance assigned to the economy wide average wage (the socalled A-salary). The retirement age is in the process of being raised from 60 years in 2012 to 65 in
+2033, while the minimum years of contribution requirement has been lowered from 20 years in 1992
+to 10 years in 1999. However, after the age of 60 no additional benefits accrue, and no contributions
+are paid, which is uncommon in other countries’ retirement systems.
+This means that the current benefit formula looks as follows:
+
+𝑏𝑛𝑝𝑠 =
+
+𝑡
+∑︁
+
+𝑎𝜏 * (𝑤𝑖,𝑡 + 𝑤¯𝑡 )/2
+
+𝜏 =𝑡−𝑗
+
+In which 𝑎 is the implied accrual rate derived from the "targeted replacement rate after 40 years"
+as defined by law (i.e., the replacement rates divided by 40 going back to the first year of contributions made at time 𝑡 − 𝑗)6 , 𝑤𝑖 is the part of the reference wage derived from average individual
+earnings and 𝑤¯ is the part of the reference wage derived from the average earnings of NPS contributors over the past 3 years. Since the target replacement rates are still legislated to decline and since
+total accrual is a function of all previous target replacement rates during someone’s career, total accrual for a given career length is only expected to stabilize for people entering the labor market in
+2028 or later (i.e., for those who enter the labor market once the legistlated accrual rate has stabilized). The current and ongoing decline in total accrual for a given career length is still partially the
+result of past reductions of the target replacement rate.
+Two opposing forces are at work in the NPS, pushing replacement rates up in the short run
+but leading to falling replacement rates in the long run. As the OECD (2022) shows, on the one
+hand, as the scheme matures, participants will retire with gradually longer contribution histories,
+leading to higher pension benefits. On the other hand, accrual rates have decreased significantly
+since its inception and the increasing retirement age does not lead to additional accrual, since no
+contributions are made after the age of 60. The cohort retiring in 2032 will be the first cohort to
+contribute to the NPS during their entire working lives, assuming labor market entry at age 20,
+therefore leading to the highest replacement rates. After 2032 the replacement rate slowly declines
+6
+
+Replacement rates as defined in Korean law actually refers to accrual (i.e., the marginal increase in pension benefits
+for one aditional year of contributions as a function of the reference wage) rather than the typical use of replacement rate
+(the first pension divided by the last earned wage).
+
+10
+
+©International Monetary Fund. Not for Redistribution
+
+until it stabilizes for labor market entrants in 2028 (when the accrual rate reaches 1). Replacement
+rates for an average wage worker, who entered the labor market at age 20 and has a contribution
+density of 50 percent, will therefore decline from 27 percent in 2020 to 22 percent in 2070 (Figure
+4). This replacement rate is made up for the majority by NPS benefits but also include a small share
+coming from the Basic Pension.
+
+Figure 4: Projected replacement rate
+
+Note: Replacement rate, at the retirement age, of an average wage worker with a 50 pct contribution density since age 20.
+
+The replacement rates promised by the Korean pension system for private sector workers are
+low by international standards. The Korean pension system produces a future theoretical gross replacement rate for a full career average wage worker of 31 percent OECD (2023), compared to 51
+percent for the OECD on average. Among OECD countries, only Australia, Estonia, Ireland, Lithuania and Poland have lower replacement rates. Since the Korean pension system is very redistributive,
+it means that replacement rates for low earners (half the average wage) is significantly higher at 48
+percent, while higher earners (twice the average wage) only have a replacement rate of 19 percent.
+Contribution rates and retirement ages in Korea are low in international comparison. Compared
+to other OECD countries, Korea has the lowest contribution rate except for Mexico and Lithuania,
+while the contribution rate for the OECD on average is 18 percent. The retirement age is currently
+below the OECD average and will remain below average in the future despite reaching 65 by 2033.
+The current retirement age of 62 is well below the average retirement age of 64 in the OECD. While
+the retirement age catches up somewhat with the average of the OECD (65 in Korea in the future
+compared to 66 for the OECD on average), it remains low, especially considering the relatively high
+life expectancy in Korea.
+
+11
+
+©International Monetary Fund. Not for Redistribution
+
+Figure 5: Pension system characteristics
+
+(a) Contribution rate
+
+(b) Retirementa age
+Source: OECD (2021)
+
+Note: future is defined as the year of retirement of someone with a full career since the age of 22 in 2020.
+
+3
+
+The Model
+
+In this section we set out the model used to produce the baseline and pension reform options.
+
+3.1
+
+Theoretical Structure
+
+We use the dynamic general equilibrium model with demography, overlapping generations and
+unemployment developed by Baksa and Munkacsi (2016), which builds on Gertler (1999). There are
+two types of households: the young and the retired. In each period, young households are born with
+probability 𝑛𝑡 . They turn retired with probability 𝜔𝑡𝑌 . Retired households die with probability 𝜔𝑡𝑂 .
+All probabilities are non-age dependents. The law of motion for the sizes of total, young and retired
+population {𝑁𝑡 , 𝑁𝑡𝑌 , 𝑁𝑡𝑂 } are governed by time-varying demographic parameters {𝑛𝑡 , 𝜔𝑡𝑌 𝜔𝑡𝑂 }:
+𝑁𝑡𝑌
+
+𝑌
+𝑌
+𝑌
+= (1 − 𝜔𝑡−1
+)𝑁𝑡−1
++ 𝑛𝑡 𝑁𝑡−1
+
+𝑂
+𝑂
+𝑌
+𝑌
+𝑁𝑡𝑂 = (1 − 𝜔𝑡−1
+)𝑁𝑡−1
++ 𝜔𝑡−1
+𝑁𝑡−1
+
+𝑁𝑡 = 𝑁𝑡𝑌 + 𝑁𝑡𝑂
+We assume that all young households are in their working age and they can enter the labor market.
+Once a person becomes retired, he or she earns pension income, but not labor income.
+
+Retired households’ optimization. At time 𝑡, a retiree 𝑖 who retired 𝑎 periods ago maximises the
+
+12
+
+©International Monetary Fund. Not for Redistribution
+
+following Bellman-equation: :
+𝑂
+𝑂
+𝑂
+𝑂
+𝑉𝑡𝑂 (𝑏𝑂
+𝑡−1,𝑎−1 (𝑖)) = 𝑚𝑎𝑥{𝑢(𝑐𝑡,𝑎 (𝑖)) + 𝛽 (1 − 𝜔𝑡 )𝑉𝑡+1 (𝑏𝑡,𝑎 (𝑖))}
+
+s.t.
+𝑂 𝑂
+𝑂
+𝑂
+𝑂
+(1 + 𝜏𝑡𝐶 )𝑐𝑂
+𝑡,𝑎 (𝑖) + (1 − 𝜔𝑡 )𝑏𝑡,𝑎 (𝑖) = (1 − 𝑟𝑡−1 )𝑏𝑡−1,𝑎−1 (𝑖) + 𝑇 𝑅𝑎,𝑡 (𝑖) + 𝑃 𝑟𝑜𝑓 𝑖𝑡𝑎,𝑡 (𝑖) − 𝑇𝑎,𝑡 (𝑖)
+
+where 𝑉 is the value function, 𝑢 is the utility function, 𝑐 is consumption, 𝜏𝑡𝐶 is the value-added (VAT)
+𝑂
+tax rate, 𝑏𝑂
+𝑡,𝑎 (𝑖) denotes 𝑖’s private saving, 𝑇 𝑅𝑎,𝑡 (𝑖) denotes pension income, 𝑃 𝑟𝑜𝑓 𝑖𝑡𝑎,𝑡 (𝑖) denotes div𝑂 (𝑖) is the lump sum tax charged by the government.
+idend payments from firms, and 𝑇𝑎,𝑡
+
+Young households’ optimization. The differences between the young and old cohorts are that the
+young cohorts can get labor income and make contributions to the pension scheme. The problem of
+a young household 𝑖 who was born 𝑎 periods ago is defined as below:
+𝑌𝑂
+𝑉𝑡𝑌 (𝑏𝑌𝑡−1,𝑎−1 (𝑖)) = 𝑚𝑎𝑥{𝑢(𝑐𝑌𝑡,𝑎 (𝑖)) + 𝛽{(1 − 𝜔𝑡𝑌 )𝑉𝑡𝑌+1 (𝑏𝑌𝑡,𝑎 (𝑖)) + 𝜔𝑡𝑌 𝑉𝑡𝑂
++1 (𝑏𝑡,𝑎 (𝑖))}
+
+s.t.
+
+(1 + 𝜏𝑡𝐶 )𝑐𝑌𝑡,𝑎 (𝑖) + (1 − 𝜔𝑡𝑌 )𝑏𝑌𝑡,𝑎 (𝑖) = (1 + 𝑟𝑡−1 )𝑏𝑌𝑡−1,𝑎−1 (𝑖) + (1 − 𝜏 𝑃 𝐼𝑇 − 𝜏 𝐿𝑊 )𝑤𝑡 𝐿𝑡,𝑎 (𝑖) +
+𝑌
+𝑤𝑡𝑈 𝑈𝑡,𝑎 (𝑖) + 𝑃 𝑟𝑜𝑓 𝑖𝑡𝑌𝑡,𝑎 (𝑖) − 𝑇𝑡,𝑎
+(𝑖)
+
+where 𝐿𝑡,𝑎 (𝑖) and 𝑈𝑡,𝑎 (𝑖) denote the employed and unemployed members of the household7 , 𝑤𝑡
+is the wage rate, and 𝑤𝑡𝑈 is unemployment benefit.
+
+Production. There are infinitely many physical capital producers and goods producers. All physical
+capital producers are identical, while each goods producer makes its differentiated good and follows
+monopolistic competition.
+The representative physical capital producer chooses investment 𝐼𝑡 to accumulate capital. The
+capital is rent to goods producers. The physical capital producer’s problem is
+𝑉 (𝐼𝑡−1 , 𝐾𝑡−1 ) = 𝑚𝑎𝑥{𝑟𝑡𝐾 𝐾𝑡−1 − 𝐼𝑡 +
+
+1
+𝑉 (𝐼𝑡 , 𝐾𝑡 )}
+1 + 𝑟𝑡
+
+7
+
+It would be convenient to think each household 𝑖 consists of many infinitely small household members who can pool
+their income risks within the household.
+
+13
+
+©International Monetary Fund. Not for Redistribution
+
+s.t.
+𝐾𝑡 = (1 − 𝛿 )𝐾𝑡−1 + 𝐼𝑡 [1 − 𝑆 (
+𝑆(
+
+𝐼𝑡
+
+)]
+
+(1)
+
+𝜑𝐾
+𝐼𝑡
+𝐼𝑡
+)=
+− 1]2
+[
+𝐼𝑡−1
+2 (1 + 𝑔𝑡 )𝐼𝑡−1
+
+(2)
+
+𝐼𝑡−1
+
+where 𝐾𝑡−1 is the capital stock inherited from 𝑡 − 1, 𝛿 is the capital depreciation rate, 𝑟𝑡𝐾 is the real
+𝑅𝐾
+
+capital rental rate, defined as 𝑟𝑡𝐾 = 𝑝𝑡𝑡 , the ratio between the nominal rental rate and CPI level. 𝑆 (·)
+is the capital adjustment cost function following Christiano et al. (2005), where 𝜑𝐾 controls the size of
+adjustment cost. The term 1 + 𝑔𝑡 is a trend factor, reflecting exogenous population and technological
+growth.
+1 + 𝑔𝑡 = (1 + 𝑔𝑡𝐴 )
+
+𝑁𝑡
+𝑁𝑡−1
+
+(3)
+
+The goods producers rent labor and capital inputs from households and the capital producer in a
+monopolistic competition setting, subject to two frictions. First, price is sticky and price adjustment
+follows Rotemberg pricing. Second, hiring is costly as in Blanchard and Gali (2010). The second
+friction generates equilibrium unemployment. The goods producer 𝑗’s maximization problem is
+𝑊 (𝑝𝑡−1 (𝑗 ), 𝑙𝑡−1 (𝑗 )) = 𝑚𝑎𝑥{𝑑𝑡 (𝑗 ) +
+
+𝑊 (𝑝𝑡 (𝑗 ), 𝐿𝑡 (𝑗 ))
+}
+1 + 𝑖𝑡
+
+s.t.
+𝑑𝑡 (𝑗 ) = 𝑝𝑡 (𝑗 )𝑦𝑡 (𝑗 ) − 𝑅𝑡𝐾 𝑘𝑡−1 (𝑗 ) − (1 + 𝜏𝑡𝑆𝑆𝐶𝐹 )𝑤𝑡 𝑙𝑡 (𝑗 ) − 𝐻𝐶𝑡 ℎ𝑡 (𝑗 ) − 𝐴𝑑𝑗𝑡 (𝑗 )
+𝛼
+𝑦𝑡 (𝑗 ) = 𝑘𝑡−1
+(𝑗 )(𝐴𝑡 𝑙𝑡 (𝑗 ))1−𝛼
+
+𝐴𝑑𝑗𝑡 = 𝑝𝑡 (𝑗 )𝑌𝑡 𝑅(
+
+𝑝𝑡 ( 𝑗 )
+)
+𝑝𝑡−1 (𝑗 )
+
+where 𝑑𝑡 is dividend, 𝜏𝑡𝑆𝑆𝐶𝐹 is the employer’s social security contribution rate. 𝑌𝑡 and 𝑦𝑡 (𝑗 ) denotes
+the aggregate output and the output of goods producer 𝑗, respectively. 𝐴𝑡 is time-dependent productivity. The function 𝑅(·) governs the price adjustment cost. The total hiring cost is the product
+of unit hiring cost 𝐻𝐶𝑡 and the size of new hire ℎ𝑡 (𝑗 ), determined by
+𝐻𝐶𝑡 = 𝜅𝜃𝑡𝛼𝜃
+𝐻𝑡
+𝑈𝑡−1 + 𝑓𝑡 𝐿𝑡−1
+𝑙𝑡 (𝑗 ) = (1 − 𝑓𝑡 )𝑙𝑡−1 (𝑗 ) + ℎ𝑡 (𝑗 )
+𝜃𝑡 =
+
+where 𝑓𝑡 is the exogenous job separation rate, which is identical to all goods producers. 𝑈𝑡−1 is
+the size of unemployed labor from last period. 𝜃𝑡 is essentially the market tightness. Note that 𝜃 is
+
+14
+
+©International Monetary Fund. Not for Redistribution
+
+determined by the aggregate hiring and job seekers available. The unit hiring cost 𝐻𝐶𝑡 is a function
+of the market tightness 𝜃, and its curvature is governed by parameter 𝛼𝜃 .
+As in Blanchard and Gali (2010), we assume wage is determined through Nash bargaining. For
+workers, the outside option while being unemployed is to get the unemployment benefit 𝑤𝑡𝑈 .
+
+Pension benefits. Under the defined benefit scheme, the amount of pension benefits that a retiree
+𝑖 can get is decided by the pre-retirement average wage income stream 𝐼𝐵 (𝑖) and the exogenous
+replacement rate 𝜉𝑡 .
+𝑇 𝑅0,𝑡 (𝑖) = 𝜉𝑡 𝐼𝐵 (𝑖)
+where 𝐼𝐵 (𝑖) is the average wage income in the last 𝑋 years before retirement.
+𝐼𝐵 (𝑖) =
+
+1
+(𝑤𝑡 𝐿𝑡 + 𝑤𝑡−1 𝐿𝑡−1 + ... + 𝑤𝑡−𝑋 +1 𝐿𝑡−𝑋 +1 )
+𝑋
+
+Monetary policy. We assume a standard Taylor rule in which the nominal interest rate 𝑖𝑡 responds
+to expected inflation. Though other alternative specifications of central bank’s response functions
+(e.g. adding output gap to the response function) may change the short-term dynamics, numerically
+they have little impact on the long term projection of pension spending and fiscal sustainability –
+the main focus in this paper.
+
+Fiscal policy. The government collects revenue from VAT tax, labor income tax, social security contributions and lump sum tax. The expenditure in the model consists of pension spending, unemployment benefit spending and other expenditure.
+𝑅𝑒𝑣𝑡 = 𝜏𝑡𝐶 + (𝜏𝑡𝑃 𝐼𝑇 + 𝜏𝑡𝑆𝑆𝐶𝑊 + 𝜏𝑡𝑆𝑆𝐶𝐹 )𝑤𝑡 𝐿𝑡 + 𝑇𝑡
+𝐸𝑥𝑝𝑡 = 𝑇 𝑅𝑡 + 𝑤𝑡𝑈 𝑈𝑡 + 𝐺𝑡
+The government’s budget constraint is
+𝐵𝑡 + 𝑅𝑒𝑣𝑡 = (1 − 𝑟𝑡−1 )𝐵𝑡−1 + 𝐸𝑥𝑝𝑡
+Note that in our model, the lump sum tax revenue 𝑇𝑡 and other expenditure 𝐺𝑡 are modeled as
+exogenous residuals, such that the model-implied total revenue and expenditure match the actual
+data moments (more details in the calibration section).
+
+15
+
+©International Monetary Fund. Not for Redistribution
+
+3.2
+
+Calibration
+
+As a first step, OGRE was calibrated to match the long-run properties of the Korean economy (Table
+1). This involved the calibration of macroeconomic parameters to get as close as possible to aggregate
+ratios such as consumption-to-GDP and investment-to-GDP ratios. Second, several fiscal variables
+were targeted, based on government consumption and investment as a share of GDP and taxes as a
+share of GDP (VAT, income tax, employee and employer social security contributions).
+Technology. The production function of good producers is in Cobb-Douglas form, 𝐹 (𝐾𝑡 , 𝐴𝑡 𝐿𝑡 ) =
+𝐾𝑡𝛼 (𝐴𝑡 𝐿𝑡 )1−𝛼 . The capital weight 𝛼 is set to 0.307 so that the model-simulated private consumptionto-investment ratio in the steady state matches the national account in 2018. The annual growth rate
+of 𝐴𝑡 is set to 1.0159. This is equivalent to an annual TFP growth at 1.1 percent, same as the average
+TFP growth rate in Korea after the global financial crisis.
+
+SSC related parameters. The social security contribution (SSC) rates (employers and employees combined) are set at 12.8 percent, so that the model-simulated social security income (as percentage of
+GDP) at the start of the projection period matches with the SSC income-to-GDP ratio in 2020.8 We
+calibrate the replacement rate parameter 𝜉 such that the model-implied public pension spending
+matches with the actual spending in 2019-2020 (3.3 percent of GDP). This gives us a long run value
+of 𝜉 = 0.22.
+Fiscal policy parameters. We choose the effective VAT tax rate 𝜏 𝐶 = 8.1𝑝𝑒𝑟𝑐𝑒𝑛𝑡, personal income tax
+rate 𝜏 𝑃 𝐼𝑇 = 21𝑝𝑒𝑟𝑐𝑒𝑛𝑡 to match the actual VAT and personal income tax revenue in 2018. The unemployment benefit generosity parameter 𝑤𝑈 = 0.11 so that the model-implied total unemployment
+insurance (UI) payment is about 0.3 percent of GDP. We choose the lump sum tax revenue 𝑇𝑡 to be
+3.9 percent of GDP, and the non-pension or UI spending 𝐺𝑡 to be 19.3 percent of GDP. These assumptions yield a 23 percent revenue-to-GDP ratio and a zero debt-to-GDP ratio at the start of the
+projeciton period, consistent with the actual revenue and debt during 2018-19.9
+Other parameters. We choose the time discount 𝛽 = 0.9999, which corresponds to a real interest rate
+8
+
+From our calibration strategy, it is expected that the calibrated SSC rates are different from the statutory rates. The
+main reason is that some of the population aged 25-62 are exempted from SSC or other tax duties, either because they are
+not in the labor force or have been granted other exemptions. Similarly, the calibrated VAT and personal income tax rates
+are different from the statutory rates.
+9
+The public debt in our model is the "net" rather than "gross" debt. In this paper, we decide to use the gross central
+government debt subtracting the NPS assets as a measure of "net" public debt. By this measure, the net public debt-to-GDP
+ratios were 0.7 percent in 2018 and -1.9 percent in 2019. Because the value of NPS assets is subject to market fluctuations,
+we simply take the average net debt-to-GDP ratio as zero for 2018-19.
+
+16
+
+©International Monetary Fund. Not for Redistribution
+
+at 1.5 percent. The job separation rate is set to 7.5 percent annually, based on Table 2 in Schauer
+(2018). There is not much consensus on choosing the Nash bargaining power parameter. We let the
+worker’s Nash bargaining power parameter to be 0.9. This yields a labor share of 54 percent that is
+within the range of various labor share measures for Korea (Cho et al. (2017)). We choose the hiring
+cost parameter 𝜅 = 0.158, so that the long-run value of the unemployment rate is close to the NAIRU
+of around 3.5 percent.
+
+4
+
+Results
+
+4.1
+
+Baseline Scenario.
+
+Assumptions. The baseline scenario incorporates projected aging (following UN projections), current policies, and all announced policy changes, including
+(1) The replacement (NPS and basic pension) rate will decrease from the current 27 percent to 22
+percent (see Figure 4).10
+(2) The statutory retirement age is in the process of being increased by 1 year in every 5 years,
+from 62 in 2020 to 65 by 2033. Currently, the average age of labor market exit is 65 and we assume
+that this effective retirement age remains three years above the statutory retirement age;11
+(3) As the NPS matures, the share of elder population covered by the NPS will increase by a
+factor of 0.54 from 2018 to 2060;
+(4) As the NPS matures, the average duration of pension contribution of each retiree will increase
+from 17.1 years in 2018 to 21.9 years by 2040 (and will stay constant after 2040);
+(5) The old-age dependency ratio goes up from 25 to 110 percent between 2021 and 2075.
+(6) Non-pension and non-UI public expenditure and non-labor or VAT tax revenue are kept constant relative to GDP.
+
+Baseline results. Figure 6 illustrates the projections of key statistics under the baseline scenario.
+The public pension spending-to-GDP ratio is projected to increase 4 percent of GDP by 2070 as the
+number of pensioners increases. Revenue remains stable as share of GDP, as the labor share remains
+10
+
+The accrual rate derived from the "targeted replacement rate after 40 years" as defined by law, has declined from 1.75
+percent in 1988 to 1.1 in 2020. It will reach 1.0 percent in 2028. This means that a theoretical replacement rate for someone
+who entered the labor market at age 20 and retires at the retirement age, will consist of a weighted average of these accrual
+rates. See section 2.2 for a more detailed discussion
+11
+The legislated retirement age increase started in 2013, with a 1 year increase every 5 years, reaching 65 in 2033.
+
+17
+
+©International Monetary Fund. Not for Redistribution
+
+constant while the size of working-age population declines. If deficits produced by the pension system are absorbed by the government, the net public debt-to-GDP ratio is projected to increase by
+around 180 percent of GDP by 2070. Such a hike in public debt would be accompanied by a severe drop in GDP, further exacerbating debt-to-GDP dynamics, and a large shift from young to old
+consumption. The model predicts that the declining working age population will result in lower unemployment rates through tighter labor markets with associated savings on unemployment benefit
+spending.
+Under this scenario, real GDP growth rates will be negative after the 2050s. The reason is that if
+labor supply will decline, capital accumulation will also slow down, as the marginal product of cap𝑡
+ital per capita is pinned down by the TFP and real interest rate: 𝐴𝑡 𝐹 ′ ( 𝐾
+𝐿𝑡 ) + 1 − 𝛿 = 𝑟𝑡 . Other things
+
+equal, a decline in labor 𝐿𝑡 will result in a decline in capital stock 𝐾𝑡 . In equilibrium, though the
+aggregate capital will continue to increase during 2020-60 because the exogenous TFP growth rate
+is positive and the equilibrium interest rate 𝑟𝑡 will moderately decline, the pace of capital accumulation will be much slower than the pace during the pre-2020 period. This explains why the public
+debt-to-GDP ratio will increase much faster during 2050-60 than 2020-50. GDP per capita growth
+turns negative. This is largely driven by the steep fall in the young’s share of total aggregate consumption, which can be explained by two factors. First, the cohort of the young will shrink relative
+to the cohort of the pensioners (i.e., the share of the population that works shrinks). Second, in the
+pay-go system the young need to transfer contributions to an increasing share of older people, there
+is therefore not only a decline in the workforce but also a decline in investment. In reality, stronger
+productivity growth, foreign investment and immigration can counteract this effect. As regards immigration, for instance, it can reduce the reduction in young population growth or the number of
+the young, and so increase the size of labor force. Theoretical models do not take into account any
+policy measure taken to prevent this from hapening, unless explicitly modeled.
+
+4.2
+
+Reform options
+
+There are various ways to stabilize pension deficits with the goal of limiting the increase in debt to
+GDP. We consider increasing the contribution rate, increasing the retirement age and lowering the
+replacement rate. In addition we consider a mix of policies.12
+Increase contribution rates. As mentioned in previous sections, contribution rates in Korea are low
+in international comparison. Taken in isolation, the increase in contribution rates needs to be large to
+12
+
+In practice, there are other reform options which were not modeled in this paper.
+
+18
+
+©International Monetary Fund. Not for Redistribution
+
+Figure 6: Projections main results
+
+Note: Unit is in percent of GDP unless noted otherwise.
+
+offset increased pension spending by higher contribution revenue. Raising the contribution rate by
+13.8 percentage points would increase revenue by 7 percentage points of GDP by 2070. This would
+offset the entire upward pressure on public debt. One interesting observation is that higher pension contribution rates do not result in a visible loss in growth or employment. This is usually not
+the case when we apply the model to other countries, as pension contributions, like any other taxes
+on payroll, should somewhat distort the labor market. There are two Korea-specific reasons which
+may contribute to the smaller distortion from higher contribution rates in Korea. First, UI benefit in
+Korea is relatively less generous compared with European countries. This mainly refers to the coverage and actual take-up rates (Yoo (2013)), rather than the de jure replacement rates. In the model,
+unemployment is the result of hiring frictions and wage bargaining. When bargaining the wage,
+the outside value of an unemployed worker compared to finding a job is the unemployment benefit.
+When unemployment benefit levels are lower, unemployed workers are more likely to accept job of19
+
+©International Monetary Fund. Not for Redistribution
+
+Table 1: Fiscal Instruments to limit Public Debt-to-GDP Ratio growth
+Variable
+
+Measurement
+
+Higher retirement age
+Changes
+6
+0
+
+Higher contribution rate
+
+Lower replacement rate
+
+Mix of policies
+(example 1)
+
+Mix of policies
+(example 2)
+
+Mix of policies
+(example 3)
+
+Years
+Percent
+
+No
+reform
+Level
+67.9
+12.8
+
+Effective retirement age
+Contribution rate
+(employee + employer)
+Gross replacement rate
+
+0
+13.8
+
+0
+0
+
+2
+4.6
+
+2
+9.2
+
+4
+4.6
+
+Percent
+
+22
+
+0
+
+0
+
+-10
+
+-3.3
+
+0
+
+0
+
+fers, even if take-home pay is relatively low. Hence a higher contribution rate is mostly digested by
+workers (through lower take-home pay) and it does not distort firms’ hiring decision. Second, the
+projected unemployment rate is very low due to decline in the size of labor force. Raising contribution rates by the same 13.8 percentage points would have a larger effect in countries with a growing
+labor force.
+Increase the retirement age. Under the 2007 reform, the retirement age is scheduled to increase to
+65 by 2034 compared to the current level of 62. To stabalize pension spending by means of raising
+the retirement age alone would require an additional increase of 6 years. This is much more than
+an increase in the retirement age with 2/3 of the gains in life expectancy would imply, which would
+lead to an additional increase of 2 years by the simulation horizon. Figure 6 shows that changing
+the retirement age to 71 will reduce pension spending in the short run, but even with this very large
+increase spending to GDP will increase by 2 percentage points by 2070. The increase in the size of
+labor force (relative to baseline) will result in higher GDP growth, at the expense of slightly higher
+unemployment rates.
+Lower replacement. Replacement rates in Korea are already projected to fall due to lowered accrual
+rates. To stabilize public debt solely through cutting benefits further would imply lowering replacement rates by 10 percentage points (almost half of the long-run replacement rate). Given the high
+old-age poverty rates and already low replacement rates in international comparison this is clearly
+not desirable.
+Mix of policies. The adjustments need to be large to stabilize the debt-to-GDP ratio if each policy
+lever is used in isolation. A combination of smaller adjustments of multiple parameters yield better
+results. The precise mix of parameters needs to be chosen in a consultative process reflecting social
+preferences. While a higher contribution rate and retirement age would bring Korea more in line
+with the OECD average, a lower replacement rate would negatively affect benefit adequacy and can
+only be considered in combination with an increase in the Basic Pension. For instance increasing the
+retirement age by 2 years, increasing the contribution rate by 4.6 percent and lowering replacement
+
+20
+
+©International Monetary Fund. Not for Redistribution
+
+rates by 3.3 percentage points would largely stabilize public debt by lowering pension spending and
+increasing contribution revenue. GDP per capita growth would be slightly higher than under the
+baseline because of increased labor supply from the retirement age increase while unemployment
+and consumption of the young are largely unaffected. The slightly lower replacement rate could
+easily be offset by a slightly higher basic pension, financed from a VAT increase. As shown in Box 1,
+this does not have to imply changing the redistributive properties of the entire pension system, since
+the redistributive elements of NPS pensions, through the use of the A-value, could be transferred
+to the basic pension. If instead the policy preference is to maintain current NPS benefit rules, either
+the retirement age could be raised further (a 4 year increase instead of 2) or the contribution rate
+could be raised further (9.2 percentage points extra instead of 4.6), to stabilize debt to GDP. Finally,
+to improve contribution revenue and benefit adequacy, pension contributions could be mandated
+above the age of 60 (not modeled). In the long run, this is unlikely to have a significant impact on
+pension deficits, as both contribution revenue and pension entitlements would increase. However, it
+could mitigate almost half of the projected drop in theoretical replacement rates under the baseline
+scenario.
+
+5
+
+Conclusion
+
+This paper uses an overlapping generation general equilibrium to evaluate the fiscal trajectory under demographic changes in Korea. Under current policies, including already announced policy
+changes, the aging population structure will put substantial pressure on public pension spending
+and public debt accumulation. Economic growth will slow down, which exacerbates the fiscal pressure.
+The impact of aging on the public debt-to-GDP ratio is estimated to be large in the baseline. By
+2070, public debt-to-GDP is projected to go up by around 180 percent despite already legislated
+future pension reforms. Such a hike in public debt would be accompanied by a severe drop in
+GDP per capita. Two caveats are important to be highlighted, i) this figure is a result of a no-policy
+assumption, i.e., it is solely the impact of the demographic change, but assumes no change in public
+or pension policies for more than 50 years, and ii) this result is illustrative and subject to significant
+uncertainty inherrent in highly stylized macro models.
+Three pension policy levers are considered to limit the increase in the debt-to-GDP ratio: a retirement age increase, a lower pension replacement rate, higher social security contributions and a
+
+21
+
+©International Monetary Fund. Not for Redistribution
+
+combination of all three. The adjustments need to be large to limit the increase in the debt-to-GDP
+ratio if each policy lever is used in isolation. Only a retirement age increase of 6 years, halving the replacement rate or a 13.8 percentage point higher social security contribution rate would significantly
+limit its growth. None of these policies in isolation seem feasible from a political economy or social
+point of view. A combination of smaller adjustments of multiple parameters yield better results. The
+exact mix of policies should be chosen to reflect social preferences. While a higher contribution rate
+and retirement age would bring Korea more in line with the OECD average, a lower replacement
+rate would negatively affect benefit adequacy and can only be considered in combination with an
+increase in the Basic Pension. Depending on the choice of reform, some groups in the society might
+face a larger burden than others. Regardless of the choice of reform, careful and realistic design is
+needed to avoid reform fatigue or reform reversals.
+
+22
+
+©International Monetary Fund. Not for Redistribution
+
+References
+Baksa, D. and Z. Munkacsi, “A detailed description of OGRE, the OLG model,” Bank of Lithuania
+Working Paper Series No 31., Bank of Lithuania 2016.
+Blanchard, O. J. and J. Gali, “Labor markets and monetary policy: a new Keynesian model with
+unemployment,” American Economic Journal: Macroeconomics, 2010, 2 (2), 1–30.
+Cho, T., S. Hwang, and P. Schreyer, “Has the Labour Share Declined,” OECD Statistics Working
+Papers 2017/01, OECD 2017.
+Christiano, L. J., M. Eichenbaum, and C. L. Evans, “Nominal Rigidities and the Dynamic Effects of
+a Shock to Monetary Policy,” Journal of Political Economy, 2005, 113 (1), 1–45.
+Gertler, M., “Government debt and social security in a life-cycle economy,” Carnegie-Rochester Conference Series on Public Policy, 1999, 50 (1), 61–110.
+IMF, “Republic of Korea: 2023 Article IV Consultation,” IMF Country Report No. 23/369, International Monetary Fund, Publication Services, Washington DC 2023.
+Kim, J. Y., “Pension reform in Korea,” Hitotsubashi Journal of Economics, 73-85, 2002.
+MHW, “Calculation of the 4th National Pension Comprehensive Operation Plan,” Technical Report,
+Ministry of Health and Welfare, Government of Korea 2018.
+NABO, “Public Pension Reform and Fiscal Outlook,” National Assembly Budget Office, National
+Assembly Budget Office 2023.
+OECD, “Pensions at a Glance 2021,” OECD Publishing, Paris, OECD Publishing, Paris 2021.
+, “OECD Reviews of Pension Systems: Korea,” OECD Publishing, Paris, OECD Publishing, Paris
+2022.
+, “Pensions at a Glance 2023,” OECD Publishing, Paris, OECD Publishing, Paris 2023.
+Schauer, J., “Labor Market Duality in Korea,” International Monetary Fund Working Paper No.
+2018/126, International Monetary Fund 2018.
+Yoo, G., “Institutional Blind Spots in the South Korean Employment Safety Net and Policy Solutions,” Korea Development Institute (KDI), Korea Development Institute (KDI) 2013.
+
+23
+
+©International Monetary Fund. Not for Redistribution
+
+

@@ -1,0 +1,2036 @@
+S P  A  0144 –5596
+V. 35, N. 4, S 2001, . 376– 396
+
+Understanding the Relationship between Income and
+Health: How Much Can be Gleaned from
+Cross-sectional Data?
+Michaela Benzeval, Ken Judge and Sue Shouls
+Abstract
+The aim of this paper is to develop a better understanding of the relationship between income and
+health using a cross-sectional survey of the general British population. It is divided into two parts.
+First, it examines a number of methodological inconsistencies in the existing literature and assesses
+their consequences for the inferences that can be drawn about the income–health association. These
+issues include: the measurement of income and its functional form; health selection; and the role of
+confounders. Second, it explores the relative strength of the income–health association in contrast to
+that of other socioeconomic measures. The relationship between income and health is complex.
+However, having taken into account a range of methodological problems, income is still significantly associated with health. The association appears to be non-linear and is attenuated but not
+removed by controlling for health selection effects. The inclusion of a wide range of confounders
+into models of income and health reduces the association between them, but does not make it
+insignificant. In comparison to other socioeconomic measures, income appears to be a better
+discriminator of health status than education or occupation. However, tenure and car ownership
+seem to be at least as good if not better than current income.
+
+Keywords
+Health; UK population; Income; Education; Occupation
+Introduction
+It is widely believed that poverty and low income are bad for health. For
+example, in an answer to a parliamentary question in his first month in
+office, the Prime Minister stated that “there is no doubt that the published
+statistics show a link between income, inequality and poor health” (Hansard
+). Similarly, the Secretary of State for Health and Minister of Public
+Health, in the Foreword to the Green Paper Our Healthier Nation, asserted
+Address for correspondence: Michaela Benzeval, Department of Geography, Queen Mary, University
+of London, Mile End Road, London E NS. Email: m.benzeval@qmw.ac.uk
+
+
+
+SPA35.4C03
+
+Blackwell
+Publishers
+© Blackwell Publishers Ltd. ,  Cowley ©
+Road,
+Oxford, OX
+ JF,Ltd.
+UK
+and
+ Main Street, Malden, MA , USA.
+
+376
+
+8/6/01, 11:42 AM
+
+that “poor people are ill more often and die sooner” (Cm , ). However, when the Green Paper goes on to cite evidence in support of this
+assertion, there is a subtle shift in terminology: “The link between poverty
+and ill health is clear. In nearly every case the highest incidence of illness is
+experienced by the worst off social classes” (Cm , ).
+All too often in the world of politics—and even in academic circles—low
+income, poverty, manual occupational classes and poor educational achievement are treated as interchangeable phenomena. This is not a significant
+problem if the primary aim is to demonstrate the association between disadvantaged socioeconomic circumstances and health. However, if the objective
+is to develop an understanding of the causal nature of the relationship between
+socioeconomic status and health, one needs to be much clearer about how
+and why different variables are employed. It is only by doing this that one
+can begin to develop effective policy options to reduce health inequalities.
+Developing a clearer understanding of the association between income
+and health is important because income is one of the most malleable policy
+instruments (Duncan ). For example, through policies to set state benefit
+or taxation levels, and legislation on minimum wages, governments can
+influence the income level of their citizens with immediate effect. In contrast,
+other efforts to tackle disadvantage, such as improving employment and
+education opportunities, are longer-term strategies.
+The literature on the association between income and health is quite
+limited in Britain. A number of national surveys—for example, the National
+Child Development Survey (NCDS), Health and Lifestyle Survey (HALS),
+General Household Survey (GHS) and British Household Panel Survey
+(BHPS)—have included questions on both income and health, although analysis of the association between these variables has been limited. Nevertheless,
+evidence from these studies does support the belief that there is a relationship
+between income and health.
+• In an analysis of the respondents to NCDS at age , Power and colleagues
+() illustrated a marked relationship between income categories and
+self-assessed health, malaise, psychological morbidity and height.
+• Using HALS, Blaxter () found a clear and consistent association between income and health. Based on the results of multivariate analyses
+she argued that “the apparently strong association of social class and
+health is primarily an association of income and health”. In more detailed
+analysis of women’s health in HALS Macran and colleagues () find
+that “income is associated positively and significantly with women’s health”
+after controlling for a range of other socioeconomic factors.
+• The GHS has mainly been used to describe rather than explain the association between income and health. An association between the two variables
+has been demonstrated for GHS data from the s (Hurst ), s
+(O’Donnell and Propper ) and s (Benzeval ; Benzeval and
+Judge ). For example, in the early s, people of working age whose
+family income is in the bottom  per cent of the distribution are over
+. times more likely to report their health as poor than those in the top fifth
+(Benzeval and Judge ). A weaker association has been demonstrated
+
+
+© Blackwell Publishers Ltd. 
+
+SPA35.4C03
+
+377
+
+8/6/01, 11:42 AM
+
+between income and health among older people controlling for a range
+of other factors (Benzeval ; Arber and Ginn ).
+• Using a cross-section of the BHPS Weich and Lewis () found a significant association between common mental disorder (as measured by
+the GHQ ) and low household income, after controlling for a wide range
+of confounders.
+More significantly, there is also a substantial international literature that
+confirms an association between income and health. For example, Benzeval
+and Webb () cite evidence from eight different countries in Europe,
+North America and Australia. The USA, in particular, has a wealth of
+evidence based on income and measures of morbidity and mortality. The
+first major study linking information with the census for  found higher
+mortality rates among black and white, men and women with low incomes
+(Kitagawa and Hauser ). Repeating this analysis with data from the mids Pappas and colleagues () found not only that the income differential in mortality still existed but that it had widened. A large national survey
+in Australia found a significant association between income and a range
+of morbidity measures after controlling for a wide range of other factors
+(National Health Strategy ).
+Against that background, this paper has two aims. First, to explore the
+implications of different methodological assumptions for the income and
+health association. In particular, there are three key issues that merit closer
+investigation:
+• the measurement of income (including linearity);
+• the role of health selection;
+• the use of confounders.
+The second aim is to develop a better understanding of the interrelationship
+between income, other measures of socioeconomic status and health. It is
+based on the analysis of a large cross-sectional national survey conducted in
+Britain in the early s, which is described in the next section.
+
+Data
+The General Household Survey (GHS) is a continuous household survey,
+conducted by the Office of National Statistics, which contains information
+on approximately , households and , people every year. It is
+based on a stratified random sample of private households in Great Britain
+and has an annual response rate of between  and  per cent ( Thomas
+et al. ; Foster ). The survey has been shown to be representative of
+the general population in Great Britain, having a similar demographic and
+socioeconomic profile to the  Census (Bridgewood and Savage ).
+This paper focuses on adults of working age (–), since the association
+between income and health for children and older people is rather different.
+The analysis employs two years of GHS—/ and /—which results
+in a sample size of ,.
+
+
+SPA35.4C03
+
+© Blackwell Publishers Ltd. 
+
+378
+
+8/6/01, 11:42 AM
+
+Box 
+Health questions in the GHS
+.
+
+Over the last  months would you say your health has on the whole been good,
+fairly good, or not good?
+
+Variable  Fairly good or not good health versus good
+Variable  Not good health versus fairly good or good health
+
+% sample
+% sample
+
+. Do you have any long-standing illness, disability or infirmity? By long-standing I
+mean anything that has troubled you over a period of time or that is likely to affect
+you over a period of time.
+a)
+
+Does this illness or disability limit your activities in any way?
+
+Variable 
+Variable 
+.
+
+Has long-standing illness
+Has limiting long-standing illness
+
+.% sample
+.% sample
+
+Now I’d like you to think about the  weeks ending yesterday. During those 
+weeks, did you have to cut down on any of the things you usually do (about the
+house/at work or in your free time) because of illness or injury?
+
+Variable  Has recent limiting illness
+
+.% sample
+
+The health measures
+The GHS contains three health questions, which are used to create five
+binary health variables that are shown in box . All of the analyses in the
+paper are conducted for each of the five variables.
+Income in the GHS
+All adult respondents to the survey are asked a series of questions about their
+income from all sources, including employment, state benefits, occupational
+pensions, investment interest and dividends, rent from properties, educational
+grants and any other payments or allowances. Total income for individuals,
+net of taxes, is then aggregated to the family level. For all families where
+income is not available for any individual, all members are coded as having
+missing income data. As a result  per cent of families do not have income
+information. Families with missing information tend to be of slightly higher
+socioeconomic status than the general survey population. Where possible a
+dummy variable for people with missing income information is included in
+the analysis.
+Two adjustments are then made to disposable family income in order to
+create a measure of comparable living standards. First, the income information
+is deflated by the retail price index to adjust for inflation. Second, the income
+data are equivalized to take account of the different size and composition of
+families. Three different equivalent scales were investigated—McClements
+
+
+© Blackwell Publishers Ltd. 
+
+SPA35.4C03
+
+379
+
+8/6/01, 11:42 AM
+
+(), OECD (Atkinson et al. ) and one derived from social security rates
+(Department of Social Security ). However, as the results did not differ substantially between them the paper only reports those based on the McClements
+scale, the most commonly employed measure in British research.
+Other data available in the GHS
+The literature includes a wide range of factors that have been used as
+confounders in the relationship between income and health. The most common confounders identified from other studies, which are available in GHS,
+include:
+•
+•
+•
+•
+•
+•
+•
+
+age and sex;
+ethnicity;
+social roles—marital and parental status, living arrangements;
+education;
+occupation;
+economic status—employment status and reason for non-employment;
+consumption measures—tenure and car ownership.
+
+In order to explore the association between income and health in detail
+while controlling for other factors, multivariate analyses are conducted. Since
+all of the health outcome measures are binary, i.e. take the value  or , the
+most appropriate statistical technique is logistic regression (Hosmer and
+Lemeshow ). The method for examining each of the issues is described
+below. All of the analyses are conducted for each of the five health outcome
+measures and the models always include age and sex.
+Given the quite different approaches required to explore the two aims of
+this paper, the methods and results for each are set out separately in the
+following two sections. The final part of the paper discusses the significance
+of the findings for further research and policy.
+
+Methodological Issues
+The first aim of the GHS analysis is to examine the effect of employing
+different methods—in terms of the measurement of income, the role of health
+selection and the use of confounders—on the inferences that can be drawn
+about the relationship between income and health.
+Income measurement
+There are two issues in relation to the measurement of income that need to
+be explored: first, whether the definition of income employed in the analysis
+influences the size and strength of the association with health; and second,
+which functional form of income is most appropriate.
+Income definition There is little consensus in the health inequalities literature
+about how best to measure income. Some studies use family income, others
+
+
+
+SPA35.4C03
+
+© Blackwell Publishers Ltd. 
+
+380
+
+8/6/01, 11:42 AM
+
+individual, while others limit their analysis to wages only. Some studies
+adjust for taxes and benefits and the composition of families, but many do not.
+Often, however, income is based on a self-reported answer to a single banded
+question (for example in HALS) where it is impossible to know whether
+respondents are using a consistent definition.
+Since the income and health literature is based on a variety of measures of
+income it is difficult to compare the results from one study to another. Are
+differences in the findings of studies real, or are they an artefact of the
+different ways in which income has been measured? Does the association
+between income and health remain when an appropriate measure of income
+is employed?
+Social scientists are clear, however, that the most appropriate measure of
+income for comparative purposes is equivalent disposable family income
+(Atkinson ). This means income, net of direct taxes, that is derived from
+all sources, such as wages, investments, benefits and pensions, for all family
+members. This income measure must then be weighted—or equivalized—to
+take account of the different size and composition of families. This is because
+a family of two adults and two children would need more income, but not
+four times as much income as a single person in order to have an equivalent
+standard of living.
+To illustrate the effect that using different definitions of income has on the
+association between income and health, we compare models for each health
+variable, using three different measures of income:
+• net individual income;
+• gross family income;
+• equivalent net real family income adjusted for family composition using
+the McClements scale.
+Results Table  shows the odds ratios for income quintiles for the three
+different income definitions: net individual income, gross family income and
+equivalent net family income, for each of the health measures. Equivalent
+net family income produces the best statistical model—in terms of the change
+in scaled deviance from a constant only model—for three of the health
+measures: the two versions of subjective general health and limiting longstanding illness.
+In fact, there is a strong association between equivalent net family income
+and health for four of the health measures. For example, people in the lowest
+income quintile are . times more likely to have a limiting long-standing
+illness and . times more likely to report their health as not good than the
+richest fifth of the population. In contrast, the association between income
+and recent limiting illness is much weaker. Only the bottom two income
+quintiles are statistically significant and their additional health risk in comparison to the richest fifth is relatively small compared to the other health
+measures.
+GHS respondents with missing income information tend to have odds
+ratios that are slightly lower than those for people in the middle income
+quintile, reflecting their above-average socioeconomic status.
+
+
+
+© Blackwell Publishers Ltd. 
+
+SPA35.4C03
+
+381
+
+8/6/01, 11:42 AM
+
+
+
+SPA35.4C03
+
+Table 
+The effect of different definitions of income on the income–health relationship
+
+382
+
+Income
+quintiles
+
+© Blackwell Publishers Ltd. 
+
+8/6/01, 11:42 AM
+
+ lowest
+
+
+
+ highest
+missing
+χ2
+N=
+a
+
+Long-standing illness
+
+Limiting long-standing
+illness
+
+Odds ratios for income quintilesa
+Recent limiting illness
+
+General health fairly or
+not good
+
+General health not good
+
+net ind
+income
+
+gross
+family
+income
+
+equiv
+family
+income
+
+net ind
+income
+
+gross
+family
+income
+
+equiv
+family
+income
+
+net ind
+income
+
+gross
+family
+income
+
+equiv
+family
+income
+
+net ind
+income
+
+gross
+family
+income
+
+equiv
+family
+income
+
+net ind
+income
+
+gross
+family
+income
+
+equiv
+family
+income
+
+.
+.
+.
+.
+.
+.ns
+
+
+.
+.
+.
+.
+.
+.ns
+
+
+.
+.
+.
+.
+.
+.ns
+
+
+.
+.
+.
+.
+.
+.
+
+
+.
+.
+.
+.
+.
+.
+
+
+.
+.
+.
+.
+.
+.
+
+
+.ns
+.()
+.
+.ns
+.
+.ns
+
+
+.
+.
+.ns
+.ns
+.
+.ns
+
+
+.
+.
+.ns
+.ns
+.
+.ns
+
+
+.
+.
+.
+.
+.
+.
+
+
+.
+.
+.
+.
+.
+.
+
+
+.
+.
+.
+.
+.
+.
+
+
+.
+.
+.
+.
+.
+.
+
+
+.
+.
+.
+.
+.
+.
+
+
+.
+.
+.
+.
+.
+.
+
+
+
+
+
+
+
+
+All models contain age and sex. All odds ratios are significant at  per cent level unless otherwise indicated.
+
+
+
+
+
+In comparison to equivalent net family income, net individual income
+appears to underestimate the relative poor health of people in the lowest part
+of the income distribution, across the range of health measures. This is
+reasonably intuitive. Many people at the bottom of the distribution will have
+zero individual incomes. However, this does not mean that they have no
+material resources because they share the income available to the rest of
+their family. Hence, using individual income can underestimate the income
+available to individuals to invest in their health and dilute the association
+between income and health.
+Gross family income also appears to underestimate the poor health of people
+with the lowest incomes. Again, an intuitive explanation is apparent. When the
+income measure does not take into account the size and composition of families, single people will tend to be at the bottom of the income distribution
+because they have fewer pounds in their pockets than families with multiple
+earners or benefit recipients. However, when family composition is taken into
+account single people are shown to be comparatively more affluent than families on the same income who have more people to maintain. Again the association is diluted at the bottom of the distribution by not taking this into account.
+The remainder of the paper uses net equivalent family income.
+The second aspect of income measurement to explore is
+the shape of the association between income and health. The income and
+health relationship may take a number of forms. At its simplest, there may be
+a linear gradient between income and health such that for every £ increase
+in income there is a unit increase in health. Alternatively, there may be a
+threshold effect, so that income clearly affects people’s health up to a specific
+level, beyond which the association disappears. Finally, there may be a nonlinear relationship between income and health, such that at different points
+of the income distribution income has a different effect on health. In this
+paper, therefore, alternative functions of the income variable are examined
+in order to assess which one best explains the relationship between income
+and health. Separate models were constructed for all five health measures
+using different functions of income, controlling for age and sex. Three income
+functions were tried:
+Income functional form
+
+• a continuous linear variable;
+• non-linear transformations of the continuous income variable—specifically
+quadratic and cubic functions;
+• dummy variables for income quintiles, with the richest quintile excluded
+from the analysis to act as the base category.
+In order to ensure comparability between the models, people with missing
+income were excluded from all of the analyses in this section. The change
+in scaled deviance from a constant only model of each income function was
+compared to assess which was the best model. The probability of reporting ill
+health for each functional form of income is then calculated to assess the
+effect that the different forms might have on interpreting the relationship
+between income and health.
+
+
+© Blackwell Publishers Ltd. 
+
+SPA35.4C03
+
+383
+
+8/6/01, 11:42 AM
+
+Results Table  shows the change in scaled deviance from the constant only
+model for each functional form of income for all five health variables, after
+adjusting for age and sex.
+The results suggest that the relationship between income and health is
+non-linear. For each of the health measures the best statistical fit is provided
+by the model based on income quintiles, followed by the two non-linear
+functions, while the linear income model consistently has the poorest statistical fit.
+Figure  shows the implications of employing different income functions
+for predicting the probability of reporting fairly or not good health. In comparison to the non-linear models, linear income understates the probability
+of reporting “fairly or not good” health among low-income groups and overstates it among high-income groups.
+The remainder of this paper, therefore, uses income quintiles in the
+statistical analyses, since they appear to give the best statistical fit, are easily
+interpreted, and enable people with missing income to be kept in the
+analysis.
+
+Health selection
+Most studies tend to assume that low income causes poor health. However, it
+is possible that health selection may be taking place, i.e. that poor health
+results in people’s income being reduced. There are at least two types of
+health selection that might occur as part of the income and health relationship. First, a person in poor health might be unable to work and hence lose
+or leave their job and this would result in a lower income. In these circumstances, they may describe themselves as unable to work due to ill health,
+being unemployed, looking after the home or retired. Second, someone with
+ill health might have to take a less strenuous or stressful job or work fewer
+hours because of their health, which might result in a lower income. Clearly
+this issue is a more direct problem when wages or individual income is the
+variable of interest. However, even with family income, lower incomes for
+any individual will almost certainly lead to lower incomes for the whole
+family. Hence, not taking account of health selection effects may overstate
+the causal link between income and health.
+With cross-sectional data such as the GHS it is impossible to identify the
+time sequence of events, i.e. whether a person changed their occupation or
+economic status before or after their change in health. Longitudinal data are
+required to explore this problem effectively. However, it is possible to take
+account of these health selection effects in a very crude way, by excluding from
+the analyses all people who reported that they were economically inactive due
+to ill health.
+There are clearly problems with this approach even at a crude level. First,
+it assumes that for everyone who was economically inactive due to ill health,
+the direction of causation ran from poor health, to job loss, to low income. It
+does not take into account what caused the poor health in the first instance.
+On the other hand, it does not take account of those people who, when they
+lost their job directly or indirectly as a consequence of poor health, described
+
+
+SPA35.4C03
+
+© Blackwell Publishers Ltd. 
+
+384
+
+8/6/01, 11:42 AM
+
+SPA35.4C03
+
+© Blackwell Publishers Ltd. 
+
+385
+
+Table 
+The effect of different functional forms on the income and health relationship
+Change in scaled deviance from constant only model ( χ2 )a
+Limiting long-standing
+Recent limiting illness
+General health fairly
+illness
+or not good
+
+Income function
+
+Long-standing illness
+
+linear ( d of f )
+quadratic ( d of f )
+cubic ( d of f )
+quintiles ( d of f )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+N=
+
+
+
+
+
+
+
+
+
+
+
+8/6/01, 11:42 AM
+
+a
+
+All models contain age and sex.
+
+General health not
+good
+
+
+
+Figure 
+
+Probability of reporting “ ‘fairly or not good’ health”
+
+Probability of reporting fairly or not good health for different functional forms of income
+
+0.50
+
+Quintiles
+Quadratic
+
+Linear
+Cubic
+
+0.45
+0.40
+0.35
+0.30
+0.25
+0.20
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+£ equivalent family income per week
+
+themselves as looking after the home, retired or unemployed. Similarly, people
+who may have changed their job, and hence experienced a drop in income,
+because of illness cannot be identified. Nevertheless, it is still useful to estimate
+part of the effect that health selection might have on the income and health
+association using this approach. For each health measure, models of the
+association between income and health are estimated including and excluding people who are economically inactive due to ill health.
+Results Table  shows the implication of attempting to adjust for some of
+the most obvious health selection effects. For each health measure the lefthand column shows the odds ratios for each income quintile for all adults.
+The right-hand column shows the odds ratios for all adults excluding those who
+are economically inactive due to ill health. Excluding people who are permanently
+unable to work due to ill health affects both the statistical fit of the models
+and the shape of the income–health relationship. Across all of the health
+measures, the scaled deviance of the restricted models is substantially lower
+than that of the models for all adults, and the gradients are flatter, particularly among the lower income quintiles. However, this is not surprising
+since people who are economically inactive due to ill health tend to be in the
+bottom of the income distribution. Not taking account of the possibility of
+health selection, therefore, may lead one to assume that a much stronger and
+steeper causal relationship exists between income and health than may be
+the case.
+
+
+
+SPA35.4C03
+
+© Blackwell Publishers Ltd. 
+
+386
+
+8/6/01, 11:42 AM
+
+SPA35.4C03
+387
+
+© Blackwell Publishers Ltd. 
+
+Table 
+The effect of health selection on the income and health relationship
+
+Long-standing illness
+
+Odds ratio for income quintilesa
+Limiting long-standing
+Recent limiting illness
+illness
+
+General health fairly or
+not good
+
+All adults
+
+Excluding
+eiihb
+
+All adults
+
+Excluding
+eiih
+
+All adults
+
+Excluding
+eiih
+
+All adults
+
+Excluding
+eiih
+
+All adults
+
+Excluding
+eiih
+
+ lowest
+
+
+
+ highest
+missing
+χ 2 (  d of f )
+
+.
+.
+.
+.
+.
+.ns
+
+
+.
+.
+.
+.ns
+.
+.ns
+
+
+.
+.
+.
+.
+.
+.
+
+
+.
+.
+.
+.()
+.
+.
+
+
+.
+.
+.ns
+.ns
+.
+.ns
+
+
+.ns
+.ns
+.ns
+.ns
+.
+.ns
+
+
+.
+.
+.
+.
+.
+.
+
+
+.
+.
+.
+.
+.
+.
+
+
+.
+.
+.
+.
+.
+.
+
+
+.
+.
+.
+.
+.
+.
+
+
+N=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Income
+quintiles
+
+8/6/01, 11:42 AM
+
+a
+b
+
+All models contain age and sex, all odds ratios are significant at  per cent level unless indicated otherwise.
+Economically inactive due to ill health.
+
+General health
+not good
+
+
+
+However, it is important to emphasize that even when these potential
+health selection effects are removed, there is still a strong association between
+income and health for all of the health measures, except recent limiting
+illness. For example, people in the bottom fifth of the income distribution are
+. times more likely to have a limiting long-standing illness and . times
+more likely to report their health as not good than the richest fifth.
+Respondents who are economically inactive due to ill health have been
+excluded from the remainder of the analyses in an attempt to adjust for the
+worst of the health selection effects.
+Confounders
+A wide range of other variables are often included in statistical models that
+aim to explore the relationship between income and health. The rationale
+for the inclusion of these other factors is not always clear and the implications of multi-colinearity between other variables and income on their coefficients are rarely considered. Moreover, the effect on the association between
+income and health is difficult to assess systematically since different studies
+use different combinations of variables. Unfortunately, this means that the
+policy inferences that can be drawn from the literature are ambiguous. A
+weak association between income and health may simply mean that the
+model has not been specified correctly or that the variables are poorly measured. The final methodological issue to consider, therefore, is the impact that
+different kinds of confounders have on the income and health relationship.
+To do this, multivariate models of each health measure are developed by
+adding each set of confounders in stages, as set out below.
+Stage 
+Stage 
+Stage 
+Stage 
+Stage 
+Stage 
+
+Income quintiles plus age and sex
+Stage  + ethnicity
+Stage  + social roles—parental and marital status
+Stage  + education and occupation
+Stage  + economic status
+Stage  + housing tenure and car ownership
+
+Results Table  shows the effect on the odds ratios for income quintiles of
+including each group of confounders into models of health in a cumulative
+fashion, as shown above.
+The table does not present the full results for each model but focuses on
+changes in the odds ratios for the income quintiles at each successive stage in
+the modelling process for three of the health measures.
+The first thing to note is that the pattern of association between income
+and health remains broadly consistent for all health measures at stages  and
+. This suggests that controlling for ethnicity and social roles has little effect
+on the income–health relationship. From stage  onwards, however, the
+association between income and health begins to flatten as education and
+occupation—and more significantly economic status and measures of consumption—are added to the models. Nonetheless, for all of the health measures except recent illness, after adjusting for a broad range of socioeconomic
+
+
+
+SPA35.4C03
+
+© Blackwell Publishers Ltd. 
+
+388
+
+8/6/01, 11:42 AM
+
+Table 
+The effect of different confounders on the income and health relationship
+
+Income
+quintiles
+
+
+
+Odds ratios for income quintiles at each stage of modellinga
+
+
+
+
+
+Long-standing illness
+ lowest
+.
+
+.
+
+.
+
+.ns
+ highest
+.
+missing
+.ns
+χ2
+ ()
+
+.
+.
+.
+.ns
+.
+.ns
+ ()
+
+
+
+.
+.
+.
+. ()
+.
+.ns
+ ()
+
+.
+.
+.
+.ns
+.
+.ns
+ ()
+
+.
+.
+.
+.ns
+.
+.ns
+ ()
+
+. ()
+.
+.
+.ns
+.
+.ns
+ ()
+
+Limiting long-standing illness
+ lowest
+.
+.
+
+.
+.
+
+.
+.
+
+. ()
+. ()
+ highest
+.
+.
+missing
+.
+.
+χ2
+ ()
+ ()
+
+.
+.
+.
+. ()
+.
+.
+ ()
+
+.
+.
+.
+.ns
+.
+.
+ ()
+
+.
+.
+. ()
+.ns
+.
+.ns
+ ()
+
+.
+.
+. ()
+.ns
+.
+.ns
+ ()
+
+Recent limiting illness
+ lowest
+.ns
+
+.ns
+
+.ns
+
+.ns
+ highest
+.
+missing
+.ns
+χ2
+ ()
+
+.ns
+.ns
+.ns
+.ns
+.
+.ns
+ ()
+
+.ns
+.ns
+.ns
+.ns
+.
+.ns
+ ()
+
+. ()
+.
+.ns
+.ns
+.
+.ns
+ ()
+
+.ns
+.
+.ns
+.ns
+.
+.ns
+ ()
+
+.ns
+. ()
+.ns
+.ns
+.
+.ns
+ ()
+
+General health fairly or not good
+ lowest
+.
+.
+
+.
+.
+
+.
+.
+
+.
+.
+ highest
+.
+.
+missing
+.
+.
+χ2
+ ()
+ ()
+
+.
+.
+.
+.
+.
+.
+ ()
+
+.
+.
+.
+.
+.
+.
+ ()
+
+.
+.
+.
+.
+.
+.
+ ()
+
+.
+.
+.
+.
+.
+.
+ ()
+
+General health not good
+ lowest
+.
+
+.
+
+.
+
+.
+ highest
+.
+missing
+.
+χ2
+ ()
+
+.
+.
+.
+.
+.
+.
+ ()
+
+.
+.
+.
+.
+.
+.
+ ()
+
+.
+.
+.
+.
+.
+.
+ ()
+
+.
+.
+.
+.
+.
+.
+ ()
+
+.
+.
+.
+.
+.
+.
+ ()
+
+a
+
+All models contain age and sex, the sample excludes all those people who were
+economically inactive due to ill health. All odds ratios are significant at  per cent level
+unless otherwise indicated.
+
+
+
+© Blackwell Publishers Ltd. 
+
+SPA35.4C03
+
+389
+
+8/6/01, 11:42 AM
+
+and demographic characteristics, people in the lower income quintiles are
+still significantly more likely to have poorer health than the richest fifth.
+Summary
+The results presented in this paper show that there is a strong bivariate
+association between income and self-reported health. The association remains
+when an appropriate measure of income is employed and health selection is
+controlled for, albeit in a crude manner. The relationship between income
+and health appears to be non-linear. Changes in health appear to be much
+steeper in the bottom part of the income distribution and there is a much
+weaker association at high levels of income. This is consistent with the findings
+from a number of other studies that have investigated the shape of the
+relationship between income and health (Backlund et al. ; Mirowsky and
+Hu ; Der et al. ).
+In multivariate analyses the association between income and health becomes
+weaker, although it generally remains significant, when other measures of
+socioeconomic status are introduced. Measures of economic status and
+consumption, in particular, weaken the association between income and
+health. The next section of the paper, therefore, explores the interrelationship
+between income, other measures of socioeconomic status and health in more
+detail.
+
+The Relative Importance of Income
+Building on the descriptive analysis outlined above, the second aim of this
+paper is to develop an understanding of the relative importance of income
+and other measures of socioeconomic status for health. We compare the
+association between income and health, with education—measured by age
+of leaving full-time education and qualifications—occupation and measures
+of consumption. To do this we compare the statistical properties of models
+of the association between income and health stratified for a second socioeconomic measure, with those of models of different socioeconomic measures
+stratified by income. This allows the odds ratios of ill health to vary between
+strata, allowing comparisons to be made of their significance within each
+stratum. Davey Smith and colleagues () argue that a good discriminator
+of socioeconomic inequalities in health will remain strong and significant
+within each stratum of other socioeconomic measures. However, our analysis
+is rather more complicated than that of Davey Smith and colleagues because
+they assume that the socioeconomic measures are linear and only compare
+two variables. Hence they compare a single beta coefficient for each variable
+within the different strata of the second. However, we believe that the relationship between socioeconomic measures and health could be non-linear.
+Hence we divide each socioeconomic variable into four hierarchical categories, and compare the odds ratios for each category within each stratum. Any
+case that had missing information on any of the variables was excluded
+from all of the analyses. This reduces the sample for this part of the paper
+to ,.
+
+
+SPA35.4C03
+
+© Blackwell Publishers Ltd. 
+
+390
+
+8/6/01, 11:42 AM
+
+Results
+Table  illustrates the results with the specific odds ratios from the model for
+the subjective reporting of health being only fairly or not good. The top
+section—above the rule—shows the two-way comparison between education, as measured by age left full-time education, and income.
+The left-hand side of the table shows the odds ratios for income quartiles in
+four different strata based on age left full-time education. The right-hand side
+shows the odds ratios for the four different categories of education within
+each income quartile stratum. In each case the reference category is the most
+affluent group, and they are not listed in the table. For example the first row
+shows that in each education stratum people in the bottom  per cent of the
+income distribution were nearly twice as likely to report fairly or not good
+health as those in the top quarter. In contrast people who left full-time
+education under  are . times more likely to report fairly or not good
+health than those who left after  if they are in the third income quartile and
+approximately . times more likely if in the top or bottom income stratum.
+In general, in each two-way comparison (of models of income stratified for
+a second socioeconomic variable and models of the second variable stratified
+for income), income appears to be a stronger discriminator (in terms of the
+size of the change in scaled deviance, the gradient across the socioeconomic
+categories and the number of significant odds ratios) than both measures of
+education, and occupational class. However, the variable based on tenure
+and car ownership appears to be at least as good a discriminator as current
+family income. What is also apparent from this table is that those people
+with multiple measures of disadvantage have particularly poor health.
+Overall, therefore, income does appear to have a strong association with
+health and to be a relatively better discriminator than other traditional measures of socioeconomic status such as occupation and education. As with the
+other analyses above, models for the other health variables except recent
+acute illness follow the same pattern, and so are not presented here.
+Discussion
+A number of studies have tried to assess the relative importance of income,
+occupation and education for mortality (Rogot et al. ; Sorlie et al. )
+and morbidity (Leigh and Fries ; Hay ; Winkleby et al. ; Dahl
+; Stronks ). Each comes to a different conclusion.
+In an analysis of Norwegian data, Dahl () concludes that “occupation
+status stands as the most powerful and consistent predictor of ill health
+among employed individuals”. Winkleby and colleagues () in a study of
+the employed population found that “after adjusting for age and the time of
+the survey education was the only measure of socioeconomic status that was
+significantly associated with the risk factors”. In contrast, Hay () found
+that in an analysis of male earners “of the three socioeconomic measures,
+income was consistently the best correlate of health status”. Finally, Stronks
+() in a study of the whole population of working age found that an
+income proxy resulted in the biggest change in deviance for both chronic
+
+
+© Blackwell Publishers Ltd. 
+
+SPA35.4C03
+
+391
+
+8/6/01, 11:42 AM
+
+Table 
+The relative importance of different measures of socioeconomic status for subjective
+assessment of health as fairly good or not good
+Odds ratios for income quartiles within
+other SES strata*+
+income
+quartile
+bottom
+%
+
+
+Change
+in χ2
+
+Odds ratios for other measures SES within
+income quartile strata*+
+
+Age left full-time education
+under 
+
+–
++
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+
+.
+.
+
+
+.
+.
+
+
+.
+.
+
+
+Educational qualifications
+GCSE
+A level degree
+
+Age left
+ft ed
+under
+
+
+–
+Change
+in χ2
+
+Income quartile stratum
+bottom
+
+
+top %
+%
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+
+.
+.
+
+
+.
+.
+
+
+.
+.
+
+
+quals
+
+Income quartile stratum
+bottom
+
+
+top %
+%
+
+.
+
+none
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+
+.
+.
+
+
+GCSE
+A level
+Change
+in χ2
+
+.
+.
+
+
+.
+.
+
+
+.
+.
+
+
+.
+.
+
+
+Occupational class
+IIIn-m
+IIIm
+
+IV&V
+
+class
+
+.
+
+.
+
+I&II
+
+.
+
+.
+
+.
+
+.
+
+.
+.
+
+
+.
+.
+
+
+IIInm
+IIIm
+Change
+in χ2
+
+.
+.
+
+
+.
+.
+
+
+.
+.
+
+
+.
+.
+
+
+owner
+car
+
+class
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+owner
+
+.
+
+.
+
+.
+
+.
+
+
+
+
+
+
+
+.
+car
+.
+no car
+
+
+LA rent
+no car
+LA rent
+
+Change
+in χ2
+
+
+
+
+
+
+
+
+
+income
+quartile
+
+none
+
+bottom
+%
+
+
+Change
+in χ2
+
+.
+
+.
+
+.
+
+.
+.
+
+
+.
+.
+
+
+income
+quartile
+
+I&II
+
+bottom
+%
+
+
+Change
+in χ2
+
+.
+
+.
+
+.
+.
+
+
+.
+.
+
+
+income
+quartile
+
+LA rent
+no car
+
+bottom
+%
+
+
+.
+
+.
+
+.
+
+
+Change
+in χ2
+
+Tenure and car access
+LA rent owner
+car
+no car
+
+Income quartile stratum
+bottom
+
+
+top %
+%
+
+Income quartile stratum
+bottom
+
+
+top %
+%
+
+* All models contain age and sex, the sample excludes all those people who were economically
+inactive due to ill health or had missing information on any of the socioeconomic measures.
++
+All odds ratios are significant at the  per cent level except those indicated in italics.
+
+
+
+SPA35.4C03
+
+© Blackwell Publishers Ltd. 
+
+392
+
+8/6/01, 11:42 AM
+
+condition and perceived general health for men and perceived general health
+for women. However, Stronks went on to add employment status to her
+models and found that this substantially reduced the coefficients on the income
+measures, concluding that
+the relatively strong association between income and health, relative to that
+between education/occupation and health, is largely due to the concentration of those with a long-term work disability in the lower income levels.
+Stronks therefore reanalysed her data to exclude those who had a long-term
+work disability and found the association of income with health to be similar
+to that with education or occupation.
+Since all of these studies are based on different population groups with
+different health outcomes and different measures of the socioeconomic variables of interest, it is difficult to draw any general conclusions from their
+results. Moreover, as Dahl () points out, all of the different measures of
+socioeconomic status are highly correlated. For example, in this analysis of
+the GHS, the Pearson’s correlation coefficients between income, and education (r = .) and occupation (r = .) are significant at the  per cent
+level. Similarly, people who are economically inactive, for whatever reason,
+are over five times as likely to be in the bottom  per cent of the income
+distribution as those in employment. In addition, all of the variables are likely
+to be subject to measurement error. These two problems taken together
+mean that the coefficients estimated by logistic regression are likely to be
+biased, imprecise and unstable (Koutsoyiannis ). Caution must be employed, therefore, in making any statement about the relative importance of
+one measure of socioeconomic status over another.
+However, from a theoretical perspective, it is important to be clear that
+education, occupation, economic status and income are all hypothesized to
+have overlapping and distinct effects on people’s health as well as being
+markers of people’s socioeconomic status (Sorlie et al. ; Dahl ). For
+example, education might be thought to have a direct effect on people’s
+health by enabling them to process health information and by encouraging a
+cultural identity and peer group membership that promote the adoption of a
+more healthy lifestyle. However, education will also affect health indirectly
+because it is the key determinant of people’s access to a well-paid job, influencing their occupation and employment status and hence their income.
+Occupation will directly affect people’s health through their working conditions but also indirectly because it is a key determinant of their income.
+An individual’s economic status is a good proxy for their current access to
+resources, since having a job is the best route out of poverty (Benzeval and
+Webb ). In addition, there is evidence to suggest that the social role
+of being employed may be beneficial to one’s health, because it improves
+people’s self-esteem and widens social contacts.
+The stronger and more robust association between consumption measures—
+tenure and car ownership—and health may be because they are better
+markers for long-term material resources than current income. Economic
+theories of the life cycle suggest that people will smooth their expenditure
+
+
+© Blackwell Publishers Ltd. 
+
+SPA35.4C03
+
+393
+
+8/6/01, 11:42 AM
+
+as their income fluctuates by making use of borrowing and savings (Blundell
+and Preston ). The strength of the association between tenure and car
+access and health, therefore, is consistent with the broader literature on health
+inequalities which emphasizes the importance of the cumulative impact of
+socioeconomic circumstances across the life course for health (Power et al. ).
+
+Conclusion
+The analysis of income and health presented in this paper has explored two
+key issues. First, given the confusion in the literature about different methodological issues, it assesses their implications for the income and health
+association. We report that even when these are taken into account, there
+appears to be a strong association between income and health. Second, the
+paper examines the interrelationships between income, other socioeconomic
+measures and health. Having controlled for these in as sophisticated a way as
+possible with cross-sectional data, we still identify a significant association for
+income and health.
+What these results imply is that improving current income levels, particularly among those at the bottom of the distribution, should improve health.
+However, the analysis also begins to illustrate the complexity of the relationship between income and health. In particular, the way that health selection,
+economic status and consumption measures reduce the significance of income
+for health implies that a more sophisticated conceptual framework of the
+relationship is required. Such a model ought to satisfy a number of requirements. For example, it would: take into account the timing of events; explore
+some of the determinants of current income levels (economic status and
+education); and adopt a life-course perspective (suggested by the significance
+of consumption factors). However, the development of such a model can only
+be undertaken with longitudinal data. No matter how carefully one conducts
+the analysis of cross-sectional data, such as that made available from the
+GHS, there are limitations on the policy-related inferences that can be made.
+Any serious attempt in the future to identify the underlying nature of the
+relationship between poverty and health must adopt a life-course perspective.
+A start has been made in exploring the relationship between income and
+health over the life course using panel data, mainly in the USA. For example,
+Duncan () concludes that
+family income is a powerful (perhaps the most powerful) component of SES
+in its linkage with health . . . income volatility also matters, although
+its role is less important than that of income level. The results on income
+level are consistent with but do not prove that ceteris paribus increases in
+the short-run income of low-income families would improve health status.
+In a more detailed systematic review of “replication” studies, Duncan and
+Brooks-Gunn () begin to try and unravel the effects of income, parental
+education and family structure on a range of outcomes in childhood. They
+conclude that persistent poverty in early childhood is particularly damaging
+for educational ability and achievement, and hence is likely to affect the
+
+
+SPA35.4C03
+
+© Blackwell Publishers Ltd. 
+
+394
+
+8/6/01, 11:42 AM
+
+chances of success in the labour market in adulthood. What is now needed is
+the replication and further development of analyses based on longitudinal
+data so as to develop a broader theoretical framework that encompasses both
+childhood and adulthood determinants of health and income.
+
+Acknowledgements
+The GHS data were originally collected by the Office of National Statistics
+and made available through the ESRC Data Archive. Neither ONS nor the
+Archive are responsible for the analyses contained within this paper.
+References
+Arber, S., and Ginn, J. (), Gender and inequalities in health in later life, Social
+Science and Medicine, , : –.
+Atkinson, A. B. (), Measuring poverty and differences in family composition,
+Economica, : –.
+Atkinson, A. B., Rainwater L., and Smeeding, T. M. (), Income Distribution in
+OECD Countries, Social policy studies no. , Paris: OECD.
+Backlund, E., Sorlie, P. D., and Johnson, N. J. (), The shape of the relationship
+between income and mortality in the United States: evidence from the National
+Longitudinal Mortality Study, Annals of Epidemiology, : –.
+Benzeval, M. (), Health. In A. Walker and C. Walker (eds), Britain Divided: The
+Growth of Social Exclusion in the s and s, London: CPAG, pp. –.
+Benzeval, M., and Judge, K. (), Poverty and health, Health Variations, : –.
+Benzeval, M., and Webb, S. (), Family poverty and poor health. In M. Benzeval,
+K. Judge and M. Whitehead (eds), Tackling Inequalities in Health: An Agenda for Action,
+London: King’s Fund, pp. –.
+Blaxter, M. (), Health and Lifestyles, London: Tavistock/Routledge.
+Blundell, R., and Preston, I. (), Income, expenditure and the living standards of
+UK households, Fiscal Studies, , : –.
+Bridgewood, A., and Savage, D. (), General Household Survey , GHS series
+no. , London: HMSO.
+Cm  (), Our Healthier Nation: A Contract for Health. A Consultation Paper, London:
+Stationery Office.
+Dahl, E. (), Social inequalities in ill-health: the significance of occupational
+status, education and income results from a Norwegian survey, Sociology of Health
+and Illness, , : –.
+Davey Smith, G., Hart, C., Hole, D., MacKinnon, P., Gillis, C., Watt, G., Blane, D.,
+and Hawthorne, V. (), Education and occupational social class: which is the
+more important indicator of mortality risk? Journal of Epidemiology and Community
+Health, : –.
+Department of Social Security (), Households below Average Income: A Statistical
+Analysis –/, London: HMSO.
+Der, G., Macintyre, S., Ford, G., Hunt, K., and West, P. (), The shape of
+the relationship between household income and a range of health measures at
+different stages of the life course in the West of Scotland, European Journal of Public
+Health, , : –.
+Duncan, G. (), Income dynamics and health, International Journal of Health Services,
+, : –.
+Duncan, G., and Brooks-Gunn, J. (), The Consequences of Growing Up Poor, New
+York: Russell Sage Foundation.
+
+
+
+© Blackwell Publishers Ltd. 
+
+SPA35.4C03
+
+395
+
+8/6/01, 11:42 AM
+
+Foster, K. (), General Household Survey , GHS series no. , London: HMSO.
+Hansard (), Prime Minister’s response to question number . House of
+Commons Hansard Debates for  June (pt ), London: House of Commons,
+col. –.
+Hay, D. I. (), Socioeconomic status and health status: a study of males in the
+Canadian Health Survey, Social Science and Medicine, , : –.
+Hosmer, D., and Lemeshow, S. (), Applied Logistic Regression, Chichester: John
+Wiley.
+Hurst, J. (), Financing Health Services in the United States, Canada and Britain, London:
+King Edward’s Hospital Fund for London.
+Kitagawa, E. M., and Hauser, P. M. (), Differential Mortality in the United States: A
+Study in Socioeconomic Epidemiology, Cambridge, MA: Harvard University Press.
+Koutsoyiannis, A. (), Theory of Econometrics, Basingstoke: Macmillan.
+Leigh, J. P., and Fries, J. F. (), Occupation, income, and education as independent covariates of arthritis in four national probability samples, Arthritis and Rheumatism,
+, : –.
+Macran, S., Clarke, L., and Joshi, H. (), Women’s health: dimensions and differentials, Social Science and Medicine, , : –.
+McClements, L. D. (), Equivalence scales for children, Journal of Public Economics,
+: –.
+Mirowsky, J., and Hu, P. (), Physical impairment and the diminishing effects of
+income, Social Forces, , : –.
+National Health Strategy (), Enough to Make you Sick: How Income and Environment
+Affect Health, Canberra: National Health Strategy.
+O’Donnell, O., and Propper, C. (), Equity and the distribution of UK National
+Health Service resources, Journal of Health Economics, : –.
+Pappas, G., Queen, S., Hadden, W., and Fisher, G. (), The increasing disparity in
+mortality between socioeconomic groups in the United States,  and , New
+England Journal of Medicine, , : –.
+Power, C., Manor, O., and Matthew, S. (), Duration and timing of exposure:
+effects of socio-economic environment on adult health, American Journal of Public
+Health, , : –.
+Power, C., Orly, M., and Fox, J. (), Health and Class: The Early Years, London:
+Chapman and Hall.
+Rogot, E., Sorlie, P. D., and Johnson, N. J. (), Life expectancy by employment
+status, income, and education in the National Longitudinal Mortality Study, Public
+Health Reports, , : –.
+Sorlie, P. D., Backlund, E., and Keller, J. B. (), US mortality by economic,
+demographic, and social characteristics: the National Longitudinal Mortality Study,
+American Journal of Public Health, , : –.
+Stronks, K. (), Socio-economic Inequalities in Health: Individual Choice or Social Circumstances? Rotterdam: Erasmus University.
+Thomas, M., Goddard, E., Hickman, M., and Hunter P. (), General Household
+Survey , GHS series no. , London: HMSO.
+Weich, S., and Lewis, G. (), Material standards of living, social class and the
+prevalence of the common mental disorders in Great Britain, Journal of Epidemiology
+and Community Health, : –.
+Winkleby, M., Jatulis, D. E., Frank, E., and Fortmann, S. P. (), Socioeconomic
+status and health: how education, income and occupation contribute to risk factors
+for cardiovascular disease, American Journal of Public Health, : –.
+
+
+
+SPA35.4C03
+
+© Blackwell Publishers Ltd. 
+
+396
+
+8/6/01, 11:42 AM
+
+

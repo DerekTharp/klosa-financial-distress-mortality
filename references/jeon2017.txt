@@ -1,0 +1,1536 @@
+Health Systems & Reform
+
+ISSN: 2328-8604 (Print) 2328-8620 (Online) Journal homepage: http://www.tandfonline.com/loi/khsr20
+
+Health and Long-term Care Systems for Older
+People in the Republic of Korea: Policy Challenges
+and Lessons
+Boyoung Jeon & Soonman Kwon
+To cite this article: Boyoung Jeon & Soonman Kwon (2017): Health and Long-term Care Systems
+for Older People in the Republic of Korea: Policy Challenges and Lessons, Health Systems &
+Reform, DOI: 10.1080/23288604.2017.1345052
+To link to this article: http://dx.doi.org/10.1080/23288604.2017.1345052
+
+Accepted author version posted online: 28
+Jun 2017.
+
+Submit your article to this journal
+
+Article views: 105
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+http://www.tandfonline.com/action/journalInformation?journalCode=khsr20
+Download by: [189.60.120.16]
+
+Date: 04 August 2017, At: 03:02
+
+Health and Long-term Care Systems for Older People in the Republic of Korea: Policy Challenges and
+Lessons
+Boyoung JEON1, Soonman KWON2,3
+
+1
+
+Department of Health Services Research, Faculty of Medicine, University of Tsukuba
+
+Postal addresses: 1Department of Health Services Research, Faculty of Medicine, University of Tsukuba, 1Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+1-1 Tenno-dai, Tsukuba, Ibaraki, Japan, 305--8575
+2
+
+Asian Development Bank, 3Graduate School of Public Health, Seoul National University
+
+Postal addresses: 2Asian Development Bank, 6 ADB Avenue, Mandaluyong City 1550, Metro Manila,
+Philippines
+3
+
+Graduate School of Public Health, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul 151--742,
+
+Korea Email: skwon@adb.org, kwons@snu.ac.kr
+Corresponding author Soonman KWON2,3, 2Asian Development Bank, 3Graduate School of Public Health,
+Seoul National University Email: skwon@adb.org, kwons@snu.ac.kr
+Abstract
+The Republic of Korea experiences a rapid ageing of population with increased life expectancy and lowered
+fertility. National health insurance provides universal access to healthcare for all since 1989, and mandatory
+long-term care insurance (LTCI) was introduced in 2008, where everybody who contributes to health
+insurance simultaneously contributes to LTCI. Although health services and long-term care are universally
+accessible, health differentials remain across socioeconomic groups. LTCI covers about 7% of older people
+through eligibility assessment and provides benefits for institutional and home-based care, but cash-benefits
+1
+
+in exceptional cases. LTC benefit eligibility has been criticized for being excessively reliant on physical
+functionality, and recently eligibility has been extended to people with dementia. In spite of the oversupply of
+LTC providers, quality of care has been a concern, which calls for more investment in the quality evaluation
+system and training of care workers. There continues to be overreliance on inpatient care and unmet
+healthcare needs among LTC users as a result of weak gatekeeping by primary care and a lack of effective
+coordination between healthcare and LTC.
+Keywords
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+Ageing, Health Systems, Long-term care systems, Health Policy, Republic of Korea
+
+2
+
+I.
+
+Introduction
+
+The republic of Korea (hereafter Korea) has experienced a very rapid ageing of population, and older people
+aged 65 and over accounted for 12.7% of the population in 2014 (1). The speed of population ageing in Korea
+is projected to be higher than OECD countries, and the old-age dependency ratio, measured by population
+aged 65 and over divided by the population aged 15 to 64, will increase from 17.3% (2014) to 71% (2050),
+only slightly lower than Spain and Japan (2). The average old-age dependency in OECD countries is 24.8% in
+2014, which is projected to increase to 47.3% in 2050 (2).
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+At the same time, family structure and attitudes towards care for older people have changed during the
+last decade. The proportion of parents who are living with their children decreased from 38.0% (2008) to
+29.2% (2016), with surveys suggesting that a greater share of the Korean population thinks that ‘family,
+government and society’ should take care of their parents (45.5%) rather than the share of population citing
+‘family’ as the main source of parental support (30.8%) (3). The role of family obligation associated with
+caregiving for their parents is expected to decline. Under these circumstances, this paper aims to examine the
+health policy responses to ageing in Korea, more specifically health system and long-term care (LTC) system
+for older people and lessons for countries of Asia.
+This paper is structured as follows. Section II describes key developments in ageing in Korea and the
+main characteristics of health system, including spending patterns and population access to health services.
+Section III describes LTC system in Korea, including the mandatory long-term care insurance (LTCI) and the
+service delivery of LTC as well as coordination issues between healthcare and LTC. Finally, section IV
+discusses the main challenges posed by the ageing Korean population to the health and LTC systems, the
+policy responses, and potential lessons for other countries in Asia.
+
+3
+
+II.
+
+Ageing and the Korean Health System
+
+1. Ageing and Health
+The life expectancy of Korean people increased from 75.9 to 82.2 during the period of 2000 to 2014 (4). The
+leading causes of death among older people were non-communicable diseases (NCDs), like cancer (803.0
+persons per 100,000), heart disease (351.0 persons), cerebrovascular disease (311.1 persons), pneumonia
+(209.1 persons), diabetes (133.2 persons) in 2015 (Table 1) (5). NCDs, such as low back and neck pain,
+ischemic heart disease, lung/liver cancer, diabetes, sense organ diseases, and depressive disorder, were the
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+fast-growing among leading causes of DALYs from 2005 to 2015 (6). Diet was the leading risk factor for
+DALYs, followed by smoking, high fasting plasma glucose, alcohol and drug use, high systolic blood
+pressure, high body-mass index, and air pollution (6).
+From the standpoint of this paper, there are two perspectives related to longevity and health status
+that require consideration: “expansion of morbidity” assumes that people live longer with ill health as
+longevity increases vulnerability, whereas “compression of morbidity” views life years with illness and
+disability decreases as the onset of morbidity is delayed more than life is prolonged (7). In Korea, people with
+high socioeconomic status (SES) were more likely to experience the compression of morbidity (8). Good
+financial condition was also associated with successful ageing, such as a later life with less diseases and
+disease-related disability as well as high level of cognitive and physical functions (9).
+On the other hand, lower education was a significant factor explaining physical and mental
+difficulties or poor self-rated health (SRH) (10-12), and low levels of income or occupation were predictors
+of cognitive impairment (13). In addition, there has been inverse association between socioeconomic factors
+and depressive symptoms (14), and nonstandard forms of employments increased the risk of depression in
+older population (15). Several studies reported the differential effect of SES on health of older people by
+subgroups. For example, women showed faster decline in SRH with age than men, and women’s SRH were
+more vulnerable to low-income than men (16). The SES gradients in the burden of diseases showed different
+4
+
+distributions by disease groups. The proportion of hypertension, cancer, and diabetes in the burden of diseases
+increased with higher education level, but the result was opposite for arthritis or anemia (17).
+Although poor health status were highly concentrated among older people with low incomes, strong pro-rich
+inequality exists for healthcare expenditure (18). Inequality in inpatient or outpatient service utilization has
+remained even after adjusting for health status among older adults (19). A literature review showed that
+income, wealth, education, previous or current employment status, housing, and region were predictors of
+health expenditure of older people (20). Under the relatively weak Korean social pension system, low income
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+elderly faced considerable financial burden due to health expenditure, resulting in lower healthcare service
+use (21). However, an income-related horizontal equity index showed negative or zero values for home-based
+LTC utilization (22), implying an equitable use of home care services under public LTCI, unlike the pro-rich
+inequality of healthcare utilization.
+In summary, although Korea has experienced an increase in life expectancy, there are still disparities
+in health and functional status by SES groups. Moreover, there are inequality issues for healthcare utilization
+and expenditure under the national health insurance (NHI) due to high out-of-pocket (OOP) payment at the
+point of services, although the gaps have been reduced in LTCI.
+2. Healthcare Access and Health Expenditure
+Korean health system with mandatory NHI has provided universal access to healthcare for all people
+regardless of age. It achieved universal coverage of population in 1989 and has operated a single insurer
+scheme with a uniform contribution schedule and benefits coverage since 2000 (23).
+With population ageing, NHI needs to extend the benefit package to cover NCDs and services for
+older people. For example, the major NCD groups, like circulatory, digestive, muscular, cancer, endocrine
+and mental health, account for 60% of health spending in Korea (24). Although several programs have been
+implemented for NCD management (such as cancer screening, extension of coverage for NCD medicines, and
+
+5
+
+pilots for community primary care), there are still many uncovered (uninsured) services, resulting in high
+OOP payment (25). Moreover, as a large portion of older population suffer from poverty (e.g., the rate of
+relative poverty among older people was 49.6%, the highest in the OECD) (26), a contributory social
+insurance without sufficient subsidy to the poor (only 3% of population is covered by a tax-funded Medical
+Aid Program) still faces challenges related to healthcare access.
+The share of GDP allocated to health spending (excluding spending on investments) in Korea was
+7.2% in 2015, compared with an OECD average of 8.9% (27). Per capita health spending has been growing
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+continuously and has outpaced the average per capita spending in OECD (27) although the growth has slowed
+since 2011 (28). In 2015, public sources, i.e., social health insurance and taxes, accounted for only 55.6% of
+overall health spending, well below the OECD average of 72.8% (27). Health expenditure of older people,
+which was 12.3% of total population, accounted for 37.8% of total health spending in 2015 (Table 2) (29).
+Older people’s health spending is driven by quantity of healthcare utilization (e.g., number of inpatient days,
+outpatient visits) rather than per-day expenditure (29).
+Although Korea has introduced several programs for responding to NCDs and ageing, there has been
+an over-reliance on hospital care with weak gatekeeping by primary care and referral systems. The
+fragmentation and the lack of coordination in healthcare is a big threat to the efficiency and quality of care for
+older people, who have multi-morbidities. The average annual growth rate of health expenditure of total
+population in inpatient care was higher (12.4%) than outpatient care (8.2%) or retail pharmaceuticals (7.2%)
+from 2004 to 2015 (Table 3) (30).
+Proximity of death also has a crucial impact on health expenditure of a life course. The death-related
+(one year before death) expense was more than 9 times higher than survivors, but the amount of expense
+declined with age (31). Among the death-related health expenditure, the share of injection-related cost,
+hospitalization cost, and examination cost accounted for about 60% of total costs (31), implying that many
+patients spend their last part of life in hospitals with injections or over-examinations.
+6
+
+Lengthy hospitalization (often social admissions that do not really need medical care) due to limited
+coordination with LTC, and clinical decision on treatment such as intensity of care at the end stage of life are
+also key determinants of expenditure because the cost of hospital stay is much higher than that of LTC
+institutions or hospice care. On the other hand, it was reported that per capita spending on retail
+pharmaceuticals reached a peak at the age of 70--74 rather than 75 and older (24). Survival of the healthy
+elderly or high burden of OOP payment might lead those old-old population (75 and older) to reduce their
+consumption of retail pharmaceuticals and related expenditure (24).
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+III.
+
+Long-term Care System in Korea
+
+1. Long-term Care Insurance
+In July 2008, Korea introduced public LTCI, in response to rapid population ageing and low income security
+for older people (32). Besides demographic changes, family structures also contributed to the growing
+demands for LTC. As female labor participation increased, family size became smaller, and the attitude to
+care for older people (regarding family obligation) changed, the availability of informal caregiver has been
+diminished (32).
+There were some debates on whether Korea, whose proportion of older people was still lower than in
+OECD countries, should introduce a universal LTCI rather than a public assistance-type LTC support for poor
+older people. Progressive government played a key role in the introduction of universal LTCI to cover all
+older people who have need for LTC. Kim Dae Jung, who became president in early 1998, had a strong
+interest in progressive welfare state policies. After becoming president, Kim initiated several expansive
+reforms in the health and social policy arenas, such as unemployment insurance, national pension, NHI, and
+minimum living standard guarantee (MLSG) (33). Formal discussion of LTCI started in 2000 when the
+Ministry of Health and Welfare appointed a Planning Committee for Elderly Long-Term Care. The provision
+of LTC aiming to expand care for older people was easy to embrace because it had broad appeal to the public
+and did not raise political opposition (34). President Kim Dae Jung was succeeded by Roh Moo-hyun in
+7
+
+January, 2003, who was from the same political party as Kim and included a promise to enact LTCI in his
+presidential campaign. After more than one year of consideration, public hearings, and research on other
+countries, government decided to introduce social insurance for LTC with a tax subsidy.
+The funding of the new LTCI is separate from the NHI although both are administered by National
+Health Insurance Service (NHIS) to reduce the administrative costs. Different from European countries (e.g.,
+Germany) where LTC system has been developed for people with disability including older people, LTCI of
+Korea was introduced in the context of population ageing. As a result, people aged 65 years or older are
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+eligible for all types of LTC, but eligibility of those under 65 is restricted to aged-related LTC need, such as
+individuals with geriatric diseases (i.e. dementia, cerebrovascular disease). The design of LTCI that younger
+people pay contribution but their eligibility for benefits is restricted has resulted in a big inter-generational
+transfer and contributed to the financial sustainability of LTCI.
+The contribution rate is 6.55% of health insurance premium, in other words, anyone who pays health
+insurance contribution pays LTCI contribution too. The financing mix is composed of contributions (6065%), tax subsidies (20%), and copayment by service users, which is 20% for institutional service and 15%
+for home-based service. The coinsurance rate for institutional care is higher than that for home-based care in
+order to promote de-institutionalization and community-based care, and there is 50% subsidy for copayment
+to the low-income group (17.1% of LTC users in June 2014) and zero copayment for the beneficiaries of
+Medical Aid program (35). The average monthly OOP payment (for covered and uncovered services) was
+477,000 KRW (about US$ 430) for institutional care and 110,000 KRW (about US$ 100) for home-based
+care in 2014 (35).
+To use LTC services, individuals have to pass need assessment, which assesses functional status in
+physical, cognitive, behavior, nursing care, and rehabilitative characteristics using 52 items. The needs
+assessment for eligibility of LTCI is a major difference from health insurance. The eligible group was
+classified into three levels, which were extended to five levels for those with dementia (which are designated
+8
+
+as level 5) since July 2014 (36). Before the revision, if a person had cognitive disorders but without severe
+physical limitations, he or she was not eligible to LTCI. Therefore lots of people with dementia, both patients
+and family members, suffered from the lack of adequate LTC.
+The population coverage of LTCI increased from 2.9% to 7.2% of older people from July 2008 to
+June 2016 (Figure 1) (37). The utilization rate has increased from 53% to 91% (of those who eligible) at the
+same periods, as awareness of LTCI system has improved. However, the increasing number of certified
+individuals and service users have caused a concern on sustainability issues. The need assessment became
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+stricter for the eligibility levels 1 or 2 (severe condition), leading to the decline in the proportion of levels 1 or
+2 from 42% (April 2010) to 23% (June 2016) (Figure 2) (37).
+LTCI provides benefits for institutional and home-based care, and cash benefits are available only in
+exceptional cases, e.g., when no service providers are accessible in the region. The amount of benefits
+depends on the eligibility level, and the ceiling on benefit coverage is different by the level. (In contrast, there
+is no ceiling on benefits but a ceiling on OOP payment in the NHI.) For example, the maximum monthly
+benefits range from 784,100 KRW (about US$ 660) for level 5 to 1,196,900 KRW (about US$ 1,000) for
+level 1 in the case of home-based care (38). The individuals with less severe level, e.g., levels 3 to 5, are
+recommended to use home-based care to avoid over-reliance on institutional care. The payment type varies by
+service types, such as pay per visit (service hours) for home-visit care and pay per day for institutional care.
+The proportion of institutional care among the total expenditure for LTCI increased from 43.3% to
+51.3%, while home-based care decreased from 56.7% to 48.7% between 2009 and 2015. The home-based
+care is composed of home-visit care, home-visit bathing, home-visit nursing, day and night care, shot-term
+care, and welfare equipment. Within the home-based care, more than 70% of benefit has been spent for
+“home-visit care”, but only 0.5% for “home-visit nursing” (Table 4) (37).
+
+9
+
+2. Long-term Care Service Delivery
+After the introduction of LTCI, the number of LTC providers rapidly expanded, from 2,600 to 5,000
+institutions and 11,900 to 12,900 home-based care agencies since 2009 (37). It also created diverse jobs
+related with LTC but led to the oversupply of service providers. The number of care workers and nurse aides
+increased dramatically as they need shorter period of education and training than registered nurses or doctors.
+For example, the number of care workers rapidly increased from 176,500 to 301,700 and nurse aides from
+4,200 to 9,770, but that of registered nurses changed from 3,400 to 2,800 (Table 5) (37).
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+The increase in quasi-professional staffing may be caused by small-sized institutions, e.g., capacity of
+less than 30 residents or group homes (less than 10 residents), where the entry to market is relatively easy for
+private sector providers (39). The rapid increase in the supply of providers was not accompanied by quality of
+care and equitable distribution by regions. About 70--80% of providers are from the private sector, and the
+majority of home care providers are concentrated in urban areas (39).
+To assure the quality of care in the LTC sector, NHIS has implemented quality evaluation system
+since 2009. The number of quality indicators varies by types of service providers, e.g., 88 items for
+institutional care and 32--59 items for home-based care, and they are grouped by five domains of quality
+measurement, namely, management of institutions, environment and safety, rights and responsibilities,
+process of services, and outcome of services (40). The result of evaluation score (A-E) has been publicly
+disseminated through an official LTCI website, and the high performance institutions have received
+incentives of 1--2% additional reimbursement (40). Although the LTC quality evaluation system was initiated
+to improve the quality of care, there are still several limitations. The gap between real quality of care and
+evaluation results exists due to the insufficient number of outcome-based indicators. Inadequate cooperation
+between local governments and NHIS has been criticized because local governments are not active in
+controlling the quality of LTC institutions even though they have the authority to approve or close the
+operation of LTC institutions (41).
+
+10
+
+3. Coordination of Health and Long-term Care
+Although the utilization of LTCI have effects on reducing the length of stay in acute hospitals among the
+older people with severe functional limitations (42) or on decreasing the costs of LTC hospitals (43), policy
+challenges remain associated with the lack of coordination between healthcare and LTC. For example,
+overlapped inpatient services are provided by LTC institutions (which is covered by LTCI) and LTC hospitals
+(which is covered by NHI) for older people with similar health and functional status. (LTC (or geriatric)
+hospitals are required to have physicians whereas the maximum requirement for medical personnel in LTC
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+institutions is nurse aide.) With the lack of effective coordination between LTC institutions and LTC
+hospitals, they were often regarded as substitutes for each other. This resulted in persistent social admissions
+in LTC hospitals among older people with lower medical care needs (44). On the other hand, a significant
+portion of older people with clinical care needs stay in LTC institutions where healthcare service is not
+provided (45). Some older people even without the need for medical treatment want to stay in LTC hospitals
+as they are worried that a referral to hospitals is not well arranged by LTC institutions.
+The coordination failure between health insurance and LTCI has to do with the history and path
+dependency in the development of LTC system for older people in Korea. With population ageing and
+increased need for LTC of older people, government introduced LTC hospitals, reimbursed by NHI. Before
+the LTCI was introduced, many older people in LTC hospitals were reluctant to be discharged to LTC
+institutions because they had to pay for LTC institutions while the majority of the cost of LTC hospitals were
+funded by NHI. As a result, social admissions were prevalent in LTC hospitals, which called for the need for
+public funding such as LTCI for LTC institutions.
+There are several institutional factors contributing to the persistent social admissions in LTC hospitals.
+The majority of LTC hospitals and LTC institutions are private, and more patients/residents mean profits for
+them. They have mushroomed over the last ten years, and competition has been fierce. Benefits package of
+NHI tends to be more generous than LTCI, e.g., ceiling on OOP pay for every six months in NHI. As a result,
+11
+
+after a few months of stay in LTC hospitals, OOP payments can be lower than that in LTC institutions. There
+is a financial penalty, i.e., reduced fees, for LTC hospitals when patients stay for more than 6 months. But
+lower fee (for a given copayment rate) means lower cost sharing or OOP pay for patients, resulting in
+financial incentive for longer length of stay in LTC hospitals.
+IV.
+
+Discussions and Policy Lessons
+
+Korea has experienced an increase in life expectancy and improved health status among older population
+thanks to universal access to healthcare for all under NHI system and public LTCI. Although the universal
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+access to health and LTC services has been achieved, there are still health disparities and healthcare gaps by
+SES groups. Moreover, even though several programs have been implemented in response to the increasing
+burden of NCDs and an ageing population, there is still an over-reliance on hospital care with weak
+gatekeeping, leading to fragmentation and low quality. The lack of coordination between healthcare and LTC
+impeded the original goal of LTCI, therefore there are still many social admissions in hospitals, meanwhile,
+many of older people with clinical care needs are staying in LTC institutions without adequate healthcare
+service. Insufficient training for health professionals for older population also contributes to low-quality care,
+even if hospitals and LTC providers are being over-supplied.
+At the same time, concerns have been raised about the sustainability of health and LTC system under
+the rapidly growing demand and expenditure for geriatric and personal care (46, 47). The reduction in social
+admissions and strengthening policies for prevention and health promotion for older people might directly or
+potentially bring financial savings (48).
+There is also a tradeoff between population coverage and financial sustainability of the LTC system.
+A strict assessment for eligibility can improve the financial sustainability, but the resultant low coverage of
+population can limit the capacity of the LTC system to meet the LTC needs of older people. The current
+Korean LTCI covers about 7% of older people, which is significantly lower than for OECD countries
+(average is more than 10%) (49). The LTCI eligibility has recently been extended for people with dementia
+12
+
+(36) because the original criteria could not fully consider the hardship of caring for older adults with
+cognitive or psychological conditions. This experience showed the importance of considering the unmet
+needs of older population when a government set a need assessment scheme for LTC eligibility.
+Among home-based care, more than 70% of benefits have been concentrated on “home-visit care”,
+and there is an urgent need to encourage the utilization of diversified types of home and community-based
+services. The development of service programs in day-care centers and facilitating the role of home-visit
+nursing, in collaboration with primary care doctors, would be needed. If the home-based care services can be
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+linked with community-based primary care (e.g. helping medication adherence or monitoring of daily health)
+(50), the health and functional status of older people would be improved while expensive acute
+hospitalizations or institutional care can be reduced.
+Changing role of families and societal perceptions regarding filial piety or care for older people also
+should not be overlooked. The recent changes in household structures and attitude to caregiving might have
+an effect on social admissions or LTC utilization. For some older adults, longer length of stay in hospitals or
+depending on formal LTC services are inevitable when they do not have family members to rely on for
+caregiving.
+The experience of Korea provides many other policy lessons for countries in Asia. Primary care is an
+essential component of universal health coverage (UHC) and becomes even more important in an era of
+population ageing. Limited role of primary care system has contributed to the inefficient health system and
+the lack of coordination between health system and LTC system in Korea. Primary care provider needs to
+play a key role in prevention and promotion of health and to overcome the inefficiencies of hospital-centric
+care. Cost-effective continuum of care requests training for primary care doctors to enforce their capacity of
+team work with LTC service providers (51) as well as multi-occupational collaborative training programs
+(including health and LTC service providers and administrative staffs) to facilitate their effective role sharing,
+as evidenced in Japan (52). Local centers can be another option, as a unified access point to individuals with
+13
+
+diverse needs, encompassing community-based healthcare, home-visit nursing station, and social welfare
+council (48, 51). In addition, several forms of discharge services (e.g. discharge planning, discharge
+summary, and discharge conference) might be a useful tool for supporting the coordination among acute care
+and primary care or LTC (53-55).
+Policy choice between universal or targeted LTC system is an issue, too. In most low- and middleincome countries (LMICs), governments still have policy priority on UHC than on universal access to LTC.
+Considering the speed of ageing and fiscal space, government can start with LTC targeting poor older people
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+or designing cost sharing depending on the capacity to pay. In Korea, subsidy and reduction in copayment to
+the low-income group facilitated them to use LTC services (56). LTC has the characteristics of convenience
+and quality of life, instead of life or death, and governments of LMICs still need to balance the return on
+investment for different population groups, such as children and older people. Social consensus and the
+changing role of family/informal care, as well as the evidence on the relation between healthcare and LTC for
+older people, e.g., whether LTC saves healthcare cost by reducing the need for healthcare, should be
+considered.
+Conflict of Interest
+The authors report no conflict of interest.
+Financial Disclosure Statements
+This work was done without receiving any financial support from any third party.
+Acknowledgments
+An earlier version of this study (Title: Aging and Health Systems in the Asia-Pacific: Policy Challenges) was
+presented at 12th Annual Global Health Forum: Health Systems for the Third Age, University of Melbourne,
+Australia, October 2016.
+
+14
+
+References
+1.
+
+OECD. Elderly population (indicator) 2017 [updated 14 January 2017]. Available from: doi:
+
+10.1787/8d805ea1-en.
+2.
+
+OECD. OECD Demography and Population Database 2016. Available from:
+
+http://dx.doi.org/10.1787/888933355971.
+3.
+
+Statistics Korea. The 2016 Korea Social Survey Results. 2016 (in Korean).
+
+4.
+
+OECD. OECD.Stat 2017 [updated 14 Jan 2017]. Available from:
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+http://stats.oecd.org/index.aspx?DataSetCode = HEALTH_STAT#.
+5.
+
+Statistics Korea. Statistics for the elderly. National Statistical Office, Statistics Korea; 2016 (in
+
+Korean).
+6.
+
+Institute for Health Metrics and Evaluation (IHME). Leading causes of DALYs in 2015 and percent
+
+change, 2005--2015, Korea [Internet]. 2017. Available from: http://www.healthdata.org/south-korea.
+7.
+
+Robine J-M, Michel J-P. Looking forward to a general theory on population aging. The Journals of
+
+Gerontology Series A: Biological Sciences and Medical Sciences. 2004;59(6):M590-M7.
+8.
+
+Jung Y, Cho Y, Oh J. Differential Effects of Family Income on Self-rated Health by Age: Analysis of
+
+Seoul Citizens Health Indicators Survey 2001, 2005. Journal of preventive medicine and public health =
+Yebang Uihakhoe chi. 2007;40(5):381-7 (in Korean).
+9.
+
+Feng Q, Son J, Zeng Y. Prevalence and correlates of successful ageing: a comparative study between
+
+China and South Korea. European Journal of Ageing. 2015;12(2):83-94. doi: 10.1007/s10433-014-0329-5.
+10.
+
+Kye B, Arenas E, Teruel G, Rubalcava L. Education, elderly health, and differential population aging
+
+in South Korea: A demographic approach. Demographic Research. 2014;30:753.
+11.
+
+Jang S-N, Choi YJ, Kim DH. Association of socioeconomic status with successful ageing:
+
+differences in the components of successful ageing. Journal of biosocial science. 2009;41(2):207-19. Epub
+2008/11/04. doi: 10.1017/s0021932008003052. PubMed PMID: 18976546.
+
+15
+
+12.
+
+Jang S-N, Cho S, Kawachi I. Is socioeconomic disparity in disability improving among Korean
+
+elders? Social Science & Medicine. 2010;71(2):282-7.
+13.
+
+Lee Y, Back JH, Kim J, Byeon H. Multiple socioeconomic risks and cognitive impairment in older
+
+adults. Dementia and geriatric cognitive disorders. 2010;29(6):523-9. Epub 2010/07/08. doi:
+10.1159/000315507. PubMed PMID: 20606433.
+14.
+
+Back JH, Lee Y. Gender differences in the association between socioeconomic status (SES) and
+
+depressive symptoms in older adults. Archives of gerontology and geriatrics. 2011;52(3):e140-e4.
+15.
+
+Kang M-Y, Kang Y-J, Lee W, Yoon J-H. Does long-term experience of nonstandard employment
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+increase the incidence of depression in the elderly? Journal of occupational health. 2016;58(3):247-54.
+16.
+
+Lee J, Cho S-I, Chun H, Jung-Choi K, Kang M, Jang S-N. Life course indices for social determinants
+
+of self-rated health trajectory in Korean elderly. Archives of Gerontology and Geriatrics. 2017;70:186-94.
+doi: http://dx.doi.org/10.1016/j.archger.2017.02.003.
+17.
+
+Lee C-E, Kwon S. Differences in the burden of disease of the elderly by socioeconomic status.
+
+Health Policy and Management. 2008;18(4):1-22 (in Korean).
+18.
+
+Kim Y. Equity in health status and health care utilization by income: Analyzing different populations
+
+in old adults. Health and Social Science. 2012;31:55-81 (in Korean).
+19.
+
+Kim H, Park S-M, Jang S-N, Kwon S. Depressive symptoms, chronic medical illness, and health care
+
+utilization: findings from the Korean Longitudinal Study of Ageing (KLoSA). International psychogeriatrics.
+2011;23(08):1285-93.
+20.
+
+Son K-B, Shin J-W, Lim E-O, Lee T-J, Kim H. Population Aging and Health Care Expenditure in
+
+South Korea: A Critical Review. The Korean Journal of Health Economics and Policy. 2015;21(1):51-77 (in
+Korean).
+21.
+
+Jeon B, Noguchi H, Kwon S, Ito T, Tamiya N. Disability, poverty, and role of the basic livelihood
+
+security system on health services utilization among the elderly in South Korea. Social Science & Medicine.
+2017;178:175-83. doi: http://dx.doi.org/10.1016/j.socscimed.2017.02.013.
+16
+
+22.
+
+Jung YI, Kim H, Kwon S. Horizontal Equity in the Use of Home Care and Health Care among Home
+
+Care Recipients under the Public Long-term Care Insurance in South Korea. The Korean Journal of Health
+Economics and Policy. 2016;22(4):59~78 (in Korean).
+23.
+
+Kwon S, Lee T-J, Kim C-Y. Republic of Korea health system review: Manila: WHO Regional Office
+
+for the Western Pacific; 2015.
+24.
+
+OECD. Focus on Health Spending: Expenditure by disease, age and gender. 2016.
+
+25.
+
+Kim S. Policies evaluation of health insurance coverage. National Assembly Budget Office 2016 (in
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+Korean).
+26.
+
+OECD. OECD Economic Surveys: Korea. 2016.
+
+27.
+
+OECD. Health spending spending (indicator) 2017 [27 February 2017]. Available from: doi:
+
+10.1787/8643de7e-en.
+28.
+
+OECD. Health Statistics 2015. Country Note: How does health spending in Korea compare? 2015.
+
+29.
+
+National Health Insurance Service (NHIS). 2015 National Health Insurance Statistics 2016 (in
+
+Korean).
+30.
+
+Statistics Korea. National Health Insurance Expenditure. 2017 (in Korean).
+
+31.
+
+Shin H, Choi M, Tchoe B. The cost of end-of-life care in South Korea. Health Policy and
+
+Management (HPM). 2012;22(1):29-48 (in Korean).
+32.
+
+Kwon S. The introduction of long-term care insurance in South Korea. Eurohealth. 2009;15(1):28.
+
+33.
+
+Kwon S, Holliday I. The Korean welfare state: a paradox of expansion in an era of globalisation and
+
+economic crisis. International Journal of Social Welfare. 2007;16(3):242-8.
+34.
+
+Campbell JC, Ikegami N, Kwon S. Policy learning and cross‐national diffusion in social long‐term
+
+care insurance: Germany, Japan, and the Republic of Korea. International Social Security Review.
+2009;62(4):63-80.
+
+17
+
+35.
+
+Kwon J-H, Eun-Jung H, Moon Y-P, Lee J-S, Kim K-A, Park J-D. Plans for Reduction of Out-Of-
+
+Pocket Payment in Long-Term Care Insurance in Korea (No. 2014-1-0011). National Health Insurance
+Service, Health Insurance Policy Research Institute, 2014 (in Korean).
+36.
+
+Lee Y-K. The introduction of special level for people with dementia in the eligibility criteria of long-
+
+term care insurance system in Korea. KIHASA Health and Welfare Issue and Focus. 2014;245(2014-24):1-8
+(in Korean).
+37.
+
+National Health Insurance Service (NHIS). Long Term Care Insurance Statistical Yearbook. 2016 (in
+
+Korean).
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+38.
+
+Ministry of Health and Welfare (MOHW). 2017 Long-term care insurance fee schedule. 2016 (in
+
+Korean).
+39.
+
+Sunwoo D. Analysis and policy suggestions for present condition of establishment of long-term care
+
+institutions Issue & Focus. 2015;299(2015-31)(in Korean).
+40.
+
+National Health Insurance Service (NHIS). 2016 Regular evaluation plan for long-term care
+
+institutions. 2016 (in Korean).
+41.
+
+Jung H-Y, Jang S-N, Seok JE, Kwon S. Quality monitoring of long-term care in the Republic of
+
+Korea. In: Mor V, Leone T, Maresso A, editors. Regulating Long-Term Care Quality: An International
+Comparison. Cambridge: Cambridge University Press; 2014. p. 385--408.
+42.
+
+Hyun K-R, Kang S, Lee S. Does long-term care insurance affect the length of stay in hospitals for the
+
+elderly in Korea?: a difference-in-difference method. BMC health services research. 2014;14(1):630. doi:
+10.1186/s12913-014-0630-1.
+43.
+
+Kim M, Kwon S, Kim H. The Effect of Long-term Care Utilization on Health Care Utilization of the
+
+Elderly. The Korean Journal of Health Economics and Policy. 2013;19(3):1-22.
+44.
+
+Jeon B, Kim H, Kwon S. Patient and Hospital Characteristics of Long-Stay Admissions in Long-
+
+Term Care Hospitals in Korea. Health Policy and Management. 2016;26(1):39-50 (in Korean).
+
+18
+
+45.
+
+Kim H, Jung YI, Kwon S. Delivery of institutional long-term care under two social insurances:
+
+Lessons from the Korean experience. Health policy (Amsterdam, Netherlands). 2015;119(10):1330-7. Epub
+2015/08/26. doi: 10.1016/j.healthpol.2015.07.009. PubMed PMID: 26305121.
+46.
+
+Kim H, Kwon S. Projection of demand and expenditure for services under long-term care insurance
+
+for the elderly in Korea. The Korean Journal of Health Economics and Policy. 2012;18(3):29-51 (in Korean).
+47.
+
+Shin E, Lim JY. The association between population aging and health care expenditure considering
+
+‘death-related costs'. The Korean Journal of Health Economics and Policy. 2014;20(4):51-80 (in Korean).
+48.
+
+European Union. Joint Report on Health Care and Long-Term Care Systems & Fiscal Sustainability.
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+Commission E, Committee EP; 2016 Contract No.: Institutional Paper 037.
+49.
+
+Muir T. Measuring social protection for long-term care, OECD Health Working Papers, No. 93,
+
+OECD Publishing, Paris. 2017.
+50.
+
+Jung H-J, Park J-D, Kim S-H, Choi E-H, Park H-Y, A-Reum K. Revitalization of Integrated Home-
+
+based care in the Aging Society. National Health Insurance Service, Health Insurance Policy Research; 2014
+(in Korean).
+51.
+
+Higashino S. Initiatives to establish support systems for primary health care and home care in
+
+community-based integrated care in Shizuoka prefecture, Japan. J Natl Inst Public Health. 2016 65(2):120-6
+(in Japanese).
+52.
+
+Bureau of Social Welfare and Public Health, Tokyo Metropolitan Government. Tokyo Metropolitan
+
+Dementia Multi-occupational Collaborative Training: Aiming to build up a health care support system to
+support people with dementia 2017 (in Japanese). Available from:
+http://www.fukushihoken.metro.tokyo.jp/zaishien/ninchishou_navi/gyouji/tasyokusyu/index.html.
+53.
+
+Goncalves-Bradley DC, Lannin NA, Clemson LM, Cameron ID, Shepperd S. Discharge planning
+
+from hospital. Cochrane Database Syst Rev. 2016(1):Cd000313. Epub 2016/01/28. doi:
+10.1002/14651858.CD000313.pub5. PubMed PMID: 26816297.
+
+19
+
+54.
+
+Al-Damluji MS, Dzara K, Hodshon B, Punnanithinont N, Krumholz HM, Chaudhry SI, et al.
+
+Association of discharge summary quality with readmission risk for patients hospitalized with heart failure
+exacerbation. Circulation Cardiovascular quality and outcomes. 2015;8(1):109-11. Epub 2015/01/15. doi:
+10.1161/circoutcomes.114.001476. PubMed PMID: 25587092; PubMed Central PMCID: PMCPmc4303529.
+55.
+
+Ministry of Health, Labour and Welfare, Japan. Discharge arrangement (medical and long-term care
+
+collaboration). 2011 (in Japanese). Available from: http://www.mhlw.go.jp/stf/shingi/2r98520000011ga6att/2r98520000011gkm.pdf
+56.
+
+Kim H, Kwon S, Yoon NH, Hyun KR. Utilization of long-term care services under the public long-
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+term care insurance program in Korea: Implications of a subsidy policy. Health policy (Amsterdam,
+Netherlands). 2013;111(2):166-74. Epub 2013/05/28. doi: 10.1016/j.healthpol.2013.04.009. PubMed PMID:
+23706386.
+
+20
+
+Table 1. The leading causes of death among older people (65+), Korea (2015) (Unit: per 100,000
+population)
+Rank
+Total
+Men
+Women
+1
+
+2
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+3
+
+4
+
+5
+
+Malignant neoplasms
+(cancer)
+
+Malignant neoplasms
+(cancer)
+
+Malignant neoplasms
+(cancer)
+
+(803.0)
+
+(1,175.8)
+
+(533.9)
+
+Heart disease
+
+Heart disease
+
+Heart disease
+
+(351.0)
+
+(352.7)
+
+(349.8)
+
+Cerebrovascular disease
+
+Cerebrovascular disease
+
+Cerebrovascular disease
+
+(311.1)
+
+(326.4)
+
+(300.0)
+
+Pneumonia
+
+Pneumonia
+
+Pneumonia
+
+(209.1)
+
+(247.8)
+
+(181.2)
+
+Diabetes mellitus
+
+Chronic lower
+respiratory diseases
+
+Diabetes mellitus
+
+(133.2)
+
+(160.0)
+
+(127.9)
+
+Source: Ref. (5)
+
+21
+
+Table 2. Health expenditure of older people (65+), Korea (2009-2015)
+
+Population (unit: person)
+
+Number of patient days
+(inpatient, outpatient)
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+Total health expenditure
+(unit: billion Korean
+won)
+
+Health expenditure per
+capita per day (unit:
+Korean won)
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Average
+annual growth
+rate
+
+Total
+
+48,614
+
+48,907
+
+49,299
+
+49,662
+
+49,990
+
+50,316
+
+50,490
+
+0.6%
+
+65+
+
+4,826
+
+4,979
+
+5,184
+
+5,468
+
+5,740
+
+6,005
+
+6,223
+
+4.3%
+
+(% of 65+)
+
+(9.9)
+
+(10.2)
+
+(10.5)
+
+(11.0)
+
+(11.5)
+
+(11.9)
+
+(12.3)
+
+Total
+
+87,208
+
+90,656
+
+92,610
+
+95,179
+
+96,879
+
+98,796
+
+98,999
+
+2.1%
+
+65+
+
+22,434
+
+24,073
+
+25,350
+
+27,090
+
+28,670
+
+30,411
+
+31,382
+
+5.8%
+
+(% of 65+)
+
+(25.7)
+
+(26.6)
+
+(27.4)
+
+(28.5)
+
+(29.6)
+
+(30.8)
+
+(31.7)
+
+Total
+
+39,339
+
+43,628
+
+46,238
+
+47,839
+
+50,955
+
+54,317
+
+57,959
+
+6.7%
+
+65+
+
+12,424
+
+14,135
+
+15,389
+
+16,449
+
+18,057
+
+19,860
+
+21,921
+
+9.9%
+
+(% of 65+)
+
+(31.6)
+
+(32.4)
+
+(33.3)
+
+(34.4)
+
+(35.4)
+
+(36.6)
+
+(37.8)
+
+Total
+
+45,109
+
+48,125
+
+49,928
+
+50,262
+
+52,597
+
+54,979
+
+58,545
+
+4.5%
+
+65+
+
+55,378
+
+58,717
+
+60,707
+
+60,721
+
+62,981
+
+65,306
+
+69,853
+
+4.0%
+
+Note: Health expenditure means the sum of NHI expenditure and copayment for covered services. 1 USD
+= 1,100 Korean won Source: Ref. (29)
+
+22
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+Table 3. The growth rate of health expenditure by service programme, total population, Korea (20042015) (Unit: billion Korean won, %)
+Inpatient care
+Outpatient care
+Retail pharmaceuticals
+Annual
+Annual
+Annual
+Health
+Health
+Health
+growth
+growth
+growth
+expenditure
+expenditure
+expenditure
+rates
+rates
+rates
+2004
+5,967
+10,343
+6,196
+2005
+6,585
+10.40%
+11,253
+8.80%
+7,023
+13.30%
+2006
+7,850
+19.20%
+12,524
+11.30%
+8,036
+14.40%
+2007
+9,861
+25.60%
+13,635
+8.90%
+8,892
+10.70%
+2008
+10,892
+10.50%
+14,433
+5.90%
+9,544
+7.30%
+2009
+12,388
+13.70%
+16,254
+12.60%
+10,697
+12.10%
+2010
+14,439
+16.60%
+17,704
+8.90%
+11,486
+7.40%
+2011
+15,436
+6.90%
+18,705
+5.70%
+12,097
+5.30%
+2012
+16,179
+4.80%
+19,865
+6.20%
+11,795
+-2.50%
+2013
+17,891
+10.60%
+21,190
+6.70%
+11,874
+0.70%
+2014
+19,045
+6.50%
+22,893
+8.00%
+12,490
+5.20%
+2015
+21,178
+11.20%
+24,457
+6.80%
+13,152
+5.30%
+Average annual
+12.40%
+8.20%
+7.20%
+growth rate
+Note: Health expenditure means the sum of NHI expenditure and copayment for covered services. 1 USD =
+1,100 Korean won Source: Ref. (30)
+
+23
+
+Table 4. Long-term care insurance (LTCI) expenditure by service types, Korea (2009-2015)
+billion Korean won, %)
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+Total LTCI
+expenditure
+
+1,737
+
+2,402
+
+2,588
+
+2,718
+
+3,083
+
+3,498
+
+3,982
+
+(Exp., %)
+
+100.0
+
+100.0
+
+100.0
+
+100.0
+
+100.0
+
+100.0
+
+100.0
+
+Institutio
+nal care
+
+43.3
+
+42.8
+
+47.1
+
+51.1
+
+51.8
+
+52.1
+
+51.3
+
+Homebased care
+
+56.7
+
+57.2
+
+52.9
+
+48.9
+
+48.2
+
+47.9
+
+48.7
+
+(Unit:
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+Within Home-based care
+Homevisit care
+
+74.4
+
+82.2
+
+83.3
+
+80.6
+
+79
+
+78.3
+
+76.4
+
+Homevisit
+bathing
+
+4.1
+
+5
+
+5.2
+
+5.3
+
+4.9
+
+4.2
+
+3.7
+
+Homevisit
+nursing
+
+0.6
+
+0.4
+
+0.4
+
+0.5
+
+0.5
+
+0.5
+
+0.5
+
+Day and
+night care
+
+6.3
+
+5.3
+
+6.1
+
+7.2
+
+8.6
+
+10.4
+
+13.2
+
+Shortterm care
+
+8.6
+
+2.3
+
+0.5
+
+0.7
+
+1
+
+1
+
+0.8
+
+Welfare
+equipment
+
+6
+
+4.6
+
+4.5
+
+5.7
+
+6
+
+5.6
+
+5.4
+
+Note: Exp. means LTCI expenditure for covered services. 1 USD = 1,100 Korean won Source: Ref. (37)
+
+24
+
+Table 5. Number of long-term care (LTC) providers and professionals, Korea (2009-2015)
+2009
+2010
+2011
+2012
+2013
+2014
+Number of LTC institutions and home-based care agencies (Unit: institution)
+
+2015
+
+LTC
+institutions
+
+2,629
+
+3,751
+
+4,061
+
+4,326
+
+4,648
+
+4,871
+
+5,085
+
+Homebased care
+agencies
+
+11,931
+
+11,228
+
+10,857
+
+10,730
+
+11,056
+
+11,672
+
+12,917
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+Number of professionals in LTC sector (Unit: person)
+Care
+workers
+
+176,560 232,590 236,686 238,064 258,420 272,430 301,709
+
+Registere
+d nurses
+
+3,429
+
+3,135
+
+2,964
+
+2,862
+
+2,760
+
+2,788
+
+2,813
+
+Nurse
+aides
+
+4,218
+
+5,480
+
+6,275
+
+6,973
+
+8,028
+
+8,825
+
+9,779
+
+Doctors
+
+954
+
+1,025
+
+1,100
+
+1,175
+
+1,277
+
+1,382
+
+1,481
+
+Social
+workers
+
+5,234
+
+6,060
+
+6,283
+
+6,886
+
+7,637
+
+11,440
+
+14,074
+
+Physical
+and
+occupational
+therapist
+
+1,363
+
+1,481
+
+1,596
+
+1,693
+
+1,806
+
+1,893
+
+2,052
+
+Note: Number of “doctors” includes part-time visiting doctors. Source: Ref. (37)
+
+25
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+Figure 1. Population coverage of long-term care insurance, Korea (2008-2016)
+
+26
+
+Downloaded by [189.60.120.16] at 03:02 04 August 2017
+
+Figure 2. Proportion of eligibility levels in long-term care insurance, Korea (2010-2016)
+
+27
+
+

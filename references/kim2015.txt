@@ -1,0 +1,1934 @@
+490789
+research-article2013
+
+APH27210.1177/1010539513490789Asia-Pacific Journal of Public HealthKim et al
+
+Article
+
+Factors Influencing Unmet Need
+for Health Care Services in Korea
+
+Asia-Pacific Journal of Public Health
+2015, Vol. 27(2) NP2555­–NP2569
+© 2013 APJPH
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/1010539513490789
+aph.sagepub.com
+
+Jinhyung Kim, MPH1,2, Tae Hyun Kim, PhD3,
+Eun-Cheol Park, MD, PhD4, and Woo Hyun Cho,MD, PhD5
+
+Abstract
+This study was conducted to investigate the prevalence of unmet need based on both subjective
+assessment and adjustments for need-predicted utilization and to examine factors associated
+with them. Data from the Fourth Korea National Health and Nutrition Examination Survey, a
+population-based, cross-sectional study, were used in this study. Participants included 11 620
+Koreans (4959 males and 6661 females) aged 19 and older. The results for subjective unmet
+need suggested that female or younger individuals were more likely to experience unmet need,
+compared to male or older individuals. Those residing outside the capital had a higher likelihood
+of experiencing unmet need. Lower levels of education showed an association with higher odds
+of having unmet need. This study found similar results for the adjusted unmet need. The findings
+of this study suggest that location and education are more important factors associated with
+unmet need than income levels.
+Keywords
+health equity, population health, heath economics and financing, health care services
+
+Introduction
+According to the World Health Report 2000, published by the World Health Organization, ensuring access to health care based on need, rather than ability to pay, should be an important means
+to improving health.1 Like most health care systems in high-income countries, Korea also strives
+to achieve equity goals in terms of ensuring access to needed health care regardless of socioeconomic status. Particularly, it has a national health insurance system, funded both publicly and
+privately, under which every citizen is covered for health care and medical treatment; because
+there are no restrictions with regard to which health care providers patients can use, citizens can
+visit virtually any private physician or health care facility.2 However, there is still room for
+improvement in the Korean health care system, because there are financial and other barriers,
+such as the limitation of benefit coverage, as well as high out-of-pocket payments, that patients
+face in accessing care. This may have resulted in inequity and differential utilization of medical
+care between subgroups of individuals and thereby inequitable distribution of services.3
+1National Evidence-Based Collaborating Agency, Seoul, Korea
+2Department of Public Health, Graduate School, Yonsei University, Seoul, Korea
+3Graduate School of Public Health, Yonsei University, Seoul, Korea
+4Department of Preventive Medicine & Institute of Health Services Research, College of Medicine, Yonsei University,
+Seoul, Korea
+5Eulji University Medical Center, Seoul, Korea
+
+Corresponding Author:
+Eun-Cheol Park, Department of Preventive Medicine, Institute of Health Services Research, College of Medicine,
+Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul, 120-752, Korea.
+Email: ecpark@yuhs.ac
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2556
+
+Asia-Pacific Journal of Public Health 27(2)
+
+Assessment of the extent to which individuals are able to access necessary health services
+based on medical need, rather than other factors, can provide evidence as to whether the health
+care system should develop policies for redistribution of health care resources in order to address
+the issue.4 One widely used method for measuring inequity is to determine whether factors other
+than need for health care affect health care utilization.5,6 Inequity then arises, for example, when
+individuals in higher socioeconomic groups are more likely to use or are using a greater quantity
+of health services than those in lower socioeconomic groups, after controlling for their level of
+ill health.
+This study had the following objectives. It used the Korea National Health and Nutrition
+Examination Survey (KNHANES) Quaternary materials to identify unmet need experience
+among adults and to examine factors associated with the experience. In addition, it also examined
+how factors associated with unmet need differ using 2 approaches, that is, subjective unmet need
+and adjusted unmet need.
+
+Background on Unmet Need
+In this study, 2 approaches were used for measurement of “unmet need,” or any need for health
+care that remains because appropriate health care was not received. One approach, “subjective
+unmet need,” relies on individuals’ subjective assessments that they have not received the care
+that they need. It has been very feasible because numerous existing surveys include questions
+pertaining to unmet need; in some ways, it is also superior, since, arguably, individuals are better
+able to estimate their health status7 and are in a unique position to identify shortcomings in their
+experiences with health care. Subjective assessments of unmet need may also include information on the reasons for the unmet need, which can then be used to focus policy actions. The other
+approach, “adjusted unmet need,” compares estimated utilization of health care services based on
+the main determinants of seeking care and actual utilization, and the difference between those 2
+factors is regarded as unmet need. The reason for treating subjective unmet need as a nonneed
+variable, even though it explicitly refers to “need,” warrants an explanation: consistent with the
+conventional method of measuring income-related inequity, we defined need as health, age, and
+sex, the main determinants of seeking care in the Aday and Andersen terminology.5,6 Any perception of interaction between the health care system and the individual, even the so-called unmet
+need is, in that conventional framework, considered as a nonneed variable; it is not an upstream
+determinant of care seeking but rather a variable that explains variations in utilization for a given
+level of health.
+Prior research on subjective unmet need has focused on measurement of its prevalence and
+investigation of its individual- and system-level predictors. Most studies have presumed that
+subjective unmet need represents barriers to access, and indeed, many survey questions are
+phrased to measure that subjective unmet need that arises through barriers to access, such as cost.
+Specifically, previous studies of unmet need conducted in the United States suggested a strong
+relationship between unmet need and lower income and/or being uninsured or underinsured.8-10
+However, in countries with universal health care coverage, such as Europe and Canada, research
+on unmet need has been less extensive than in the United States, perhaps because of the relative
+lack of direct cost-based barriers to care. Studies conducted in Canada have identified some
+population groups with increased likelihood of reporting an unmet health care need, such as
+women, people in worse health, nonelderly, higher educated, lower income, nonimmigrants,
+urban residents, and individuals without prescription drug insurance.11-15
+Studies of unmet need in Korea have focused either on the general population or subgroups
+based on age, income level, and certain diseases. Song et al reported that female or older individuals were less likely than male or younger ones to have unmet needs. They also reported that those
+without private supplemental health insurance showed an association with higher likelihood of
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2557
+
+Kim et al
+
+experiencing unmet needs.16 In addition, Shin and Sohn reported an association of unmet need
+experience with the characteristics of the head of the household, including age, education level,
+and perceived health status: in particular, age and subjective health status of the head of household
+were the most significant factors.17 Using the Korea Welfare Panel Data 2005-2007, Yang reported
+that, overall, unmet need experiences showed a decrease over the study period.18 However, in the
+longitudinal analysis, people with lower levels of education continued to have unmet need. In the
+analysis of the same cross-sectional data, however, undergoing regular health checkups and residential areas showed a significant association with unmet need experiences.
+Although older people do not necessarily experience unmet need more often than younger
+people, the level of income and prior experience of catastrophic medical expenditure play an
+important role in accessing health care services among the elderly.19 Factors associated with
+unmet need differ according to income class.20 Other studies looked at patients with hypertension
+and diabetes and the level of unmet need,21 or male adults aged 50 or older with mild lower urinary tract symptoms and benign prostatic hyperplasia,22 or female workers specifically.23
+Based on the above, this study attempted to provide empirical evidence on unmet need by
+employing a comprehensive set of variables and investigated the association between subjective
+unmet need and conventional methods of measuring unmet need based on need-adjusted utilization by examining the difference between actual and need-predicted utilization.
+
+Methods
+Data Source and Study Population
+The KNHANES is conducted by the Korea Centers for Disease Control and Prevention. The
+purpose of KNHANES is to provide representative and reliable statistical data on the health
+level, health-related attitudes and behavior, and dietary and nutrition status of Koreans. Four
+surveys have been completed thus far: I (1998), II (2001), III (2005), and IV (2007-2009). The
+KNHANES IV is composed of a health survey (health interview and health consciousness behavior), an examination survey, and a nutrition examination survey. Among them, this study used
+raw data from a health interview survey.
+Our analysis compared the difference between subjective unmet need and adjusted unmet
+need by modeling the probability and then intensity of use on a comprehensive set of needrelated and socioeconomic factors. To obtain the need-predicted utilization, the nonneed (and
+subjective unmet need) variables were held constant at their sample means during the prediction
+stage.24,25 For the subjective unmet need, we attempted to determine whether people with different characteristics are more likely to have a probability of unmet need; for the adjusted unmet
+need, the difference between actual and need-adjusted utilization (the residual, or unexplained,
+utilization) is modeled on a set of socioeconomic variables.
+
+Dependent Variables
+Subjective unmet need was measured by the following question: “During the past 12 months,
+was there ever a time when you felt you needed health care but you didn’t receive it?” Health care
+utilizations were divided into outpatient and inpatient visits. Outpatient utilization was measured
+by the following question: “During the past 2 weeks, was there ever a time when you received
+outpatient services without being admitted to hospitals?” Respondents were provided with the
+frequencies of and “yes” or “no” for outpatient service utilization.
+Inpatient utilization was measured by the following question: “During the past 12 months,
+was there ever a time when you were hospitalized?” Respondents were provided with the frequencies of and “yes” or “no” for inpatient service utilization.
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2558
+
+Asia-Pacific Journal of Public Health 27(2)
+
+This study also examined the difference between the actual utilization and need-predicted
+utilization, which is the result of regression analysis after controlling for sex, age, and diseases.
+
+Independent Variables
+A comprehensive set of demographic, socioeconomic, enabling, and health-related factors were
+used for estimation of need for health care. Demographic factors included age measured in 6
+categories (19-29, 30-39, 40-49, 50-59, 60-69, and 70 plus), sex, marital status (married, widowed, not married), and residential areas. Socioeconomic factors that have been shown to influence health care utilization were included in the models. These included the highest level of
+education attained (less than elementary, middle school graduate, high school graduate, or college graduate or higher), whether the individual was participating in economic activities
+(employed or unemployed). Enabling factors included adjusted household income (deciles),
+number of people within the household, public health insurance type, and having private supplemental health insurance plans. Adjusted household income incorporates the fact that individual
+utility may differ according to the number of people within the household. Health-related factors
+included self-assessed health based on 5 categories (excellent, very good, good, fair, and poor),
+a dummy variable that equals 1 if the individual reported fair or poor self-assessed mental health
+(0 if good, very good, or excellent), reported chronic conditions (none, 1, 2, or more), having
+cancer, and whether the individual reported no, moderate, or severe activity limitations due to
+health, and a dummy to indicate smokes daily and drinks heavily (5 or more drinks) at least once
+per week.
+
+Statistical Analyses
+KNHANES was based on a complex sample design. Therefore, all statistical analyses were performed using the survey procedure of SAS version 9.2 (SAS Inc, Cary, NC) specifically designed
+for analysis of such sample survey results. In the survey procedure, information pertaining to
+complex sample designs, such as stratification, clustering, and unequal weighting, was combined
+for estimation of the parameters.
+The annual unmet need prevalence rate was calculated for the entire adult population and
+compared between men and women. Logistic regression analyses were performed to test the
+statistical significance of various factors on the likelihood of experiencing unmet need. To determine whether there were statistically significant differences in various factors between the unmet
+need and non-unmet need populations, a t test was used for continuous variables; the Rao–Scott
+χ2 test (design-adjusted χ2 test) was used for categorical variables. For all statistical analyses, the
+results were considered statistically significant when P < .05.
+
+Results
+Characteristics varied across individuals who did and did not report subjective unmet need (see
+Table 1). Female subjects have a higher rate of unmet need (27.4%) than male subjects (18.8%).
+Subjects aged 70 and older report the highest rate of unmet need (25.2%) than those in any other
+age group. In addition, residential areas and education level differed across those with unmet
+need experience and those without. Individuals living in town or country and other areas had a
+higher rate of unmet need (25.0% and 23.3%) than those living in metropolis (20.9%). Those
+with a lower level of education were likely to report a higher rate of unmet need; in particular,
+those with elementary school education or below showed the highest rate of unmet need (27.4%).
+Unmet need experience differed across individuals with different status of perceived health.
+Individuals who had the highest rate of unmet need experience were those who perceived their
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2559
+
+Kim et al
+
+Table 1. Characteristics of the Study Sample Based on the Experience of Subjective Unmet Need.
+Unmet Experience
+
+Predisposing factors
+Gender
+  Male
+  Female
+Age (years)
+  19-29
+  20-39
+  40-49
+  50-59
+  60-69
+  70+
+Marital status
+  Married
+   Divorced or separated
+  Bereaved
+Residential areas
+   Capital city (Seoul)
+  Metropolitan areas
+  Others
+Education level
+   Elementary school and below
+   Middle school graduate
+   High school graduate
+   College and above
+Economic status
+  Employment
+  Unemployment
+Enabling factors
+Equivalence households income
+   0% to 10%
+   11% to 20%
+   21% to 30%
+   31% to 40%
+   41% to 50%
+   51% to 60%
+   61% to 70%
+   71% to 80%
+   81% to 90%
+   91% to 100%
+Household members
+   2 persons or less
+  3 persons
+  4 persons
+   5 persons or more
+Health insurance type
+  NHI (employee)
+
+No Unmet Experience
+
+n
+
+%a
+
+n
+
+%a
+
+Total
+
+932
+1899
+
+18.8
+27.4
+
+4027
+4762
+
+81.2
+72.6
+
+4959
+6661
+
+418
+574
+533
+494
+397
+415
+
+24.1
+24.6
+21.7
+23.8
+19.0
+25.2
+
+1165
+1722
+1766
+1440
+1454
+1242
+
+75.9
+75.4
+78.3
+76.2
+81.0
+74.9
+
+1583
+2296
+2299
+1934
+1851
+1657
+
+1721
+310
+800
+
+23.0
+23.0
+23.8
+
+5456
+949
+2384
+
+77.0
+77.0
+76.2
+
+7177
+1259
+3184
+
+404
+766
+1661
+
+20.9
+25.0
+23.3
+
+1544
+2219
+5026
+
+79.1
+75.1
+76.7
+
+1948
+2985
+6687
+
+949
+307
+907
+668
+
+27.4
+22.9
+22.0
+22.0
+
+2369
+1011
+3115
+2294
+
+72.6
+77.1
+78.0
+78.0
+
+3318
+1318
+4022
+2962
+
+1438
+1393
+
+23.4
+23.0
+
+4406
+4383
+
+76.6
+77.0
+
+5844
+5776
+
+262
+271
+313
+250
+348
+302
+263
+256
+275
+291
+
+21.5
+21.9
+24.6
+23.1
+24.4
+23.6
+23.9
+21.7
+26.1
+22.1
+
+862
+860
+882
+753
+1017
+912
+874
+857
+799
+973
+
+78.5
+78.1
+75.5
+76.9
+75.6
+76.4
+76.1
+78.4
+74.9
+77.9
+
+1124
+1131
+1195
+1003
+1365
+1214
+1137
+1113
+1074
+1264
+
+751
+654
+913
+513
+
+21.6
+24.7
+23.1
+23.9
+
+2485
+1858
+2849
+1597
+
+78.4
+75.3
+76.9
+76.1
+
+3236
+2512
+3762
+2110
+
+1601
+
+23.2
+
+5054
+
+76.8
+
+6655
+
+P
+<.0001
+
+.0048
+
+.7173
+
+.0153
+
+.0001
+
+.5997
+
+.6458
+
+.1202
+
+.1698
+(continued)
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2560
+
+Asia-Pacific Journal of Public Health 27(2)
+
+Table 1. (continued)
+Unmet Experience
+
+  NHI (self)
+  Medical care
+  Others
+Private health insurance
+  Yes
+  No
+Disease factors
+Perceived health status
+  Very good
+  Good
+  Fair
+  Bad
+  Very bad
+Prevalence of chronic disease
+  None
+  1
+  2+
+Prevalence of cancer
+  Yes
+  No
+Limitation in activities
+  Yes
+  No
+Health factors
+Smoking
+  Current smoker
+  Ex-smoker
+  Nonsmoker
+Drinking
+  Ever
+  Never
+
+No Unmet Experience
+
+n
+
+%a
+
+n
+
+%a
+
+Total
+
+1083
+135
+12
+
+23.2
+25.0
+11.3
+
+3304
+35
+66
+
+76.8
+75.0
+88.7
+
+4387
+500
+78
+
+1940
+891
+
+23.5
+22.6
+
+5995
+2794
+
+76.5
+77.4
+
+7935
+3685
+
+182
+1174
+815
+552
+108
+
+23.1
+24.5
+21.4
+23.0
+27.1
+
+573
+3468
+2819
+1640
+289
+
+76.9
+75.5
+78.6
+77.0
+72.9
+
+755
+4642
+3634
+2192
+397
+
+1996
+573
+262
+
+23.3
+23.0
+22.5
+
+6152
+1770
+867
+
+76.7
+77.0
+77.5
+
+8148
+2343
+1129
+
+2789
+42
+
+23.2
+22.2
+
+8661
+128
+
+76.8
+77.8
+
+11450
+170
+
+484
+2347
+
+23.2
+23.4
+
+1472
+7317
+
+76.8
+76.6
+
+1956
+9664
+
+535
+489
+1807
+
+22.3
+25.5
+22.9
+
+1683
+1425
+5681
+
+77.7
+74.5
+77.1
+
+2218
+1914
+7488
+
+464
+2367
+
+23.5
+23.1
+
+1410
+7379
+
+76.5
+76.9
+
+1874
+9746
+
+P
+
+.4055
+
+.0290
+
+.8366
+
+.7720
+
+.8159
+
+.6850
+
+.7729
+
+aWeighted percentage.
+
+health status as “very bad”(27.1%); of particular interest, however, those who perceived their
+health status as “good” also had the second highest rate of unmet need (24.5%).
+The results of multivariate logistic regression on subjective unmet need are shown in Table 2.
+Among demographic factors, women were more likely than men to have subjective unmet need
+(odds ratio [OR] = 1.555, 95% confidence interval [CI] = 1.394-1.733). Age showed a statistically significant association with decreased subjective unmet need: compared to those aged 70
+and older, those aged 69 and less had a 1.264 to 2.037 times higher likelihood of reporting subjective unmet need. With regard to residential areas, both metropolitan (OR = 1.257, 95% CI =
+1.073-1.472) and other areas (OR = 1.148, 95% CI = 1.003-1.314) had higher odds ratios, compared to the capital area. Among socioeconomic factors, education level showed a strong association with subjective unmet need. Compared to those with a college graduate level of education or
+higher, those with a lower than college graduate level of education were more much more likely
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2561
+
+Kim et al
+Table 2. Multivariate Logistic Regression on the Experience of Subjective Unmet Need.
+
+Predisposing factors
+Gender
+  Male
+  Female
+Age (years)
+  19-29
+  20-39
+  40-49
+  50-59
+  60-69
+  70+
+Marital status
+  Married
+   Divorced or separated
+  Bereaved
+Residential areas
+   Capital city (Seoul)
+  Metropolitan areas
+  Others
+Education level
+   Elementary school and below
+   Middle school graduate
+   High school graduate
+   College and above
+Economic status
+  Employment
+  Unemployment
+Enabling factors
+Equivalence households income
+   0% to 10%
+   11% to 20%
+   21% to 30%
+   31% to 40%
+   41% to 50%
+   51% to 60%
+   61% to 70%
+   71% to 80%
+   81% to 90%
+   91% to 100%
+Household members
+   2 persons or less
+  3 persons
+  4 persons
+   5 persons and more
+Health insurance type
+  NHI (employee)
+  NHI (self)
+  Medical care
+
+OR
+
+95% CI
+
+1.000
+1.555
+
+1.394-1.733
+
+2.012
+2.037
+1.612
+1.548
+1.264
+1.000
+
+1.602-2.529
+1.628-2.549
+1.329-1.956
+1.292-1.855
+1.058-1.510
+
+1.051
+1.077
+1.000
+
+0.875-1.263
+0.946-1.226
+
+1.000
+1.257
+1.148
+1.683
+1.247
+0.994
+1.000
+
+1.073-1.472
+1.003-1.314
+1.369-2.069
+1.018-1.529
+0.870-1.136
+
+1.000
+0.959
+
+0.858-1.072
+
+1.000
+1.030
+1.170
+1.076
+1.160
+1.130
+1.115
+1.011
+1.231
+1.042
+
+0.801-1.324
+0.925-1.480
+0.838-1.381
+0.929-1.449
+0.894-1.428
+0.866-1.437
+0.791-1.291
+0.965-1.570
+0.833-1.304
+
+1.000
+1.188
+1.106
+1.121
+
+1.008-1.401
+0.951-1.285
+0.949-1.324
+
+1.000
+1.021
+1.140
+
+0.719-1.137
+0.869-1.497
+(continued)
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2562
+
+Asia-Pacific Journal of Public Health 27(2)
+
+Table 2. (continued)
+
+  Others
+Private health insurance
+  Yes
+  No
+Disease factors
+Subjective health status
+  Very good
+  Good
+  Fair
+  Bad
+  Very bad
+Prevalence of chronic disease
+  None
+  1
+  2+
+Prevalence of cancer
+  Yes
+  No
+Limitation in activities
+  Yes
+  No
+Health factors
+Smoking
+  Current smoker
+  Ex-smoker
+  Nonsmoker
+Drinking
+  Ever
+  Never
+c-Statistic
+H-L test χ2 (P value)
+
+OR
+
+95% CI
+
+0.410
+
+0.173-0.970
+
+1.000
+0.999
+
+0.878-1.138
+
+1.000
+1.061
+0.894
+1.004
+1.325
+
+0.869-1.296
+0.728-1.098
+0.796-1.266
+0.927-1.896
+
+1.000
+1.015
+0.967
+
+0.883-1.167
+0.803-1.163
+
+1.000
+0.947
+
+0.640-1.403
+
+1.000
+0.996
+
+0.853-1.162
+
+1.000
+1.186
+1.003
+
+1.002-1.403
+0.873-1.153
+
+1.000
+0.947
+0.600
+4.3095 (0.8282)
+
+0.821-1.092
+
+Abbreviations: OR, odds ratio; CI, confidence interval.
+
+to report unmet need. Specifically, the odds ratios were 1.683 (95% CI = 1.369-2.069) for elementary school graduate or less, 1.247 (95% CI = 1.018-1.529) for middle school graduate, and
+0.994 (95% CI = 0.870-1.1376) for high school graduate. The number of household members
+was significant for those with only 3 members within the household: those with 3 household
+members were more likely to report subjective unmet need, compared to those with 2 members
+(OR = 1.188, 95% CI = 1.008-1.401). While other health-related variables were not significant,
+smoking showed a statistically significant association with subjective unmet need. Specifically,
+ex-smokers had a higher likelihood of unmet need than current smokers (OR = 1.186, 95% CI =
+1.002-1.403), although nonsmokers were not statistically significant (OR = 1.003, 95% CI =
+0.873-1.153).
+Results regarding the adjusted unmet need, which was divided into both outpatient and inpatient care after adjusting for need predicted utilization based on age, sex, and health, are shown in
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2563
+
+Kim et al
+
+Tables 3 and 4. The cutoff points for need-predicted utilization were assumed as 32.9% for outpatient services and 11.2% for inpatient services, which were equal to the rates of actual utilization.
+With this, the rate of unmet need based on utilization was 12.7% for outpatient services and 6.4%
+for inpatient services. Descriptive statistics related to adjusted unmet need are shown in Table 3. For the
+adjusted unmet need of outpatient care, women reported a higher rate of unmet need (18.7%) than men
+(6.6%). Residential areas were not statistically different for adjusted unmet need for outpatient care
+across different areas. However, for the adjusted unmet need for inpatient care, those living in the capital city had a statistically significant lower rate (5.0%), followed by metropolitan areas (5.8%) and other
+areas (7.2%; P < .0001). According to education level, those with lower levels of education appeared to
+have a higher rate of unmet need for both outpatient and inpatient care than those with higher levels of
+education (P < .0001). Employed people had a slightly higher rate of unmet need (13.5% and 7.1%)
+than the unemployed (11.9% and 5.7%) for both outpatient and inpatient care. Household income level
+was not statistically different in unmet need for outpatient care. Health condition, however, appeared to
+be a critical factor in adjusted unmet need. Adjusted unmet need for outpatient care based on the subjective health condition showed an inverse-U-shaped curve: very good (9.3%), good (12.9%), fair (14.3%),
+bad (11.7%), and very bad (6.3%; P < .0001). Prevalence of chronic disease showed an association with
+different percentage of adjusted unmet need for both outpatient and inpatient care: those with 1 condition had the highest percentage of adjusted unmet need for outpatient care (14.8%), followed by no
+chronic condition (12.3%) and 2 or more (11.7%; P = .0033). Similarly, those with 1 condition (7.5%)
+had the highest percentage of unmet need for inpatient care (7.2%), followed by no chronic condition
+(6.8%) and 2 or more (1.2%; P < .0001). Those with cancer were found to have higher rates of unmet
+need for outpatient care (20.6%), compared to those who did not have cancer (12.6%; P = .0043).
+Health behaviors did not show statistically significant results.
+Finally, the results of multivariate logistic regression on unmet need after adjusting for needpredicted utilization based on age, sex, and health condition are shown in Table 4. For outpatient
+care, those residing outside the capital were less likely to experience unmet need: odds ratios for
+metropolitan areas and other areas were 0.640 (95% CI = 0.520-0.788) and 0.651 (95% CI =
+0.540-0.785), respectively. The influence of education level showed strong significance.
+Compared to individuals who graduated college or higher, those who had a lower than college
+graduate level of education were much more likely to experience unmet need. Specifically, the
+odds ratios were 21.303 (95% CI = 16.405-27.664) for elementary school graduate or less, 8.365
+(95% CI = 6.407-10.922) for middle school graduate, and 1.832 (95% CI = 1.418-2.366) for high
+school graduate. Among socioeconomic factors, compared to those with private supplemental
+health insurance, those without were 18.4% more likely to have unmet need for outpatient care
+(OR = 1.184, 95% CI = 1.020-1.375).
+Regarding the results for inpatient care, the influence of education level was similar to that
+described above. After adjusting for need-predicted utilization, those with lower levels of education were more likely to experience unmet need for inpatient care. Compared to individuals who
+graduated college or higher, those who had a lower than college graduate level of education were
+much more likely to experience unmet need. Specifically, the odds ratios were 38.629 (95% CI =
+25.930-57.549) for elementary school graduate or less, 4.786 (95% CI = 3.025-7.574) for middle
+school graduate, and 1.197 (95% CI = 0.749-1.912) for high school graduate. Among socioeconomic factors, only marital status showed significant results. Compared to married individuals,
+those who were not married were more likely to experience unmet need for inpatient care (OR =
+1.342, 95% CI = 1.128-1.597).
+
+Discussion and Conclusions
+The purpose of this study was to quantify the magnitude of factors related to subjective unmet
+need in health care use and to measure the extent to which access to health care is related to
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2564
+
+Asia-Pacific Journal of Public Health 27(2)
+
+Table 3. Characteristics of the Study Sample Based on the Adjusted Unmet Need.
+Outpatient
+
+Predisposing factors
+Gender
+  Male
+  Female
+Age (years)
+  19-29
+  20-39
+  40-49
+  50-59
+  60-69
+  70+
+Marital status
+  Married
+   Divorced or separated
+  Bereaved
+Residential areas
+   Capital city (Seoul)
+  Metropolitan areas
+  Others
+Education level
+   Elementary school and below
+   Middle school graduate
+   High school graduate
+   College and above
+Economic status
+  Employment
+  Unemployment
+Enabling factors
+Equivalence households income
+   0% to 10%
+   11% to 20%
+   21% to 30%
+   31% to 40%
+   41% to 50%
+   51% to 60%
+   61% to 70%
+   71% to 80%
+   81% to 90%
+   91% to 100%
+Household members
+   2 persons or less
+  3 persons
+  4 persons
+   5 persons or more
+Health insurance type
+  NHI (employee)
+
+Inpatient
+n
+
+%a
+
+6.6
+18.7
+
+0
+1155
+
+0.0
+12.6
+
+0
+0
+0
+516
+781
+820
+
+0.0
+0.0
+0.0
+23.7
+42.4
+50.2
+
+13
+8
+0
+0
+417
+717
+
+0.6
+0.2
+0.0
+0.0
+21.2
+45.6
+
+1375
+223
+519
+
+13.3
+12.1
+11.8
+
+714
+104
+337
+
+6.4
+5.2
+6.8
+
+346
+471
+1300
+
+13.5
+11.7
+12.9
+
+141
+243
+771
+
+5.0
+5.8
+7.2
+
+1362
+320
+299
+136
+
+38.1
+19.9
+5.2
+3.0
+
+972
+73
+68
+42
+
+26.1
+4.2
+1.0
+0.9
+
+1137
+980
+
+13.5
+11.9
+
+641
+514
+
+7.1
+5.7
+
+226
+223
+229
+187
+231
+207
+202
+193
+187
+232
+
+13.4
+13.4
+14.0
+13.2
+11.6
+12.5
+12.4
+11.8
+12.4
+12.8
+
+102
+117
+130
+102
+137
+131
+124
+88
+100
+124
+
+6.1
+6.5
+7.0
+6.8
+6.6
+6.8
+6.8
+5.3
+5.8
+6.0
+
+653
+462
+644
+358
+
+13.4
+13.4
+12.2
+11.9
+
+340
+244
+366
+205
+
+7.1
+6.3
+6.0
+6.3
+
+1214
+
+12.8
+
+672
+
+6.5
+
+n
+
+%a
+
+593
+1524
+
+P
+
+P
+
+<.0001
+
+.0890
+
+.1149
+
+.2497
+
+.0007
+
+<.0001
+
+<.0001
+
+.0156
+
+.0016
+
+.8674
+
+.8103
+
+.3000
+
+.2534
+
+.1248
+
+.4566
+(continued)
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2565
+
+Kim et al
+Table 3. (continued)
+Outpatient
+
+  NHI (self)
+  Medical care
+  Others
+Private health insurance
+  Yes
+  No
+Disease factors
+Subjective health status
+  Very good
+  Good
+  Fair
+  Bad
+  Very bad
+Prevalence of chronic disease
+  None
+  1
+  2+
+Prevalence of cancer
+  Yes
+  No
+Limitation in activities
+  Yes
+  No
+Health factors
+Smoking
+  Current smoker
+  Ex-smoker
+  Nonsmoker
+Drinking
+  Ever
+  Never
+
+n
+
+%a
+
+812
+83
+8
+
+13.0
+10.4
+6.8
+
+1396
+721
+
+12.4
+13.5
+
+103
+827
+763
+381
+43
+
+9.3
+12.9
+14.3
+11.7
+6.3
+
+1423
+503
+191
+
+12.3
+14.8
+11.7
+
+2070
+47
+
+12.6
+20.6
+
+1725
+392
+
+12.5
+13.8
+
+416
+377
+1324
+
+12.6
+13.3
+12.6
+
+306
+1,811
+
+11.9
+12.9
+
+Inpatient
+P
+
+n
+
+%a
+
+433
+43
+7
+
+6.4
+5.3
+3.4
+
+805
+350
+
+6.7
+5.8
+
+0
+692
+262
+124
+77
+
+0.0
+9.6
+4.5
+3.8
+13.7
+
+862
+269
+24
+
+6.8
+7.2
+1.2
+
+1155
+0
+
+6.5
+0.0
+
+953
+202
+
+6.3
+7.0
+
+231
+187
+737
+
+6.5
+6.5
+6.3
+
+181
+974
+
+6.0
+6.5
+
+.0886
+
+P
+
+.0707
+
+<.0001
+
+.0033
+
+<.0001
+
+0.0043
+
+.1134
+
+.6983
+
+.2229
+
+.8921
+
+0.2942
+
+0.3472
+
+aWeighted percentage.
+
+nonneed factors after adjusting for differences in health care need. This study will make an
+important contribution to the literature in several ways. First, it found that residential areas and
+education level were important factors associated with both subjective and adjusted unmet
+need for health care in Korea. This finding is similar to that of a previous study, which reported
+an association of unmet need experience with education and residential areas using a different
+data set.18 However, based on the comparison of subjective and adjusted unmet need, this study
+also showed somewhat different findings, which demonstrate different contributions of factors
+associated with unmet need by relying on traditional subjective assessments of unmet need5
+and by applying the “adjusted unmet need,” defined by Aday and Andersen.5,6 While residential areas were significant for both subjective and adjusted unmet need, the directions of odds
+ratios were different: metropolitan areas and other areas were likely to be associated with
+higher rates of subjective unmet need; however, they were likely to be related to lower rates of
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2566
+
+Asia-Pacific Journal of Public Health 27(2)
+
+Table 4. Multivariate Logistic Regression on the Adjusted Unmet Need.
+Outpatient
+OR
+Predisposing factors
+Marital status
+  Married
+1.000
+  Divorced or
+0.929
+separated
+  Bereaved
+0.947
+Residential areas
+  Capital city
+1.000
+(Seoul)
+  Metropolitan
+0.640
+areas
+  Others
+0.651
+Education level
+  Elementary school
+21.303
+and below
+  Middle school
+8.365
+graduate
+  High school
+1.832
+graduate
+  College and
+1.000
+above
+Economic status
+  Employment
+1.000
+  Unemployment
+0.894
+Enabling factors
+Equivalence households income
+   0% to 10%
+1.000
+0.996
+   11% to 20%
+   21% to 30%
+1.010
+   31% to 40%
+0.987
+   41% to 50%
+0.803
+   51% to 60%
+0.960
+   61% to 70%
+0.990
+   71% to 80%
+0.957
+   81% to 90%
+0.973
+   91% to 100%
+1.033
+Household members
+   2 persons or less
+1.000
+  3 persons
+1.032
+  4 persons
+0.998
+   5 persons or
+0.888
+more
+Health insurance type
+  NHI (employee)
+1.000
+  NHI (self)
+1.043
+  Medical care
+0.828
+  Others
+0.379
+
+Inpatient
+
+95% CI
+
+OR
+
+95% CI
+
+0.747-1.157
+
+1.000
+0.862
+
+0.643-1.156
+
+0.807-1.111
+
+1.342
+
+1.128-1.597
+
+1.000
+0.520-0.788
+
+0.914
+
+0.682-1.226
+
+0.540-0.785
+
+1.020
+
+0.780-1.333
+
+16.405-27.664
+
+38.629
+
+25.930-57.549
+
+6.407-10.922
+
+4.786
+
+3.025-7.574
+
+1.418-2.366
+
+1.197
+
+0.749-1.912
+
+1.000
+
+0.778-1.028
+
+1.000
+0.775
+
+0.645-0.930
+
+0.747-1.329
+0.783-1.304
+0.719-1.355
+0.603-1.070
+0.697-1.320
+0.718-1.365
+0.705-1.299
+0.705-1.342
+0.764-1.397
+
+1.000
+1.059
+1.015
+1.032
+0.978
+1.087
+1.174
+0.857
+0.907
+1.019
+
+0.728-1.542
+0.673-1.532
+0.639-1.669
+0.636-1.503
+0.728-1.624
+0.674-1.805
+0.563-1.305
+0.580-1.417
+0.654-1.586
+
+0.859-1.241
+0.840-1.187
+0.725-1.088
+
+1.000
+0.819
+0.780
+0.803
+
+0.651-1.029
+0.615-0.988
+0.626-1.031
+
+0.916-1.189
+0.600-1.141
+0.161-0.893
+
+1.000
+1.051
+0.943
+0.445
+
+0.887-1.246
+0.552-1.612
+0.163-1.212
+(continued)
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2567
+
+Kim et al
+Table 4. (continued)
+Outpatient
+OR
+Private health insurance
+  Yes
+1.000
+  No
+1.184
+Health factors
+Smoking
+  Current smoker
+1.000
+  Ex-smoker
+1.037
+  Nonsmoker
+1.099
+Drinking
+1.000
+  Ever
+1.089
+  Never
+c-Statistic
+0.779
+9.735 (0.3361)
+H-L test χ2 (P value)
+
+Inpatient
+
+95% CI
+
+OR
+
+95% CI
+
+1.020-1.375
+
+1.000
+0.848
+
+0.701-1.027
+
+0.835-1.287
+0.925-1.304
+
+1.000
+1.001
+1.061
+
+0.765-1.309
+0.849-1.326
+
+0.909-1.304
+
+1.000
+1.015
+0.837
+3.7281 (0.8808)
+
+0.817-1.261
+
+Abbreviations: OR, odds ratio; CI, confidence interval.
+
+adjusted unmet need for outpatient care. This may suggest that individuals living in areas other
+than the capital city perceived that they had experienced unmet need for health care; however,
+when adjusting for need-predicted utilization based on age, sex, and health condition, they
+were, in fact, less likely to have unmet need, particularly for outpatient care. Although we did
+not attempt to determine the exact reasons for the different influences of residential areas on
+subjective versus adjusted unmet need, we suspect that those living in areas other than the capital city may feel that they are somewhat disadvantaged in terms of access to health care because
+a large number of major hospitals and leading health care providers are located in the capital
+city. However, the results for adjusted unmet need showed the opposite case: after adjusting for
+need-predicted utilization, those living in the capital city were actually more likely to have
+unmet need for outpatient care.
+Second, the finding that the odds ratios for the lower level of education became much larger
+after adjusting for need-predicated utilization suggested that education level played the greatest
+role in influencing unmet need for health care, except for age, sex, and health condition. Although
+we did not assess the association between unmet need and health outcome, we can reasonably
+assume that a higher rate of unmet need may be related to negative health outcome among those
+with a lower level of education. A prior study showed that individuals with good subjectively
+rated health and 1 or no diseases had a higher level of education.26 In addition, previous studies
+in Korean subjects have reported differences in mortality based on educational level.27,28 This
+suggests that education is an important determinant for both access to care and health outcome in
+Korea.
+Although not as important as residential areas and education, results for other variables are
+worth mentioning. Unlike previous studies,19,20 this study did not find significant results for
+income level in unmet need. However, because not having private health insurance is associated
+with a higher likelihood of adjusted unmet need for outpatient care, one’s ability to pay for the
+purchase of supplemental coverage still appears to exert some effects on access to health care.
+A recent publication suggested the need for action to address the structural drivers and conditions of daily living that affect health inequities in the Asia Pacific context.29 While there are
+signs of action and hope, substantial challenges remain for health equity in Asia Pacific. This
+study adds to the current body of literature by showing that residential areas and education are
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2568
+
+Asia-Pacific Journal of Public Health 27(2)
+
+greater barriers to health care access than cost barriers due to differences in income in Korea.
+This study will be helpful to policy makers in formulation of strategies to lessen the discrepancies
+in utilization of health care among individuals with different characteristics.
+This study was not without limitations. First, information on monthly income and health care
+utilization relied on the subjective response in the Fourth KNHANES. In particular, in the case
+of acute disease, the recall period addressed was 2 weeks; thus, there may be significant seasonal
+variation in acute disease. However, we were unable to adjust for the potential issue stemming
+from the recall period. Second, this study assumed that need factors for health care utilization
+were limited to age, sex, and diseases. Some previous studies used not only these 3 variables but
+also subjective health status, number of chronic conditions, and limited daily activities; therefore,
+the results might have been affected accordingly. Third, in the indirect method of estimating
+unmet need using a regression model, we acknowledge that different strata of society generally
+vary in their general level of health care use: in general, poor people may use lower levels of
+health care services; therefore, their mean use will differ from a different stratum, whose age and
+sex composition may be different. Because we used the difference between 2 overall means—the
+calculated and the actual—to represent the gap, this confounder may have been left unaccounted
+for. Finally, this study employed a cross-sectional design, which does not permit inference of
+causal relationships; therefore, caution is needed while interpreting the study results.
+The results of our study suggested the presence of inequity in health care access in Korea,
+since individuals in higher education groups are more likely to use health services than those in
+lower education groups, after controlling for age, sex, and their level of health condition. In addition, the finding expands on previous literature by adding global evidence for the association of
+nonneed factors with health care access in Asia and provides evidence of the need for development of policies within the Korean health care system in order to address the issue.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or
+publication of this article.
+
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+References
+1. Reinhardt UE, Cheng T. The world health report 2000—Health systems: improving performance. Bull
+World Health Organ. 2000;78:1064-1064.
+2. Jeong HS. Korea’s national health insurance—lessons from the past three decades. Health Aff.
+2011;30:136-144.
+3. Park JM. Equity of access to primary care among older adults in Incheon, South Korea. Asia Pac J
+Public Health. 2012;24:953-960.
+4. Judge K, Platt S, Costongs C, Jurczak K. Health Inequalities: A Challenge for Europe. London,
+England: UK Presidency of the EU; 2006.
+5. Aday LA, Andersen R. A framework for the study of access to medical care. Health Serv Res.
+1974;9:208-220.
+6. Aday LA, Andersen RM. Equity of access to medical care: a conceptual and empirical overview. Med
+Care. 1981;19:4-27.
+7. Idler EL, Benyamini Y. Self-rated health and mortality: a review of twenty-seven community studies.
+J Health Soc Behav. 1997;38:21-37.
+8. Pagán JA, Pauly MV. Community-level uninsurance and the unmet medical needs of insured and uninsured adults. Health Serv Res. 2006;41:788-803.
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+NP2569
+
+Kim et al
+
+9. Shi L, Stevens GD. Vulnerability and unmet health care needs. J Gen Intern Med. 2005;20:148-154.
+10. Strunk BC, Cunningham PJ. Treading Water: Americans’ Access to Needed Medical Care, 1997-2001.
+Washington, DC: Center for Studying Health System Change; 2002.
+11. Chen J, Hou F. Unmet needs for health care. Health Rep. 2002;13:23-34.
+12. Guend H, Tesseron AL, INRS-Urbanisation ces. Unmet Needs for Primary Care in the Context of a
+Universal Healthcare System: The Case of Quebec. Montréal, Canada: Centre-Urbanisation Culture
+Sociètè, Institut national de la recherche scientifique; 2009.
+13. Law M, Wilson K, Eyles J, et al. Meeting health needs, accessing health care: the role of neighbourhood. Health Place. 2005;11:367-377.
+14. Sibley LM, Glazier RH. Reasons for self-reported unmet healthcare needs in Canada: a populationbased provincial comparison. Health Policy. 2009;5:87-101.
+15. Wu Z, Penning MJ, Schimmele CM. Immigrant status and unmet health care needs. Can J Public
+Health. 2005;96:369-373.
+16. Song KS, Lee JH, Rhim KH. Factors associated with unmet needs for health care. Korean Public
+Health Res. 2011;37:131-140.
+17. Shin YJ, Shon JI. The prevalence and association factors of unmet medical need: using the 1st and 2nd
+Korea Welfare Panel Data. Health Social Welfare Rev. 2009;29:111-142.
+18. Yang JY. The Longitudinal Trend and Association Factors of Unmet Medical Need. Seoul, South
+Korea: The Graduate School of Public Health, Korea University; 2010.
+19. Sohn SI. Factors Influencing Catastrophic Health Expenditure of the Poor. Seoul, South Korea: The
+Graduate School of Public Health, Seoul National University; 2008.
+20. Hur SJ. Factors Influencing Unmet Needs for Health Care by Income Groups. Seoul, South Korea: The
+Graduate School of Public Health, Seoul National University; 2010.
+21. Huh SI, Lee SH. Unmet health care needs and associated factors among patients with hypertension and
+those with diabetes in Korea. Korean J Health Policy Admin. 2011;21:1-22.
+22. Kim HH, Kong KA, Lee HJ, et al. Relationship of socioeconomic factors with medical utilization for
+lower urinary tract symptoms and benign prostatic hyperplasia in a South Korean community. J Prev
+Med Public Health. 2006;39:141-148.
+23. Park JY, Kim JB, Han SH. The status of medical need and utilization and its correlated factors among
+selected Korean female workers. Korean Public Health Res. 2005;31:12-16.
+24. Van Doorslaer E, Masseria C. Income-Related Inequality in the Use of Medical Care in 21 OECD
+Countries (The OECD Health Project Towards High-Performing Health Systems Policy Studies:
+Policy Studies). Paris, France: OECD; 2004.
+25. O’Donnell O, Van Doorsslaer E, Wagstaff A, Lindelow M. Analyzing Health Equity Using Household
+Survey Data: A Guide to Techniques and Their Implementation. Washington, DC: World Bank; 2008.
+26. Ahn BC, Engelhardt K, Joung H. Income-related health inequalities in Korea. Asia Pac J Public Health.
+2010;22:32-41.
+27. Khang YH, Lynch J, Yun S, Lee S. Trends in socioeconomic health inequalities in Korea: use of mortality and morbidity measures. J Epidemiol Community Health. 2004;58:308-314.
+28. Son M, Armstrong B, Choi J, Yoon T. Relationship of occupational class and education with mortality
+in Korea. J Epidemiol Community Health. 2002;56:798-799.
+29. Friel S, Loring B, Aungkasuvapala N, et al. Policy approaches to address the social and environmental
+determinants of health inequity in Asia-Pacific. Asia Pac J Public Health. 2012;24:896-914.
+
+Downloaded from aph.sagepub.com by guest on November 17, 2015
+
+

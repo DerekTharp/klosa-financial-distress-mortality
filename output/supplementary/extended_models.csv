@@ -1,0 +1,15 @@
+Exposure,Model,HR,CI_low,CI_high,p,N,Events
+Low economic satisfaction (Q1),Model 1: Unadjusted,1.864,1.735,2.003,0.0,10384,3074
+Low economic satisfaction (Q1),Model 2: Demographics,1.44,1.337,1.55,0.0,10384,3074
+Low economic satisfaction (Q1),Model 2a: Demographics + Income,1.434,1.319,1.56,0.0,9055,2498
+Low economic satisfaction (Q1),Model 3: + Health behaviors (original),1.285,1.188,1.389,0.0,10144,2922
+Low economic satisfaction (Q1),Model 3a: + Health behaviors (expanded),1.272,1.167,1.388,0.0,8469,2373
+Low economic satisfaction (Q1),Model 3b: + Health + Income,1.259,1.143,1.388,0.0,7361,1947
+Low economic satisfaction (Q1),Model 4: Fully adjusted (original),1.268,1.17,1.373,0.0,9244,2879
+Low economic satisfaction (Q1),Model 4a: + Income + Drinking + Exercise,1.237,1.121,1.365,0.0,7361,1947
+Low economic satisfaction (Q1),Model 4b: + Continuous CES-D (replaces binary),1.219,1.102,1.348,0.0001,7307,1925
+Economic dissatisfaction (per 10-pt decrease),Model 2a: Demographics + Income,1.089,1.071,1.108,0.0,9055,2498
+Economic dissatisfaction (per 10-pt decrease),Model 3b: + Health + Income,1.05,1.029,1.072,0.0,7361,1947
+Economic dissatisfaction (per 10-pt decrease),Model 4b: + Continuous CES-D,1.043,1.021,1.066,0.0001,7307,1925
+Welfare receipt (NBLSS),Model 2a: Demographics + Income,1.336,1.107,1.613,0.0026,9055,2498
+Welfare receipt (NBLSS),Model 4b: + Continuous CES-D,1.235,0.991,1.538,0.0598,7307,1925

@@ -1,0 +1,17 @@
+Panel,Exposure,Model,N_intervals,Events,HR,CI_low,CI_high,p
+A,Low econ sat,Unadjusted,63132,3067,2.14,2.00,2.30,0.0000
+A,Low econ sat,Demographics,63132,3067,1.63,1.51,1.75,0.0000
+A,Low econ sat,+ Health,61689,2883,1.35,1.26,1.46,0.0000
+A,Low econ sat,Fully adjusted,59929,2856,1.22,1.13,1.32,0.0000
+B,Econ sat (per 10-pt decrease),Fully adjusted,59929,2856,1.06,1.04,1.08,0.0000
+C,HH wealth shock (current),Unadjusted,40274,1942,1.14,0.92,1.40,0.2310
+C,HH wealth shock (current),Demographics,40274,1942,1.02,0.82,1.26,0.8790
+C,HH wealth shock (current),+ Health,39503,1834,0.97,0.78,1.20,0.7730
+C,HH wealth shock (current),Fully adjusted,38672,1817,0.97,0.78,1.20,0.7730
+D,HH wealth shock (cumulative),Unadjusted,40274,1942,1.19,1.05,1.35,0.0070
+D,HH wealth shock (cumulative),Demographics,40274,1942,1.10,0.97,1.25,0.1410
+D,HH wealth shock (cumulative),+ Health,39503,1834,1.01,0.89,1.15,0.8480
+D,HH wealth shock (cumulative),Fully adjusted,38672,1817,1.03,0.91,1.17,0.6040
+E,Low econ sat,Combined,38556,1806,1.09,0.99,1.20,0.0880
+E,Low HH income,Combined,38556,1806,1.10,1.00,1.21,0.0398
+E,HH wealth shock,Combined,38556,1806,0.97,0.78,1.20,0.7739

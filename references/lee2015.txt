@@ -1,0 +1,1382 @@
+Social Science & Medicine 130 (2015) 1e8
+
+Contents lists available at ScienceDirect
+
+Social Science & Medicine
+journal homepage: www.elsevier.com/locate/socscimed
+
+Changes in self-perceived economic satisfaction and mortality at old
+ages: Evidence from a survey of middle-aged and elderly adults in
+Taiwan
+Miaw-Chwen Lee a, *, Nicole Huang b
+a
+
+Department of Social Welfare, National Chung-Cheng University, No.168, Sec. 1, University Rd., Min-Hsiung Township, Chia-yi 621, Taiwan
+Institute of Hospital and Health Care Administration, School of Medicine, National Yang Ming University, Room 101, The Medical Building II, No.155,
+Section 2, Li-Nong Street, Taipei 112, Taiwan
+
+b
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Available online 28 January 2015
+
+Experiencing a low socioeconomic status (SES) throughout the life course has been reported to be
+correlated with poor health outcomes. Several studies have suggested that income, wealth, and perceptions of economic status are associated with increased risk of death among elderly people. Few
+studies have investigated the association between lifetime SES and mortality among elderly adults. The
+analysis in this study was based on 2310 elderly adults for whom SES data from the four phases of the
+longitudinal survey of Health and Living Status of the Elderly in Taiwan (1989, 1993, 1996, and 1999) were
+available, and who were alive in 1999. The SES measures included in the analysis were annual income,
+the household wealth, and the self-perceived economic satisfaction. A group-based trajectory modelling
+approach was employed to create SES trajectories. Cox proportional hazard models were employed to
+examine the association between SES trajectories and 8-year all-cause mortality (1999e2007). Irrespective of whether income, wealth, or self-perceived economic satisfaction was used, the elderly adults
+with consistently low SES trajectory throughout early old age were independently and signiﬁcantly
+associated with higher hazards of mortality than were those in a consistently high SES trajectory.
+Downward or upward mobility of income and wealth were associated with increased hazard of mortality.
+However, decreased self-perceived economic satisfaction was not signiﬁcantly associated with increased
+hazard of mortality. According to the results, the strong distinction between trajectory patterns of income, wealth, and self-perceived economic satisfaction among elderly adults indicate that neither should
+be overlooked when investigating the role of SES mobility in mortality. Retirement policies or strategies
+for maintaining and promoting favorable SES in early old age may beneﬁt the health of elderly adults
+later in life.
+© 2015 Elsevier Ltd. All rights reserved.
+
+Keywords:
+Socioeconomic status
+Self-perceived economic satisfaction
+Mortality
+Life course
+Social mobility
+Taiwan
+
+1. Introduction
+Experiencing a low socioeconomic status (SES) throughout the
+life course has been reported to be correlated with poor health
+outcomes (Ben-Shlomo and Kuh, 2002); examples include takinh
+sick leave from work during adulthood (Lallukka et al., 2013), cardiovascular disease mortality during adulthood (Johnson-Lawrence
+et al., 2013), and physiological function (Gruenewald et al., 2012).
+There is a growing interest in how variations or pattern changes in
+SES throughout life inﬂuence the health of elderly adults (Davey
+
+* Corresponding author.
+E-mail address: mclee137@ccu.edu.tw (M.-C. Lee).
+http://dx.doi.org/10.1016/j.socscimed.2015.01.047
+0277-9536/© 2015 Elsevier Ltd. All rights reserved.
+
+Smith et al., 1997; Hallqvist et al., 2004; Næss et al., 2006). However, evidence of the relationships between SES trajectories and
+health in old age is scarce, and only two studies have been widely
+acknowledged (Næss et al., 2006; Nicholson et al., 2005). Because
+the populations in numerous societies are aging rapidly, the health
+and welfare of elderly adults, particularly those with a low SES,
+have become a major focus of policymakers. The relationship between SES trajectories and health in early old age may be a crucial
+empirical reference for policymakers planning retirement policies
+or welfare programs targeting the elderly population.
+A life course approach to socioeconomic inequalities in health
+proposes several hypotheses on how socially patterned exposures
+to advantages or adversity throughout the life course inﬂuence late
+health outcomes (Ben-Shlomo and Kuh, 2002; Davey Smith et al.,
+
+2
+
+M.-C. Lee, N. Huang / Social Science & Medicine 130 (2015) 1e8
+
+1997; Hallqvist et al., 2004). The proposed mechanisms can be
+summarized in four hypotheses. First, the critical period model
+hypothesizes that exposures to advantages or adversity during a
+speciﬁc period has lasting or lifelong effects on subsequent health.
+Second, because adversity and advantages may lead to one another,
+the chain of risk model describes how a sequence of linked exposures increases risks of morbidity and mortality. Third, the risk
+accumulation model suggests that different types of exposures
+gradually accumulate throughout the life course, increasing the
+risks of morbidity and mortality. Fourth, the social mobility model
+suggests that in contemporary society, several types of social
+mobility such as downward or upward social mobility are crucial to
+late health and mortality. The risk accumulation model could
+explain the doseeresponse relationship between cumulated
+quantities of social adversity and mortality, whereas the social
+mobility model takes into account the temporal sequence of
+adversity inﬂuences. That is, analysis of social trajectory allows to
+identifying, in detail, stages in the life course that have a detrimental impact. Social trajectory analysis incorporating SES at three
+or more time periods provides informative trajectories to understand SES processes or pathways of mortality inequality, particularly at old age.
+Although SES is a multidimensional social and economic
+concept (Elo, 2009; Mackenbach, 2012), numerous researchers
+have used only a single SES indicator or a single dimension of indicators when analyzing the inﬂuence SES exerts on health inequalities (Pollitt et al., 2005). Commonly used indicators include
+income and wealth. However, in addition to these measures,
+increasing studies have emphasized the psychosocial effects of SES
+on health outcome (Nobles et al., 2013). In other words, the sense of
+economic adequacy or a person's perception of his or her SES might
+play a crucial role in mediating or moderating the relationship
+between material resources and health outcome (Demakakos et al.,
+2008; Nobles et al., 2013; Schnittker and McLeod, 2005). Relevant
+measures include the social status ladder (Adler et al., 2008;
+Demakakos et al., 2008; Hu et al., 2005; Kopp et al., 2004; Nobles
+et al., 2013), self-perceived ﬁnancial well-being (Arber et al.,
+2014), and subjective perception of income inadequacy (Litwin
+and Sapir, 2009). Researchers have suggested that self-perceived
+economic well-being is a robust indicator of economic capacity
+among elderly adults, and that its role in the health of elderly adults
+should not be overlooked (Angel et al., 2003; Litwin and Sapir,
+2009; Wada et al., 2002; Zimmerman and Katon, 2005).
+Self-perceived economic well-being can affect health through
+two main psychosocial mechanisms. First, people with lower
+satisfaction are more likely to perceive economic strain, inadequacy, and ﬁnancial insecurity regarding the future (Demakakos
+et al., 2008). These unfavorable perceptions may increase anxiety
+and the sense of vulnerability, leading to adverse health consequences (Ferraro and Su, 1999; Kahn and Pearlin, 2006; SinghManoux et al., 2003). Second, according to the mechanism of the
+reference group theory, by comparing themselves with others,
+people feel that their economic resources are insufﬁcient for
+participation in the lifestyles or norms (e.g., healthy lifestyles or
+behaviors) of their community or peer group; and consequently,
+their health is affected (Whelan and Maître, 2013). However, previous studies have focused mainly on the trajectory of income or
+wealth rather than considering self-perceived economic satisfaction. Few studies have measured changes in self-perceived economic satisfaction over time among elderly adults. Therefore,
+examining the association between changes in economic satisfaction and mortality among elderly adults is crucial.
+In addition, it is important to compare the relationship of SES
+trajectory and mortality among elderly adults in different societies
+because self-perceived economic satisfaction likely varies
+
+according to local social and economic context (Whelan and Maître,
+2013). In Taiwan, some elderly people live with and receive ﬁnancial support from their children. Therefore, the economic satisfaction of elderly people may vary according to their dependence on
+other people such as their children; the effect of economic satisfaction on health therefore extends beyond the consequence of
+absolute material deprivation (Hsu, 2010). The elderly people in
+Taiwan commonly assesses their economic satisfaction by
+comparing their material recourses and ﬁnancial support or security they receive from their adult children with those of their
+reference group. This reﬂects ﬁlial piety attitudes of Confucian
+tradition (Whyte, 2004) and is culturally accepted and expected
+practice in Taiwan (Lee et al., 1994; Yeh and Bedford, 2003; Yeh
+et al., 2013). Therefore, the ﬁndings from the present study can
+serve as critical empirical references for policymakers who
+distribute health and social welfare resources among elderly adults,
+and are particularly relevant to Asian societies. Our study contributed to the limited empirical literature examining the social
+mobility model that is based on the patterning and variability of
+SES throughout the life course and that predicts mortality among
+elderly adults. The objective of this paper was to examine the
+relationship between changes in self-perceived economic satisfaction and mortality in later life by using nationally representative
+data in Taiwan and adjusting for trajectories of income and wealth.
+2. Methods
+2.1. Study sample
+This study used data from the Survey of Health and Living Status
+of the Elderly in Taiwan. The survey was initiated in 1989 and was
+designed to collect socioenvironmental, behavioral, living, and
+health data from men and women aged 60 years and older (Zimmer
+et al., 2005). A three-stage stratiﬁed systematic sampling framework was used in the ﬁrst phase (1989) to obtain a nationally
+representative sample. In 1989, 4412 individuals were contacted,
+and 4049 individuals were successfully interviewed with a
+response rate of 91.8%. The survey sample was nationally representative of the population aged 60 years and older in Taiwan. The
+response rate for the second (1993), third (1996), and fourth (1999)
+phases were 91.0%, 88.9%, and 90.1%, respectively. The present
+study sample comprised 2310 elderly adults for whom SES data
+from the four phases (1989, 1993, 1996, and 1999) were available
+and who were alive in 1999. The National Cheng Kung University
+Human Research Ethics Committee reviewed and approved the
+present study.
+2.2. Measurements
+The primary outcome of interest was the 8-year all-cause mortality, a time (years)-to-death (or censoring) data indicating the
+survival years between 1999 and 2007. Information regarding
+deaths occurring during the study period was extracted from the
+death registration data collected by Taiwan's Ministry of the
+Interior.
+SES measures included the annual household income, household wealth, and self-perceived economic satisfaction of the respondents. The SES measures observed at four time points (1989,
+1993, 1996, and 1999) were used to construct trajectories. At each
+survey phase, the household income of the previous year was reported. The annual household income was then divided into
+quintiles. The household wealth included three wealth indicators:
+(1) possession of investments such as stocks, bonds, mutual funds,
+retirement investments, or other investments by the participant or
+his or her family (yes, no); (2) possession of a family home by the
+
+M.-C. Lee, N. Huang / Social Science & Medicine 130 (2015) 1e8
+
+participant or his or her spouse (yes, no); and (3) possession of land
+or property that was not the primary residence by the participant
+or his or her spouse (yes, no). A total wealth score was created by
+adding one point for each wealth indicator. Thus, the range of
+values for wealth was 0e3, where higher values indicated greater
+wealth. Similar household wealth measures have been used in
+previous literature (for example, Mete, 2005; Galobardes et al.,
+2007). Self-perceived economic satisfaction was a dichotomous
+
+3
+
+variable determined according to the question, “How do you rate
+your household economic status?” (“very satisﬁed,” “satisﬁed,”
+“fair,” “dissatisﬁed,” “very dissatisﬁed”). “Very satisﬁed,” “satisﬁed,”
+and “fair” were categorized as satisfaction and coded as 1, and
+“dissatisﬁed” and “very dissatisﬁed” were categorized as dissatisfaction and coded as 0. These measures have been used previously
+in studies of the health effects of SES for elderly adults (Hallqvist
+et al., 2004; Pollitt et al., 2005).
+
+Table 1
+Sample characteristics and mortality by covariates and socioeconomic status trajectory.
+Characteristics
+
+All
+Age in 1999
+
+The sample
+
+Mortality 1999e2007
+
+Alive
+
+N
+
+%
+
+N
+
+Deceased
+%
+
+N
+
+%
+
+2310
+47.5
+Mean ¼ 76.69; SD ¼ 4.55
+Range ¼ 68e87
+
+1214
+100
+Mean ¼ 75.30; SD ¼ 3.84
+Range ¼ 68e87
+
+1096
+100
+Mean ¼ 78.22; SD ¼ 4.77
+Range ¼ 69e87
+
+1039
+1271
+Chi2(1) ¼ 19.68
+
+42.3
+51.6
+P-value ¼ 0.000
+
+599
+615
+
+49.3
+50.7
+
+440
+656
+
+40.1
+59.9
+
+543
+340
+1384
+43
+Chi2(3) ¼ 19.68
+
+40.3
+48.5
+49.7
+55.8
+P-value ¼ 0.002
+
+324
+175
+696
+19
+
+26.7
+14.4
+57.3
+1.6
+
+219
+165
+688
+24
+
+20.0
+15.0
+62.8
+2.2
+
+673
+1637
+Chi2(1) ¼ 5.13
+
+51.1
+45.9
+P-value ¼ 0.024
+
+329
+885
+
+27.1
+72.9
+
+344
+752
+
+31.4
+68.6
+
+470
+949
+891
+Chi2(2) ¼ 19.57
+
+39.2
+47.5
+51.7
+P-value ¼ 0.000
+
+286
+498
+430
+
+23.6
+41.0
+35.4
+
+184
+451
+461
+
+16.8
+41.1
+42.1
+
+277
+603
+1430
+Chi2(2) ¼ 17.69
+
+36.5
+46.3
+50.1
+P-value ¼ 0.000
+
+176
+324
+714
+
+14.5
+26.7
+58.8
+
+101
+279
+716
+
+9.2
+25.5
+65.3
+
+586
+469
+563
+269
+483
+Chi2(4) ¼ 50.34
+
+58.5
+48.2
+45.9
+42.0
+37.9
+P-value ¼ 0.000
+
+243
+243
+272
+156
+300
+
+20.0
+20.0
+22.4
+12.9
+24.7
+
+343
+226
+231
+113
+183
+
+21.3
+20.6
+21.1
+10.3
+16.7
+
+643
+485
+1130
+52
+Chi2(3) ¼ 16.72
+Self-perceived economic satisfaction at baseline
+Dissatisfaction
+371
+Satisfaction
+1939
+Chi2(1) ¼ 5.67
+Income quintile trajectory groups
+Consistently high
+602
+Increasing
+592
+Decreasing
+155
+Consistently low
+961
+Chi2(3) ¼ 54.64
+Wealth trajectory groups
+Moderately high
+1403
+Increasing
+290
+Decreasing
+300
+Consistently low
+317
+Chi2(3) ¼ 27.38
+Self-perceived economic satisfaction trajectory groups
+Consistently high
+1686
+Decreasing
+354
+Moderately low
+270
+Chi2(2) ¼ 10.52
+
+52.3
+51.1
+43.4
+42.3
+P-value ¼ 0.001
+
+307
+237
+640
+30
+
+25.3
+19.5
+52.7
+2.5
+
+336
+248
+490
+22
+
+30.7
+22.6
+44.7
+2.0
+
+53.1
+46.4
+P-value ¼ 0.017
+
+174
+1040
+
+14.3
+85.7
+
+197
+899
+
+18.0
+82.0
+
+34.9
+50.3
+47.1
+53.6
+P-value ¼ 0.000
+
+392
+294
+82
+446
+
+32.3
+24.2
+6.8
+36.7
+
+210
+298
+73
+515
+
+19.1
+27.2
+6.7
+47.0
+
+43.2
+51.4
+56.3
+54.3
+P-value ¼ 0.000
+
+797
+141
+131
+145
+
+65.7
+11.9
+10.8
+11.6
+
+606
+149
+169
+172
+
+55.3
+13.6
+15.4
+15.7
+
+45.8
+48.6
+56.3
+P-value ¼ 0.005
+
+914
+182
+118
+
+75.3
+15.0
+9.7
+
+772
+172
+152
+
+70.4
+15.7
+13.9
+
+Gender
+Women
+Men
+Ethnicity
+Mainland Chinese
+Hakka
+Fukianese
+Aborigine
+Marital status
+Others
+Married
+Education level
+Higher than primary school
+Primary school
+Illiterate
+Occupational class
+Non-manual
+Manual
+Others
+Income quintile at baseline
+Q1
+Q2
+Q3
+Q4
+Q5
+Wealth score at baseline
+0
+1
+2
+3
+
+4
+
+M.-C. Lee, N. Huang / Social Science & Medicine 130 (2015) 1e8
+
+Covariates at the baseline phase (1989) were analyzed as potential confounders or mediators of the relationship between SES
+and mortality. They include gender (referent male), ethnicity,
+marital status, education level, and occupation. Ethnicity was coded
+as mainlander Chinese (referent group), Fukianese, Hakka, and
+aborigine. Marital status comprised married and others (including
+never married, divorced, separated, and widowed (referent group)).
+Education was measured using the highest reported level of education attainment and differentiated among none, primary, and
+higher than primary (referent group). The 3-category occupational
+coding was based on the individual self-reported main occupation
+over the life span and differentiated among nonmanual (including
+professional, managerial, and administrative occupation (referent
+group)), manual, and other (including the unemployed and
+housewives/househusbands) occupations. The correlations between self-perceived economic satisfaction and income and between self-perceived economic satisfaction and wealth
+signiﬁcantly differed from zero. The Spearman's correlation coefﬁcient for self-perceived economic satisfaction and income was
+0.22 (p < 0.0000), and that for self-perceived economic satisfaction
+and wealth was 0.08 (p ¼ 0.0003).
+2.3. Statistical analyses
+SES trajectories were created using the group-based trajectory
+modelling approach within the TRAJ macro in Stata/SE V12.0
+(Johnson-Lawrence et al., 2013; Nagin, 2005). We ﬁtted the income
+and wealth trajectory model to the censored normal distribution,
+and used the logit distribution to ascertain self-perceived economic
+satisfaction. We used the Bayesian information criterion to determine the appropriate number of groups. For each elderly adult, the
+procedure calculated the posterior probability of membership in
+each trajectory group, and elderly adults were assigned to the trajectory for which they had the highest probability. All probabilities
+were greater than 90%. The resulting category was then included as
+a predictor in Cox proportional hazard regression models to
+establish the 8-year mortality from 1999 to 2007. Results are presented as hazard ratios (HRs) with 95% conﬁdence intervals (CIs).
+3. Results
+
+Fig. 2. Wealth trajectory groups among elderly people in Taiwan (1989e1999).
+
+and the proportions of death between 1999 and 2007. A bivariate
+analysis revealed that mortality was low among women, married
+and mainland Chinese elderly adults and elderly adults with higher
+educational levels belonging to the white-collar occupational class.
+In addition, low mortality was observed among respondents with a
+consistently high income quintile trajectory, moderately high
+wealth trajectory, and consistently high self-perceived economic
+satisfaction trajectory. Moreover, the distribution of the covariates
+was similar between people who died and those who survived
+during the 8-year follow-up period. The majority of the respondents were women, Fukianese, married, unemployed, with
+primary schooling consistently low income, moderately high
+wealth and consistently high self-perceived economic satisfaction.
+Figs. 1 to 3 illustrate the SES trajectory patterns from 1989 to
+1999. The largest proportions of elderly adults had a consistently
+low quintile income (41.6%). A total of 25.6% of the elderly adults
+were categorized as the increasing income group, which exhibited
+a gradual increase in the income quintile, from the third quintile in
+1989 to the fourth quintile in 1999; by contrast, 26.1% of elderly
+
+Table 1 presents the descriptive characteristics of the sample
+
+Fig. 1. Income quintile trajectory groups among elderly people in Taiwan (1989e1999).
+
+Fig. 3. Self-perceived economic satisfaction trajectory groups among elderly people in
+Taiwan (1989e1999).
+
+M.-C. Lee, N. Huang / Social Science & Medicine 130 (2015) 1e8
+
+adults had a consistently high income quintile trajectory. The
+smallest group of elderly adults (6.7%) exhibited a decreasing income from the fourth quintile in 1989 to the second quintile in
+1999. The distribution of the wealth trajectory differed from that of
+the income trajectory. The wealth trajectory groups (Fig. 2) were
+deﬁned as follows: moderately high wealth (60.7%), increasing
+wealth (12.6%), decreasing wealth (13%), and consistently low
+wealth (13.7%). We observed three trends in self-perceived economic satisfaction from 1989 to 1999 (Fig. 3): consistently high
+satisfaction (73%), decreasing satisfaction (15.3%), and moderately
+low satisfaction (11.7%).
+Table 2 summarizes the Cox proportional hazard models used to
+assess the associations between the income and wealth trajectories
+and mortality. Model 1 was employed to adjust for the effects of all
+covariates. Models 2 and 3 were used to ascertain the relationships
+between the income quintile trajectory and mortality, and wealth
+trajectory and mortality, respectively, after we adjusted for other
+covariates. Those in the consistently low income trajectory and
+those in the increasing income trajectory were signiﬁcantly associated with a higher hazard of mortality than those in the consistently high income trajectory (HR ¼ 1.30; 95% CI ¼ 1.06e1.59;
+HR ¼ 1.24; 95% CI ¼ 1.02e1.51, respectively). Membership in the
+decreasing income trajectory was associated with an increased
+hazard of mortality (HR ¼ 1.31; 95% CI ¼ 0.99e1.74); however, the
+hazard of mortality did not reach the level of statistical signiﬁcance.
+Similarly, regarding the wealth trajectory, compared with those in
+the moderately high wealth trajectory, those in the consistently low
+
+5
+
+wealth trajectory (HR ¼ 1.29; 95% CI ¼ 1.07e1.56), decreasing
+wealth trajectory (HR ¼ 1.29; 95% CI ¼ 1.07e1.55), and increasing
+wealth trajectory (HR ¼ 1.21; 95% CI ¼ 1.00e1.46) exhibited
+increased hazards. Model 4 included both income and wealth trajectories; the magnitude of the income quintile and wealth trajectories decreased only slightly, remaining signiﬁcantly associated
+with mortality. Moreover, the addition of the second SES trajectory
+signiﬁcantly improved the model (difference in c2 between Models
+4 and 2: 10.86, p ¼ 0.0125; difference in c2 between Models 4 and
+3: 6.12, p ¼ 0.1059).
+Table 3 shows the HRs of mortality according to the selfperceived satisfaction trajectory. Model 5 suggested that, after we
+adjusted for other covariates, respondents with moderately low
+satisfaction had increased hazards of mortality (HR ¼ 1.28; 95%
+CI ¼ 1.07e1.53) compared with those who felt consistently high
+satisfaction. Models 6, 7, and 8 were used to determine the relationship between self-perceived satisfaction trajectory and mortality after adjusting for the income quintile trajectory, wealth
+trajectory, or both. The HRs for the self-perceived satisfaction trajectory remained robust and exhibited only marginal reductions
+after we adjusted for income or/and wealth trajectory. This result
+implies that the relationship between the self-perceived economic
+satisfaction trajectory and mortality remained relatively independent of the income and wealth trajectories and covariates. The
+addition of the self-perceived satisfaction trajectory substantially
+enhanced the model. Regarding the covariates, the results
+remained consistent among the models and indicated that men,
+
+Table 2
+Hazard ratios and 95% conﬁdence intervals of 8-year mortality (1999e2007) by income and wealth trajectories.
+Explanatory variables
+
+Age in 1999
+Gender
+Women
+Men
+Ethnicity
+Mainland Chinese
+Fukianese
+Hakka
+Aborigine
+Marital status
+Others
+Married
+Education level
+Higher than primary school
+Primary school
+Illiterate
+Occupational class
+Non-manual
+Manual
+Others
+Income quintile trajectory group
+Consistently high
+Increasing
+Decreasing
+Consistently low
+Wealth trajectory group
+Moderately high
+Increasing
+Decreasing
+Consistently low
+Log likelihood
+2
+c of comparison between models
+
+Degree of freedom
+***p < 0.001; **p < 0.01; *p < 0.05.
+
+Model 1
+
+Model 2
+
+Model 3
+
+Model 4
+
+Covariates
+
+Model 1 þ income quintile trajectory
+
+Model 1 þ wealth trajectory
+
+Model 2 þ 3
+
+1.10 (1.09e1.12)***
+
+1.10 (1.09e1.12)***
+
+1.10 (1.08e1.11)***
+
+1.10 (1.08e1.11)***
+
+Ref
+1.83 (1.57e2.13)***
+
+Ref
+1.85 (1.59e2.15)***
+
+Ref
+1.88 (1.61e2.19)***
+
+Ref
+1.90 (1.63e2.21)***
+
+Ref
+1.37 (1.16e1.63)***
+1.34 (1.08e1.66)**
+1.55 (1.00e2.40)*
+
+Ref
+1.29 (1.08e1.54)**
+1.26 (1.02e1.58)*
+1.44 (0.92e2.24)
+
+Ref
+1.41 (1.18e1.67)***
+1.40 (1.13e1.74)***
+1.64 (1.05e2.54)*
+
+Ref
+1.33 (1.11e1.59)**
+1.33 (1.06e1.66)*
+1.53 (0.98e2.38)
+
+Ref
+0.93 (0.81e1.07)
+
+Ref
+0.96 (0.83e1.10)
+
+Ref
+0.99 (0.85e1.14)
+
+Ref
+1.01 (0.87e1.16)
+
+Ref
+1.23 (1.02e1.48)*
+1.31 (1.06e1.62)*
+
+Ref
+1.15 (0.95e1.40)
+1.21 (0.97e1.50)
+
+Ref
+1.24 (1.03e1.51)*
+1.31 (1.07e1.62)*
+
+Ref
+1.17 (0.97e1.43)
+1.22 (0.98e1.52)
+
+Ref
+1.14 (0.89e1.45)
+1.34 (1.07e1.69)*
+
+Ref
+1.09 (0.85e1.39)
+1.30 (1.03e1.63)*
+
+Ref
+1.15 (0.90e1.47)
+1.31 (1.04e1.65)*
+
+Ref
+1.10 (0.86e1.42)
+1.27 (1.00e1.60)*
+
+Ref
+1.24 (1.02e1.51)*
+1.31 (0.99e1.74)
+1.30 (1.06e1.59)*
+
+7738.0331
+
+Ref
+1.22 (1.01e1.49)*
+1.27 (0.96e1.69)
+1.27 (1.04e1.56)*
+
+7734.3735
+Model 2 to model 1
+7.32
+
+Ref
+1.21 (1.00e1.46)*
+1.29 (1.07e1.55)**
+1.29 (1.07e1.56)**
+7732.0033
+Model 3 to model 1
+12.06**
+
+3
+
+3
+
+Ref
+1.20 (0.99e1.45)
+1.27 (1.06e1.53)**
+1.27 (1.06e1.54)*
+7728.94
+Model 4 to model 2
+10.86**
+Model 4 to model 3
+6.12
+3
+
+6
+M.-C. Lee, N. Huang / Social Science & Medicine 130 (2015) 1e8
+Table 3
+Hazard ratios and 95% conﬁdence intervals of 8-year mortality (1999e2007) by income, wealth, and self-perceived economic satisfaction trajectories.
+Explanatory variables
+
+Model 5
+
+Model 6
+
+Model 7
+
+Model 8
+
+Model 1 + Self-perceived
+economic satisfaction
+trajectory
+
+Model 2 + Self-perceived
+economic satisfaction
+trajectory
+
+Model 3 + Self-perceived
+economic satisfaction
+trajectory
+
+Model 4 + Self-perceived
+economic satisfaction
+trajectory
+
+1.10 (1.09e1.12)***
+
+1.10 (1.09e1.11)***
+
+1.10 (1.08e1.11)***
+
+Ref
+1.84 (1.58e2.14)***
+
+Ref
+1.87 (1.60e2.18)***
+
+Ref
+1.88 (1.61e2.20)***
+
+Ref
+1.32 (1.11e1.58)**
+1.30 (1.04e1.62)*
+1.42 (0.91e2.21)
+
+Ref
+1.42 (1.20e1.69)***
+1.42 (1.14e1.77)***
+1.58 (1.02e2.46)*
+
+Ref
+1.35 (1.13e1.62)***
+1.36 (1.09e1.69)**
+1.50 (0.96e2.34)
+
+Ref
+0.96 (0.83e1.10)
+
+Ref
+0.98 (0.85e1.13)
+
+Ref
+1.00 (0.87e1.16)
+
+Ref
+1.15 (0.95e1.40)
+1.19 (0.95e1.48)
+
+Ref
+1.23 (1.02e1.49)*
+1.28 (1.04e1.58)*
+
+Ref
+1.17 (0.96e1.42)
+1.20 (0.96e1.50)
+
+Ref
+1.08 (0.84e1.38)
+1.29 (1.02e1.63)*
+
+Ref
+1.13 (0.88e1.45)
+1.30 (1.03e1.64)*
+
+Ref
+1.09 (0.85e1.40)
+1.27 (1.00e1.60)*
+
+Age in 1999
+1.10 (1.09e1.12)***
+Gender
+Women
+Ref
+Men
+1.82 (1.57e2.12)***
+Ethnicity
+Mainland Chinese
+Ref
+Fukianese
+1.39 (1.17e1.65)***
+Hakka
+1.37 (1.10e1.70)**
+Aborigine
+1.50 (0.97e2.33)
+Marital status
+Others
+Ref
+Married
+0.94 (0.81e1.08)
+Education level
+Higher than primary school
+Ref
+Primary school
+1.22 (1.01e1.47)*
+Illiterate
+1.27 (1.03e1.57)*
+Occupational class
+Non-manual
+Ref
+Manual
+1.12 (0.87e1.43)
+Others
+1.33 (1.06e1.68)*
+Income quintile trajectory group
+Consistently high
+Increasing
+Decreasing
+Consistently low
+Wealth trajectory group
+Moderately high
+Increasing
+Decreasing
+Consistently low
+Self-perceived economic satisfaction trajectory group
+Consistently high
+Ref
+Decreasing
+1.13 (0.95e1.34)
+Moderately low
+1.28 (1.07e1.53)**
+Log likelihood
+7734.0911
+c2 of comparison between models
+Model 5 to model 1
+7.88*
+Degree of freedom
+2
+
+Ref
+1.21 (1.00e1.48)
+1.27 (0.95e1.69)
+1.25 (1.02e1.53)*
+
+Ref
+1.11 (0.94e1.32)
+1.24 (1.04e1.49)*
+7731.4077
+Model 6 to model 2
+5.93*
+2
+
+Ref
+1.20 (0.99e1.47)
+1.24 (0.93e1.65)
+1.23 (1.00e1.51)*
+Ref
+1.19 (0.98e1.44)
+1.27 (1.06e1.53)**
+1.26 (1.04e1.52)*
+
+Ref
+1.18 (0.98e1.43)
+1.26 (1.05e1.52)*
+1.25 (1.03e1.50)*
+
+Ref
+1.12 (0.94e1.32)
+1.24 (1.04e1.48)*
+7729.0071
+Model 7 to model 3
+5.99*
+2
+
+Ref
+1.10 (0.93e1.31)
+1.21 (1.01e1.45)*
+7726.6864
+Model 8 to model 4
+4.51
+2
+
+***p < 0.001; **p < 0.01; *p < 0.05.
+
+Fukianese and Hakka respondents as well as respondents with low
+educational levels belonging to the unemployed occupational class
+had higher hazards of mortality than the reference groups did. The
+hazards of mortality increased with increasing age.
+4. Discussion
+This large population-based study yielded three major ﬁndings.
+First, the comparison among the relative sizes of the three SES
+trajectory groups indicated that the trajectory patterns between
+different SES indicators varied. The majority (73%) of elderly adults
+had experienced relatively stable and favorable self-perceived
+economic satisfaction; only 15% (354/2310) of respondents had a
+decreasing trajectory. However, 32% ((592 þ 155)/2310) and 26%
+((300 þ 290)/2310) of respondents exhibited decreasing and
+increasing income quintile trajectory and wealth trajectory,
+respectively. Income and wealth ﬂuctuated more than selfperceived economic satisfaction did; this result is consistent with
+the ﬁndings of previous research (Krieger et al., 1997). The results
+empirically demonstrated the strong distinction between three
+different SES trajectory patterns among elderly adults and indicated
+that neither should be overlooked when investigating the role of
+SES mobility in mortality.
+Second, the result did not show a stepwise gradient between the
+top (consistently high SES) and bottom group (consistently low
+
+SES). The trajectory effects suggested that those with the highest
+hazard of mortality were those trajectories that had experienced
+proximal low SES at old ages, particularly the wealth trajectory.
+Regarding income and wealth, a consistently low SES in early old
+age was signiﬁcantly associated with an increased mortality hazard; this result is consistent with ﬁndings regarding Western societies (Johnson-Lawrence et al., 2013). Third, consistently low selfperceived economic satisfaction indicated a higher mortality than
+did consistently high self-perceived economic satisfaction. However, unlike income and wealth, no statistical difference was
+evident between the group with decreasing and consistently high
+economic satisfaction. After we adjusted for income and wealth
+trajectories, the self-perceived economic satisfaction trajectory still
+exerted a signiﬁcant independent inﬂuence on mortality.
+The increased hazards of mortality in elderly adults with
+consistently low SES in early old age calculated using income,
+wealth, or self-perceived economic satisfaction may have two
+plausible interpretations. The risk accumulation model may offer
+one explanation for the ﬁndings. The risk accumulation model
+posits that the exposure to SES adversity accumulates throughout
+the life course and may compromise health in later life (BenShlomo and Kuh, 2002). The ﬁndings of this study are consistent
+with those reported in relevant literature suggesting that chronic
+poverty is associated with increased mortality (Hallqvist et al.,
+2004; Singh-Manoux et al., 2004; Gruenewald et al., 2012), and
+
+M.-C. Lee, N. Huang / Social Science & Medicine 130 (2015) 1e8
+
+that accumulated exposure to low economic resources causes
+€ki et al., 2010, 2012). In preincreasing health problems (Aittoma
+vious studies, consistently low SES patterns throughout childhood
+and adult life were associated with increased cardiovascular disease mortality (Johnson-Lawrence et al., 2013) and poor physical
+performance (Bann et al., 2014). The other plausible explanation
+may be the exposure to any poverty early in life (Barker, 1991;
+Galobardes et al., 2008). Exposure to low SES earlier in life may
+negatively inﬂuence health, and an increasing SES in subsequent
+life stages may not offset the negative inﬂuence. Respondents with
+income or wealth that increased over time tended to have a relatively low income or wealth level when they were 60 years old. The
+ﬁnding of moderately increased mortality associated with the
+increasing SES trajectory group may support to the second interpretation, but the increased mortality did not reach the level of
+statistical signiﬁcance. Our analyses cannot fully elucidate the inﬂuences of these two different life experiences.
+In addition, the adverse inﬂuences that downward income or
+wealth mobility in early old age exerted on mortality support social
+mobility models. Social mobility models suggest that those exposed
+to downward mobility have more accumulated risks compared
+with their reference groups, whereas people exposed to upward
+mobility are expected to beneﬁt from status improvement
+throughout the life course. This result is consistent with ﬁndings
+reported in literature (Næss et al., 2006; Niedzwiedz et al., 2012).
+However, decreases in income and wealth may be caused by a
+decline in health status. Although the additional analyses indicated
+that the correlation between income trajectories at time t þ 1 and
+health
+trajectories
+at
+time
+t
+(Spearman
+correlation
+coefﬁcient ¼ 0.1035) was not stronger than the correlation between
+health trajectories at time t þ 1 and income trajectories at time t
+(Spearman correlation coefﬁcient ¼ 0.1901), the possibility of
+reverse causality still cannot be eliminated (Hajat et al., 2011).
+This study contributed to related literature because we examined income, wealth, and self-perceived economic satisfaction
+trajectories in early old age and their association with all-cause
+mortality, demonstrating that the self-perceived economic satisfaction trajectory exerted an independent inﬂuence. This pattern
+reﬂected the perceived relative deprivation and the economic
+ability to enjoy customary standards of living, which is a critical
+factor to health (Subramanyam et al., 2009; Whelan and Maître,
+2013). Low satisfaction regarding economic status can reduce social participation and increase the possibility of social exclusion;
+both of these phenomena cause stress and are harmful to health
+(Chen et al., 2012). Our ﬁndings reinforce the value of analyzing
+different measures of SES when studying the etiology of health
+inequalities, especially during later life.
+This study had three strengths. First, we determined the association between SES trajectories throughout early old age and
+mortality by using a representative sample in Taiwan. Second, we
+included three SES trajectories (income, wealth, and self-perceived
+economic satisfaction trajectories) accounting for different dimensions, and adjusted for cross-sectional educational level and
+occupational class. Using three measures of SES facilitated clarifying potential differences in the inﬂuences of SES inequalities on
+mortality. Although income and wealth are vital contributors to
+mortality inequality among elderly adults, the effect of selfperceived economic satisfaction should not be discounted. Third,
+this large population-based study in Taiwan enabled us to obtain
+insight into the patterns of SES trajectories and the role of SES
+trajectories in the health of elderly adults in Asian societies.
+Although self-perceived economic satisfaction was used in this
+study, it may not be a perfect measure of a person's perceptions of
+SES. Self-perceived economic satisfaction may not adequately
+reﬂect a person's sense of position in the social ladder. The measure
+
+7
+
+may also capture the residual of the inadequate measurement of
+wealth. Future research with more information on perceptions of
+economic statuses may contribute regarding this. As in all longitudinal studies, the attrition occurred because of mortality. Previous analyses of this survey have indicated that one-year mortality
+rates increased among respondents with low educational levels
+and household incomes (Chen et al., 2007). Because the data used
+in this study were limited to those on respondents who were alive
+in 1999, analysis may have yielded conservative estimates
+regarding the life-course effect on mortality because of health selection. Although the trajectory groups were created using statistical models, the low proportion of decreasing income quintile
+trajectories (n ¼ 155, 6.7%) enlarged the CIs of HR estimates. In
+addition, the SES measurements may have been subjected to recall
+bias.
+In summary, data from a large population-based sample of
+adults in Taiwan aged 60 years and older indicated that a consistently low SES, irrespective of whether income, wealth, or selfperceived economic satisfaction were considered, was associated
+with an increased mortality hazard. The variability associated with
+changes in SES over time among the elderly adults, either in terms
+of upward or downward mobility in income or wealth, may reﬂect
+the differential experiences over this critical period, and its effects
+on health could not be fully elucidated in these analyses. However,
+the decreasing self-perceived economic satisfaction over this critical period was not found to have an adverse effect on health. The
+independent and differential effects of changes in self-perceived
+economic satisfaction on mortality should not be overlooked.
+Further understanding of the complex interplay and mechanisms
+among SES, self-perception of economic wellbeing, and health
+among people at early old ages may serve as important empirical
+references in the designs and implementation of retirement or
+social security policies. Possible adverse health effects of changes in
+SES among people at early old ages illustrate the importance of
+timely and adequate retirement or social security policies for the
+health of elderly adults. Retirement policies or strategies for
+maintaining and promoting favorable SES among people in their
+early old age may beneﬁt the health of elderly adults later in life.
+Acknowledgments
+The authors are grateful to the Ministry of Science and Technology of Taiwan for ﬁnancial support (grant number MOST1032410-H-194-090) and data from the Ministry of Health and Welfare
+of Taiwan.
+References
+Adler, N., Singh-Manoux, A., Schwartz, J., Stewart, J., Matthews, K., Marmot, M.G.,
+2008. Social status and health: a comparison of British civil servants in
+Whitehall-II with European- and African-Americans in CARDIA. Soc. Sci. Med.
+66, 1034e1045. http://dx.doi.org/10.1016/j.socscimed.2007.11.031.
+€ki, A., Martikainen, P., Laaksonen, M., Lahelma, E., Rahkonen, O., 2010. The
+Aittoma
+associations of household wealth and income with self-rated health - A study
+on economic advantage in middle-aged Finnish men and women. Soc. Sci. Med.
+71, 1018e1026. http://dx.doi.org/10.1016/j.socscimed.2010.05.040.
+€ki, A., Martikainen, P., Laaksonen, M., Lahelma, E., Rahkonen, O., 2012.
+Aittoma
+Household economic resources, labour-market advantage and health problems
+e a study on causal relationships using prospective register data. Soc. Sci. Med.
+75, 1303e1310. http://dx.doi.org/10.1016/j.socscimed.2012.05.015.
+Angel, R.J., Frisco, M., Angel, J.L., Chiriboga, D.A., 2003. Financial strain and health
+among elderly Mexican-origin individuals. J. Health Soc. Behav. 44, 536e551.
+http://dx.doi.org/10.2307/1519798.
+Arber, S., Fenn, K., Meadows, R., 2014. Subjective ﬁnancial well-being, income and
+health inequalities in mid and later life in Britain. Soc. Sci. Med. 100, 12e20.
+http://dx.doi.org/10.1016/S0277-9536(98)00289-5.
+Bann, D., Cooper, R., Wills, A.K., Adams, J., Kuh, D., et al., 2014. Socioeconomic position across life and body composition in early old age: ﬁndings from a British
+birth cohort study. J. Epidemiol. Community Health. http://dx.doi.org/10.1136/
+jech-2013-203373.
+
+8
+
+M.-C. Lee, N. Huang / Social Science & Medicine 130 (2015) 1e8
+
+Barker, D.J.P., 1991. The foetal and infant origins of inequalities in health in Britain.
+J. Public Health 13, 64e68.
+Ben-Shlomo, Y., Kuh, D., 2002. A life course approach to chronic disease epidemiology: conceptual models, empirical challenges and interdisciplinary perspectives. Int. J. Epidemiol. 31, 285e293. http://dx.doi.org/10.1093/ije/31.2.285.
+Chen, B., Covinsky, K.E., Cenzer, I.S., Adler, N., Williams, B.A., 2012. Subjective social
+status and functional decline in older adults. J. General Intern. Med. 27,
+693e699. http://dx.doi.org/10.1007/s11606-011-1963-7.
+Chen, L., Yip, W., Chang, M.-C., Lin, H.-S., Lee, S.-D., C, Y.-L., et al., 2007. The effects of
+Taiwan's National Health Insurance on access and health status of the elderly.
+Health Econ. 16, 223e242. http://dx.doi.org/10.1002/hec.1160.
+Davey Smith, G., Hart, C., Blane, D., Gillis, C., Hawthorne, V., 1997. Lifetime socioeconomic position and mortality: prospective observational study. Britich Med.
+J. 314, 547.
+Demakakos, P., Nazroo, J., Breeze, E., Marmot, M., 2008. Socioeconomic status and
+health: the role of subjective social status. Soc. Sci. Med. 67, 330e340. http://dx.
+doi.org/10.1016/j.socscimed.2008.03.038.
+Elo, I.T., 2009. Social class differentials in health and mortality: patterns and explanations in comparative perspective. Annu. Rev. Sociol. 35, 553e572. http://
+dx.doi.org/10.1146/annurev-soc-070308-115929.
+Ferraro, K.F., Su, Y.-p, 1999. Financial strain, social relations, and psychological
+distress among older people: a cross-cultural analysis. J. Gerontol. Ser. B Psychol. Sci. Soc. Sci. 54B, S3eS15. http://dx.doi.org/10.1093/geronb/54B.1.S3.
+Galobardes, B., Lynch, J.W., Davey Smith, G., 2007. Measuring socioeconomic position in health research. Br. Med. Bull. 81-82, 21e37. http://dx.doi.org/10.1093/
+bmb/ldm001.
+Galobardes, B., Lynch, J.W., Davey Smith, G., 2008. Is the association between
+childhood socioeconomic circumstances and cause-speciﬁc mortality established? Update of a systematic review. J. Epidemiol. Community Health 62,
+387e390. http://dx.doi.org/10.1136/jech.2007.065508.
+Gruenewald, T.L., Karlamangla, A.S., Hu, P., Stein-Merkin, S., Crandall, C., Koretz, B.,
+et al., 2012. History of socioeconomic disadvantage and allostatic load in later
+life. Soc. Sci. Med. 74, 75e83. http://dx.doi.org/10.1016/j.socscimed.2011.09.037.
+Hajat, A., Kaufman, J.S., Rose, K.M., Siddiqi, A., Thomas, J.C., 2011. Long-term effects
+of wealth on mortality and self-rated health status. Am. J. Epidemiol. 173,
+192e200. http://dx.doi.org/10.1093/aje/kwq348.
+Hallqvist, J., Lynch, J., Bartley, M., Lang, T., Blane, D., 2004. Can we disentangle life
+course processes of accumulation, critical period and social mobility? an
+analysis of disadvantaged socio-economic positions and myocardial infarction
+in the Stockholm Heart Epidemiology Program. Soc. Sci. Med. 58, 1555e1562.
+http://dx.doi.org/10.1016/S0277-9536(03)00344-7.
+Hu, P., Adler, N.E., Goldman, N., Weinstein, M., Seeman, T.E., 2005. Relationship
+between subjective social status and measures of health in older Taiwanese
+persons. J. Am. Geriatrics Soc. 53, 483e488. http://dx.doi.org/10.1111/j.15325415.2005.53169.x.
+Hsu, H.-C., 2010. Trajectory of life satisfaction and its relationship with subjective
+economic status and successful aging. Soc. Indic. Res. 99, 455e468.
+Johnson Lawrence, V., Kaplan, G., Galea, S., 2013. Socioeconomic mobility in
+adulthood and cardiovascular disease mortality. Ann. Epidemiol. 23, 167e171.
+http://dx.doi.org/10.1016/j.annepidem.2013.02.004.
+Kahn, J.R., Pearlin, L.I., 2006. Financial strain over the life course and health among
+older adults. J. Health Soc. Behav. 47, 17e31. http://dx.doi.org/10.1177/
+002214650604700102.
+ R
+Kopp, M., Skrabski, A.,
+ethelyi, J., Kawachi, I., Adler, N.E., 2004. Self-rated health,
+subjective social status, and middle-aged mortality in a changing society. Behav.
+Med. 30, 65e72. http://dx.doi.org/10.3200/BMED.30.2.65-72.
+Krieger, N., Williams, D.R., Moss, N.E., 1997. Measuring social class in US public
+health research: concepts, methodologies, and guidelines. Annu. Rev. Public
+Health 18, 341e378. http://dx.doi.org/10.1146/annurev.publhealth.18.1.341.
+Lallukka, T., Lahelma, E., Rahkonen, O., 2013. Changes in economic difﬁculties and
+subsequent sickness absence: a prospective register-linkage study. BMJ Open 3.
+http://dx.doi.org/10.1136/bmjopen-2012-002212.
+Lee, Y.-J., Parish, W.L., Willis, R.J., 1994. Sons, daughters, and intergenerational
+
+support in Taiwan. Am. J. Sociol. 99, 1010e1041.
+Litwin, H., Sapir, E.V., 2009. Perceived income adequacy among older adults in 12
+countries: ﬁndings from the Survey of Health, Ageing, and Retirement in
+Europe. Gerontologist 49, 397e406. http://dx.doi.org/10.1093/geront/gnp036.
+Mackenbach, J.P., 2012. The persistence of health inequalities in modern welfare
+states: the explanation of a paradox. Soc. Sci. Med. 75, 761e769. http://dx.doi.
+org/10.1016/j.socscimed.2012.02.031.
+Mete, C., 2005. Predictors of elderly mortality: health status, socioeconomic characteristics and social determinants of health. Health Econ. 14, 135e148. http://
+dx.doi.org/10.1002/hec.892.
+Nagin, D.S., 2005. Group-based Modeling of Development. Harvard University Press,
+Cambridge, MA.
+Næss, Ø., Hernes, F.H., Blane, D., 2006. Life-course inﬂuences on mortality at older
+ages: evidence from the Oslo Mortality Study. Soc. Sci. Med. 62, 329e336.
+http://dx.doi.org/10.1016/j.socscimed.2005.10.003.
+Nicholson, A., Bobak, M., Murphy, M., Rose, R., Marmot, M., 2005. Socio-economic
+inﬂuences on self-rated health in Russian men and women-a life course
+approach. Soc. Sci. Med. 61, 2345e2354. http://dx.doi.org/10.1016/
+j.socscimed.2005.07.034.
+Niedzwiedz, C.L., Katikireddi, S.V., Pell, J.P., Mitchell, R., 2012. Life course socioeconomic position and quality of life in adulthood: a systematic review of life
+course models. BMC Public Health 12. http://dx.doi.org/10.1186/1471-2458-12628.
+Nobles, J., Weintraub, M.R., Adler, N.E., 2013. Subjective socioeconomic status and
+health: relationships reconsidered. Soc. Sci. Med. 82, 58e66. http://dx.doi.org/
+10.1016/j.socscimed.2013.01.021.
+Pollitt, R., Rose, K., Kaufman, J., 2005. Evaluating the evidence for models of life
+course socioeconomic factors and cardiovascular outcomes: a systematic review. BMC Public Health 5. http://dx.doi.org/10.1186/1471-2458-5-7.
+Schnittker, J., McLeod, J.D., 2005. The social psychology of health disparities. Annu.
+Rev.
+Sociol.
+31,
+75e103.
+http://dx.doi.org/10.1146/
+annurev.soc.30.012703.110622.
+Singh-Manoux, A., Adler, N.E., Marmot, M.G., 2003. Subjective social status: its
+determinants and its association with measures of ill-health in the Whitehall II
+study. Soc. Sci. Med. 56, 1321e1333. http://dx.doi.org/10.1016/S0277-9536(02)
+00131-4.
+Singh Manoux, A., Ferrie, J.E., Chandola, T., Marmot, M., 2004. Socioeconomic trajectories across the life course and health outcomes in midlife: evidence for the
+accumulation hypothesis? Int. J. Epidemiol. 33, 1072e1079. http://dx.doi.org/
+10.1093/ije/dyh224.
+Subramanyam, M., Kawachi, I., Berkman, L., Subramanian, S., 2009. Relative deprivation in income and self-rated health in the United States. Soc. Sci. Med. 69,
+327e334. http://dx.doi.org/10.1016/j.socscimed.2009.06.008.
+Wada, T., Matsubayashi, K., Okumiya, K., Del Saz, E.G., Kita, T., 2002. Health status
+and subjective economic satisfaction in West Papua. Lancet 360 (9337), 951.
+http://dx.doi.org/10.1016/S0140-6736(02)11057-9.
+Whelan, C.T., Maître, B., 2013. Material deprivation, economic stress, and reference
+groups in Europe: an analysis of EU-SILC 2009. Eur. Sociol. Rev. http://
+dx.doi.org/10.1093/esr/jct006.
+Whyte, M.K., 2004. Filial obligations in chinese families: paradoxes of modernization. In: Ikels, C. (Ed.), Filial Piety: Practice and Discourse in Contemporary East
+Asia. Stanford University Press, Stanford, pp. 106e127.
+Yeh, K.-H., Bedford, O., 2003. A test of the dual Filial Piety model. Asian J. Soc.
+Psychol. 6, 215e228.
+Yeh, K.-H., Yi, C.-C., Tsao, W.-C., Wan, P.-S., 2013. Filial piety in contemporary Chinese societies: a comparative study of Taiwan, Hong Kong, and China. Int.
+Sociol. 28, 277e296. http://dx.doi.org/10.1177/0268580913484345.
+Zimmer, Z., Martin, L.G., Lin, H.-S., 2005. Determinants of old-age mortality in
+Taiwan.
+Soc.
+Sci.
+Med.
+60,
+457e470.
+http://dx.doi.org/10.1016/
+j.socscimed.2004.06.006.
+Zimmerman, F.J., Katon, W., 2005. Socioeconomic status, depression disparities, and
+ﬁnancial strain: what lies behind the income-depression relationship? Health
+Econ. 14, 1197e1215. http://dx.doi.org/10.1002/hec.1011.
+
+

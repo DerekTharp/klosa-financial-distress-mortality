@@ -1,0 +1,7 @@
+Panel,Exposure,HR,CI_low,CI_high,p,N,Events
+C,Low econ sat (Q1),1.304,1.147,1.483,0.0001,5010,1195
+C,Low HH income,0.906,0.796,1.032,0.1374,5010,1195
+C,Welfare receipt (NBLSS),1.209,0.918,1.593,0.1771,5010,1195
+C,Low personal net assets,0.966,0.833,1.122,0.6535,5010,1195
+D,Econ dissatisfaction (per 10-pt decrease),1.050,1.029,1.072,0.0000,5010,1195
+D,Log HH income (per unit),1.022,0.988,1.057,0.2046,5010,1195

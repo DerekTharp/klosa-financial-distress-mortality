@@ -1,0 +1,4295 @@
+Psychological Bulletin
+2008, Vol. 134, No. 1, 138 –161
+
+Copyright 2008 by the American Psychological Association
+0033-2909/08/$12.00 DOI: 10.1037/0033-2909.134.1.138
+
+Refining the Relationship Between Personality and Subjective Well-Being
+Piers Steel, Joseph Schmidt, and Jonas Shultz
+University of Calgary
+Understanding subjective well-being (SWB) has historically been a core human endeavor and presently
+spans fields from management to mental health. Previous meta-analyses have indicated that personality
+traits are one of the best predictors. Still, these past results indicate only a moderate relationship, weaker
+than suggested by several lines of reasoning. This may be because of commensurability, where
+researchers have grouped together substantively disparate measures in their analyses. In this article, the
+authors review and address this problem directly, focusing on individual measures of personality (e.g.,
+the Neuroticism-Extroversion-Openness Personality Inventory; P. T. Costa & R. R. McCrae, 1992) and
+categories of SWB (e.g., life satisfaction). In addition, the authors take a multivariate approach, assessing
+how much variance personality traits account for individually as well as together. Results indicate that
+different personality and SWB scales can be substantively different and that the relationship between the
+two is typically much larger (e.g., 4 times) than previous meta-analyses have indicated. Total SWB
+variance accounted for by personality can reach as high as 39% or 63% disattenuated. These results also
+speak to meta-analyses in general and the need to account for scale differences once a sufficient research
+base has been generated.
+Keywords: personality, subjective well-being, meta-analysis, commensurability
+
+The major reason for this reanalysis is twofold. First, there has
+been an explosion of interest in “positive psychology” in the new
+millennia (e.g., Seligman & Csikszentmihalyi, 2000), generating
+considerably more data since DeNeve and Cooper (1998) conducted their study. For example, their earlier investigation of the
+personality trait Psychoticism’s relationship with SWB was based
+on five samples, whereas we were able to obtain over 43 samples
+for the present meta-analysis. This allowed us to refine our estimates to a much greater degree. Second and more importantly,
+despite the frequent citations of DeNeve and Cooper’s metaanalysis, as well as other summaries indicating that personality is
+one of the strongest predictors of SWB, the previously established
+associations are still weaker than expected. As DeNeve and Cooper reported, “on average, personality variables were associated
+with [only] 4% of the variance for all indices of SWB” (p. 221).
+Specifically, the correlations of overall SWB with the Big Five
+traits are as follows: .17 (Extraversion), .17 (Agreeableness), .21
+(Conscientiousness), ⫺.22 (Neuroticism), and .11 (Openness to
+Experience). We argue that these results are substantially smaller
+than those that would be expected from theoretical analyses and
+empirical studies, especially with regards to Extraversion, which
+should be considerably stronger than Agreeableness and Conscientiousness.
+We begin by considering four major reasons that the
+personality–SWB relationship should be particularly strong. After
+this, we review how the relationship between SWB and personality
+could be better assessed. Because of the recent proliferation of
+SWB research, several improvements to the meta-analytic procedure are now available. To begin with, previous research was
+primarily univariate, examining the relationship of individual traits
+with SWB. We examine the multivariate impact of all major
+personality traits simultaneously. More important, we review how
+past meta-analyses aggregated dissimilar operational definitions of
+
+Subjective well-being (SWB) is a fundamental human concern.
+Since at least the sixth century B.C., the Classic Greeks explored
+the issue under the rubric of eudaemonia, that is human flourishing
+or living well. This followed with the Hellenistic Greeks and the
+Romans exploring ataraxia, a form of happiness within one’s own
+control (Leahey, 2000). Similarly, interest in SWB has continued
+to the present day, also under a variety of terms and methodologies
+(e.g., Diener, Eunkook, Lucas, & Smith, 1999; Lyubomirsky,
+Sheldon, & Schkade, 2005). More recently, the study of SWB has
+focused on its relationship to personality, and sufficient research
+has been conducted to permit several meta-analyses (Ozer &
+Benet-Martı́nez, 2006). In particular, DeNeve and Cooper’s (1998)
+work, which summarizes the correlations of SWB with 137 traits,
+has been cited close to 200 times in fields ranging from economics
+(Frey & Stutzer, 2002) to gerontology (Isaacowitz & Smith, 2003).
+They have shown that personality is one of the foremost predictors
+of SWB, which underscores the importance of using personality to
+understand happiness. The focus of the current meta-analysis is to
+build on this innovative research base by reexamining the role
+personality has with SWB.
+
+Piers Steel, Human Resources and Organizational Dynamics, University
+of Calgary, Calgary, Alberta, Canada; Joseph Schmidt and Jonas Shultz,
+Industrial/Organizational Psychology, University of Calgary.
+Jonas Shultz in now at the Calgary Health Region, Calgary, Alberta,
+Canada.
+We would like to thank the International Well-Being Group as well as
+Richard Lucas, Robert Cummins, and Ruut Veenhoven specifically for
+providing commentary and encouragement on a draft of this article.
+Correspondence concerning this article should be addressed to Piers
+Steel, 444 Scurfield Hall, 2500 University Drive NW, University
+of Calgary, Calgary, Alberta T2N 1N4, Canada. E-mail:
+Piers.Steel@Haskayne.UCalgary.ca
+138
+
+PERSONALITY AND SWB
+
+personality and SWB constructs, likely affecting the summary
+estimates. We argue that a multivariate analytic approach that
+controls for measurement differences should yield the most appropriate and accurate meta-analytic effect sizes.
+
+Why the SWB–Personality Relationship Is Likely
+Underestimated
+In the following sections, we review four arguments that suggest
+a far greater connection between SWB and personality than what
+is presently found. We first note that there are strong theoretical
+linkages between personality and SWB. Second, at a definitional
+or conceptual level, there are impressive similarities between specific personality traits and SWB components. Third, we examine
+research regarding genetic determinants of SWB. This literature
+indicates that long-term SWB is largely determined by personality
+traits. Fourth, we note that the situational strength does not affect
+the results as would be expected. In particular, life satisfaction
+should be more closely connected to SWB than job satisfaction;
+however, the opposite effect has been observed.
+
+Theoretical Linkages
+There are a wide variety of theoretical linkages between personality traits and SWB, prompting Diener and Lucas (1999) to
+conclude, “it appears a substantial portion of stable SWB is due to
+personality” (p. 214). To briefly review, we focus on the major
+direct and indirect paths, also known as the temperamental, internal or top-down, and instrumental, external or bottom-up perspectives (Diener & Emmons, 1984; McCrae & Costa, 1991). At a
+direct level, we can determine whether SWB and personality are
+related by showing that they involve common biological mechanisms or neural substrates. At the indirect level, we can determine
+whether behaviors indicative of personality traits are also seen to
+create SWB.
+Though there are several theories that indicate personality has
+biological components (e.g., Cloninger, Svrakic, & Przbeck, 1993;
+H. J. Eysenck, 1967), Gray’s (1987) reinforcement sensitivity
+theory is particularly relevant. It indicates that two systems, a
+behavioral activation system (BAS) and a behavioral inhibition
+system (BIS), are connected to both personality and SWB (Elliot
+& Thrash, 2002). The BAS is linked to Extraversion and regulates
+approach behavior by signaling the presence of rewards through
+the promotion of positive affect. The BIS is linked to Neuroticism
+and regulates avoidance behavior by signaling the presence of
+punishers through the promotion of negative affect. Consequently,
+extraverts are more likely to attend to rewards and find them more
+positive, whereas neurotic individuals are more likely to attend to
+punishers and find them more negative.
+Though there is evidence to support Gray’s (1987) theory, much
+of it has been relatively circumstantial and not entirely definitive.
+For example, there is some evidence to suggest that personality
+traits are related to mood induction and that extraverts attend more
+to rewards (Carver, 2004; Matthews & Gilliland, 1999; Smits &
+Boeck, 2006). However, in recent years, considerable advances
+have been made in the psychobiology of both SWB and personality. We can now make a much more direct argument demonstrating that the two constructs share common physical underpinnings.
+
+139
+
+Of particular note is a pair of meta-analyses, one which directly
+connects the neurotransmitter serotonin to the Neuroticism scale of
+the Neuroticism-Extroversion-Openness Personality Inventory
+(NEO; Costa & McCrae, 1992; Schnika, Busch, & RobichauxKeene, 2004) and the other that connects it to depression and
+affective disorders (Lasky-Su, Faraone, Glatt, & Tsuang, 2005).
+Similarly, Depue and Collins (1999) reviewed considerable evidence that dopamine is involved in Extraversion, whereas Rolls
+(2000) reviewed how it facilitates the experience of rewards (see
+also Pickering & Gray, 2001). Additional parallels can be drawn
+using Davidson’s (2005) recent review of neural substrates of
+well-being. Davidson proposed that the amygdala, the prefrontal
+cortex, the hippocampus, and the anterior cingulated cortex can
+explain well-being and affective style, and others have used these
+same mechanisms to explain personality, in particular Extraversion
+(Cloninger, 2000; Depue & Collins, 1999). All in all, the overlap
+is considerable (Zuckerman, 2005).
+Moving to indirect mechanisms, personality may help create life
+events that influence SWB. The most replicated finding in this area
+is the link between Sociability, a facet of Extraversion, and positive affect (Eid, Riemann, Angleitner, & Borkenau, 2003). This
+link can operate in two fashions. First, people tend to be happier in
+social situations (Pavot, Diener, & Fujita, 1990), and because
+extraverts spend more time socially (Watson, Clark, McIntyre, &
+Hamaker, 1992), they should be happier. Second, Extraversion
+generally has a positive impact on peer, family, and romantic
+relationships, whereas Neuroticism is often a negative predictor
+(C. Anderson, John, Keltner, & Kring, 2001; Belsky, Jaffee, Caspi,
+Moffit, & Silva, 2003; Donnellan, Larsen-Rife, & Conger, 2005;
+Watson, Hubbard, & Wiese, 2000a). Consequently, it has been
+suggested that extraverts have more fulfilling social interactions,
+which also leads to greater levels of happiness (Argyle & Lu,
+1990a; Hills, Argyle, & Reeves, 2000).
+Other research has gone beyond personal relationships. In particular, the personality trait of Impulsiveness/Conscientiousness is
+related to delay of gratification, with impulsive people choosing
+the smaller short-term gain only to suffer the larger long-term pain.
+Consequently, it is associated with a host of harms, ranging from
+procrastination (Steel, 2007) to poor health (Bogg & Roberts,
+2004) to financial debt (Angeletos, Laibson, Repetto, Tobacman,
+& Weinberg, 2001; Versplanken & Herabadi, 2001). Similarly,
+Extraversion predisposes people to experience more positive life
+events, whereas Neuroticism predisposes people to experience
+more negative life events (Headey & Wearing, 1989; Magnus,
+Diener, Fujita, & Pavot, 1993). Finally, Ozer and Benet-Martı́nez
+(2006) noted that personality predicts a wide variety of other
+SWB-relevant behaviors and outcomes, including occupational
+choice, achievement, and community involvement.
+
+Construct Similarities
+One basic reason why the relationship between personality and
+SWB should be much stronger is that the two constructs are very
+similar. In particular, Neuroticism and Extraversion are nearly
+identical to two elements of SWB, negative and positive affect,
+respectively. Neurotic individuals tend to be anxious, easily upset,
+and moody or depressed, whereas extraverts tend to be sociable,
+optimistic, outgoing, energetic, expressive, active, assertive, and
+exciting. As Yik and Russell (2001) noted, many of these very
+
+140
+
+STEEL, SCHMIDT, AND SHULTZ
+
+terms used to describe Neuroticism and Extraversion appear in
+measures of negative and positive affect, and “even when the terms
+are not exactly the same, similar ideas are found on both the
+personality and affect scales” (p. 251).
+Further underscoring their similarity, Watson and Clark (1992)
+found that negative affect facets load onto the same factor as
+Neuroticism and, as their later work has indicated, that positive
+affect is at the center of the broad trait of Extraversion (Watson &
+Clark, 1997). Other empirical studies support that the constructs
+overlap considerably (e.g., Lucas & Fujita, 2000; Suh, Diener, &
+Fujita, 1996). For example, Burger and Caldwell (2000) noted that
+“the results from several investigations indicate that the PANAS
+[Positive and Negative Affect Schedule] trait positive affect scale
+and the NEO Extraversion appear to be measure highly overlapping, if not the same, constructs” (p. 54). It is not surprising, then,
+that Tellegen and Waller (1992) have gone so far as to suggest that
+Neuroticism should be relabeled negative affect, whereas Extraversion should be relabeled positive affect.
+Given this extreme conceptual overlap, we would expect correlations much higher than what is presently reported (John &
+Srivastava, 1999). For example, the NEO has six facet scales for
+Extraversion. If just one facet, Positive Emotions, is basically
+identical to SWB and correlates with it at .70, it alone should cause
+the entire Extraversion scale to correlate with SWB at .45, accounting for 20% of the variance. DeNeve and Cooper (1998)
+actually did test for the effects of conceptual overlap by specifically examining affective variables that “can be considered as
+types of SWB” (p. 216). Given the past exposition, we expect that
+these SWB/affective personality variables would show higher correlations with other measures of SWB. What is surprising is that
+DeNeve and Cooper reported the opposite, “that the affectivity
+variables obtained a significantly weaker association with SWB”
+(p. 216). These results are strongly counterintuitive and further
+suggest that this topic could benefit from further meta-analytic
+reexamination.
+Finally, it must be stressed that conceptual overlap between
+SWB and personality traits should not be dismissed as simple
+criterion contamination. Criterion contamination is a form of common method variance where the predictor and criterion both share
+a few very similar items, making at least some relationship between them certain (e.g., Pincus & Callahan, 1993). However,
+some overlap is inevitable because the five-factor model is based
+on the statistical technique of factor analysis. By design, this
+profoundly atheoretical procedure will draw any individual difference that shows strong correlations with other personality variables into the factor dimensions (Block, 2001). Thus, conceptual
+overlap does not so much create correlations with personality traits
+as reflect legitimate relationships. For example, we suggest that the
+Positive Emotion facet from the NEO Extraversion scale likely
+reflects SWB, possibly generating sizeable SWB correlations
+purely because of criterion contamination. However, factor analysis ensures that Positive Emotions correlates well with the other
+Extraversion facets (e.g., Activity, Gregariousness, Assertiveness).
+Necessarily then, the non-SWB Extraversion facets must correlate
+well with SWB because SWB is akin to Positive Emotions (i.e.,
+transitive property). We can assess this using the facet intercorrelations provided in the NEO Professional Manual (Costa & McCrae, 1992). If we predicted Positive Emotion from just these other
+non-SWB Extraversion facets, essentially eliminating the issue of
+
+criterion contamination, the regression equation would account for
+42% of the variance. Notably, this figure is much larger than the
+20% of the variance that construct overlap alone would suggest.
+Consequently, the strength and nature of personality’s relationship with SWB are relevant. A strong association supports hypothesized direct and indirect relationships, such as common biological
+sources (e.g., dopamine) or tight causal relationships between trait
+behaviors or attitudes (e.g., gregariousness) and SWB. Also, a
+strong personality relationship with SWB reinforces that SWB is
+also largely stable, which itself is significant. This issue of SWB
+stability is addressed more directly in the next section.
+
+Stability and Heritability of SWB
+As Lyubomirsky et al. (2005) have reviewed, there appears to be
+a happiness “set point,” that is, SWB over the long-term tends to
+be stable. Adoption and twin research studies by Lykken and
+Tellegen (1996) and more recently by Nes, Røysamb, Tambs,
+Harris, and Reichborn-Kjennerud (2006) have indicated that genes
+account for about 80% of this stability. Environmental influences
+are still important, but they primarily affect only present mood,
+having little lasting impact in the long term. After excluding other
+individual characteristics, such as demographics, the predominant
+conclusion is that “it appears a substantial portion of stable SWB
+is due to personality” (Diener & Lucas, 1999, p. 214). Similarly,
+Lyubomirsky et al. (2005) noted “the set point probably reflects
+relatively immutable intrapersonal, temperamental, and affective
+personality traits, such as extraversion, arousability, and negative
+affectivity, that are rooted in neurobiology” (p. 117). Also, Nes et
+al. (2006) indicated that the long-term stability of SWB may
+“reflect stable and heritable personality traits, such as neuroticism
+and extraversion” (pp. 1038 –1039). Finally, Eid et al. (2003), on
+the basis of their own twin research study, concluded “that it is
+reasonable to consider sociability, energy, and positive affect as
+different facets of one multidimensional personality trait called
+extraversion or positive emotionality” (p. 338).
+Given that genes appear to account for 80% of the variance in
+long-term SWB and that these genes appear to be primarily expressed in terms of personality traits, the expected correlation
+between traits and SWB should be much higher than DeNeve and
+Cooper (1998) reported. Consider Ilies and Judge’s (2003) research, which estimates up to 45% of genetic influences on job
+satisfaction, an element of overall SWB, are expressed through
+personality traits. As the subsequent section on situational strength
+indicates, we would expect that traits mediate even more of the
+relationship between genes and long-term SWB than it does for
+genes and job satisfaction. Still, if about half of the genetic sources
+of long-term SWB can also be attributed to major personality
+traits, we then we would expect to see individual correlations
+approaching at least .50.
+
+Situational Strength and SWB
+Though long-term SWB is largely determined by genetic influences, the environment may at times mediate the relationship. Also
+described as “nature via nurture,” this instrumental perspective
+suggests an indirect link between traits and SWB in which individuals who possess high levels of Extraversion or low levels of
+Neuroticism are more likely to position themselves in positive life
+
+PERSONALITY AND SWB
+
+situations (McCrae & Costa, 1991). For example, extraverts are
+genetically disposed to have more energy, which in turn may help
+them engage in recreational activities that produce pleasure. Consequently, constrained environments that preclude or reduce situational choice should diminish the personality–SWB relationship.
+More generally, the phenomenon is known as situational strength,
+which indicates the degree that the environment, rather than dispositions, influences a person’s attitudes and behaviors (Mischel,
+1977; Withey, Gellatly, & Annett, 2005).
+Given the concept of situational strength, previous meta-analytic
+SWB research results are counterintuitive. It has indicated that job
+satisfaction (Judge, Heller, & Mount, 2002) is better predicted by
+personality traits than general levels of SWB (DeNeve & Cooper,
+1998). For the Big Five personality traits, all except for Openness
+to Experience correlate more strongly with job satisfaction than
+overall SWB. We would expect the opposite. As Staw and CohenCharash (2005) have reviewed, organizations often represent
+strong situations, especially in the common circumstance “where
+the organization controls key outcomes for the individual, such as
+incomes, status, and social identification” (p. 63). Though the
+degree of situational strength will vary among organizations, situations within the work context should typically be more powerful
+relative to most life domains. For example, job satisfaction is more
+environmentally determined than life or marital satisfaction (Ilies
+& Judge, 2003; Spotts et al., 2005; Stubbe, Posthuma, Boomsma,
+& De Geus, 2005). Consequently, situational strength should mitigate the personality–job satisfaction association to a greater degree than personality–SWB relationships.
+Other research also indicates that situations should strongly
+affect job satisfaction. Heller, Watson, and Ilies (2004) conducted
+research that examined the associations between personality traits
+and a number of satisfaction domains. The authors initially performed a meta-analysis that investigated the relationship between
+the Big Five personality constructs and life, health, marital, and
+social satisfaction. On the basis of their analyses and the previous
+meta-analysis conducted by Judge, Heller, and Mount (2002), the
+authors suggested that life satisfaction is more proximally related
+to personality constructs than other satisfaction domains. Furthermore, Schjoedt, Balkin, and Baron (2005) examined the role of
+dispositional and situational variables in predicting job satisfaction. Their results have demonstrated that situational variables
+account for more variance than dispositional variables in job
+satisfaction.
+As such, it appears that job satisfaction is more specific to the
+situation than other forms of SWB, and previous meta-analytic
+findings could better portray the relative relationship between
+personality and job and life satisfaction domains. We should
+expect that general indices of SWB are more closely linked to
+personality than what is presently summarized.
+
+Improving Estimation: The Issue of Commensurability
+Given that the SWB–personality relationship appears to be
+underestimated, we are presently in a position to address this issue.
+Simply, many more studies are now available. A larger sample will
+improve the precision of any estimate, but it will also enable other
+meta-analytic techniques. For example, previous meta-analytic
+research primarily collected and provided only univariate correlations between SWB and personality traits. By collecting the inter-
+
+141
+
+correlations among personality elements as well, we can conduct
+multivariate analyses and determine how much total variance can
+be accounted for by personality. However, the major benefit of
+significantly more data is the ability to tackle the commensurability or “apples and oranges” problem (e.g., Sharpe, 1997).
+Commensurability is a classic difficulty in meta-analysis, reflecting that we often must merge dissimilar studies together to
+achieve a sufficient sample. This practice creates method variance
+(Kenny & Zautra, 2001), as inevitably no two studies are truly
+identical (e.g., even if you limit yourself to “apples” alone, they
+themselves come in a wide variety ranging from Fuji to Macintosh). Though a strong case can be made for aggregating slightly
+different studies, at some point the differences no longer remain
+trivial and become substantive. There is no definite point at which
+this happens, but when we start grouping extremely diverse studies
+together, H. J. Eysenck’s (1978) criticism of meta-analysis as
+“mega-silliness” (p. 517) becomes understandable. Indeed, the
+effects of commensurability are typically large (Cortina, 2003).
+For example, meta-analytic research by Doty and Glick (1998)
+found that 32% of variance in scores was attributed to methods of
+measurement. Also, as Hunter and Schmidt (1990) concluded, it
+can create meta-analyses that “are difficult or impossible to interpret” (p. 481).
+In exploring this issue, we consider construct variation with
+personality and SWB separately. For both personality and SWB,
+we first establish that there is considerable variability regarding
+how they are measured and that these differences are substantive.
+Following this, we discuss how past research has only partially
+dealt with the problems of construct variation.
+
+Construct Variation in Personality
+There are a variety of different perspectives in the field of
+personality, including psychoanalytic and cognitive interpretations. However, the most commonly used and accepted is the
+five-factor descriptive model. Consistent with previous reviews
+(e.g., DeNeve & Cooper, 1998; Judge, Bono, Ilies, & Gerhardt,
+2002; Judge, Heller, & Mount, 2002), its popularity provides a
+sufficient research base to permit meta-analytic study. Because the
+five-factor model is primarily descriptive rather than explanatory,
+it should not be taken as the definitive lens with which to examine
+personality. On the other hand, as Funder (2001) stressed, being
+descriptive should not be taken as a pejorative. Similarly, Mischel
+(1999) argued that descriptive and explanatory personality perspectives, despite being “increasingly separated and warring” (p.
+56) should be viewed as complementary efforts.
+Initially, the issue of commensurability does not appear to be a
+pressing issue when we consider just the five-factor model. For
+over 20 years, it has been commonly accepted (L. R. Goldberg,
+1990; Lee & Ashton, 2004). Even earlier models, such as the
+three-factor structure seen in the Eysenck Personality Questionnaire (EPQ; H. J. Eysenck & Eysenck, 1975) can be largely
+understood in terms of five factors. For example, the Psychoticism
+factor of H. J. Eysenck and Eysenck’s (1975) inventory consists of
+low levels of Conscientiousness and Agreeableness (Brand, 1997;
+John, 1990; McCrae & Costa, 1985). Despite these commonalities,
+many scales possess unique properties, and there are compelling
+reasons to believe they should only be cautiously aggregated.
+
+142
+
+STEEL, SCHMIDT, AND SHULTZ
+
+Even among personality scales with similar or identical nomenclature, there are substantive differences. For example, the NEO
+Openness scale correlates with the comparable Hogan Personality
+Inventory Intellectance scale at .67, whereas the same Hogan
+Personality Inventory scale correlates with the Interpersonal Adjective Scales–Big 5 Openness scale only at .44 (Widiger & Trull,
+1997). Especially problematic, however, to SWB research is the
+Impulsivity facet and its “wandering” nature (Revelle, 1997).
+Impulsivity has been nested under Extraversion for the Eysenck
+Personality Inventory (EPI; H. J. Eysenck & Eysenck, 1964),
+under Psychoticism for the EPQ, and under Neuroticism for the
+Neuroticism-Extroversion-Openness Personality Inventory—
+Revised (NEO-PI-R; Costa & McCrae, 1992). Aluja, Garcı́a, and
+Garcı́a (2004) factor analyzed several personality inventories, including the NEO-PI-R and the Eysenck Personality Questionnaire—Revised (EPQ-R), short form (EPQ-RS). Interestingly, the
+results suggest that that the Impulsiveness scale, a facet of NEO’s
+Neuroticism dimension, actually had the strongest loadings with
+the Conscientiousness and Psychoticism dimensions from both the
+NEO and EPQ inventories respectively. Also, they and others
+found that the specific measure of impulsivity and the nationality
+of the sample will strongly influence whether it loads on Neuroticism, Extraversion, or Conscientiousness (Konstabel, Realo, &
+Kallasmaa, 2002; Whiteside & Lynam, 2001). The concern is that
+Impulsiveness should be relevant in the prediction of SWB (Emmons & Diener, 1986) and is positively associated with negative
+affect. Depending on where it is placed then, it has the capacity to
+affect correlations, such as diminishing the Extraversion relationship with SWB. Consequently, the combination of diverse personality measures has the potential to underestimate correlations in
+SWB meta-analytic research.
+
+Past Practices and Research Implications
+Hogan, Hogan, and Roberts (1996) suggested that combining
+nonequivalent scales is a major problem that all personality researchers face when conducting meta-analyses. Other researchers
+agree. Post hoc classification threatens the construct validity of Big
+Five personality dimensions, simply because there are an extremely large number of traits, many of which do not fit cleanly
+into the Big Five framework (Hurtz & Donovan, 2000; Salgado,
+1997), a framework that itself can be debated (Block, 2001).
+Consequently, it is very easy to make dubious or mistaken classifications. For example, consider the meta-analysis of the Big Five
+and job performance conducted by Barrick and Mount (1991), two
+extremely capable and experienced researchers whose methodology is likely one of the “best case” scenarios. As Hogan et al.
+(1996) noted, they made a few misclassification errors, and Hurtz
+and Donovan (2000) raised concerns regarding their rater agreement, as it reached “only 83% or better rater agreement on 68% of
+the classifications” (p. 872).
+Given the challenge in sorting a diverse array of personality
+measures with no clear guidelines for equivalency, researchers
+have suggested that the best approach to control for variation in
+construct validity, and reduce the level of subjective judgments, is
+to examine evidence associated with a single scale (e.g., Hogan et
+al., 1996; Hunter & Schmidt, 1990). By doing so, interrater agreement will not be sacrificed, and more importantly, there will be no
+comparison made between noncommensurate measures. This
+
+methodology was adopted by Lucas and Fujita (2000), who addressed commensurability in a focused SWB meta-analysis, examining the univariate relationship of Extraversion with pleasant
+affect. They limited their meta-analysis to three popular scales: the
+NEO (Costa & McCrae, 1992), the EPQ (H. J. Eysenck &
+Eysenck, 1975), and the EPI (H. J. Eysenck & Eysenck, 1964).
+
+Construct Variation in SWB
+SWB is far from a unitary concept, and its definition and
+measurement can vary greatly across research studies. Diener and
+Lucas (1999) defined SWB as people’s evaluation of their lives.
+These evaluations include “both cognitive judgments of ones’ life
+satisfaction in addition to affective evaluations of mood and emotions” (p. 213). Facets within SWB differ through varying levels of
+affective, temporal, and cognitive dimensions (Okun, Stock, &
+Covey, 1982), suggesting that these SWB categories are not entirely equivalent. In particular, several researchers have found
+significant differences between affect and happiness or satisfaction
+(Diener & Diener, 1996; Steel & Ones, 2002; Veenhoven, 1994;
+H. M. Weiss, 2002), and within affect itself there are substantive
+differences between its positive and negative form (e.g., ArthaudDay, Rode, Mooney, & Near, 2005; Connolly & Viswesvaran,
+2000).
+Though the field has yet to come to a consensus regarding the
+domains of SWB (e.g., happiness is considered at times to represent either affect or satisfaction), a few prominent divisions reoccur with regularity: life satisfaction, happiness, affect (overall,
+positive and negative), and quality of life. As Kim-Prieto, Diener,
+Tamir, Scollon, and Diener (2005) have reviewed, none of these
+conceptions of SWB should be considered definitive, each potentially providing unique and important information. The differences
+among these four categories will now be discussed.
+First, life satisfaction has been defined as the “global evaluation
+by the person of his or her life” (Pavot, Diener, Colvin, & Sandvik,
+1991, p. 150). Consequently, this includes studies that incorporate
+scales assessing participants’ cognitive appraisal of overall life
+circumstances. Second, happiness normally refers to a consistent,
+optimistic mood state that “is itself the highest good, the summon
+bonum of classical theory” (Averill & More, 1993, p. 617). Third,
+positive and negative affect are measures that gauge the propensity
+for an individual to assess life events in either a positive or a
+negative manner, respectively. Overall affect or hedonic balance
+examines the equilibrium between positive and negative affect,
+often operationalized as the difference score between the positive
+and negative affect scales. Of note, life satisfaction and happiness
+typically assess SWB over considerable duration, such as a lifetime. Affect, on the other hand, can be assessed at either a state or
+a trait level. State affect involves emotional experience over a short
+period in time (e.g., today, this week, this month), whereas trait
+affect spans across a long duration of time (e.g., years). The fourth
+SWB category is quality of life. Though there is little consensus
+regarding the exact meaning of quality of life or how it should be
+measured, it follows a predictable methodology (K. L. Anderson &
+Burckhardt, 1999; Felce & Perry, 1995). It is a global measure
+based on an aggregation of well-being across several life domains
+(e.g., recreational, social activities, finances), usually assessed
+using a combination of objective and subjective indicators.
+
+PERSONALITY AND SWB
+
+Past Practices and Research Implications
+For the most part, researchers have been fairly rigorous in
+separating different categories of SWB during analysis. DeNeve
+and Cooper (1998) sorted their measures into four groups: life
+satisfaction, happiness, positive affect, and negative affect. Similarly, Lucas, Diener, and Suh (1996) categorized SWB measures
+into four dimensions, which include life satisfaction, optimism,
+self-esteem, and affect. Thoresen, Kaplan, Barsky, Warren, and de
+Chermont (2003) focused on affect alone. Finally, Connolly and
+Viswesvaran (2000) considered both positive and negative affect
+but evaluated the overall affective disposition as well. However,
+two problematic issues arise with the classification of SWB.
+To begin with, affect is a bridge concept, as it can be considered
+both a personality trait (a predictor) and a measure of SWB (a
+criterion) simultaneously. This generates a situation in which the
+focus of many studies is to use affect, one measure of SWB, to
+predict another (e.g., Connolly & Viswesvaran, 2000; Thoresen et
+al., 2003). DeNeve and Cooper (1998) dealt with this confusion by
+considering only state affect as representing SWB. This choice,
+though, is at odds with life satisfaction, which deals with judgments regarding one’s entire life. This means that though we have
+long-term measures of cognitive SWB, we asymmetrically have no
+corresponding affective ones. If SWB is our criterion of interest,
+we should examine both long- and short-term affect using moderator analyses to assess whether personality is differentially related
+to the two levels.
+The second issue directly pertains to commensurability. Researchers have appeared to be fairly inclusive in regards to what is
+considered SWB. Connolly and Viswesvaran (2000) as well as
+Thoresen et al. (2003) used a wide variety of measures to describe
+affect: from anxiety (e.g., State-Trait Anxiety Inventory; Spielberger, Gorsuch, & Lushene, 1970) and optimism (e.g., Life Orientation Test; Scheier & Carver, 1985) to Extraversion and Neuroticism (e.g., the EPQ). Similarly, H. M. Weiss (2002) concluded
+that the job satisfaction literature has not been careful in differentiating between cognitive and affective forms of SWB, meaning
+that it can be very difficult to determine whether to group different
+measures together.
+
+The Present Meta-Analysis
+To better examine personality’s relationship with SWB, we
+controlled scale differences during our meta-analysis. For the
+personality measures, we independently derived an identical approach to commensurability as Lucas and Fujita (2000), focusing
+our meta-analysis also on the NEO, the EPQ, and the EPI. They are
+popular enough to provide sufficient sample for summary and
+reflect what Hogan et al. (1996) described as “good personality
+measures” (p. 470). They provide scores that are temporally stable
+and relate to meaningful nontest behaviors (e.g., Kirkhart, Morgan,
+& Sincavage, 1991; Murray, Rawlings, Allen, & Trinder, 2003).
+Furthermore, the measures have favorable psychometric properties. For instance, internal-consistency reliabilities for the scales
+are typically around .80 (e.g., Costa & McCrae, 1992; S. B. G.
+Eysenck, Eysenck, & Barrett, 1985; John, Donahue, & Kentle,
+1991).
+Also, we included the Defensiveness scale of the EPQ in our
+meta-analysis. Also known as Social Desirability or the Lie scale,
+
+143
+
+the intent of this scale is to detect faking of respondents when
+completing the EPQ. Findings suggest that the Defensiveness scale
+is related to real individual differences, including Neuroticism and
+Conscientiousness (Ones, Viswesvaran, & Reiss, 1996), and arguments have been made to include social desirability as a measure
+of personality (see Furnham, 1986; McCrae & Costa, 1983).
+For the SWB measures, the same degree of consensus was not
+available. Consequently, we could not focus on single measures as
+we did for personality. Instead, we attempted to reduce commensurability problems by broadening the number of SWB categories
+as compared with previous research. We considered life satisfaction, happiness, affect (overall, positive and negative), and quality
+of life. Furthermore, as we discuss in the following Method section, we excluded SWB measures that were not unanimously
+sorted into the same category by the coders.
+Analyzing this data, we formally tested our central hypothesis,
+that our findings are statistically stronger than DeNeve and Cooper’s (1998) findings. After this, we examined the consistency of
+these results by examining demographic variables (i.e., age, gender), confirming that they have minor moderating effects at best
+(Ozer & Benet-Martı́nez, 2006). To assess the commensurability
+among our measures, we tested between as well as within differences. For between, we determined whether the NEO, EPQ, and
+EPI all had the same relationship with SWB. For within, we
+determined whether there were detectable differences among versions of the same personality scales as well as state versus trait
+effects for affect. Finally, we assessed common method variance,
+that is the extent to which our results can be attributed to methodology rather than relationships among the underlying constructs.
+
+Method
+Literature Search
+Our literature search procedure was designed to include all
+relevant articles on the topic, including foreign language and
+unpublished works. The first strategy was to conduct searches in
+the PsycInfo, Medline, and Proquest (unpublished dissertations)
+databases using keywords for articles that included both SWB and
+personality measures. Searches combined 36 keywords related to
+happiness, life satisfaction, affect, or quality of life with 15 keywords related to either the EPI or the NEO. The personality
+keywords included NEO Personality Inventory, NEO personality,
+NEO Five-Factor Inventory, NEO-FFI, NEO-PI, NEO-PI-R,
+Eysenck Personality Inventory, Eysenck Personality Questionnaire, EPI, EPQ, EPQ-J, EPQ-R-S, and EPQ-R-X. Second, the
+Social Sciences Citation Index (i.e., Web of Science) was searched
+for all publications that cited articles providing various measures
+of the above listed keywords. Meta-analyses (e.g., DeNeve &
+Cooper, 1998; Judge, Heller, and Mount, 2002; Steel & Ones,
+2002) and websites (e.g., World Database of Happiness) were
+examined to identify many of the major measures. In total, the
+citations of more than 80 articles were searched. Third, authors
+who published more than one study within our initial search were
+contacted to secure any unpublished research in attempt to address
+the “file drawer” problem. In total, 1,177 published articles, master’s and doctoral dissertations, book chapters, and conference
+proceedings have been identified in various languages. We included six different revised NEO measures, in part to accommo-
+
+STEEL, SCHMIDT, AND SHULTZ
+
+144
+
+date language translations between 1985 and 1992. There were ten
+different EPQ scales, mostly from translations into various languages. Lastly, there were four EPI measures.
+
+Eligibility Criteria and Data Coding Procedures
+Of the 1,177 identified articles, 249 contained potentially usable
+data. Usable data included effect sizes expressed as a correlation,
+t score, d score, or F score. All articles were double coded by two
+authors (Piers Steel, Joseph Schmidt, or Jonas Shultz), and all
+entered correlations were compared to identify and correct any
+data entry errors. The interrater reliability of the coding was
+96.4%. Any inconsistencies were resolved by reexamining the
+articles. SWB scales were sorted on the basis of the input of all
+three authors (Piers Steel, Joseph Schmidt, and Jonas Shultz),
+excluding anywhere clear consensus could not be achieved. Affect
+was considered to be measured at a state level if the time period
+was 1 month or less. Table 1 depicts the major scales associated
+with each category. However, between 14 and 19 scales were
+identified measuring each construct of SWB.
+Outliers were defined as individual correlations that were four
+standard deviations above or below the mean of the correlations in
+the sample (as per Huffcutt & Arthur, 1995). The existence of
+outliers was addressed by further examining the original article to
+ensure that data entry errors did not occur. If the outlier did not
+result from an entry error, we reduced its impact (as per Tabachnick & Fidell, 1989). The sample size of the outlying correlation
+was reduced until it was not significant (i.e., below four standard
+
+deviations from the mean). If the sample had to be reduced to 300,
+smaller than the average sample size, it was removed from the
+analysis. Any other discrepancies were resolved via a consultation
+process that included all three authors (Piers Steel, Joseph
+Schmidt, and Jonas Shultz).
+Interestingly enough, the issues of commensurability still extends to our specific personality scales, which come in several
+varieties as the literature search indicates. For example, there is the
+NEO (180 items), the NEO-PI-R (240 items), and the NEO FiveFactor Inventory (NEO-FFI; Costa & McCrae, 1992; 60 items).
+Also, the EPQ comes in the EPQ (90 items), the EPQ-R (100
+items), and the EPQ-R-S (48 items). Fortunately, the issue of
+commensurability at this level of detail was minimal. We kept the
+analysis at the domain or factor level, which Costa and McCrae
+(1992) reported is largely equivalent among these versions. The
+correlations between the NEO-PI-R and the NEO are around .94,
+and between the NEO-PI-R and the NEO-FFI are .90 or above,
+with the exception of Agreeableness and Conscientiousness. For
+the EPQ, the results almost completely parallel that of the NEO.
+The EPQ-R is almost identical to the original EPQ, except with
+regards to Psychoticism, the Agreeableness/Conscientiousness
+construct (Caruso, Witkiewitz, Belcourt-Dittloff, & Gottlieb,
+2001). The long versus short form of the EPQ-R correlated together at above .92, with the exception of Psychoticism (Barrett &
+Eysenck, 1992). During our moderator analyses, we explored
+whether any of these versions provided different results, and we
+failed to find any significant effects.
+
+Statistical Analysis
+Table 1
+Top Three Scales Measuring Each Category of Subjective
+Well-Being
+Category
+
+Scale name
+
+Happiness
+
+1. Oxford Happiness Inventory (Argyle et al., 1989)
+2. Self-Description Inventory (Fordyce, 1977)
+3. Memorial University of Newfoundland Scale of
+Happiness (Kozma & Stones, 1980)
+
+Life satisfaction
+
+1. Satisfaction With Life Scale (Diener et al., 1985).
+2. Life 3 Scale (Andrews & Withey, 1976)
+3. Life satisfaction item of the Index of Well-Being
+(Campbell et al., 1976)
+
+Positive affect
+
+1. PANAS (Watson et al., 1988)
+2. Bradburn Balanced Affect Scale (Bradburn, 1969)
+3. Profile of Mood States—Vigor/Activity (McNair
+et al., 1971)
+
+Negative affect
+
+1. PANAS (Watson et al., 1988)
+2. Bradburn Balanced Affect Scale (Bradburn, 1969)
+3. Adjective List (Emmons & Diener, 1985)
+
+Overall affect
+
+1. Bradburn Balanced Affect Scale (Bradburn, 1969)
+2. PANAS (Watson et al., 1988)
+3. Affectometer 2 (Kammann & Flett, 1983)
+
+Quality of life
+
+1. Scales of Psychological Well-Being (Ryff, 1989)
+2. Perceived Quality of Life Scale (Andrews &
+Withey, 1976)
+3. Lancashire Quality of Life Profile (Oliver et al.,
+1996)
+
+Note. PANAS ⫽ Positive and Negative Affect Schedule.
+
+We employed the meta-analysis procedures proposed by Hunter
+and Schmidt (1990) to conduct this research. Correlations were
+weighted according to sample size and then corrected for unreliability and sampling error in the measures at the aggregate level.
+Other corrections, specifically for dichotomizing a continuous
+variable, uneven splits, range restriction, and standard deviation
+splits, were conducted at the individual sample level. Consistent
+with the procedures of Judge, Heller, and Mount (2002), we
+inserted the internal consistency reliability figure as averaged
+within each SWB facet in the analysis when the alpha was not
+reported. Correlations were deemed significant if the confidence
+interval did not include zero. When multiple measures were used
+within one facet of SWB (i.e., two measures of affect) in a primary
+study, they were averaged to avoid overweighting these studies.
+Moderator analysis used weighted least squares regression, as
+per Steel and Kammeyer-Mueller (2002). The information used for
+the moderator variables was explicitly labeled in the individual
+studies; consequently, the analysis consisted of coding the requisite information and separately analyzing the correlations for each
+moderator variable. Moderator variables that were examined included the following: gender, average age of the sample, and selfversus other-ratings of personality.
+
+Results
+In total 2,142 correlation coefficients were examined to determine the relationship among SWB and personality, as measured by
+the NEO, EPQ, and EPI personality inventories. The coefficients
+were derived from 347 samples. The total number of participants
+
+PERSONALITY AND SWB
+
+across all studies was 122,588, with a median of 179 and a mean
+of 354 participants per sample. The mean age of the samples was
+37.24 years (SD ⫽ 7.64), 45% of which were men. The research
+methodology was almost exclusively self-report, with 3% using
+other-report. The majority of the samples were from North America (k ⫽ 167), followed by the United Kingdom (k ⫽ 45), whereas
+the remaining of the studies originated from various countries in
+Europe, Asia, Australia, or unknown. Most of the research was
+conducted in field samples, which incorporated conveniencesampling techniques.
+To examine the relationship between personality and SWB, we
+calculated the weighted correlation for each facet of SWB with
+each dimension of personality. The number of independent samples included in each analysis ranged from 1 to 73. Statistical
+significance is reached only when the 95% confidence interval
+does not include zero. However, the results are deemed practically
+significant when the 95% credibility range does not include zero.
+As expected, many of the relationships were both statistically and
+practically significant.
+Analyses specific to the NEO inventories are reported in Table
+2. The findings suggest that Neuroticism, Extraversion, Agreeableness, and Conscientiousness are significantly related to all SWB
+
+145
+
+facets. Openness to Experience was significantly related to happiness, positive affect, and quality of life, but it was not significantly
+related to life satisfaction, negative affect, and overall affect.
+Neuroticism is clearly the strongest predictor of SWB, particularly
+for negative affect (␳ ⫽ .64, k ⫽ 73), happiness (␳ ⫽ ⫺.51, k ⫽
+6), overall affect (␳ ⫽ ⫺.59, k ⫽ 15), and quality of life (␳ ⫽ ⫺.72,
+k ⫽ 5). Similarly, Extraversion is a strong predictor of positive
+affect (␳ ⫽ .54, k ⫽ 53), happiness (␳ ⫽ .57, k ⫽ 6), overall affect
+(␳ ⫽ .44, k ⫽ 11), and quality of life (␳ ⫽ .54, k ⫽ 4). Conscientiousness is a strong predictor of quality of life (␳ ⫽ .51, k ⫽ 4).
+Analyses specific to the EPQ are reported in Table 3. Neuroticism and Extraversion are significantly related to all SWB measures. Psychoticism is also related to all SWB measures except
+quality of life. Defensiveness is significantly related to happiness
+and life satisfaction, but not positive affect, negative affect, and
+overall affect. There was only one study investigating the relationship between Defensiveness and quality of life precluding any
+meta-analytic significance testing (i.e., a single study cannot be
+meta-analyzed). Consistent with the findings from the NEO inventories, Neuroticism is the best predictor evident by numerous
+strong relationships, including negative affect (␳ ⫽ .69, k ⫽ 33),
+overall affect (␳ ⫽ ⫺.63, k ⫽ 12), quality of life (␳ ⫽ ⫺.64, k ⫽
+
+Table 2
+Meta-Analytic Subjective Well-Being Results for the Neuroticism-Extroversion-Openness Inventory
+r៮ 95% interval
+Construct
+Neuroticism
+Happiness
+Life satisfaction
+Positive affect
+Negative affect
+Overall affect
+Quality of life
+Extraversion
+Happiness
+Life satisfaction
+Positive affect
+Negative affect
+Overall affect
+Quality of life
+Openness to Experience
+Happiness
+Life satisfaction
+Positive affect
+Negative affect
+Overall affect
+Quality of life
+Agreeableness
+Happiness
+Life satisfaction
+Positive affect
+Negative affect
+Overall affect
+Quality of life
+Conscientiousness
+Happiness
+Life satisfaction
+Positive affect
+Negative affect
+Overall affect
+Quality of life
+
+␳ 95% interval
+
+K
+
+n
+
+r៮
+
+Confidence
+
+Credibility
+
+Q statistic
+
+␳
+
+Confidence
+
+Credibility
+
+Q statistic
+
+6
+36
+57
+73
+15
+5
+
+621
+9,277
+11,788
+16,764
+3,859
+967
+
+⫺.46
+⫺.38
+⫺.30
+.54
+⫺.50
+⫺.53
+
+⫺.40, ⫺.51
+⫺.35, ⫺.42
+⫺.27, ⫺.33
+.51, .57
+⫺.46, ⫺.54
+⫺.49, ⫺.56
+
+⫺.46, ⫺.46
+⫺.21, ⫺.55
+⫺.13, ⫺.47
+.32, .77
+⫺.37, ⫺.63
+⫺.53, ⫺.53
+
+p ⫽ .4145
+p ⬍ .0001
+p ⬍ .0001
+p ⬍ .0001
+p ⬍ .0001
+p ⫽ .4634
+
+⫺.51
+⫺.45
+⫺.35
+.64
+⫺.59
+⫺.72
+
+⫺.44, ⫺.57
+⫺.41, ⫺.49
+⫺.32, ⫺.39
+.60, .67
+⫺.55, ⫺.64
+⫺.67, ⫺.77
+
+⫺.51, ⫺.51
+⫺.25, ⫺.66
+⫺.16, ⫺.55
+.37, .91
+⫺.38, ⫺.80
+⫺.61, ⫺.82
+
+p ⫽ .4029
+p ⬍ .0001
+p ⬍ .0001
+p ⬍ .0001
+p ⬍ .0001
+p ⫽ .1033
+
+6
+35
+53
+49
+11
+4
+
+829
+10,528
+12,898
+11,569
+2,410
+767
+
+.49
+.28
+.44
+⫺.18
+.34
+.40
+
+.40, .58
+.24, .31
+.41, .47
+⫺.16, ⫺.21
+.27, .40
+.35, .45
+
+.31, .67
+.11, .44
+.24, .65
+⫺.04, ⫺.33
+.17, .51
+.40, .40
+
+p ⫽ .0041
+p ⬍ .0001
+p ⬍ .0001
+p ⬍ .0001
+p ⫽ .0002
+p ⫽ .3834
+
+.57
+.35
+.54
+⫺.23
+.44
+.54
+
+.47, .68
+.30, .39
+.50, .58
+⫺.19, ⫺.26
+.36, .53
+.47, .61
+
+.37, .78
+.14, .55
+.28, .80
+⫺.05, ⫺.40
+.21, .68
+.54, .54
+
+p ⫽ .0048
+p ⬍ .0001
+p ⬍ .0001
+p ⬍ .0001
+p ⬍ .0001
+p ⫽ .5175
+
+5
+26
+27
+26
+7
+6
+
+779
+9,075
+7,340
+8,008
+1,373
+1,305
+
+.13
+.03
+.20
+⫺.02
+.04
+.16
+
+.03, .23
+.01, .06
+.16, .24
+⫺.06, .01
+⫺.10, .18
+.07, .25
+
+⫺.04, .29
+⫺.03, .10
+.04, .36
+⫺.17, .13
+⫺.08, .18
+⫺.02, .34
+
+p ⫽ .0267
+p ⫽ .0629
+p ⬍ .0001
+p ⬍ .0001
+p ⫽ .0257
+p ⫽ .0027
+
+.14
+.04
+.26
+⫺.03
+.07
+.23
+
+.03, .26
+.01, .07
+.21, .31
+⫺.08, .02
+⫺.05, .16
+.09, .35
+
+⫺.05, .33
+⫺.04, .12
+.06, .46
+⫺.23, .16
+⫺.13, .26
+.03, .43
+
+p ⫽ .0258
+p ⫽ .0778
+p ⬍ .0001
+p ⬍ .0001
+p ⫽ .0370
+p ⫽ .0178
+
+4
+22
+23
+27
+6
+4
+
+441
+7,459
+6,040
+7,306
+1,035
+767
+
+.30
+.14
+.12
+⫺.20
+.14
+.23
+
+.22, .38
+.11, .17
+.09, .16
+⫺.17, ⫺.23
+.09, .19
+.15, .30
+
+.31, .31
+.06, .23
+.02, .23
+⫺.11, ⫺.29
+.14, .14
+.17, .29
+
+p ⫽ .2736
+p ⫽ .0188
+p ⫽ .0087
+p ⫽ .0187
+p ⫽ .5818
+p ⫽ .1908
+
+.36
+.19
+.15
+⫺.26
+.20
+.31
+
+.26, .47
+.15, .22
+.11, .19
+⫺.22, ⫺.29
+.13, .26
+.21, .40
+
+.36, .36
+.10, .28
+.02, .28
+⫺.18, ⫺.34
+.20, .20
+.22, .39
+
+p ⫽ .2737
+p ⫽ .0712
+p ⫽ .0061
+p ⫽ .1095
+p ⫽ .5632
+p ⫽ .1873
+
+4
+25
+24
+28
+5
+4
+
+441
+6,685
+5,976
+7,749
+829
+767
+
+.25
+.22
+.27
+⫺.20
+.22
+.40
+
+.17, .33
+.18, .25
+.22, .31
+⫺.17, ⫺.24
+.12, .32
+.33, .46
+
+.25, .25
+.10, .33
+.08, .46
+⫺.03, ⫺.38
+.04, .39
+.37, .42
+
+p ⫽ .3804
+p ⫽ .0018
+p ⬍ .0001
+p ⬍ .0001
+p ⫽ .014
+p ⫽ .2482
+
+.27
+.27
+.31
+⫺.26
+.29
+.51
+
+.19, .36
+.23, .32
+.27, .37
+⫺.20, ⫺.30
+.15, .42
+.43, .59
+
+.28, .28
+.14, .40
+.10, .54
+⫺.06, ⫺.45
+⫺.06, .52
+.48, .54
+
+p ⫽ .3804
+p ⫽ .0042
+p ⬍ .0001
+p ⬍ .0001
+p ⫽ .0139
+p ⫽ .2468
+
+STEEL, SCHMIDT, AND SHULTZ
+
+146
+
+Table 3
+Meta-Analytic Subjective Well-Being Results for the Eysenck Personality Questionnaire
+r៮ 95% interval
+Construct
+Neuroticism
+Happiness
+Life satisfaction
+Positive affect
+Negative affect
+Overall affect
+Quality of life
+Extraversion
+Happiness
+Life satisfaction
+Positive affect
+Negative affect
+Overall affect
+Quality of life
+Psychoticism
+Happiness
+Life satisfaction
+Positive affect
+Negative affect
+Overall affect
+Quality of life
+Defensiveness
+Happiness
+Life satisfaction
+Positive affect
+Negative affect
+Overall affect
+Quality of life
+
+␳ 95% interval
+
+K
+
+n
+
+r៮
+
+Confidence
+
+Credibility
+
+Q statistic
+
+␳
+
+Confidence
+
+Credibility
+
+Q statistic
+
+32
+23
+33
+33
+12
+10
+
+8,298
+6,043
+7,902
+14,066
+2,198
+3,864
+
+⫺.44
+⫺.41
+⫺.27
+.56
+⫺.50
+⫺.55
+
+⫺.41, ⫺.47
+⫺.38, ⫺.45
+⫺.24, ⫺.30
+.54, .59
+⫺.46, ⫺.53
+⫺.51, ⫺.59
+
+⫺.31, ⫺.57
+⫺.29, ⫺.54
+⫺.15, ⫺.38
+.43, .69
+⫺.46, ⫺.53
+⫺.41, ⫺.68
+
+p ⬍ .0001
+p ⬍ .0001
+p ⫽ .0007
+p ⬍ .0001
+p ⫽ .1519
+p ⬍ .0001
+
+⫺.52
+⫺.49
+⫺.33
+.69
+⫺.63
+⫺.64
+
+⫺.49, ⫺.56
+⫺.45, ⫺.53
+⫺.30, ⫺.37
+.66, .72
+⫺.58, ⫺.68
+⫺.59, ⫺.71
+
+⫺.36, ⫺.68
+⫺.34, ⫺.64
+⫺.19, ⫺.47
+.56, .82
+⫺.63, ⫺.63
+⫺.49, ⫺.80
+
+p ⬍ .0001
+p ⬍ .0001
+p ⫽ .0006
+p ⬍ .0001
+p ⫽ .4536
+p ⬍ .0001
+
+37
+25
+40
+35
+7
+5
+
+9,289
+6,443
+15,260
+14,528
+894
+868
+
+.41
+.20
+.35
+⫺.15
+.32
+.35
+
+.39, .44
+.17, .24
+.32, .37
+⫺.11, ⫺.17
+.26, .39
+.30, .40
+
+.30, .53
+.09, .32
+.22, .47
+⫺.05, ⫺.24
+.24, .41
+.35, .35
+
+p ⬍ .0001
+p ⫽ .0023
+p ⬍ .0001
+p ⫽ .0003
+p ⫽ .0903
+p ⫽ .511
+
+.48
+.25
+.43
+⫺.18
+.45
+.39
+
+.45, .51
+.21, .29
+.40, .46
+⫺.15, ⫺.20
+.36, .55
+.34, .44
+
+.34, .61
+.11, .38
+.29, .57
+⫺.07, ⫺.29
+.28, .63
+.39, .39
+
+p ⬍ .0001
+p ⫽ .003
+p ⬍ .0001
+p ⫽ .0004
+p ⫽ .1732
+p ⫽ .511
+
+23
+12
+11
+10
+4
+4
+
+5,499
+1,964
+8,929
+8,867
+408
+585
+
+⫺.10
+⫺.24
+.00
+.03
+⫺.11
+⫺.02
+
+⫺.05, ⫺.14
+⫺.18, ⫺.29
+.02, ⫺.03
+.00, .06
+⫺.07, ⫺.15
+.20, ⫺.24
+
+.06, ⫺.26
+⫺.10, ⫺.37
+.04, ⫺.04
+⫺.04, .10
+⫺.11, ⫺.11
+.39, ⫺.43
+
+p ⬍ .0001
+p ⫽ .0237
+p ⫽ .1434
+p ⫽ .0144
+p ⫽ .8538
+p ⬍ .0001
+
+⫺.14
+⫺.35
+.00
+.04
+⫺.20
+⫺.02
+
+⫺.08, ⫺.20
+⫺.26, ⫺.44
+.03, ⫺.04
+.00, .09
+⫺.12, ⫺.26
+.30, ⫺.35
+
+.09, ⫺.37
+⫺.15, ⫺.55
+.06, ⫺.06
+⫺.06, .14
+⫺.20, ⫺.20
+.58, ⫺.63
+
+p ⬍ .0001
+p ⫽ .0244
+p ⫽ .1433
+p ⫽ .0151
+p ⫽ .9223
+p ⬍ .0001
+
+19
+11
+7
+7
+4
+2
+
+4,625
+1,080
+1,081
+1,438
+408
+185
+
+.12
+.12
+⫺.04
+⫺.05
+.07
+⫺.06
+
+.09, .16
+.09, .16
+.01, ⫺.10
+.02, ⫺.12
+⫺.03, .17
+.13, ⫺.25
+
+.03, .21
+.12, .12
+⫺.04, ⫺.04
+.08, ⫺.18
+.07, .07
+.11, ⫺.23
+
+p ⫽ .0432
+p ⫽ .9596
+p ⫽ .4604
+p ⫽ .0376
+p ⫽ .9718
+p ⫽ .0646
+
+.16
+.16
+⫺.07
+⫺.09
+.11
+⫺.07
+
+.11, .20
+.11, .20
+.02, ⫺.16
+.03, ⫺.20
+⫺.05, .27
+.15, ⫺.29
+
+.04, .27
+.16, .16
+⫺.07, ⫺.07
+.13, ⫺.30
+.11, .11
+.13, ⫺.27
+
+p ⫽ .0506
+p ⫽ .9592
+p ⫽ .4513
+p ⫽ .1497
+p ⫽ .9877
+p ⫽ .0646
+
+10), and happiness (␳ ⫽ ⫺.52, k ⫽ 32). SWB measures that are
+best predicted by Extraversion include happiness (␳ ⫽ .48, k ⫽
+37), positive affect (␳ ⫽ .43, k ⫽ 40), overall affect (␳ ⫽ .45, k ⫽
+7), and quality of life (␳ ⫽ .39, k ⫽ 5).
+Analyses specific to the EPI are reported in Table 4. Neuroticism
+and Extraversion are significantly related to all SWB measures. However, meta-analytic significance testing of the relationship between
+Neuroticism and quality of life was not possible because there was
+
+only one study reporting this relationship. Neuroticism best predicts
+negative affect (␳ ⫽ .54, k ⫽ 23), life satisfaction (␳ ⫽ ⫺.42, k ⫽ 12),
+overall affect (␳ ⫽ ⫺.51, k ⫽ 7), and happiness (␳ ⫽ ⫺.40, k ⫽ 5).
+Extraversion best predicts positive affect (␳ ⫽ .31, k ⫽ 24) and life
+satisfaction (␳ ⫽ .29, k ⫽ 7).
+Independent sample t tests were conducted to compare the
+findings of the present investigation with previous meta-analytic
+findings. Undoubtedly, some of the samples included in our anal-
+
+Table 4
+Meta-Analytic Subjective Well-Being Results for the Eysenck Personality Inventory
+r៮ 95% interval
+Construct
+Neuroticism
+Happiness
+Life satisfaction
+Positive affect
+Negative affect
+Overall affect
+Quality of life
+Extraversion
+Happiness
+Life satisfaction
+Positive affect
+Negative affect
+Overall affect
+Quality of life
+
+␳ 95% interval
+
+K
+
+n
+
+r៮
+
+Confidence
+
+Credibility
+
+Q statistic
+
+␳
+
+Confidence
+
+Credibility
+
+Q statistic
+
+5
+12
+22
+23
+7
+1
+
+1,157
+2,414
+4,332
+4,686
+1,176
+246
+
+⫺.34
+⫺.33
+⫺.15
+.46
+⫺.44
+⫺.26
+
+⫺.26, ⫺.43
+⫺.27, ⫺.39
+⫺.10, ⫺.19
+.40, .48
+⫺.33, ⫺.55
+
+⫺.20, ⫺.49
+⫺.17, ⫺.50
+⫺.01, ⫺.29
+.28, .61
+⫺.18, ⫺.70
+
+p ⫽ .0095
+p ⫽ .0003
+p ⫽ .001
+p ⬍ .0001
+p ⬍ .0001
+
+⫺.40
+⫺.42
+⫺.19
+.54
+⫺.51
+⫺.40
+
+⫺.30, ⫺.49
+⫺.35, ⫺.50
+⫺.13, ⫺.23
+.49, .59
+⫺.38, ⫺.63
+
+⫺.24, ⫺.56
+⫺.22, ⫺.63
+⫺.03, ⫺.34
+.37, .71
+⫺.21, ⫺.80
+
+p ⫽ .0111
+p ⫽ .0005
+p ⫽ .007
+p ⬍ .0001
+p ⬍ .0001
+
+4
+7
+24
+20
+6
+2
+
+1,242
+2,545
+5,014
+4,576
+1,864
+364
+
+.18
+.20
+.25
+⫺.09
+.17
+.21
+
+.06, .30
+.16, .23
+.20, .30
+⫺.05, ⫺.13
+.11, .24
+.11, .31
+
+⫺.04, .39
+.20, .20
+.05, .46
+.03, ⫺.22
+.05, .29
+.20, .22
+
+p ⫽ .0001
+p ⫽ .4826
+p ⬍ .0001
+p ⫽ .0031
+p ⫽ .021
+p ⫽ .1559
+
+.21
+.29
+.31
+⫺.11
+.20
+.32
+
+.07, .36
+.24, .34
+.25, .37
+⫺.06, ⫺.16
+.12, .28
+.16, .46
+
+⫺.04, .47
+.29, .29
+.08, .54
+.04, ⫺.27
+.06, .34
+.32, .32
+
+p ⫽ .0001
+p ⫽ .4602
+p ⬍ .0001
+p ⫽ .003
+p ⫽ .0214
+p ⫽ .2128
+
+PERSONALITY AND SWB
+
+ysis were also included in the previous meta-analyses; however,
+independent sample tests were conducted for two reasons. First,
+most of the samples did not overlap between analyses. Second,
+using independent rather than dependent sample t tests results in
+more conservative findings. Specifically, the happiness, life satisfaction, positive affect, and negative affect uncorrected correlations were compared with those produced by DeNeve and Cooper
+(1998), estimating 285 participants per study (i.e., on the basis of
+their total sample size of 42,171 and 148 studies). All comparative
+analyses are reported in Table 5. In short, 26 out of the possible 36
+comparisons with DeNeve and Cooper’s findings were significantly greater in magnitude, 3 were smaller, and 7 were essentially
+equivalent.
+The intercorrelations between the personality dimensions are
+reported in Table 6, which are needed to conduct the multiple
+regression analyses (i.e., Tables 7, 8, and 9). Correlations are
+below the diagonal, whereas the number of studies per estimate is
+above in parentheses. On average, the sample size is 472 participants per study. Internal consistency reliability is along the diagonal. Most of the substantive intercorrelations were between the
+NEO and the EPQ. The EPI appears to be overshadowed by the
+development of the EPQ, in which researchers, understandably
+given the choice, have preferred to use the newer EPQ exclusively.
+Consistent with Saucier’s (2002) research, these findings suggest
+that the dimensions are not completely orthogonal for the NEO,
+EPQ, or EPI inventories.
+We conducted multivariate analyses using LISREL 8.54 to
+determine the combined and incremental contribution of the personality traits to the prediction of SWB. Tables 7, 8, and 9 provide
+the results of the multiple regression analyses for the NEO, EPQ,
+and EPI, respectively. Beta weights for each personality dimension
+are reported as well as total variance accounted for, both attenuated
+(i.e., R2) and disattenuated (i.e., ␳2). Results range from R2 ⫽ .39
+(␳2 ⫽ .63) for the NEO and quality of life to R2 ⫽ .10 (␳2 ⫽ .10)
+for the EPI and quality of life.
+
+Consistency Analysis
+Moderator searches were conducted to determine the consistency of the results between personality and SWB conceptualiza-
+
+147
+
+tions. The observed residual variance (i.e., the variance after taking
+into account sampling error) among the meta-analytic correlations
+should be largely resistant to demographic differences among the
+studies. To this end, age and sex were available for analysis. To
+ensure adequate sample size and enough statistical power, we
+conducted analyses across all personality scales. Consequently,
+moderator searches focused on Extraversion and Neuroticism,
+which were common across all scales, and these traits represented
+the two strongest correlates. All analyses were weighted by sample
+size, and we controlled for differences among personality scales
+(e.g., the NEO vs. the EPQ) by dummy coding and entering them
+into the regression analyses first. The moderators specific to each
+SWB conceptualization are reported next. As expected, different
+SWB constructs typically appear to be only marginally susceptible
+to moderator effects.
+To begin with, age may affect the Neuroticism and positive
+affect relationship. Slightly stronger correlations may exist when
+participants are younger in age (⌬R2 ⫽ .05, p ⬍ .05). Sex showed
+similar weak effects. For life satisfaction, the relationship increased for women relative to men for both Extraversion (⌬R2 ⫽
+.09, p ⬍ .05) and Neuroticism (⌬R2 ⫽ .07, p ⬍ .05). Also, the
+findings suggest that stronger correlations between Neuroticism
+and negative affect are reported for men compared with women
+(⌬R2 ⫽ .05, p ⫽ .01).
+
+Commensurability Analyses
+We assessed commensurability in two ways. To confirm that
+there are significant difference among the NEO, EPQ, and EPI, we
+compared the amount of variance that the different personality
+models account for in SWB. If these models are equivalent, they
+should account for the same amount of variance in SWB. Second,
+to confirm that we are operating at the correct level of commensurability, we used a moderator search to determine whether differences among versions of the measures significantly impacted
+the results.
+When examining the amount of variance that the personality
+dimensions account for among the SWB constructs (see Tables 7,
+8, and 9), we found important differences. Quality of life typically
+had the most variance accounted for, with an R2 of .39 for the NEO
+
+Table 5
+Significance Testing of Our Findings in Comparison to Previous Meta-Analyses
+Happiness
+Construct
+NEO
+Neuroticism
+Extraversion
+Openness
+Agreeableness
+Conscientiousness
+EPQ
+Neuroticism
+Extraversion
+EPI
+Neuroticism
+Extraversion
+
+Life satisfaction
+
+Positive affect
+
+Negative affect
+
+z
+
+p
+
+z
+
+p
+
+z
+
+p
+
+z
+
+p
+
+5.68a
+⫺6.82a
+⫺1.81
+⫺2.33a
+⫺1.87
+
+.00
+.00
+.07
+.02
+.06
+
+11.34a
+⫺9.17a
+7.16b
+1.43
+0.00
+
+.00
+.00
+.00
+.15
+1.00
+
+12.66a
+⫺20.82a
+⫺2.90a
+2.79b
+⫺7.68a
+
+.00
+.00
+.00
+.01
+.00
+
+⫺28.14a
+7.99a
+3.09a
+3.82a
+5.59a
+
+.00
+.00
+.00
+.00
+.00
+
+12.20a
+⫺8.59a
+
+.00
+.00
+
+12.20a
+⫺2.10a
+
+.00
+.04
+
+9.19a
+⫺13.05a
+
+.00
+.00
+
+⫺29.36a
+6.06a
+
+.00
+.00
+
+3.03a
+2.94b
+
+.00
+.00
+
+4.41a
+⫺1.45
+
+.00
+.15
+
+0.57
+⫺3.09a
+
+.57
+.00
+
+⫺14.56a
+1.11
+
+.00
+.27
+
+Note. NEO ⫽ Neuroticism-Extroversion-Openness Inventory; EPQ ⫽ Eysenck Personality Questionnaire; EPI ⫽ Eysenck Personality Inventory.
+Our correlation is significantly greater in magnitude. b Our correlation is significantly lower in magnitude.
+
+a
+
+STEEL, SCHMIDT, AND SHULTZ
+
+148
+
+Table 6
+Correlations Among NEO, EPQ, and EPI Dimensions
+NEO traits
+Construct
+NEO
+Neuroticism
+Extraversion
+Openness
+Agreeableness
+Conscientiousness
+EPQ
+Neuroticism
+Extraversion
+Psychoticism
+Defensiveness
+EPI
+Neuroticism
+Extraversion
+
+EPQ traits
+
+EPI traits
+
+N
+
+E
+
+O
+
+A
+
+C
+
+N
+
+E
+
+P
+
+D
+
+N
+
+E
+
+.83
+⫺.33
+⫺.09
+⫺.23
+⫺.33
+
+(57)
+.77
+.24
+.19
+.28
+
+(33)
+(28)
+.73
+.10
+.01
+
+(34)
+(28)
+(28)
+.71
+.18
+
+(37)
+(31)
+(28)
+(27)
+.79
+
+(11)
+(9)
+(7)
+(7)
+(7)
+
+(9)
+(11)
+(8)
+(3)
+(6)
+
+(7)
+(6)
+(8)
+(6)
+(4)
+
+(5)
+(5)
+(4)
+(5)
+(4)
+
+(2)
+(2)
+
+(2)
+(2)
+
+.72
+⫺.23
+.11
+⫺.13
+
+⫺.19
+.71
+⫺.06
+⫺.10
+
+.00
+.25
+.07
+⫺.21
+
+⫺.16
+.16
+⫺.29
+.16
+
+⫺.12
+.05
+⫺.21
+.37
+
+.82
+⫺.25
+.08
+⫺.12
+
+(41)
+.84
+.07
+⫺.10
+
+(18)
+(20)
+.64
+⫺.22
+
+(15)
+(14)
+(13)
+.70
+
+.81
+⫺.19
+
+⫺.24
+.65
+
+.84
+⫺.14
+
+(16)
+.79
+
+Note. Correlations are reported below the diagonal, whereas the number of studies used in the analyses is reported in the parentheses above the diagonal.
+Reliability is reported in italics along the diagonal. NEO ⫽ Neuroticism-Extroversion-Openness Inventory; EPQ ⫽ Eysenck Personality Questionnaire;
+EPI ⫽ Eysenck Personality Inventory; N ⫽ Neuroticism; E ⫽ Extraversion; O ⫽ Openness; A ⫽ Agreeableness; C ⫽ Conscientiousness; P ⫽
+Psychoticism; D ⫽ Defensiveness.
+
+and an R2 of .36 for the EPQ. On the other hand, life satisfaction
+typically had the least amount accounted for, ranging from an R2
+of .13 for the EPI to an R2 of .23 for the EPQ. Consequently, the
+different measures of SWB are not interchangeable.
+Furthermore, the amount of variance accounted for differs according to which personality scale is used. The EPI, on average, predicts
+about 14% of the variance, whereas both the NEO and the EPQ
+predict about double that or 28%. It is clear that the choice of which
+scale is used will substantively affect the overall results. Still, there are
+consistencies. Neuroticism always presents the largest beta weights
+except for positive affect, in which Extraversion is the largest, and for
+happiness, in which the results are mixed.
+We can also examine the variance accounted for to assess
+commensurability from another direction. If the measures are
+functionally equivalent, they should not account for incremental
+variance above one another. To evaluate this, we focus on practical
+significance, not statistical, given that the large sample sizes associated with meta-analysis make almost any increase statistically
+
+significant (e.g., ⌬R2 ⫽ .02 is typically significant here at well
+below p ⬍ .001). As per Table 6, all the intercorrelations between
+the EPQ and the NEO are estimated, allowing a full comparison
+between both models. Hierarchical regression reveals that, on
+average, the EPQ incrementally predicts above the NEO by 7%,
+ranging from 3% for positive affect to 14% for quality of life.
+Alternatively, the NEO incrementally predicts above the EPQ by
+9% on average, ranging from 3% for life satisfaction to 17% for
+quality of life. For the EPI, the only cross-correlations are with the
+NEO, and then only for Neuroticism and Extraversion. Limiting
+ourselves to this subset, on average the EPI predicts above the
+NEO by 2%, ranging from 0% for negative and overall affect to
+8% for quality of life. Conversely, the NEO typically predicts
+above the EPI by 15%, ranging from 4% for life satisfaction to
+32% for quality of life. Clearly, the measures are not wholly
+interchangeable.
+Finally, we used moderator analysis to determine the commensurability within the different forms of SWB categories and per-
+
+Table 7
+Results of the Multiple Regression Analysis With the NEO Personality Dimensions
+Beta weights
+NEO variable
+
+Happiness
+
+Life
+satisfaction
+
+Positive
+affect
+
+Negative
+affect
+
+Overall
+affect
+
+Quality
+of life
+
+Neuroticism
+Extraversion
+Openness
+Agreeableness
+Conscientiousness
+Error variance
+R2
+␳2
+
+⫺.30*
+.35*
+.01
+.13*
+.03
+.64*
+.36*
+.43*
+
+⫺.30*
+.17*
+⫺.04*
+.03*
+.07*
+.82*
+.18*
+.24*
+
+⫺.14*
+.33*
+.11*
+⫺.01
+.13*
+.76*
+.24*
+.34*
+
+.52*
+.00
+.03*
+⫺.08*
+⫺.02*
+.70*
+.30*
+.42*
+
+⫺.43*
+.20*
+⫺.05*
+⫺.04
+.02
+.71*
+.29*
+.40*
+
+⫺.38*
+.19*
+.07*
+.06*
+.21*
+.62*
+.39*
+.63*
+
+Note. NEO ⫽ Neuroticism-Extroversion-Openness Inventory.
+*
+p ⬍ .05.
+
+PERSONALITY AND SWB
+
+149
+
+Table 8
+Results of the Multiple Regression Analysis With the EPQ Personality Dimensions
+Beta weights
+EPQ variable
+
+Happiness
+
+Life
+satisfaction
+
+Positive
+affect
+
+Negative
+affect
+
+Overall
+affect
+
+Quality
+of life
+
+Neuroticism
+Extraversion
+Psychoticism
+Defensiveness
+Error variance
+R2
+␳2
+
+⫺.34*
+.34*
+⫺.08*
+.10*
+.69*
+.31*
+.42*
+
+⫺.36*
+.13*
+⫺.21*
+.04*
+.77*
+.23*
+.35*
+
+⫺.20*
+.30*
+⫺.01
+⫺.04*
+.84*
+.16*
+.23*
+
+.56*
+⫺.01
+⫺.01
+.01
+.69*
+.31*
+.48*
+
+⫺.44*
+.22*
+⫺.09*
+.02
+.70*
+.30*
+.50*
+
+⫺.51*
+.21*
+⫺.02
+⫺.10*
+.64*
+.36*
+.47*
+
+Note. EPQ ⫽ Eysenck Personality Questionnaire.
+*
+p ⬍ .05.
+
+sonality measures. To determine whether we should display state
+and trait affect measures separately, we ran a stepwise WLS
+multivariate regression. In the first step, we entered variables
+pertaining to the type of measure (e.g., NEO vs. EPQ) and type of
+affect (i.e., positive vs. negative). For the second step, we entered
+whether it was a state or a trait. The second step added no
+incremental variance, F(1, 660) ⫽ 0.935, ns, and consequently the
+relationship of affect to personality appears to be functionally
+uniform at both a state and trait level. This finding is not entirely
+unexpected.1 It is consistent with two other meta-analyses: DeNeve and Cooper’s (1998) results with positive affect as well as
+Lucas and Fujita’s (2000) finding regarding the effects of sampling
+duration on daily or moment ratings of affect. In a similar manner,
+we examined the effects of long versus short forms as well as
+revised versions for the NEO, the EPQ, and the EPI. No significant
+effects were found, supporting that this meta-analysis is operating
+at the correct level of commensurability.
+
+Common Method Bias Analysis
+There is a possibility of a common method bias affecting our
+results, in which the relationship is due simply to the method of
+measurement rather than the underlying construct. We were able to
+assess this in three different ways. First, we examined the difference between self- versus other-reports. Second, we used the
+multi-trait multi-method approach to examine differences and
+commonalties among measures of personality and SWB constructs. Third, we examined Extraversion and Neuroticism as a
+facet level, controlling for areas of potential overlap.
+To begin with, McCrae and Costa (1991) noted that self-report
+relationships may be criticized as “artifactual, attributable to
+shared method variance in self-reported personality scales and
+self-reported well-being” (p. 230). Three major studies that used
+our target measures examined this (Lucas & Fujita, 2000; McCrae
+& Costa, 1991; Watson, Hubbard, & Wiese, 2000b), testing other–
+other as well as self– other assessments. Other– other relationships,
+in which another assesses both your SWB and personality, actually
+generate much stronger correlations, on average .18 larger in
+magnitude. More directly relevant are self– other relationships, as
+their distinct source design largely eliminates the threat of shared
+error, though results can be hard to interpret as any drop in the
+magnitude of correlations can also be due to the difficulty indi-
+
+viduals have in judging other people’s traits (Funder & Colvin,
+1997). Fortunately, in these cases interpretation was straightforward, as the results were typically unaffected by using dissimilar
+sources; the exception perhaps being Extraversion, where in two
+studies of approximately equal size, the magnitude of correlations
+decreased in one (McCrae & Costa, 1991) and was unaffected in
+the other (Lucas & Fujita, 2000). In all, it appears that the threat of
+common method bias is at most minimal, consistent with Watson,
+Hubbard, and Wiese’s (2000b) conclusion that “most affective
+traits tend to show moderate to strong levels of self-other agreement” (p. 552).
+Second, we used data from Tables 2, 3, 4, and 6 to apply the
+multi-trait multi-method approach for differentiating among constructs. Ideally, correlations among the same construct should
+show the strongest relationships even if assessed with different
+measures. Table 6 reveals that the average correlations among the
+different measures of Neuroticism and Extraversion are .77 and
+.68, respectively. Notably, these figures are approaching that of
+“alternative forms,” as the average internal reliability is .83 for
+Neuroticism and .80 for Extraversion. We can contrast this with
+the average correlation with affect. For Neuroticism and negative
+affect, the correlation is .52, whereas the correlation between
+Extraversion and positive affect is .35. As can be seen, though
+factor models of personality may incorporate affective components, they are not equivalent to them. Neuroticism and Extraversion are broader constructs.
+Finally, we directly assessed criterion contamination. As mentioned, there can be significant overlap between personality and
+SWB constructs. However, it was argued that this is inherently due
+to the nature of personality taxonomies generated with factor
+analysis. They would necessarily incorporate SWB elements if
+other facets of personality already had a strong relationship with
+them. To test this, we examined the key traits of Extraversion and
+1
+State versus trait is a continuous dimension, in which state can reflect
+how one feels right now or over the last week or several months. Although
+state measures were not significantly related to the results obtained here,
+we expect that state measures that exclusively focus on very recent feelings
+(e.g., “how do you feel today?” instead of “this week” or “month”) should
+show a diminished correlation with personality traits, as per Steyer, Ferring, and Schmitt (1992).
+
+STEEL, SCHMIDT, AND SHULTZ
+
+150
+
+Table 9
+Results of the Multiple Regression Analysis With the EPI Personality Dimensions
+Beta weights
+EPI variable
+
+Happiness
+
+Life satisfaction
+
+Positive affect
+
+Negative affect
+
+Overall affect
+
+Quality of life
+
+Neuroticism
+Extraversion
+Error variance
+R2
+␳2
+
+⫺.32*
+.14*
+.87*
+.13*
+.18*
+
+⫺.31*
+.16*
+.87*
+.13*
+.23*
+
+⫺.12*
+.23*
+.92*
+.08*
+.12*
+
+.46*
+⫺.03*
+.79*
+.21*
+.29*
+
+⫺.42*
+.11*
+.79*
+.21*
+.27*
+
+⫺.24*
+.18*
+.90*
+.10*
+.23*
+
+Note. EPI ⫽ Eysenck Personality Inventory.
+*
+p ⬍ .05.
+
+Neuroticism at a facet level, controlling for any potential criterion
+contamination. If common method variance is not a problem,
+results should remain strong or at least drop minimally after
+eliminating any facets that possibly overlap with SWB.
+Using the NEO, we show in Table 10 the correlations among the
+facets of Extraversion, Neuroticism, and SWB. On average, each
+SWB correlation was based on 256 participants, and each facet
+intercorrelation was based on 407 participants. There were three
+SWB constructs that had two or more samples with which to
+estimate: life satisfaction, positive affect, and negative affect. For
+each of these SWB constructs, we examined the percentage of
+variance explained with and without any potentially overlapping
+facets. That is, Extraversion is comprised of the following:
+Warmth, Gregariousness, Assertiveness, Activity, Excitement
+Seeking, and Positive Emotions. We controlled for Positive Emotions. Neuroticism is comprised of the following: Anxiety, Anger,
+Depression, Self Consciousness, Impulsiveness, and Vulnerability.
+We controlled for both Anxiety and Depression.
+
+A multiple regression of Extraversion’s facets on life satisfaction generated an improbably high R2 of .97, indicating that
+some correlates are likely not well estimated with just two
+samples. Still, if we drop Positive Emotions from equation, we
+generate an R2 of .20, which is considerably stronger than the
+R2 of .08 seen between Extraversion and life satisfaction at the
+trait level (see Table 2). Similarly, a multiple regression of life
+satisfaction and Neuroticism’s facets also generated an extremely strong R2 of .69, dropping to .24 when controlling for
+Anxiety and Depression. Again, at the trait level, the R2 between the two is just .14 (see Table 2).
+Positive and negative affect had more samples with which to
+estimate and consequently proved to be better behaved. Positive
+affect’s R2 with Extraversion’s facets was .50, dropping to .44 after
+controlling for Positive Emotions. Its relationship with Neuroticism’s facets was .26, dropping to .21 after controlling for Anxiety
+and Depression. For negative affect, Extraversion’s R2 was .10,
+which was unaffected by dropping Positive Emotions. For Neu-
+
+Table 10
+Correlations Among Facet Scales and SWB Dimensions
+Neuroticism
+Variable
+Neuroticism
+1. Anxiety
+2. Anger
+3. Depression
+4. Self-consciousness
+5. Impulsiveness
+6. Vulnerability
+Extraversion
+7. Warmth
+8. Gregariousness
+9. Assertiveness
+10. Activity
+11. Excitement seeking
+12. Positive emotions
+SWB
+13. Life satisfaction
+14. Positive affect
+15. Negative affect
+
+Extraversion
+
+SWB
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+.78
+.58
+.80
+.76
+.45
+.78
+
+(3)
+.75
+.66
+.5
+.57
+.58
+
+(3)
+(3)
+.81
+.81
+.52
+.80
+
+(3)
+(3)
+(3)
+.69
+.44
+.76
+
+(3)
+(3)
+(3)
+(3)
+.70
+.50
+
+(3)
+(3)
+(3)
+(3)
+(3)
+.77
+
+(2)
+(2)
+(2)
+(2)
+(2)
+(2)
+
+(2)
+(2)
+(2)
+(2)
+(2)
+(2)
+
+(2)
+(2)
+(2)
+(2)
+(2)
+(2)
+
+(2)
+(2)
+(2)
+(2)
+(2)
+(2)
+
+(2)
+(2)
+(2)
+(2)
+(2)
+(2)
+
+(2)
+(2)
+(2)
+(2)
+(2)
+(2)
+
+(2)
+(2)
+(2)
+(2)
+(2)
+(2)
+
+(3)
+(3)
+(3)
+(3)
+(4)
+(3)
+
+(4)
+(3)
+(4)
+(3)
+(3)
+(3)
+
+⫺.09
+⫺.08
+⫺.32
+⫺.07
+0
+⫺.10
+
+⫺.34
+⫺.2
+⫺.05
+.12
+.16
+⫺.16
+
+⫺.25
+⫺.24
+⫺.39
+⫺.18
+⫺.01
+⫺.24
+
+⫺.29
+⫺.3
+⫺.58
+⫺.15
+⫺.15
+⫺.16
+
+.03
+.07
+⫺.04
+.09
+.38
+.24
+
+⫺.23
+⫺.12
+⫺.52
+⫺.31
+⫺.09
+⫺.25
+
+.74
+.69
+.42
+.34
+.26
+.73
+
+(3)
+.73
+.34
+.45
+.53
+.48
+
+(3)
+(3)
+.77
+.63
+.32
+.32
+
+(3)
+(3)
+(3)
+.63
+.55
+.63
+
+(3)
+(3)
+(3)
+(3)
+.65
+.51
+
+(3)
+(3)
+(3)
+(3)
+(3)
+.74
+
+(3)
+(3)
+(3)
+(3)
+(3)
+(3)
+
+(3)
+(3)
+(4)
+(4)
+(4)
+(4)
+
+(3)
+(3)
+(3)
+(3)
+(3)
+(3)
+
+⫺.31
+⫺.29
+.64
+
+⫺.35
+⫺.09
+.58
+
+⫺.49
+⫺.39
+.64
+
+⫺.43
+⫺.33
+.55
+
+⫺.12
+⫺.13
+.44
+
+⫺.39
+⫺.42
+.63
+
+.26
+.44
+⫺.23
+
+.29
+.36
+⫺.10
+
+.37
+.46
+⫺.20
+
+.17
+.65
+⫺.23
+
+.23
+.32
+⫺.06
+
+.46
+.59
+⫺.27
+
+.84
+.82
+.85
+
+Note. Correlations are reported below the diagonal, whereas the number of studies used in the analyses is reported in parentheses above the diagonal.
+Reliability is reported in italics along the diagonal. SWB ⫽ subjective well-being.
+
+PERSONALITY AND SWB
+
+roticism, negative affect’s R2 was .50, dropping to .47 when
+controlling for criterion contamination.
+These results strongly indicate that criterion contamination is
+not a significant issue. First, typically the decrease in the relationship was minor, with the exception of life satisfaction, which
+generated improbably large initial figures. Second, regardless of
+the SWB construct examined, the relationship remained strong
+after dropping potentially overlapping facets. In other words, the
+relationship between SWB and personality appears to be “genuine,” with any enhancement due to common method bias being
+slight and nonsubstantive.
+
+Discussion
+There are several lines of inquiry that indicates SWB and
+personality should be strongly related. To begin with, there is
+support for numerous strong direct and indirect relationships between SWB and personality, such as common biological mechanisms. Second, the two constructs are often operationalized similarly, and twin studies have indicated that a substantial portion of
+stable SWB is likely due to traits. Finally, theory indicates that
+personality should have stronger associations with SWB in less
+powerful situations; thus, job satisfaction, rather than life satisfaction, should demonstrate lower correlations with personality traits.
+Our findings are now consistent with each of these notions.
+The results of the present investigation indicate that personality
+traits play a much greater role in determining an individual’s
+general level of SWB than previously thought. Almost every
+comparable analysis produced correlations of a greater magnitude
+relative to DeNeve and Cooper’s (1998) meta-analytic findings.
+The size of the difference is clearly evident when examining
+Extraversion and Neuroticism, in which the observed relationships
+often doubled, tripled, and even quadrupled. For example, DeNeve
+and Cooper found that Extraversion accounted for approximately
+4% of the variance for positive affect, whereas the present analysis
+indicates it is as high as 19% (i.e., with the NEO) or 28%
+disattenuated. Similarly, the NEO Neuroticism scale accounted for
+29% of the variance in negative affect, or 41% disattenuated,
+whereas previous findings suggested 5%. Furthermore, we have
+also considered the combined relationship of personality to SWB
+using multivariate meta-analytic regression. For this analysis, findings reached as high as 39% of the variance or 63% disattenuated,
+between the NEO and quality of life measures.
+The primary reason for the difference in findings appears to be
+commensurability. Though there is a wide assortment of potential
+moderator effects, from demographics to research design, consistently one of the largest factors is scale differences. In other words,
+scales or measures that nominally appear identical may actually
+possess quite different properties. This appears to be especially
+true for personality. As shown here, the SWB relationships for the
+EPI and the EPQ, despite both being developed by Eysenck and
+the latter being based on the former, are substantially different.
+Unfortunately, though these findings indicate that aggregating
+various personality measures considerably reduces precision, testing the equivalence of scales is very sporadic (Cortina, 2003; Doty
+& Glick, 1998). Still, such “clumping” may be necessary for any
+early investigation, as there simply may not be enough studies to
+properly pursue the matter. As previously mentioned, DeNeve and
+Cooper’s (1998) groundbreaking meta-analysis contained only
+
+151
+
+five SWB studies examining Psychoticism, a fraction of what is
+presently available. Similarly, Lucas and Fujita (2000) found 17
+samples to examine the relationship that the NEO Extraversion
+scale has with positive/pleasant affect, compared with the 52
+samples in the present meta-analysis.
+These results mean that personality is extremely important for
+understanding SWB. Notably, it helps explain the happiness paradox, that as countries or people become very wealthy, SWB fails
+to improve or even declines (e.g., Duncan, 2005; Easterlin, 2001).
+These findings are a particular challenge to economists, who
+equate wealth with increased options and consequently increased
+utility (i.e., satisfaction). However, it is consistent with the findings here regarding direct and indirect effects of personality on
+SWB. Specifically, wealth is going to have little effect on biological processes and may even adversely affect other SWB pathways,
+such as interpersonal relations (Baumeister & Leary, 1995; Güliz,
+1997; Scitovsky, 1976). Consequently, there is much untapped
+potential in psychology for informing public policy, especially
+because personality appears to have a stronger relationship with
+SWB at a national level than individual (Lynn & Steel, 2006; Steel
+& Ones, 2002). Specifically, by taking into account the effects of
+personality, both direct and indirect, we could significantly increase societal well-being (Diener, 2000). If, for example, desirable personality traits are malleable during early developmental
+years (e.g., Schore, 2001), extended maternity/paternity leave
+could help parents take advantage of these critical periods. Alternatively, if impulsiveness (i.e., self-control) problems are at the
+root of unhappiness, many of them can be mitigated at a national
+level (Elster, 2000; Thaler & Sunstein, 2003), and indeed some
+presently are (i.e., retirement savings programs; DiCenzo, 2007).
+On the other hand, that long-term happiness is largely contingent on internal characteristics does have sinister societal implications. As Frederick and Loewenstein (1999) discussed, one
+consequence of hedonic adaptation is that moral offense erodes
+over time. Though we may immediately rage against outrages to
+others, if they can be perpetuated for a few years, we typically will
+just adapt and habituate. Consequently, our humanity is more
+fragile and malleable than we might care to believe. For example,
+as Simone de Beauvoir noted—a passionate opponent of torture
+during France’s war in Algeria—at first “the burns in the face, on
+the sexual organs, the nails torn out, the impalements, the shrieks,
+the convulsions, outraged me,” but a few years later in 1961 “like
+many of my fellow man, I suffer from a kind of tetanus of the
+imagination . . . One gets used to it” (Talbott, 1980, p. 93).
+To further our understanding of SWB, we now need to return to
+a more detailed examination of personality. The benefits of further
+SWB analysis with the five-factor model will invariably show
+diminishing returns. Also, as Diener (1996) discussed, it provides
+some but limited insight into etiology. Exactly how are personality
+traits related to SWB? As an intervening step toward explanatory
+research, it would be fruitful to consider more research between
+SWB and personality at a facet level. We located only a few
+studies investigating SWB at this level of precision, but the results
+are extremely promising. A facet level analysis accounted for
+approximately double the amount of variance than at a trait level.
+This is consistent with Schimmack, Oishi, Furr, and Funder’s
+(2004) position. Mathematically, three events could occur at the
+facet level that would affect the total variance accounted for at an
+aggregated trait level. First, only a few variables may be related to
+
+152
+
+STEEL, SCHMIDT, AND SHULTZ
+
+SWB, meaning the other irrelevant facets are essentially adding
+“error” in this context. Second, even if all the facets were relevant,
+they are equally weighted, which is unlikely to be favorable.
+Studying SWB at a facet level with multiple regression gives
+optimal weights. Third, individual facets, though positively correlated with each other, may have correlations with SWB in the
+opposite direction (e.g., Tett, Steele, & Beauregard, 2003).
+In addition, estimates could be further refined by exploring
+possible interaction effects. Though Extraversion and Neuroticism
+both have main effects upon SWB, it is possible that being both
+introverted and neurotic further decreases one’s happiness (Hotard,
+McFatter, McWhirter, & Stegall, 1989; Pavot et al., 1990). More
+recently, Yik and Russell (2001) indicated that this interaction
+incrementally explains approximately 3% of the variance, whereas
+Lynn and Steel (2006) found it to be as high as 14%–19% using
+national-level data. As our research base expands, we should seek
+to meta-analytically summarize and incorporate this effect in our
+estimates.
+Also, as our research base expands, we should attempt to control
+and test for scale and measurement differences whenever possible.
+Even in this study, in which commensurability was a focal issue,
+we collapsed scales into SWB categories using theoretically based
+dimensions. Because of the sheer number of scales used to measure SWB, and that none have dominated the literature, we cannot
+use the same highly focused strategy that was employed for
+personality. For this reason, we used many categories of SWB to
+keep the constructs as precise as possible while also keeping the
+sample size sufficient to obtain meaningful results. Moreover,
+careful judgments were used to both include and exclude particular
+measures. For example, certain measures—such as the General
+Health Questionnaire (D. Goldberg, 1978) and the Goldberg scales
+(D. Goldberg, Bridges, Duncan-Jones, & Grayson, 1988)—were
+excluded because they tap more into the clinical depression construct than to facets of SWB. The relationship between personality
+and depression or anxiety is interesting but beyond the scope of
+this investigation.
+This indicates that there is still much to be done in determining
+whether there are more significant differences for SWB and other
+personality and attitudinal measures (e.g., self-esteem, optimism,
+and anxiety), though some work has already been conducted. If we
+consider SWB specifically, Lucas and Fujita (2000) found, consistent with our results, that EPI Extraversion produces lower
+correlations with pleasant affect than the NEO or EPQ scales as
+well as method of measurement effects (e.g., self- vs. other-ratings,
+daily diary vs. global). Thoresen et al. (2003) found that using
+Extraversion and Neuroticism as proxies for positive and negative
+affect generated significantly different results. Similarly, Connolly
+and Viswesvaran (2000) observed a significant difference among
+the job satisfaction measures, specifically for the Job Descriptive
+Index (Balzer et al., 1997) and the Minnesota Satisfaction Questionnaire (D. J. Weiss, Dawis, England, & Lofquist, 1967). Also,
+Judge, Heller, and Mount (2002) located several significant differences among the gamut of job satisfaction measures included in
+their analysis. Finally, the relationship of job facet scales to global
+job satisfaction is tenuous, even if all of the facets are used in the
+estimation (Ironson, Smith, Brannick, Gibson, & Paul, 1989; Jackson & Corr, 2002; H. M. Weiss, 2002).
+In summary, the results of this review not only indicate that
+personality is substantially related to SWB but also that the rela-
+
+tionship is typically much stronger than previously thought. Importantly, these results do not appear to be due to measurement
+error, such as using self-report data or criterion contamination. On
+the other hand, the findings do suggest that commensurability is
+indeed a potential problem that researchers need to acknowledge.
+Clearly, careful decisions need to be made with respect to the
+aggregation of measures to ensure meta-analysis does not degrade
+into H. J. Eysenck’s (1978, p. 517) “mega-silliness.”
+
+References
+References marked with an asterisk indicate studies included in the
+meta-analysis; those marked with a dagger indicate studies included in the
+Table 5 and Table 6 analyses.
+*
+
+Affleck, G., Tennen, H., Urrows, S., & Higgins, P. (1992). Neuroticism
+and the pain mood relation in rheumatoid arthritis: Insights from a
+prospective daily study. Journal of Consulting and Clinical Psychology,
+60, 119 –126.
+*
+Affleck, G., Tennen, H., Urrows, S., & Higgins, P. (1994). Person and
+contextual features of daily stress reactivity: Individual differences in
+relations of undesirable daily events with mood disturbance and chronic
+pain intensity. Journal of Personality and Social Psychology, 66, 329 –
+340.
+*†
+Allik, J., & Realo, A. (1997). Emotional experience and its relation to the
+five-factor model in Estonian. Journal of Personality, 65, 625– 647.
+Aluja, A., Garcı́a, O., & Garcı́a, L. F. (2004). Replicability of the three,
+four and five Zuckerman’s personality super-factors: Exploratory and
+confirmatory factor analysis of the EPQ-RS, ZKPQ and NEO-PI-R.
+Personality and Individual Differences, 36, 1093–1108.
+Anderson, C., John, O. P., Keltner, D., & Kring, A. M. (2001). Who attains
+social status? Effects of personality and physical attractiveness in social
+groups. Journal of Personality and Social Psychology, 81, 116 –132.
+Anderson, K. L., & Burckhardt, C. S. (1999). Conceptualization and
+measurement of quality of life as an outcome variable for health care
+intervention and research. Journal of Advanced Nursing, 29, 298 –306.
+Andrews, F. M., & Withey, S. B. (1976). Social indicators of well-being:
+Americans’ perceptions of life quality. New York: Platenum Press.
+Angeletos, G.-M., Laibson, D., Repetto, A., Tobacman, J., & Weinberg, S.
+(2001). The hyperbolic consumption model: Calibration, simulation, and
+empirical evaluation. Journal of Economic Perspectives, 15, 47– 68.
+*
+Argyle, M., & Lu, L. (1990a). The happiness of extraverts. Personality
+and Individual Differences, 11, 1011–1017.
+*
+Argyle, M., & Lu, L. (1990b). Happiness and social skills. Personality
+and Individual Differences, 11, 1255–1261.
+Argyle, M., Martin, M., & Crossland, J. (1989). Happiness as a function of
+personality and social encounters. In J. P. Forgas & J. M. Innes (Eds.),
+Recent advances in social psychology: An international perspective
+(pp.189 –203). North-Holland, the Netherlands: Elsevier.
+*
+Arrindell, W. A., Meeuwesen, L., & Huyse, F. J. (1991). The Satisfaction
+With Life Scale (SWLS): Psychometric properties in a nonpsychiatric
+medical outpatients sample. Personality and Individual Differences, 12,
+117–123.
+Arthaud-Day, M. L., Rode, J. C., Mooney, C. H., & Near, J. P. (2005). The
+subjective well-being construct: A test of its convergent, discriminant,
+and factorial validity. Social Indicators Research, 74, 445– 476.
+Averill, J. R., & More, T. A. (1993). Happiness. In L. Michael & J. M.
+Haviland (Eds.), Handbook of emotions (pp. 617– 629). New York:
+Guilford Press.
+*†
+Avia, M. D., Sanz, J., Sanchezbernardos, M. L., Martinezarias, M. R.,
+Silva, F., & Grana, J. L. (1995). Relations of the NEO-PI with other
+personality variables. Personality and Individual Differences, 19, 81–97.
+*†
+Bachorowski, J. A., & Braaten, E. B. (1994). Emotional intensity: Measurement and theoretical implications. Personality and Individual Differences, 17, 191–199.
+
+PERSONALITY AND SWB
+Balzer, W. K., Kihm, J. A., Smith, P. C., Irwin, J. L., Bachiochi, P. D.,
+Robie, C., et al. (1997). User’s manual for the Job Descriptive Index and
+the Job in General scales. Bowling Green, OH: Bowling Green State
+University.
+Barrett, P. T., & Eysenck, S. B. G. (1992). Predicting EPQR full scale
+scores from the short form version. Personality and Individual Differences, 13, 851– 853.
+Barrick, M. R., & Mount, M. K. (1991). The Big Five personality dimensions and job performance: A meta-analysis. Personnel Psychology, 44,
+1–26.
+†
+Barton, J., Spelten, E., Totterdell, P., Smith, L., Folkard, S., & Costa, G.
+(1995). The Standard Shiftwork Index: A battery of questionnaires for
+assessing shiftwork-related problems. Work and Stress, 9, 4 –30.
+Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for
+interpersonal attachments as a fundamental human motivation. Psychological Bulletin, 117, 497–529.
+Belsky, J., Jaffee, S. R., Caspi, A., Moffitt, T., & Silva, P. A. (2003).
+Intergenerational relationships in young adulthood and their life course,
+mental health, and personality correlates. Journal of Family Psychology,
+17, 460 – 471.
+*
+Bettencourt, B. A., & Dorr, N. (1997). Collective self-esteem as a mediator of the relationship between allocentrism and subjective well-being.
+Personality and Social Psychology Bulletin, 23, 955–964.
+*
+Bianchi, G. N., & Fergusson, D. M. (1977). The effect of mental state on
+EPI scores. British Journal of Psychiatry, 131, 306 –309.
+*†
+Blatny, M. (2001). Personality determinants of self-esteem and life
+satisfaction: Gender differences. Ceskoslovenska Psychologie, 45, 385–
+392.
+Block, J. (2001). Millennial contrarianism: The five-factor approach to
+personality description 5 years later. Journal of Research in Personality,
+35, 98 –107.
+Bogg, T., & Roberts, B. W. (2004). Conscientiousness and health-related
+behaviors: A meta-analysis of the leading behavioral contributors to
+mortality. Psychological Bulletin, 130, 887–919.
+*†
+Boudreau, J. W., & Boswell, W. R. (2001). Effects of personality on
+executive career success in the United States and Europe. Journal of
+Vocational Behavior, 58, 53– 81.
+†
+Boudreau, J. W., Boswell, W. R., Judge, T. A., & Bretz, R. D. (2001).
+Personality and cognitive ability as predictors of job search among
+employed managers. Personnel Psychology, 54, 25–50.
+*†
+Brackett, M. A., & Mayer, J. D. (2003). Convergent, discriminant, and
+incremental validity of competing measures of emotional intelligence.
+Personality and Social Psychology Bulletin, 29, 1147–1158.
+Bradburn, N. M. (1969). The structure of psychological well-being. Chicago: Aldine.
+*†
+Bradley, B. P., & Mogg, K. (1994). Mood and personality in recall of
+positive and negative information. Behavior Research and Therapy, 32,
+137–141.
+Brand, C. R. (1997). Hans Eysenck’s personality dimensions: Their number and nature. In H. Nyborg (Ed.), The scientific study of human nature:
+Tribute to Hans J. Eysenck at Eighty (pp. 17–35). Oxford, England:
+Pergamon/Elsevier Science.
+*
+Brebner, J. (1998). Happiness and personality. Personality and Individual
+Differences, 25, 279 –296.
+*
+Brebner, J., Donaldson, J., Kirby, N., & Ward, L. (1995). Relationships
+between happiness and personality. Personality and Individual Differences, 19, 251–258.
+*†
+Brebner, J., & Martin, M. (Eds.). (1995). Testing for stress and happiness: The role of personality factors (Vol. 15). Philadelphia: Taylor &
+Francis.
+*
+Brown, K. W., & Moskowitz, D. S. (1997). Does unhappiness make you
+sick? The role of affect and neuroticism in the experience of common
+physical symptoms. Journal of Personality and Social Psychology, 72,
+907–917.
+
+*
+
+153
+
+Burger, J. M., & Caldwell, D. F. (2000). Personality, social activities,
+job-search behavior and interview success: Distinguishing between PANAS trait positive affect and NEO extraversion. Motivation and Emotion, 24, 51– 62.
+*
+Burroughs, J. E., & Rindfleisch, A. (2002). Materialism and well-being: A
+conflicting values perspective. Journal of Consumer Research, 29, 348 –
+370.
+Campbell, A., Converse, P. E., & Rodgers, W. L. (1976). The quality of
+American life: Perceptions, evaluations, and satisfactions. New York:
+Russell Sage Foundation.
+Caruso, J. C., Witkiewitz, K., Belcourt-Dittloff, A., & Gottlieb, J. D.
+(2001). Reliability of scores from the Eysenck Personality Questionnaire: A reliability generalization study. Educational and Psychological
+Measurement, 61, 675– 689.
+Carver, C. S. (2004). Negative affects deriving from the behavioral approach system. Emotion, 4, 3–22.
+*
+Carver, C. S., & White, T. L. (1994). Behavioral-inhibition, behavioral
+activation, and affective responses to impending reward and punishment:
+The Bis Bas scales. Journal of Personality and Social Psychology, 67,
+319 –333.
+†
+Cavanaugh, M. A., Boswell, W. R., Roehling, M. V., & Boudreau, J. W.
+(2000). An empirical examination of self-reported work stress among
+U.S. managers. Journal of Applied Psychology, 85, 65–74.
+*
+Chambers, B. J. (2004). Adjustment to career termination in professional
+hockey players. Unpublished doctoral dissertation, Simon Fraser University, Burnaby, British Columbia, Canada.
+*†
+Chan, R., & Joseph, S. (2000). Dimensions of personality, domains of
+aspiration, and subjective well-being. Personality and Individual Differences, 28, 347–354.
+*
+Chang, E. C. (1997). Positive and negative affectivity for academic and
+interpersonal domains: Relations to general affectivity, extraversion, and
+neuroticism. Personality and Individual Differences, 22, 929 –932.
+*†
+Chay, Y. W. (1993). Social support, individual differences and wellbeing: A study of small business entrepreneurs and employees. Journal
+of Occupational and Organizational Psychology, 66, 285–302.
+*
+Cheng, H., & Furnham, A. (2003). Personality, self-esteem, and demographic predictions of happiness and depression. Personality and Individual Differences, 34, 921–942.
+Cloninger, C. R. (2000). Biology of personality dimensions. Current Opinion in Psychiatry, 13, 611– 616.
+Cloninger, C. R., Svrakic, D. M., & Przybeck, T. R. (1993). A psychobiological model of temperament and character. Archives of General
+Psychiatry, 50, 975–990.
+*
+Cohen, S., Gwaltney, J. M., Doyle, W. J., Skoner, D. P., Fireman, P., &
+Newsom, J. T. (1995). State and trait negative affect as predictors of
+objective and subjective symptoms of respiratory viral infections. Journal of Personality and Social Psychology, 68, 159 –169.
+*
+Compton, W. C., Smith, M. L., Cornish, K. A., & Qualls, D. L. (1996).
+Factor structure of mental health measures. Journal of Personality and
+Social Psychology, 71, 406 – 413.
+Connolly, J. J., & Viswesvaran, C. (2000). The role of affectivity in job
+satisfaction: A meta-analysis. Personality and Individual Differences,
+29, 265–281.
+*
+Cooper, H., Okamura, L., & Gurka, V. (1992). Social activity and subjective well-being. Personality and Individual Differences, 13, 573–583.
+*
+Cooper, H., Okamura, L., & McNeil, P. (1995). Situation and personality
+correlates of psychological well-being: Social activity and personal
+control. Journal of Research in Personality, 29, 395– 417.
+Cortina, J. M. (2003). Apples and oranges (and pears, oh my!): The search
+for moderators in meta-analysis. Organizational Research Methods, 6,
+415– 439.
+*†
+Costa, P. T., & McCrae, R. R. (1980). Influence of extraversion and
+neuroticism on subjective well-being: Happy and unhappy people. Journal of Personality and Social Psychology, 38, 668 – 678.
+
+154
+†
+
+STEEL, SCHMIDT, AND SHULTZ
+
+Costa, P. T., & McCrae, R. R. (1992). Revised NEO Personality Inventory
+(NEO PI-R) and NEO Five-Factor Inventory professional manual.
+Odessa, FL: Psychological Assessment Resources.
+*†
+Costa, P. T., & McCrae, R. R. (1995). Primary traits of Eysenck P-E-N
+system—3-factor and 5-factor solutions. Journal of Personality and
+Social Psychology, 69, 308 –317.
+*†
+Costa, P. T., McCrae, R. R., & Dye, D. A. (1991). Facet scales for
+agreeableness and conscientiousness: A revision of the NEO
+Personality-Inventory. Personality and Individual Differences, 12, 887–
+898.
+*
+Cote, S., & Moskowitz, D. S. (1998). On the dynamic covariation between
+interpersonal behavior and affect: Prediction from neuroticism, extraversion, and agreeableness. Journal of Personality and Social Psychology, 75, 1032–1046.
+*†
+Courneya, K. S., Bobick, T. M., Rhodes, R. E., Jones, L. W., Friedenreich, C. M., & Arthur, K. (2000). Personality correlates of patients’
+subjective well-being after surgery for colorectal cancer: An application
+of the five-factor model. Journal of Psychosocial Oncology, 18, 61–72.
+*
+Daniels, K. (1999). Coping and the job demands-control-support model:
+An exploratory study. International Journal of Stress Management, 6,
+125–144.
+*
+David, J. P., Green, P. J., Martin, R., & Suls, J. (1997). Differential roles
+of neuroticism, extraversion, and event desirability for mood in daily
+life: An integrative model of top-down and bottom-up, influences.
+Journal of Personality and Social Psychology, 73, 149 –159.
+Davidson, R. J. (2005). Well-being and affective style: Neural substrates
+and biobehavioral correlates. In F. Huppert, N. Baylis, & B. Keverne
+(Eds.), The science of well-being (pp. 107–139). Oxford, England:
+Oxford University Press.
+*†
+de Frias, C. M., Dixon, R. A., & Backman, L. (2003). Use of memory
+compensation strategies is related to psychosocial and health indicators.
+Journals of Gerontology Series B: Psychological Sciences and Social
+Sciences, 58, 12–22.
+*†
+Deluga, R. J., & Masson, S. (2000). Relationship of resident assistant
+conscientiousness, extraversion, and positive affect with rated performance. Journal of Research in Personality, 34, 225–235.
+DeNeve, K. M., & Cooper, H. (1998). The happy personality: A metaanalysis of 137 personality traits and subjective well-being. Psychological Bulletin, 124, 197–229.
+Depue, R. A., & Collins, P. F. (1999). Neurobiology of the structure of
+personality: Dopamine, facilitation of incentive motivation, and extraversion. Behavioral and Brain Sciences, 22, 491–569.
+*†
+DeRenzo, E. G. (1987). The relationship of the personality traits neuroticism, extraversion and openness to experience, and age, education,
+health and social support to well-being in a group of wives of retired
+military officers. Unpublished doctoral dissertation, University of Maryland, College Park.
+DiCenzo, J. (2007). Behavioral finance and retirement plan contributions:
+How participants behave, and prescriptive solutions. EBRI Issue Brief,
+301, 1–19.
+Diener, E. (1996). Traits can be powerful, but are not enough: Lessons
+from subjective well-being. Journal of Research in Personality, 30,
+389 –399.
+Diener, E. (2000). Subjective well-being: The science of happiness and a
+proposal for a national index. American Psychologist, 55, 34 – 43.
+Diener, E., & Diener, C. (1996). Most people are happy. Psychological
+Science, 7, 181–185.
+*
+Diener, E., & Emmons, R. A. (1984). The independence of positive and
+negative affect. Journal of Personality and Social Psychology, 47,
+1105–1117.
+*
+Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The
+Satisfaction With Life Scale. Journal of Personality Assessment, 49(1),
+71–75.
+Diener, E., Eunkook, M. S., Lucas, R. E., & Smith, H. L. (1999). Subjec-
+
+tive well-being: Three decades of progress. Psychological Bulletin, 125,
+276 –302.
+Diener, E., & Lucas, R. R. (1999). Personality and subjective well-being.
+In E. Kahneman, E. Diener, & N. Schwarz (Eds.), Well-being: The
+foundations of hedonic psychology (pp. 213–229). New York: Russell
+Sage Foundation.
+Donnellan, M. B., Larsen-Rife, D., & Conger, R. D. (2005). Personality,
+family history, and competence in early adult romantic relationships.
+Journal of Personality and Social Psychology, 88, 562–576.
+*†
+Donofrio, A. (2005). The relationship between the five-factor model of
+personality and relationally-based measures of Judeo-Christian spirituality: A correlational analysis between NEO-PI-R facet scores and
+subscales of the Spiritual Assessment Inventory and Faith Maturity
+Scale. Unpublished doctoral dissertation, University of Akron, OH.
+*
+Dorn, L., & Matthews, G. (1995). Prediction of mood and risk appraisals
+from trait measures—2 studies of simulated driving. European Journal
+of Personality, 9, 25– 42.
+Doty, D. H., & Glick, W. H. (1998). Common methods bias: Does common
+methods variance really bias results? Organizational Research Methods,
+1, 374 – 406.
+*
+Doxsee, D. J. (1999). Hindering events in group counseling and psychotherapy. Unpublished doctoral dissertation, University of Missouri, Columbia.
+Duncan, G. (2005). What do we mean by “happiness”? The relevance of
+subjective well-being to social policy. Social Policy Journal of New
+Zealand, 25, 16 –31.
+Easterlin, R. (2001). Income and happiness: Towards a unified theory.
+Economic Journal, 111, 465– 484.
+Eid, M., Riemann, R., Angleitner, A., & Borkenau, P. (2003). Sociability
+and positive emotionality: Genetic and environmental contributions to
+the covariation between different facets of extraversion. Journal of
+Personality, 71, 319 –346.
+†
+Elfering, A., Semmer, N. K., & Kalin, W. (2000). Stability and change in
+job satisfaction at the transition from vocational training into “real
+work”. Swiss Journal of Psychology, 59, 256 –271.
+*
+Elliot, A. J., & Thrash, T. M. (2002). Approach–avoidance motivation in
+personality: Approach and avoidance temperaments and goals. Journal
+of Personality and Social Psychology, 82, 804 – 818.
+Elster, J. (2000). Ulysses unbound: Studies in rationality, precommitment,
+and constraints. New York: Cambridge University Press.
+*
+Emmons, R. A., & Diener, E. (1985). Personality correlates of subjective
+well-being. Personality and Social Psychology Bulletin, 11, 89 –97.
+*†
+Emmons, R. A., & Diener, E. (1986). Influence of impulsivity and
+sociability on subjective well-being. Journal of Personality and Social
+Psychology, 50, 1211–1215.
+*
+Emmons, R. A., Diener, E., & Larsen, R. J. (1986). Choice and avoidance
+of everyday situations and affect congruence—2 models of reciprocal
+interactionism. Journal of Personality and Social Psychology, 51, 815–
+826.
+Eysenck, H. J. (1967). The biological basis of personality. Springfield, IL:
+Charles C. Thomas.
+Eysenck, H. J. (1978). An exercise in mega-silliness. American Psychologist, 33, 517.
+Eysenck, H. J., & Eysenck, S. B. G. (1964). Manual of the Eysenck
+Personality Inventory. San Diego, CA: Educational and Industrial Testing Service.
+Eysenck, H. J., & Eysenck, S. B. G. (1975). Manual for the Eysenck
+Personality Questionnaire (Junior and Adult). London: Hodder &
+Stoughton.
+Eysenck, S. B. G., Eysenck, H. J., & Barrett, P. (1985). A revised version
+of the Psychoticism Scale. Personality and Individual Differences, 6,
+21–29.
+Felce, D., & Perry, J. (1995). Quality of life: Its definition and measurement. Research in developmental disabilities, 16, 51–74.
+
+PERSONALITY AND SWB
+*
+
+Ferrario, S. R., Cardillo, V., Vicario, F., Balzarini, E., & Zotti, A. M.
+(2004). Advanced cancer at home: Caregiving and bereavement. Palliative Medicine, 18, 129 –136.
+*
+Ferrario, S. R., Zotti, A. M., Baroni, A., Cavagnino, A., & Fornara, R.
+(2002). Emotional reactions and practical problems of the caregivers of
+hemodialysed patients. Journal of Nephrology, 15, 54 – 60.
+*
+Ferrario, S. R., Zotti, A. M., Massara, G., & Nuvolone, G. (2003). A
+comparative assessment of psychological and psychosocial characteristics of cancer patients and their caregivers. Psycho-Oncology, 12, 1–7.
+*†
+Fierro, A., & Cardenal, V. (1996). Dimensions of personality and personal satisfaction and personality. Revista de Psicologia General y
+Aplicada, 49, 65– 81.
+*†
+Finch, J. F., Okun, M. A., Barrera, M., Zautra, A. J., & Reich, J. W.
+(1989). Positive and negative social ties among older adults: Measurement models and the prediction of psychological distress and well-being.
+American Journal of Community Psychology, 17, 585– 605.
+Fordyce, M. W. (1977). The happiness measures: A thirty second index of
+emotional well-being and mental health. Unpublished manuscript, Edison Community College, Fort Myers, FL.
+*†
+Fortunato, V. J., & Stone-Romero, E. F. (1999). Taking the strain out of
+negative affectivity: Development and initial validation of scores on a
+strain-free measure of negative affectivity. Educational and Psychological Measurement, 59, 77–97.
+*†
+Fossum, T. A., & Barrett, L. F. (2000). Distinguishing evaluation from
+description in the personality– emotion relationship. Personality and
+Social Psychology Bulletin, 26, 669 – 678.
+*†
+Francis, L. J. (1999). Happiness is a thing called stable extraversion: A
+further examination of the relationship between the Oxford Happiness
+Inventory and Eysenck’s dimensional model of personality and gender.
+Personality and Individual Differences, 26, 5–11.
+*
+Francis, L. J. (2000). Religion and happiness: A study in empirical
+theology. Transpersonal Psychology Review, 4, 17–22.
+*†
+Francis, L. J., & Bolger, J. (1997). Personality and psychological wellbeing in later life. Irish Journal of Psychology, 18, 444 – 447.
+*
+Francis, L. J., Brown, L. B., Lester, D., & Philipchalk, R. (1998). Happiness as stable extraversion: A cross-cultural examination of the reliability and validity of the Oxford Happiness Inventory among students
+in the UK, USA, Australia, and Canada. Personality and Individual
+Differences, 24, 167–171.
+*
+Francis, L. J., & Katz, Y. J. (2000). Internal consistency reliability and
+validity of the Hebrew translation of the Oxford Happiness Inventory.
+Psychological Reports, 87, 193–196.
+*†
+Francis, L. J., Katz, Y. J., Yablon, Y., & Robbins, M. (2004). Religiosity,
+personality, and happiness: A study among Israeli male undergraduates.
+Journal of Happiness Studies, 5, 315–333.
+*†
+Francis, L. J., & Kay, W. K. (1996). Are religious people happier? A
+study among undergraduates. In L. J. Francis, W. K. Kay, & W. S.
+Campbell (Eds.), Research in religious education (pp. 207–217). Leominster, England: Gracewing.
+Frederick, S., & Lowenstein, G. (1999). Hedonic adaptation. In E. Kahneman, E. Diener, & N. Schwarz (Eds.), Well-being: The foundations of
+hedonic psychology (pp. 302–329). New York: Russell Sage Foundation.
+*
+Freund, A. M., & Baltes, P. B. (1998). Selection, optimization, and
+compensation as strategies of life management: Correlations with subjective indicators of successful aging. Psychology and Aging, 13, 531–
+543.
+Frey, S., & Stutzer, A. (2002). What can economists learn from happiness
+research? Journal of Economic Literature, 40, 402– 435.
+*†
+Froehlich, J. P. (2005). Spirituality and fraternity: Spiritual maturity and
+social support in a national study of a male religious order. Unpublished
+doctoral dissertation, Loyola College, Baltimore, MD.
+*
+Fry, S. K., & Heubeck, B. G. (1998). The effects of personality and
+situational variables on mood states during outward bound wilderness
+
+155
+
+courses: An exploration. Personality and Individual Differences, 24,
+649 – 659.
+*†
+Fullana, M. A., Caseras, X., & Torrubia, R. (2003). Psychometric properties of the Personal State Questionnaire in a Catalan sample. Personality and Individual Differences, 34, 605– 611.
+Funder, D. C. (2001). Personality. Annual Review of Psychology, 52,
+197–221.
+Funder, D. C., & Colvin, C. R. (1997). Congruence of others’ and selfjudgments of personality. In R. Hogan, J. Johnson, & S. Briggs (Eds.),
+Handbook of personality psychology (pp. 617– 647). San Diego, CA:
+Academic Press.
+Furnham, A. (1986). Response bias, social desirability, and dissimulation.
+Personality and Individual Differences, 7, 385– 400.
+*
+Furnham, A., & Cheng, H. (1997). Personality and happiness. Psychological Reports, 80, 761–762.
+*
+Furnham, A., & Cheng, H. (1999). Personality as predictor of mental
+health and happiness in the East and West. Personality and Individual
+Differences, 27, 395– 403.
+*
+Furnham, A., & Petrides, K. V. (2003). Trait emotional intelligence and
+happiness. Social Behavior and Personality, 31, 815– 823.
+*†
+Furr, R. M., & Funder, D. C. (1998). A multimodal analysis of personal
+negativity. Journal of Personality and Social Psychology, 74, 1580 –
+1591.
+*†
+Garcia, L. F., Aluja, A., Garcia, O., & Cuevas, L. (2005). Is openness to
+experience an independent personality dimension? Convergent and discriminant validity of the openness domain and its NEO-PI-R facets.
+Journal of Individual Differences, 26, 132–138.
+*†
+Garrity, R. D., & Demick, J. (2001). Relations among personality traits,
+mood states, and driving behaviors. Journal of Adult Development, 8,
+109 –118.
+*
+Ge, X. J., & Conger, R. D. (1999). Adjustment problems and emerging
+personality characteristics from early to late adolescence. American
+Journal of Community Psychology, 27, 429 – 459.
+*†
+Geary, B. (2003). The contribution of spirituality to well-being in sex
+offenders. Unpublished doctoral dissertation, Loyola College, Baltimore,
+MD.
+*
+Geist, R. L., & Gilbert, D. G. (1996). Correlates of expressed and felt
+emotion during marital conflict: Satisfaction, personality, process, and
+outcome. Personality and Individual Differences, 21, 49 – 60.
+*
+Geuens, M., & De Pelsmacker, P. (2002). Developing a short affect
+intensity scale. Psychological Reports, 91, 657– 670.
+*
+Gilboa, D., Bisk, L., Montag, I., & Tsur, H. (1999). Personality traits and
+psychosocial adjustment of patients with burns. Journal of Burn Care
+and Rehabilitation, 20, 340 –346.
+†
+Girodo, M. (1991). Personality, job stress, and mental health in undercover agents: A structural equation analysis. Journal of Social Behavior
+and Personality, 6, 375–390.
+Goldberg, D. (1978). Manual of the General Health Questionnaire. Windsor, United Kingdom: NFER-Nelson Publishing Company.
+Goldberg, D., Bridges, K., Duncan-Jones, P. & Grayson, D. (1988). Detecting anxiety and depression in general medical settings. British Medical Journal, 297, 897– 899.
+Goldberg, L. R. (1990). An alternative “description of personality”: The
+Big-Five factor structure. Journal of Personality and Social Psychology,
+59, 1216 –1229.
+*†
+Gomez, R., Gomez, A., & Cooper, A. (2002). Neuroticism and extraversion as predictors of negative and positive emotional information processing: Comparing Eysenck’s, Gray’s, and Newman’s theories. European Journal of Personality, 16, 333–350.
+†
+Gow, A. J., Whiteman, M. C., Pattie, A., & Deary, I. J. (2005). Goldberg’s
+“IPIP” Big-Five factor markers: Internal consistency and concurrent
+validation in Scotland. Personality and Individual Differences, 39, 317–
+329.
+Gray, J. A. (1987). The neuropsychology of emotion and personality. In
+
+156
+
+STEEL, SCHMIDT, AND SHULTZ
+
+S. M. Stahl, S. D. Iverson, & E. C. Goodman (Eds.), Cognitive neurochemistry (pp. 171–190). Oxford, England: Oxford University Press.
+*†
+Gross, J. J., Sutton, S. K., & Ketelaar, T. (1998). Relations between affect
+and personality: Support for the affect-level and affective-reactivity
+views. Personality and Social Psychology Bulletin, 24, 279 –288.
+Güliz, G. (1997). Human development and human consumption: Wellbeing beyond the good life. Journal of Public Policy and Marketing, 16,
+110 –125.
+†
+Gustafson, S. A. (1997). Cognitive processes as dispositional factors in
+job satisfaction. Unpublished doctoral dissertation, University of Mississippi, Oxford.
+*
+Gustavsson, J., Weinryb, R., Goransson, S., Pedersen, N., & Asberg, M.
+(1997). Stability and predictive ability of personality traits across 9
+years. Personality and Individual Differences, 22, 783–791.
+*†
+Hagemann, D., Naumann, E., Lurken, A., Becker, G., Maier, S., &
+Bartussek, D. (1999). EEG asymmetry, dispositional mood, and personality. Personality and Individual Differences, 27, 541–568.
+*†
+Halamandaris, K., & Power, K. (1997). Individual differences, dysfunctional attitudes, and social support: A study of the psychosocial adjustment to university life of home students. Personality and Individual
+Differences, 22, 93–104.
+*
+Hamid, P. N., & Cheng, S. T. (1996). The development and validation of
+an index of emotional disposition and mood state: The Chinese Affect
+Scale. Educational and Psychological Measurement, 56, 995–1014.
+*
+Hamlin, M. E. (2002). A measure of positive and negative affect using
+cartoon facial expressions of emotion. Unpublished doctoral dissertation, Oklahoma State University, Oklahoma City.
+*
+Hart, P. M. (1999). Predicting employee life satisfaction: A coherent
+model of personality, work and nonwork experiences, and domain
+satisfactions. Journal of Applied Psychology, 84, 564 –584.
+*
+Headey, B., Kelley, J., & Wearing, A. (1993). Dimensions of mental
+health: Life satisfaction, positive affect, anxiety, and depression. Social
+Indicators Research, 29, 63– 82.
+*†
+Headey, B., & Wearing, A. (1989). Personality, life events, and subjective well-being: Toward a dynamic equilibrium model. Journal of Personality and Social Psychology, 57, 731–739.
+*
+Heaven, P. C. (1989). Extraversion, neuroticism, and satisfaction with life
+among adolescents. Personality and Individual Differences, 10, 489 –
+492.
+*
+Heisel, M. J., & Flett, G. L. (2004). Purpose in life, satisfaction with life,
+and suicide ideation in a clinical sample. Journal of Psychopathology
+and Behavioral Assessment, 26, 127–135.
+*†
+Heller, D., Judge, T. A., & Watson, D. (2002). The confounding role of
+personality and trait affectivity in the relationship between job and life
+satisfaction. Journal of Organizational Behavior, 23, 815– 835.
+Heller, D., Watson, D., & Ilies, R. (2004). The role of person versus
+situation in life satisfaction: A critical examination. Psychological Bulletin, 130, 574 – 600.
+*†
+Hemenover, S. H. (2001). Self-reported processing bias and naturally
+occurring mood: Mediators between personality and stress appraisals.
+Personality and Social Psychology Bulletin, 27, 387–394.
+*
+Hemenover, S. H. (2003). Individual differences in rate of affect change:
+Studies in affective chronometry. Journal of Personality and Social
+Psychology, 85, 121–131.
+*†
+Hepburn, L., & Eysenck, M. W. (1989). Personality, average mood, and
+mood variability. Personality and Individual Differences, 10, 975–983.
+*†
+Herringer, L. G. (1998). Facets of extraversion related to life satisfaction.
+Personality and Individual Differences, 24, 731–733.
+*†
+Heubeck, B. G., Wilkinson, R. B., & Cologon, J. (1998). A second look
+at Carver and White’s (1994) BIS/BAS scales. Personality and Individual Differences, 25, 785– 800.
+*
+Hilleras, P. K., Jorm, A. F., Herlitz, A., & Winblad, B. (1998). Negative
+and positive affect among the very old: A survey on a sample age 90
+years or older. Research on Aging, 20, 593– 610.
+
+*
+
+Hilleras, P. K., Jorm, A. F., Herlitz, A., & Winblad, B. (2001). Life
+satisfaction among the very old: A survey on a cognitively intact sample
+aged 90 years or above. International Journal of Aging and Human
+Development, 52, 71–90.
+*
+Hills, P., & Argyle, M. (2001a). Emotional stability as a major dimension
+of happiness. Personality and Individual Differences, 31, 1357–1364.
+*
+Hills, P., & Argyle, M. (2001b). Happiness, introversion– extraversion,
+and happy introverts. Personality and Individual Differences, 30, 595–
+608.
+*
+Hills, P., & Argyle, M. (2002). The Oxford Happiness Questionnaire: A
+compact scale for the measurement of psychological well-being. Personality and Individual Differences, 33, 1073–1082.
+Hills, P., Argyle, M., & Reeves, R. (2000). Individual differences in leisure
+satisfactions: An investigation of four theories of leisure motivation.
+Personality and Individual Differences, 28, 763–779.
+Hogan, R., Hogan, J., & Roberts, B. W. (1996). Personality measurement
+and employment decisions. American Psychologist, 51, 469 – 477.
+*
+Hooker, K., Monahan, D., Shifren, K., & Hutchinson, C. (1992). Mental
+and physical health of spouse caregivers: The role of personality. Psychology and Aging, 7, 367–375.
+*†
+Horner, K. L. (1998). Individuality in vulnerability: Influences on physical health. Journal of Health Psychology, 3, 71– 85.
+*†
+Hossack, R. C. (1997). Salutogenic and pathogenic orientations to life:
+Attachment, personality, sense of coherence and well-being in late
+adolescence: A structural equation model. Unpublished doctoral dissertation, University of Manitoba, Winnipeg, Manitoba, Canada.
+Hotard, S. R., McFatter, R. M., McWhirter, R. M., & Stegall, M. E. (1989).
+Interactive effects of extraversion, neuroticism, and social relationships
+on subjective well-being. Journal of Personality and Social Psychology,
+57, 321–331.
+*†
+Howell Rolston, C. D. (2003). Attachment styles and the concepts of self
+and of others. Unpublished doctoral dissertation, Ohio University, Athens.
+Huffcutt, A. I., & Arthur, W., Jr. (1995). Development of a new outlier
+statistic for meta-analytic data. Journal of Applied Psychology, 80,
+327–334.
+Hunter, J. E., & Schmidt, F. L. (1990). Methods of meta-analysis. Newbury
+Park, CA: Sage.
+Hurtz, G. M., & Donovan, J. J. (2000). Personality and job performance:
+The Big Five revisited. Journal of Applied Psychology, 85, 869 – 879.
+*†
+Hyland, M. E., Bott, J., Singh, S., & Kenyon, C. A. P. (1994). Domains,
+constructs, and the development of the Breathing Problems Questionnaire. Quality of Life Research, 3, 245–256.
+*†
+Ilies, R., & Judge, T. A. (2002). Understanding the dynamic relationships
+among personality, mood, and job satisfaction: A field experience sampling study. Organizational Behavior and Human Decision Processes,
+89, 1119 –1139.
+Ilies, R., & Judge, T. A. (2003). On the heritability of job satisfaction: The
+mediating role of personality. Journal of Applied Psychology, 88, 750 –
+759.
+†
+Ingledew, D. K., Markland, D., & Sheppard, K. E. (2004). Personality and
+self-determination of exercise behavior. Personality and Individual Differences, 36, 1921–1932.
+Ironson, G. H., Smith, P. C., Brannick, M. T., Gibson, W. M., & Paul, K. B.
+(1989). Construction of a “Job in General” scale: A comparison of
+global, composite, and specific measures. Journal of Applied Psychology, 74, 193–200.
+*†
+Isaacowitz, D. M., & Smith, J. (2003). Positive and negative affect in
+very old age. Journals of Gerontology Series B: Psychological Sciences
+and Social Sciences, 58, 143–152.
+Jackson, C. J., & Corr, P. J. (2002). Global job satisfaction and facet
+description: The moderating role of facet importance. European Journal
+of Psychological Assessment, 18, 1– 8.
+John, O. P. (1990). The “Big Five” factor taxonomy: Dimensions of
+
+PERSONALITY AND SWB
+personality in the natural language and in questionnaires. In P. A.
+Lawrence (Ed.), Handbook of personality: Theory and research (pp.
+66 –100). New York: Guilford Press.
+John, O. P., Donahue, E. M., & Kentle, R. L. (1991). The Big Five
+Inventory—Version 4a and 54. Berkeley, CA: University of California,
+Berkeley, Institute of Personality and Social Research.
+John, O. P., & Srivastava, S. (1999). The Big Five Trait taxonomy: History,
+measurement, and theoretical perspectives. In L. A. Pervin & O. P. John
+(Eds.), Handbook of personality: Theory and research (2nd ed., pp.
+102–139). New York: Guilford Press
+*
+Jones, R. S. (2001). A correlational examination of personality, selfconcept, social roles, and life satisfaction in working adult women
+students. Unpublished doctoral dissertation, George Washington University, Columbia.
+*
+Jorm, A., & Duncan-Jones, P. (1990). Neurotic symptoms and subjective
+well-being in a community sample: Different sides of the same coin?
+Psychological Medicine, 20, 647– 654.
+†
+Judge, T. A., & Bono, J. E. (2000). Five-factor model of personality and
+transformational leadership. Journal of Applied Psychology, 85, 751–
+765.
+Judge, T. A., Bono, J. E., Ilies, R., & Gerhardt, M. W. (2002). Personality
+and leadership: A qualitative and quantitative review. Journal of Applied
+Psychology, 87, 765–780.
+*†
+Judge, T. A., Erez, A., Bono, J. E., & Thoresen, C. J. (2002). Are
+measures of self-esteem, neuroticism, locus of control, and generalized
+self-efficacy indicators of a common core construct? Journal of Personality and Social Psychology, 83, 693–710.
+Judge, T. A., Heller, D., & Mount, M. K. (2002). Five-factor model of
+personality and job satisfaction: A meta-analysis. Journal of Applied
+Psychology, 87, 530 –541.
+*
+Judge, T. A., Thoresen, C. J., Pucik, V., & Welbourne, T. M. (1999).
+Managerial coping with organizational change: A dispositional perspective. Journal of Applied Psychology, 84, 107–122.
+*†
+Kahn, J. H., & Hessling, R. M. (2001). Measuring the tendency to
+conceal versus disclose psychological distress. Journal of Social and
+Clinical Psychology, 20, 41– 65.
+*
+Kammann, R., Farry, M., & Herbison, P. (1984). The analysis and
+measurement of happiness as a sense of well-being. Social Indicators
+Research, 15, 91–115.
+Kammann, R., & Flett, R. (1983). Affectometer 2: A scale to measure
+current level of general happiness. Australian Journal of Psychology, 35,
+259 –265.
+*†
+Katz, D. M. (2001). Reactivity theory and the prediction of positive and
+negative affect. Unpublished doctoral dissertation, Fordham University,
+New York.
+*
+Kempen, G., Jelicic, M., & Ormel, J. (1997). Personality, chronic medical
+morbidity, and health-related quality of life among older persons. Health
+Psychology, 16, 539 –546.
+Kenny, D. A., & Zautra, A. (2001). Trait-state models for longitudinal data.
+In L. M. Collins & A. G. Sayer (Eds.), New methods for the analysis of
+change: Decade of behavior (pp. 243–263). Washington, DC: American
+Psychological Association.
+*†
+Kentle, R. L. (2002). Adjectives, phrases, and sentences: Intracorrelation
+of three five-factor personality inventories. Psychological Reports, 91,
+1151–1154.
+Kim-Prieto, C., Diener, E., Tamir, M., Scollon, C., & Diener, M. (2005).
+Integrating the diverse definitions of happiness: A time-sequential
+framework of subjective well-being. Journal of Happiness Studies, 6,
+261–300.
+Kirkhart, K. E., Morgan, R. O., & Sincavage, J. (1991). Assessing evaluation performance and use: Test retest reliability of standardized instruments. Evaluation Review, 15, 482–502.
+*
+Kitamura, T., Kawakami, N., Sakamoto, S., Tanigawa, T., Ono, Y., &
+Fujihara, S. (2002). Quality of life and its correlates in a community
+
+157
+
+population in a Japanese rural area. Psychiatry and Clinical Neurosciences, 56, 431– 441.
+*†
+Klumb, P. L. (2004). Benefits from productive and consumptive activities: Results from the Berlin Aging Study. Social Indicators Research,
+67, 107–127.
+†
+Knussen, C., & Niven, C. A. (1999). Neuroticism and work-related stress
+in a sample of health care workers. Psychology and Health, 14, 897–911.
+*†
+Kokkonen, M., & Pulkkinen, L. (2001a). Examination of the paths
+between personality, current mood, its evaluation, and emotion regulation. European Journal of Personality, 15, 83–104.
+†
+Kokkonen, M., & Pulkkinen, L. (2001b). Extraversion and neuroticism as
+antecedents of emotion regulation and dysregulation in adulthood. European Journal of Personality, 15, 407– 424.
+Konstabel, K., Realo, A., & Kallasmaa, T. (2002). Exploring the sources of
+variations in the structure of personality traits across cultures. In R. R.
+McCrae & J. Allik (Eds.), The five-factor model of personality across
+cultures (pp. 29 –52). New York: Kluwer Academic/Plenum Publishers.
+*
+Korotkov, D., & Hannah, T. E. (2004). The five-factor model of personality: Strengths and limitations in predicting health status, sick-role, and
+illness behavior. Personality and Individual Differences, 36, 187–199.
+Kozma, A., & Stones, M. J. (1980). The measurement of happiness:
+Development of the Memorial University of Newfoundland Scale of
+Happiness (MUNSH). Journal of Gerontology, 35, 906 –912.
+*
+Kreitler, S., Aronson, M., Berliner, S., Kreitler, H., Weissler, K., & Arber,
+N. (1995). Life events and personal problems: Their physiological and
+emotional effects. Personality and Individual Differences, 18, 101–116.
+*
+Kunzmann, U., & Baltes, P. B. (2003). Wisdom-related knowledge:
+Affective, motivational, and interpersonal correlates. Personality and
+Social Psychology Bulletin, 29, 1104 –1119.
+*†
+Kurdek, L. A. (1997). Relation between neuroticism and dimensions of
+relationship commitment: Evidence from gay, lesbian, and heterosexual
+couples. Journal of Family Psychology, 11, 109 –124.
+*†
+Kwan, V. S. Y., Bond, M. H., & Singelis, T. M. (1997). Pancultural
+explanations for life satisfaction: Adding relationship harmony to selfesteem. Journal of Personality and Social Psychology, 73, 1038 –1051.
+Lasky-Su, J. A., Faraone, S. V., Glatt, S. J., & Tsuang, M. T. (2005).
+Meta-Analysis of the association between two polymorphisms in the
+serotonin transporter gene and affective disorders. American Journal of
+Medical Genetics, 133, 110 –115.
+*†
+Lay, C. H. (1997). Explaining lower-order traits through higher-order
+factors: The case of trait procrastination, conscientiousness, and the
+specificity dilemma. European Journal of Personality, 11, 267–278.
+Leahey, T. H. (2000). A history of psychology. Upper Saddle River, NJ:
+Prentice Hall.
+Lee, K., & Ashton, M. C. (2004). Psychometric properties of the HEXACO
+personality inventory. Multivariate Behavioral Research, 39, 329 –358.
+*
+Lent, R. W., Singley, D., Sheu, H. B., Gainer, K. A., Brenner, B. R.,
+Treistman, D., et al. (2005). Social cognitive predictors of domain and
+life satisfaction: Exploring the theoretical precursors of subjective wellbeing. Journal of Counseling Psychology, 52, 429 – 442.
+*†
+Leong, Y.-M. (2003). Personality in obsessive compulsive disorder and
+other proposed obsessive compulsive spectrum disorders using the fivefactor model. Unpublished doctoral dissertation, Catholic University of
+America, Washington, DC.
+*†
+Lewis, C. A., Francis, L. J., & Ziebertz, H.-G. (2002). The internal
+consistency reliability and construct validity of the German translation
+of the Oxford Happiness Inventory. North American Journal of Psychology, 4, 211–220.
+*
+Libran, E. C. (2000). Emotional intensity and its relationship with extraversion and neuroticism. Psicothema, 12, 568 –573.
+†
+Libran, E. C. (2006). Personality dimensions and subjective well-being.
+The Spanish Journal of Psychology, 9, 38 – 44.
+*
+Lipkus, I. M., Dalbert, C., & Siegler, I. C. (1996). The importance of
+distinguishing the belief in a just world for self versus for others:
+
+158
+
+STEEL, SCHMIDT, AND SHULTZ
+
+Implications for psychological well-being. Personality and Social Psychology Bulletin, 22, 666 – 677.
+*
+Liu, R., & Gong, Y. (2000). Subjective well-being of the elderly and its
+influential factors. Chinese Journal of Clinical Psychology, 8, 73–78.
+*
+Lu, L. (1995). The relationship between subjective well-being and psychosocial variables in Taiwan. Journal of Social Psychology, 135, 351–
+357.
+*†
+Lu, L. (1999). Personal or environmental causes of happiness: A longitudinal analysis. Journal of Social Psychology, 139, 79 –90.
+*
+Lu, L. (2000). Gender and conjugal differences in happiness. Journal of
+Social Psychology, 140, 132–141.
+*
+Lu, L., & Argyle, M. (1991). Happiness and cooperation. Personality and
+Individual Differences, 12, 1019 –1030.
+*
+Lu, L., & Lin, Y. Y. (1998). Family roles and happiness in adulthood.
+Personality and Individual Differences, 25, 195–207.
+*†
+Lu, L., & Shih, J. B. (1997). Personality and happiness: Is mental health
+a mediator? Personality and Individual Differences, 22, 249 –256.
+*
+Lu, L., Shih, J., Lin, Y., & Ju, L. (1997). Personal and environmental
+correlates of happiness. Personality and Individual Differences, 23,
+453– 462.
+*
+Lucas, R. E., & Diener, E. (2001). Understanding extraverts’ enjoyment of
+social situations: The importance of pleasantness. Journal of Personality
+and Social Psychology, 81, 343–356.
+*
+Lucas, R. E., Diener, E., Grob, A., Suh, E. M., & Shao, L. (2000).
+Cross-cultural evidence for the fundamental features of extraversion.
+Journal of Personality and Social Psychology, 79, 452– 468.
+Lucas, R. E., Diener, E., & Suh, E. (1996). Discriminant validity of
+well-being measures. Journal of Personality and Social Psychology, 71,
+616 – 628.
+*
+Lucas, R. E., & Fujita, F. (2000). Factors influencing the relation between
+extraversion and pleasant affect. Journal of Personality and Social
+Psychology, 79, 1039 –1056.
+Lykken, D., & Tellegen, A. (1996). Happiness is a stochastic phenomenon.
+Psychological Science, 7, 186 –189.
+Lynn, M., & Steel, P. (2006). National differences in subjective well-being:
+The interactive effects of extraversion and neuroticism. Journal of
+Happiness Studies, 7, 155–165.
+*
+Lyubomirsky, S., & Lepper, H. S. (1999). A measure of subjective
+happiness: Preliminary reliability and construct validation. Social Indicators Research, 46, 137–155.
+Lyubomirsky, S., Sheldon, K. M., & Schkade, D. (2005). Pursuing happiness: The architecture of sustainable change. Review of General Psychology, 9, 111–131.
+Magnus, K., Diener, E., Fujita, F., & Pavot, W. (1993). Extraversion and
+neuroticism as predictors of objective life events: A longitudinal analysis. Journal of Personality and Social Psychology, 65, 1046 –1053.
+*†
+Marshall, G. N., Wortman, C. B., Kusulas, J. W., Hervig, L. K., &
+Vickers, R. R. (1992). Distinguishing optimism from pessimism: Relations to fundamental dimensions of mood and personality. Journal of
+Personality and Social Psychology, 62, 1067–1074.
+*
+Martin, R., & Watson, D. (1997). Style of anger expression and its relation
+to daily experience. Personality and Social Psychology Bulletin, 23,
+285–294.
+Matthews, G., & Gilliland, K. (1999). The personality theories of H. J.
+Eysenck and J. A. Gray: A comparative review. Personality and Individual Differences, 26, 583– 626.
+*†
+Maybery, D. J. (2003). Including interpersonal events on hassle and uplift
+scales: Verification employing global and molecular events. Stress and
+Health, 19, 289 –296.
+*
+Mayo, P. R. (1983). Personality traits and the retrieval of positive and
+negative memories. Personality and Individual Differences, 4, 465– 471.
+*
+McConville, C., & Cooper, C. (1992). Mood variability and personality.
+Personality and Individual Differences, 13, 1213–1221.
+
+*†
+
+McConville, C., & Cooper, C. (1999). Personality correlates of variable
+moods. Personality and Individual Differences, 26, 65–78.
+*
+McCrae, R. R. (1986). Well-being scales do not measure social desirability. Journal of Gerontology, 41, 390 –392.
+McCrae, R. R., & Costa, P. T. (1983). Social desirability scales: More
+substance than style. Journal of Consulting and Clinical Psychology, 51,
+882– 888.
+McCrae, R. R., & Costa, P. T. (1985). Comparison of EPI and psychoticism scales with measures of the five-factor model of personality.
+Personality and Individual Differences, 6, 587–597.
+*
+McCrae, R. R., & Costa, P. T. (1991). Adding Liebe und Arbeit: The full
+five-factor model and well-being. Personality and Social Psychology
+Bulletin, 17, 227–232.
+†
+McCrae, R. R., & Terracciano, A. (2005). Personality profiles of cultures:
+Aggregate personality traits. Journal of Personality and Social Psychology, 89, 407– 425.
+†
+McKelvie, S. J. (2004). Is the Neuroticism scale of the Eysenck Personality Inventory contaminated by response bias? Personality and Individual Differences, 36, 743–755.
+*†
+McKnight, C. G., Huebner, E. S., & Suldo, S. (2002). Relationships
+among stressful life events, temperament, problem behavior, and global
+life satisfaction in adolescents. Psychology in the Schools, 39, 677– 687.
+*†
+McLennan, J., & Bates, G. W. (1993). Vulnerability to psychological
+distress: Empirical and conceptual distinctions between measures of
+neuroticism and negative affect. Psychological Reports, 73, 1315–1323.
+McNair, D. M., Lorr, M., & Droppleman, L. F. (1971). Profile of mood
+states. San Diego, CA: Educational and Industrial Testing Service.
+*†
+Meyer, G. J., & Shack, J. R. (1989). Structural convergence of mood and
+personality: Evidence for old and new directions. Journal of Personality
+and Social Psychology, 57, 691–706.
+Mischel, W. (1977). The interaction of person and situation. In D. Magnusson & N. S. Endler (Eds.), Personality at the crossroads: Current
+issues in interactional psychology (pp. 333–352). Hillsdale, NJ: Erlbaum.
+Mischel, W. (1999). Personality coherence and dispositions in a cognitiveaffective personality system (CAPS) approach. In D. Cervone & Y.
+Shoda (Eds.), The coherence of personality: Social-cognitive bases of
+consistency, variability, and organization (pp. 37– 60). New York: Guilford Press.
+*†
+Morrison, K. A. (1997). Personality correlates of the five-factor model
+for a sample of business owners/managers: Associations with scores on
+self-monitoring, Type A behavior, locus of control, and subjective
+well-being. Psychological Reports, 80, 255–272.
+*
+Moyle, P. (1995). The role of negative affectivity in the stress process:
+Tests of alternative models. Journal of Organizational Behavior, 16,
+647– 668.
+*†
+Moyle, P., & Parkes, K. (1999). The effects of transition stress: A
+relocation study. Journal of Organizational Behavior, 20, 625– 646.
+*
+Murberg, T. A., Bru, E., Svebak, S., Aarsland, T., & Dickstein, K. (1997).
+The role of objective health indicators and neuroticism in perceived
+health and psychological well-being among patients with chronic heart
+failure. Personality and Individual Differences, 22, 867– 875.
+Murray, G., Rawlings, D., Allen, N. B., & Trinder, J. (2003). NEO
+Five-Factor Inventory scores: Psychometric properties in a community
+sample. Measurement and Evaluation in Counseling and Development,
+36, 140 –149.
+*
+Negoescu-Bodor, V., Corduban, C., & Popa, S. (1991). Factorial dimensions of psychosocial adjustment in a group of heavy industry workers.
+Revista de Psihologie, 37, 157–166.
+*†
+Nemanick, R. C., Jr., & Munz, D. C. (1997). Extraversion and neuroticism, trait mood, and state affect: A hierarchical relationship? Journal of
+Social Behavior and Personality, 12, 1079 –1092.
+Nes, R. B., Røysamb, E., Tambs, K., Harris, J. R., & Reichborn-Kjennerud,
+
+PERSONALITY AND SWB
+T. (2006). Subjective well-being: Genetic and environmental contributions to stability and change. Psychological Medicine, 36, 1033–1042.
+†
+Nietfeld, J., & Bosma, A. (2003). Examining the self-regulation of impulsive and reflective response styles on academic tasks. Journal of
+Research in Personality, 37, 118 –140.
+*†
+Noor, N. M. (1996). Some demographic, personality, and role variables
+as correlates of women’s well-being. Sex Roles, 34, 603– 620.
+*
+O’Connor, K., Belanger, L., Marchand, A., Dupuis, G., Elie, R., & Boyer,
+R. (1999). Psychological distress and adaptational problems associated
+with discontinuation of benzodiazepines. Addictive Behaviors, 24, 537–
+541.
+Okun, M. A., Stock, W. A., & Covey, R. E. (1982). Assessing the effects
+of older adult education on subjective well-being. Educational Gerontology, 8, 523–526.
+Oliver, J. P. J., Huxley, P. J., Bridges, K., & Mohammed, H. (1996).
+Quality of life and mental health services. London: Routledge.
+Ones, D. S., Viswesvaran, C., & Reiss, A. D. (1996). Role of social
+desirability in personality testing for personnel selection: The red herring. Journal of Applied Psychology, 81, 660 – 679.
+Ozer, D. J., & Benet-Martı́nez, V. (2006). Personality and the prediction of
+consequential outcomes. Annual Review of Psychology, 57, 401– 412.
+*
+Pallant, J. F. (2000). Development and validation of a scale to measure
+perceived control of internal states. Journal of Personality Assessment,
+75, 308 –337.
+*
+Park, C. L., Armeli, S., & Tennen, H. (2004a). Appraisal-coping goodness
+of fit: A daily Internet study. Personality and Social Psychology Bulletin, 30, 558 –569.
+*
+Park, C. L., Armeli, S., & Tennen, H. (2004b). The daily stress and coping
+process and alcohol use among college students. Journal of Studies on
+Alcohol, 65, 126 –135.
+*
+Pasupathi, M., & Carstensen, L. L. (2003). Age and emotional experience
+during mutual reminiscing. Psychology and Aging, 18, 430 – 442.
+*
+Pavot, W., & Diener, E. (1993). The affective and cognitive context of
+self-reported measures of subjective well-being. Social Indicators Research, 28, 1–20.
+Pavot, W. G., Diener, E., Colvin, C. R., & Sandvik, E. (1991). Further
+validation of the Satisfaction With Life Scale: Evidence for the crossmethod convergence of well-being measures. Journal of Personality
+Assessment, 57, 149 –161.
+*
+Pavot, W., Diener, E., & Fujita, F. (1990). Extroversion and happiness.
+Personality and Individual Differences, 11, 1299 –1306.
+†
+Penley, J. A., & Tomaka, J. (2002). Associations among the Big Five,
+emotional responses, and coping with acute stress. Personality and
+Individual Differences, 32, 1215–1228.
+*
+Persson, L. O., & Sahlberg, D. (2002). The influence of negative illness
+cognitions and neuroticism on subjective symptoms and mood in rheumatoid arthritis. Annals of the Rheumatic Diseases, 61, 1000 –1006.
+Pickering, A. D., & Gray, J. A. (2001). Dopamine, appetitive reinforcement, and the neuropsychology of human learning: An individual differences approach. In A. Eliasz & A. Angleitner (Eds.), Advances in
+individual differences research (pp. 113–149). Lengerich, Germany:
+PABST Science Publishers.
+Pincus, T., & Callahan, L. F. (1993). Depression scales in rheumatoid
+arthritis: Criterion contamination in interpretation of patient responses.
+Patient Education and Counseling, 20, 33–143.
+*
+Potter, P. T., Smith, B. W., Strobel, K. R., & Zautra, A. J. (2002).
+Interpersonal workplace stressors and well-being: A multi-wave study of
+employees with and without arthritis. Journal of Applied Psychology, 87,
+789 –796.
+*
+Pychyl, T. A., & Little, B. R. (1998). Dimensional specificity in the
+prediction of subjective well-being: Personal projects in pursuit of the
+PHD. Social Indicators Research, 45, 423– 473.
+*
+Ramanaiah, N. V., Detwiler, F. R., & Byravan, A. (1997). Life satisfaction
+
+159
+
+and the five-factor model of personality. Psychological Reports, 80,
+1208 –1210.
+Revelle, W. (1997). Extraversion and impulsivity: The lost dimension? In
+H. Nyborg (Ed.), The scientific study of human nature: Tribute to Hans
+J. Eysenck at eighty (pp. 189 –212). Amsterdam: Pergamon/Elsevier
+Science.
+*
+Roberts, J. E., Kassel, J. D., & Gotlib, I. H. (1995). Level and stability of
+self-esteem as predictors of depressive symptoms. Personality and Individual Differences, 19, 217–224.
+*
+Rolland, J. P., & De Fruyt, F. (2003). The validity of FFM personality
+dimensions and maladaptive traits to predict negative affects at work: A
+six month prospective study in a military sample. European Journal of
+Personality, 17, 101–121.
+Rolls, E. T. (2000). Précis of the brain and emotion. Behavioral and Brain
+Sciences, 23, 177–234.
+*†
+Romero, E., Luengo, M. A., Gomez-Fraguela, J. A., & Sobral, J. (2002).
+The structure of personality traits in adolescents: The five-factor model
+and the alternative five. Psicothema, 14, 134 –143.
+*†
+Rosenman, S., & Rodgers, B. (2006). Childhood adversity and adult
+personality. Australian and New Zealand Journal of Psychiatry, 40,
+482– 490.
+*
+Ruehlman, L. S., Lanyon, R. I., & Karoly, P. (1999). Development and
+validation of the multidimensional health profile: I. Psychosocial functioning. Psychological Assessment, 11, 166 –176.
+*
+Ruggeri, M., Pacati, P., & Goldberg, D. (2003). Neurotics are dissatisfied
+with life, but not with services: The South Verona Outcome Project 7.
+General Hospital Psychiatry, 25, 338 –344.
+*
+Rusting, C. L., & Larsen, R. J. (1995). Moods as sources of stimulation:
+Relationships between personality and desired mood states. Personality
+and Individual Differences, 18, 321–329.
+*†
+Ryan, E. L. (1999). False memory and personality integration. Unpublished doctoral dissertation, Pacific Graduate School of Psychology,
+Palo Alto, CA.
+*†
+Ryan, R. M., & Frederick, C. (1997). On energy, personality, and health:
+Subjective vitality as a dynamic reflection of well-being. Journal of
+Personality, 65, 529 –565.
+Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the
+meaning of psychological well-being. Journal of Personality and Social
+Psychology, 57, 1069 –1081.
+*†
+Sale, C., Guppy, A., & El-Sayed, M. (2000). Individual differences,
+exercise, and leisure activity in predicting affective well-being in young
+adults. Ergonomics, 43, 1689 –1697.
+Salgado, J. F. (1997). The five factor model of personality and job performance in the European community. Journal of Applied Psychology, 82,
+30 – 43.
+*
+Sandvik, E., Diener, E., & Seidlitz, L. (1993). Subjective well-being: The
+convergence and stability of self-report and nonself-report measures.
+Journal of Personality, 61, 318 –342.
+†
+Sarris, A. (2006). Personality, culture fit, and job outcomes on Australian
+Antarctic stations. Environment and Behavior, 38, 356 –372.
+Saucier, G. (2002). Orthogonal markers for orthogonal factors: The case of
+the Big Five. Journal of Research in Personality, 36, 1–31.
+Scheier, M. F., & Carver, C. S. (1985). Optimism, coping, and health:
+Assessment and implications of generalized outcome expectancies.
+Health Psychology, 4, 219 –247.
+Schimmack, U., Oishi, S., Furr, M., & Funder, D. C. (2004). Personality
+and life satisfaction. A facet-level analysis. Personality and Social
+Psychology Bulletin, 30, 1062–1075.
+*†
+Schimmack, U., Radhakrishnan, P., Oishi, S., Dzokoto, V., & Ahadi, S.
+(2002). Culture, personality, and subjective well-being: Integrating process models of life satisfaction. Journal of Personality and Social
+Psychology, 82, 582–593.
+Schjoedt, L., Balkin, D. B., & Baron, R. A. (2005, August). Job satisfaction: Comparing the effects of the situational, dispositional, and inter-
+
+160
+
+STEEL, SCHMIDT, AND SHULTZ
+
+actional approaches. Paper presented at the Academy of Management
+Conference, Honolulu, HI.
+*†
+Schmidtke, J. I. (2000). Personality, affect, and EEG: An integration of
+three models to predict neural patterns of activity. Unpublished doctoral
+dissertation, University of Illinois at Urbana-Champaign.
+*†
+Schmidtke, J. I., & Heller, W. (2004). Personality, affect, and EEG:
+Predicting patterns of regional brain activity related to extraversion and
+neuroticism. Personality and Individual Differences, 36, 717–732.
+*
+Schmutte, P. S., & Ryff, C. D. (1997). Personality and well-being:
+Reexamining methods and meanings. Journal of Personality and Social
+Psychology, 73, 549 –559.
+Schnika, J. A., Busch, R. M., & Robichaux-Keene, N. (2004). A metaanalysis of the association between the serotonin transporter gene polymorphism (5-HTTLPR) and trait anxiety. Molecular Psychiatry, 9, 197–
+202.
+Schore, A. N. (2001). Effects of a secure attachment relationship on right
+brain development, affect regulation, and infant mental health. Infant
+Mental Health Journal, 22, 7– 66.
+Scitovsky, T. (1976). The joyless economy. Oxford, England: Oxford
+University Press.
+Seligman, M., & Csikszentmihalyi, M. (2000). Positive psychology: An
+introduction. American Psychologist, 55, 5–14.
+*
+Shadish, W. R. (1985). Transitory emotional states and encounter group
+training. Small Group Behavior, 16, 477– 486.
+*
+Sham, P. C., Sterne, A., Purcell, S., Cherny, S., Webster, M., Rijsdijk, F.,
+et al. (2000). GENESiS: Creating a composite index of the vulnerability
+to anxiety and depression in a community-based sample of siblings.
+Twin Research, 3, 316 –322.
+Sharpe, D. (1997). Of apples and oranges, file drawers and garbage: Why
+validity issues in meta-analysis will not go away. Clinical Psychology
+Review, 17, 881–901.
+*
+Sloan, J. M. (1995). A structural model of neuroendocrine arousal,
+personality, and affect. Unpublished doctoral dissertation, University of
+Nebraska, Lincoln.
+Smits, D. J. M., & Boeck, P. D. (2006). From BIS/BAS to the Big Five.
+European Journal of Personality, 20, 255–270.
+Spielberger, C. D., Gorsuch, R. C., & Lushene, R. E. (1970). Manual for
+the State-Trait Anxiety Inventory. Palo Alto, CA: Consulting Psychologists Press.
+Spotts, E., Lichtenstein, P., Pedersen, N., Neiderhiser, J., Hansson, K.,
+Cederblad, M., et al. (2005). Personality and marital satisfaction: A
+behavioral genetic analysis. European Journal of Personality, 19, 205–
+227.
+Staw, B. M., & Cohen-Charash, Y. (2005). The dispositional approach to
+job satisfaction: More than a mirage but not yet an oasis. Journal of
+Organizational Behavior, 26, 59 –78.
+Steel, P. (2007). The nature of procrastination. Psychological Bulletin,
+133(1), 65–94.
+Steel, P., & Kammeyer-Mueller, J. D. (2002). Comparing meta-analytic
+moderator estimation techniques under realistic conditions. Journal of
+Applied Psychology, 87, 96 –111.
+Steel, P., & Ones, D. (2002). Personality and happiness: A national level of
+analysis. Journal of Personality and Social Psychology, 83, 767–781.
+†
+Sterns, L., Alexander, R. A., Barrett, G. V., & Dambrot, F. H. (1983). The
+relationship of extraversion and neuroticism with job preferences and
+job satisfaction for clerical employees. Journal of Occupational Psychology, 56, 145–153.
+*†
+Stewart, M. E., Ebmeier, K. P., & Deary, I. J. (2005). Personality
+correlates of happiness and sadness: EPQ-R and TPQ compared. Personality and Individual Differences, 38, 1085–1096.
+Steyer, R., Ferring, D., & Schmitt, M. J. (1992). States and traits in
+psychological assessment. European Journal of Psychological Assessment, 8, 79 –98.
+*
+Strumpfer, D. J. W., Gouws, J. F., & Viviers, M. R. (1998). Antonovsky’s
+
+sense of coherence scale related to negative and positive affectivity.
+European Journal of Personality, 12, 457– 480.
+Stubbe, J. H., Posthuma, D., Boomsma, D. I., & De Geus, E. J. C. (2005).
+Heritability of life satisfaction in adults: A twin-family study. Psychological Medicine, 35, 1– 8.
+*†
+Suh, E., Diener, E., & Fujita, F. (1996). Events and subjective wellbeing: Only recent events matter. Journal of Personality and Social
+Psychology, 70, 1091–1102.
+*†
+Suls, J., Green, P., & Hills, S. (1998). Emotional reactivity to everyday
+problems, affective inertia, and neuroticism. Personality and Social
+Psychology Bulletin, 24, 127–136.
+*
+Svebak, S., Sondenaa, K., Hausken, T., Soreide, O., Hammar, A., &
+Berstad, A. (2000). The significance of personality in pain from gallbladder stones. Scandinavian Journal of Gastroenterology, 35, 759 –
+764.
+*
+Swickert, R., Hittner, J. B., Kitos, N., & Cox-Fuenzalida, L. E. (2004).
+Direct or indirect, that is the question: A re-evaluation of extraversion’s
+influence on self-esteem. Personality and Individual Differences, 36,
+207–217.
+Tabachnick, B. G., & Fidell, F. S. (1989). Using multivariate statistics (2nd
+ed.). New York: HarperCollins Publisher.
+Talbott, J. (1980). The war without a name: France in Algeria, 1954 –1962.
+New York: Knopf.
+Tellegen, A., & Waller, N. G. (1992). Exploring personality through test
+construction: Development of the Multi-dimensional Personality Questionnaire (MPQ). Unpublished manuscript, University of Minnesota,
+Twin Cities.
+*†
+Terracciano, A. (2003). The Italian version of the NEO PI-R: Conceptual
+and empirical support for the use of targeted rotation. Personality and
+Individual Differences, 35, 1859 –1872.
+*
+Terracciano, A., McCrae, R. R., & Costa, P. T. (2003). Factorial and
+construct validity of the Italian Positive and Negative Affect Schedule
+(PANAS). European Journal of Psychological Assessment, 19, 131–
+141.
+Tett, R. P., Steele, J. R., & Beauregard, R. S. (2003). Broad and narrow
+measures on both sides of the personality–job performance relationship.
+Journal of Organizational Behavior, 24, 335–356.
+Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. The
+American Economic Review, 93, 175–179.
+Thoresen, C. J., Kaplan, S. A., Barsky, A. P., Warren, C. R., & de
+Chermont, K. (2003). The affective underpinnings of job perceptions
+and attitudes: A meta-analytic review and integration. Psychological
+Bulletin, 129, 914 –945.
+*
+Todd, M., Armeli, S., Tennen, H., Carney, M. A., & Affleck, G. (2003).
+A daily diary validity test of drinking to cope measures. Psychology of
+Addictive Behaviors, 17, 303–311.
+†
+Tokar, D. M., & Subich, L. M. (1997). Relative contributions of congruence and personality dimensions to job satisfaction. Journal of Vocational Behavior, 50, 482– 491.
+†
+VanKampen, D. (1997). Orderliness as a major dimension of personality:
+From 3DPT to 4DPT. European Journal of Personality, 11, 211–242.
+Veenhoven, R. (1994). World Database of Happiness: Correlates of happiness: 7,837 findings from 603 studies in 69 nations 1911–1994 (Vols.
+1–3). Rotterdam, the Netherlands: Erasmus University Rotterdam.
+*
+Velting, D. M., & Liebert, R. M. (1997). Predicting three mood phenomena from factors and facets of the NEO-PI. Journal of Personality
+Assessment, 68, 165–172.
+Versplanken, B., & Herabadi, A. (2001). Individual differences in impulse
+buying tendency: Feeling and no thinking. European Journal of Personality, 15, 71– 83.
+*
+Walsh, J. M. (2002). Spirituality and recovery from pathological gambling. Unpublished doctoral dissertation, Loyola College, Baltimore,
+Maryland.
+*†
+Wanberg, C. R., & Kammeyer-Mueller, J. D. (2000). Predictors and
+
+PERSONALITY AND SWB
+outcomes of proactivity in the socialization process. Journal of Applied
+Psychology, 85, 373–385.
+#Wanberg, C. R., Kanfer, R., & Banas, J. T. (2000). Predictors and
+outcomes of networking intensity among unemployed job seekers. Journal of Applied Psychology, 85, 491–503.
+*†
+Warr, P. B., Barter, J., & Brownbridge, G. (1983). On the independence
+of positive and negative affect. Journal of Personality and Social Psychology, 44, 644 – 651.
+*†
+Watson, D., & Clark, L. A. (1992). On traits and temperament—General
+and specific factors of emotional experience and their relation to the
+five-factor model. Journal of Personality, 60, 441– 476.
+Watson, D., & Clark, L. A. (1997). Extraversion and its positive emotional
+core. In R. Hogan, J. Johnson, & S. Briggs (Eds.), Handbook of personality psychology (pp. 767–793). San Diego, CA: Academic Press.
+Watson, D., Clark, L. A., McIntyre, C. W., & Hamaker, S. (1992). Affect,
+personality, and social activity. Journal of Personality and Social Psychology, 63, 1011–1025.
+Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of positive and negative affect: The PANAS
+scales. Journal of Personality and Social Psychology, 54, 1063–1070.
+*
+Watson, D., Hubbard, B., & Wiese, D. (2000a). General traits of personality and affectivity as predictors of satisfaction in intimate relationships:
+Evidence from self- and partner-ratings. Journal of Personality, 68,
+413– 449.
+*
+Watson, D., Hubbard, B., & Wiese, D. (2000b). Self-other agreement in
+personality and affectivity: The role of acquaintanceship, trait visibility,
+and assumed similarity. Journal of Personality and Social Psychology,
+78, 546 –558.
+*†
+Watson, D., Suls, J., & Haig, J. (2002). Global self-esteem in relation to
+structural models of personality and affectivity. Journal of Personality
+and Social Psychology, 83, 185–197.
+†
+Wayne, J. H., Musisca, N., & Fleeson, W. (2004). Considering the role of
+personality in the work–family experience: Relationships of the Big Five
+to work–family conflict and facilitation. Journal of Vocational Behavior,
+64, 108 –130.
+Weiss, D. J., Dawis, R. V., England, G. W., & Lofquist, L. H. (1967).
+Manual for the Minnesota Satisfaction Questionnaire. Twin Cities, MN:
+Industrial Relations Center, University of Minnesota.
+Weiss, H. M. (2002). Deconstructing job satisfaction: Separating evaluations, beliefs, and affective experiences. Human Resource Management
+Review, 12, 173–194.
+Whiteside, S. P., & Lynam, D. (2001). The five-factor model and impulsivity: Using a structural model of personality to understand impulsivity.
+Personality and Individual Differences, 30, 669 – 689.
+Widiger, T. A., & Trull, T. J. (1997). Assessment of the five-factor model
+of personality. Journal of Personality Assessment, 68, 228 –250.
+*†
+Wiese, B. S., Freund, A. M., & Baltes, P. B. (2000). Selection, optimization, and compensation: An action-related approach to work and
+partnership. Journal of Vocational Behavior, 57, 273–300.
+*
+Wilkinson, R. B., & Walford, W. A. (2001). Attachment and personality
+in the psychological health of adolescents. Personality and Individual
+Differences, 31, 473– 484.
+*†
+Williams, D. (1981). Personality and mood: State-trait relationships.
+Personality and Individual Differences, 2, 303–309.
+*†
+Williams, D. G. (1989). Personality effects in current mood: Pervasive or
+reactive. Personality and Individual Differences, 10, 941–948.
+
+161
+
+*
+
+Williams, D. (1990). Effects of psychoticism, extraversion, and neuroticism in current mood: A statistical review of six studies. Personality and
+Individual Differences, 11, 615– 630.
+*†
+Williams, D. G. (1993). Are personality effects upon average mood due
+to personality effects upon mood variation? Personality and Individual
+Differences, 14, 199 –208.
+*
+Williams, P. G., Colder, C. R., Lane, J. D., McCaskill, C. C., Feinglos,
+M. N., & Surwit, R. S. (2002). Examination of the neuroticism-symptom
+reporting relationship in individuals with Type-2 diabetes. Personality
+and Social Psychology Bulletin, 28, 1015–1025.
+*†
+Williams, P. G., Surwit, R. S., Babyak, M. A., & McCaskill, C. C.
+(1998). Personality predictors of mood related to dieting. Journal of
+Consulting and Clinical Psychology, 66, 994 –1004.
+*
+Williams, P. G., & Wiebe, D. J. (2000). Individual differences in selfassessed health: Gender, neuroticism, and physical symptom reports.
+Personality and Individual Differences, 28, 823– 835.
+*
+Wilson, K., & Gullone, E. (1999). The relationship between personality
+and affect over the lifespan. Personality and Individual Differences, 27,
+1141–1156.
+Withey, M. J., Gellatly, I. R., & Annett, M. (2005). The moderating effect
+of situation strength on the relationship between personality and provision of effort. Journal of Applied Social Psychology, 35, 1587–1608.
+*†
+Wong, C. S., & Law, K. S. (2002). The effects of leader and follower
+emotional intelligence on performance and attitude: An exploratory
+study. Leadership Quarterly, 13, 243–274.
+*
+Wood, C., Magnello, M. E., & Jewell, T. (1990). Measuring vitality.
+Journal of the Royal Society of Medicine, 83, 486 – 489.
+†
+Wuthrich, V., & Bates, T. C. (2001). Schizotypy and latent inhibition:
+Non-linear linkage between psychometric and cognitive markers. Personality and Individual Differences, 30, 783–798.
+*
+Xue, Z., Liu, Z., Yao, G., Chen, F., Zhu, Y., & Liu, S. (2000). A
+preliminary study of the role of psychosocial factors in patients with
+impotence. Chinese Mental Health Journal, 14, 236 –238.
+*†
+Yeung, R. R., & Hemsley, D. R. (1997). Personality, exercise, and
+psychological well-being: Static relationships in the community. Personality and Individual Differences, 22, 47–53.
+Yik, M. S. M., & Russell, J. A. (2001). Predicting the Big Two of affect
+from the Big Five of personality. Journal of Research in Personality, 35,
+247–277.
+*
+Yoo, H. G., Kim, J. C., Eremenco, S., & Han, O. S. (2005). Quality of life
+on colorectal cancer patients with colectomy and the validation of the
+functional assessment of cancer therapy colorectal, Version 4. Journal of
+Pain and Symptom Management, 30, 24 –32.
+*
+Zhang, S. J., Huangf, L. H., Wen, Y. L., Hu, Z. H., Jin, J., Shen, L. H., et
+al. (2005). Impact of personality and coping mechanisms on health
+related quality of life in liver transplant recipients. Hepatobiliary &
+Pancreatic Diseases International, 4, 356 –359.
+*†
+Zhu, D. T., Jin, L. J., Xie, G. J., & Xiao, B. (1998). Quality of life and
+personality in adults with epilepsy. Epilepsia, 39, 1208 –1212.
+Zuckerman, M. (2005). Psychobiology of personality. New York: Cambridge University Press.
+
+Received July 28, 2006
+Revision received August 20, 2007
+Accepted August 29, 2007 䡲
+
+

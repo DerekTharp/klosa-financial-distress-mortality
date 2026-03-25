@@ -1,0 +1,1412 @@
+PERSPECTIVES
+
+Allostasis and Allostatic Load: Implications
+for Neuropsychopharmacology
+Bruce S. McEwen, Ph.D.
+
+The primary hormonal mediators of the stress response,
+glucocorticoids and catecholamines, have both protective
+and damaging effects on the body. In the short run, they are
+essential for adaptation, maintenance of homeostasis, and
+survival (allostasis). Yet, over longer time intervals, they
+exact a cost (allostatic load) that can accelerate disease
+processes. The concepts of allostasis and allostatic load
+center around the brain as interpreter and responder to
+environmental challenges and as a target of those
+challenges. In anxiety disorders, depressive illness, hostile
+and aggressive states, substance abuse, and post-traumatic
+stress disorder (PTSD), allostatic load takes the form of
+chemical imbalances as well as perturbations in the diurnal
+rhythm, and, in some cases, atrophy of brain structures. In
+addition, growing evidence indicates that depressive illness
+and hostility are both associated with cardiovascular disease
+(CVD) and other systemic disorders. A major risk factor for
+these conditions is early childhood experiences of abuse and
+
+neglect that increase allostatic load later in life and lead
+individuals into social isolation, hostility, depression, and
+conditions like extreme obesity and CVD. Animal models
+support the notion of lifelong influences of early experience
+on stress hormone reactivity. Whereas, depression and
+childhood abuse and neglect tend to be more prevalent in
+individuals at the lower end of the socioeconomic ladder,
+cardiovascular and other diseases follow a gradient across
+the full range of socioeconomic status (SES). An SES
+gradient is also evident for measures of allostatic load.
+Wide-ranging SES gradients have also been described for
+substance abuse and affective and anxiety disorders as a
+function of education. These aspects are discussed as
+important, emerging public health issues where the brain
+plays a key role. [Neuropsychopharmacology
+22:108–124, 2000] © 1999 American College of
+Neuropsychopharmacology. Published by Elsevier Science
+Inc.
+
+KEY WORDS: Homeostasis; Stress; Depression; PTSD;
+
+and anxiety disorders are estimated to account for almost half of the cost burden of these disorders (Rupp et
+al. 1998). Stress plays a role in mental disorders, as both a
+causal factor and an outcome of disordered thought and
+disrupted interpersonal relationships (for discussion of
+major depression in this regard, see Kessler 1997).
+In spite of the wide-spread recognition of these relationships, medical science has been struggling for decades to understand the relationship between stress
+and disease. Stress may be defined as a threat, real or
+implied, to the psychological or physiological integrity
+of an individual. However, the widespread use of the
+term “stress” in popular culture has made this word a
+very ambiguous term to describe the ways in which the
+body copes with psychosocial, environmental, and
+physical challenges. One reason for this ambiguity is
+that the subjective experience of stress does not always
+
+Substance abuse; Cardiovascular disease; Hostility;
+Anxiety; Development; Socioeconomic status
+Diagnosable mental disorders affect approximately 22%
+of the adult US population in any given year, and the
+costs associated with treating these disorders was estimated almost a decade ago to be $74 billion, with an additional estimated indirect cost of the same magnitude
+for lost productivity. Clearly, the total costs are much
+greater now as we approach the year 2000! Affective
+
+From the Laboratory of Neuroendocrinology, The Rockefeller
+University, New York, NY.
+Address correspondence to: Bruce S. McEwen, Ph.D., The Rockefeller University, 1230 York Avenue, New York, NY 10021.
+Received June 27, 1999; revised September 28, 1999; accepted September 30, 1999.
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+© 1999 American College of Neuropsychopharmacology
+Published by Elsevier Science Inc.
+655 Avenue of the Americas, New York, NY 10010
+
+0893-133X/00/$–see front matter
+PII S0893-133X(99)00129-3
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+predict the elevation of the physiological “stress mediators,” particularly cortisol and catecholamines (Kirschbaum et al. 1999). These physiological mediators are associated with both adaptation and pathophysiology, in
+the sense that both cortisol and catecholamines are mediators of the adaptation of many systems of the body
+to acute challenges, while, at the same time, these mediators also participate in pathological changes over long
+periods of time ranging from immunosuppression to
+obesity, hypertension, and atherosclerosis. Therefore,
+the measurement of these mediators during the course
+of both acute stress and chronic challenge constitutes
+one means of connecting experience with resilience or the
+risk for disease. This will be elaborated further below.
+Another reason for the ambiguity of the term
+“stress” is because the “stress mediators” also vary in
+their basal secretion according to a diurnal rhythm that
+is coordinated by the light-dark cycle and sleep-waking
+patterns, and perturbations in this pattern are also linked
+to pathophysiological outcomes. Therefore, the challenge
+for investigators is to discriminate aspects of temporal
+patterning and intensity that discriminate between the
+protective and damaging actions of the stress mediators.
+Since the description of Hans Selye of the “general
+adaptation syndrome” in response to stressors (Selye
+1936), there has been an inherent paradox, namely, that
+the systems that react to stress—the autonomic nervous
+system and the adrenocortical system—are important
+protectors of the body in the short run but cause damage and accelerate disease when they are active over long
+periods of time. What has been lacking is a comprehensive model that links these seemingly contradictory effects and provides at the same time insights into how individuals differ in their vulnerability to develop diseases.
+This Perspective article describes such a model
+(McEwen 1998; McEwen and Stellar 1993) and discusses
+its applicability to psychiatric disorders, in which altered states of brain chemistry and function make the
+afflicted individual more susceptible to the physiological impact of life events and, in turn, more vulnerable to
+the impact of the stress hormones themselves. Furthermore, these considerations of stress and health are becoming useful in understanding gradients of health
+across the full range of education and income, referred
+to as “socioeconomic status” or SES (Adler et al. 1993).
+SES is as powerful a determinant of mortality as smoking, exposure to carcinogens, and many genetic risk factors, as was discussed at a recent meeting of the New
+York Academy of Sciences (Adler et al. in press).
+
+PROTECTIVE AND DAMAGING EFFECTS OF
+STRESS MEDIATORS
+The most important aspect of the hormones associated
+with stress is that they have protective effects in the
+
+Allostasis and Allostatic Load 109
+
+short run and yet can have damaging effects over
+longer time intervals if there are many adverse life
+events or if the hormonal secretion is disregulated
+(McEwen 1998). Some examples will illustrate these differences, noting instances where the two primary stress
+mediators, glucocorticoids and catecholamines, participate in protective and damaging outcomes. For example, glucocorticoids, so-named because of their ability
+to promote conversion of protein and lipids to usable
+carbohydrates, serve the body well in the short run by
+replenishing energy reserves after a period of activity,
+like running away from a predator. Glucocorticoids
+also act on the brain to increase appetite for food and to
+increase locomotor activity and food seeking behavior
+(Leibowitz and Hoebel 1997), thus regulating behaviors
+which control energy input and expenditure. This is
+very useful when we have run two miles, but it is not
+beneficial when we grab a bag of potato chips while
+writing a grant or a paper. Inactivity and lack of energy
+expenditure creates a situation where chronically-elevated glucocorticoids can impede the action of insulin
+to promote glucose uptake. One of the results of this interaction is that insulin levels increase, and, together,
+insulin and glucocorticoid elevation promote the deposition of body fat, and this combination of hormones
+also promotes the formation of atherosclerotic plaques
+in the coronary arteries (Brindley and Rolland 1989).
+For the heart, we see a similar paradox. Getting out of
+bed in the morning requires an increase in blood pressure and a reapportioning of blood flow to the head so
+we can stand up and not faint (Sterling and Eyer 1988).
+In addition, our blood pressure rises and falls during the
+day as physical and emotional demands change, providing adequate blood flow as needed. Yet, repeatedly
+elevated blood pressure promotes generation of atherosclerotic plaques, particularly when combined with a supply of cholesterol and lipids and oxygen free radicals
+that damage the coronary artery walls (Manuck et al.
+1995). Beta adrenergic receptor blockers are known to
+inhibit this cascade of events and to slow down the atherosclerosis that is accelerated in dominant male cynomolgus monkeys exposed to an unstable dominance hierarchy (Manuck et al. 1991). Thus, catecholamines and
+the combination of glucocorticoids and insulin can have
+dangerous effects on the body, besides their important
+short-term adaptive roles (Brindley and Rolland 1989).
+In the brain, strong emotions frequently lead to
+“flash-bulb” memories, e.g., where we were and what
+we were doing when we heard of John Lennon’s assassination or Princess Diana’s fatal accident, or remembering the location and events associated with a very
+positive life-event, like proposing marriage or receiving
+a promotion or award. Both catecholamines acting via
+beta adrenergic receptors and glucocorticoid hormones
+acting via intracellular receptors play an important role
+in establishing these long-lasting memories, and a num-
+
+110 B.S. McEwen
+
+ber of brain structures participate along with the autonomic nervous system. As will be discussed below, the
+amygdala plays an important role in this type of memory, aided by the autonomic nervous system, which
+picks up a signal from circulating adrenalin, and by the
+hippocampus, which helps us remember “where we
+were and what we were doing” at the time the
+amygdala was turned on in such a powerful way. The
+paradox for the brain comes when there is repeated
+stress over many days or when glucocorticoid levels remain high because of adrenal overactivity or poor shut
+off of the stress response. Then, there is atrophy of pyramidal neurons in the hippocampus and shut-down of
+on-going neurogenesis in the dentate gyrus (McEwen
+1999). After very prolonged and severe stress, pyramidal neurons may actually die (Uno et al. 1989). Through
+some or all of these processes, the hippocampus undergoes an atrophy, and this can be picked up in the human brain by MRI in such conditions as recurrent depressive illness, Cushing’s syndrome, post-traumatic stress
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+disorder (PTSD), mild cognitive impairment in aging,
+and schizophrenia (McEwen 1997; Sapolsky 1996).
+
+ALLOSTASIS AND ALLOSTATIC LOAD
+Thus, protection and damage are the opposite, and
+seemingly unavoidable extremes, of the release of adrenal hormones during stress and in the diurnal rhythm.
+What are the characteristics of the overactivity of the
+stress hormone axis which leads to pathophysiology
+and damage? Figure 1 presents a number of alternative
+patterns of the hormonal stress response that illustrate
+what is called “allostatic load” (McEwen 1998). Allostasis (literally “maintaining stability, or homeostasis,
+through change”) refers to the process of adaptation to
+acute stress, involving the output of stress hormones
+which act in the ways described above to restore homeostasis in the fact of a challenge (Sterling and Eyer
+1988). “Allostatic load” refers to the price the body pays
+
+Figure 1. Four types of allostatic load are illustrated. The top panel illustrates the normal allostatic response, in which a
+response is initiated by a stressor, sustained for an appropriate interval, and then turned off. The remaining panels illustrate
+four conditions that lead to allostatic load: 1) Repeated “hits” from multiple novel stressors; 2) Lack of adaptation; 3) Prolonged response due to delayed shut down; and 4) inadequate response that leads to compensatory hyperactivity of other
+mediators, e.g., inadequate secretion of glucocorticoid, resulting in increased levels of cytokines that are normally counterregulated by glucocorticoids). Figure drawn by Dr. Firdaus Dhabhar, Rockefeller University. Reprinted from McEwen 1998,
+with permission.
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+for being forced to adapt to adverse psychosocial or
+physical situations, and it represents either the presence
+of too much stress or the inefficient operation of the
+stress hormone response system, which must be turned
+on and then turned off again after the stressful situation
+is over (see top panel in Figure 1).
+In Figure 1, the top left panel refers to chronic stress
+(turning on the stress hormone response frequently by
+novel events); and the negative consequences result
+from the over-exposure to stress hormones resulting in
+the various types of pathophysiology and wear and tear
+described above. People who have had excessive stress
+in their lives, as measured by multiple periods of poverty level income, show earlier aging, more depression,
+and an earlier decline of both physical and mental functioning (Lynch et al. 1997b). Moreover, individuals who
+have been abused as children suffer an increased risk
+for depression, suicide, substance abuse, and earlier
+mortality and morbidity from a wide range of diseases
+(Felitti et al. 1998).
+Yet, there are circumstances in which the number of
+stressful events may not be excessive but in which the
+body fails to manage the hormonal stress response, and
+these are illustrated in the three remaining panels in
+Figure 1. The top right panel illustrates a failure to habituate to repeated stressors of the same kind. Measurement of cortisol in a repeated public speaking challenge
+has revealed individuals who do not habituate, and
+these individuals, who lack self-confidence and selfesteem, are undoubtedly overexposing their bodies to
+stress hormones under many circumstances in daily life
+that do not overtly disturb other individuals (Kirschbaum et al. 1995).
+The bottom left panel of Figure 1 refers to failure to
+turn off each stress response efficiently. One example of
+this is individuals with two parents who are hypertensive, and who show prolonged elevation of blood pressure after a physiological stressor (Gerin and Pickering
+1995). Another example is the hypersecretion of cortisol
+in the evening in people who have been sleep deprived
+(Leproult et al. 1997; Spiegel et al. 1999), as well as in
+depressed individuals. The reason that evening elevation of cortisol is bad is that it has a greater effect in
+causing a delayed hyperglycemic state than does cortisol elevation in the morning (Plat et al. 1999). In depression, loss of bone mineral density has been reported
+(Michelson et al. 1996).
+The bottom right panel of Figure 1 describes a situation in which the hormonal stress response is inadequate to the needs of the individual genotype, resulting
+in excessive activity of other allostatic systems such as
+the inflammatory cytokines, which are normally contained by elevated levels of cortisol and catecholamines. The Lewis rat illustrates this condition, having
+less corticosterone than the virtually syngeneic Fischer
+rat. Lewis rats are vulnerable to inflammatory and au-
+
+Allostasis and Allostatic Load 111
+
+toimmune disturbances, which are not found in Fischer
+rats (Sternberg 1997). Comparable human disorders involving lower-than-needed cortisol include fibromyalgia and chronic fatigue syndrome (Buske-Kirschbaum
+et al. 1997; Crofford et al. 1994; Heim et al. 1998; Ur et al.
+1992; Poteliakhoff 1981).
+Thus, the distinction between protection and damage, as far as hormonal mediators of stress are concerned, is related to the dynamics of the hormonal
+stress response. As noted above and discussed at the
+end of this Perspective, differences in hormonal dynamics and “allostatic load” may well explain gradients of
+morbidity and mortality that are seen across the full
+range of income and education referred to as SES and
+which account for striking differences of health between rich and poor.
+
+MEASUREMENT OF ALLOSTATIC LOAD
+How is allostatic load measured? Assessment of allostatic load would optimally incorporate information on
+“resting” or “usual” levels of allostatic mediators for
+each individual, as well as assessments of system dynamics (i.e., alterations in the “operating range” of the
+system parameters in response to stimulation, so as to
+tap into the four types of allostatic load depicted in Figure 1); and it would include information for parameters
+of all major physiological regulatory systems. In the initial validations study, data was used from the MacArthur Successful Aging Study that pertains to levels of
+physiologic activity across a range of important regulatory systems, including the hypothalamic-pituitaryadrenal and sympathetic nervous systems as well as the
+cardiovascular system and metabolic processes (Seeman et al. 1997a). The measure of allostatic load reflects
+only one of the two aspects of physiologic activity postulated to contribute to allostatic load, namely, higher,
+chronic, steady state levels of activity related to the diurnal variation as well as any residual activity reflecting chronic stress or failure to shut-off responses to
+acute stressors.
+The parameters that have been measured for determining allostatic load scores are summarized in Table
+1. The initial estimate of allostatic load was created by
+summing across indices of subjects’ status with respect
+to these ten components of allostatic load. For each of
+the ten indicators, subjects were classified into quartiles
+based on the distribution of scores in the high function
+cohort (see Seeman et al. 1997a). The decision to use distributions in the high function cohort was based on the
+fact that analyses of relationships between allostatic
+load and health outcomes were based on longitudinal
+data for this latter group. Allostatic load was measured
+by summing the number of parameters for which the
+subject fell into the “highest” risk quartile (i.e., top
+
+112 B.S. McEwen
+
+quartile for all parameters except HDL cholesterol and
+DHEA-S for which membership in the lowest quartile
+corresponds to highest risk).
+Several alternative criteria for calculating allostatic
+load were also examined. One such alternative, using a
+stricter criterion, was based on a sum of the number of
+parameters for which the subject fell into the top (or
+bottom) 10% of the distribution (i.e., the group at highest “risk”). Another measure of allostatic load was
+based on averaging z-scores for each of the parameters.
+In each case, analyses yielded essentially the same results as the measure based on the quartile criteria,
+though the latter showed the strongest effects. These
+concurrent results suggest to us that the disease risks
+associated with allostatic load derive (as the original
+conceptualization would argue) from being relatively
+higher on various measures of physiologic regulation
+rather than only at the most extreme levels. At the same
+time, simply averaging levels of activity across systems
+may tend to obscure the impact of elevations in a subset
+of systems that contribute to higher allostatic load.
+Thus, we select an algorithm for allostatic load that
+avoids the problem of averaging, using instead a count
+of the number of parameters for which subjects exhibited relatively elevated levels. The 10 components were
+equally weighted since, based on factor analysis, indicators from physiologic systems defined different factors,
+and the component loadings on the relevant factors
+were virtually the same. This measure of allostatic load
+was then examined for its ability to predict health outcomes over a 2.5 year follow-up. Higher baseline allostatic load scores were found to predict significantly increased risks for incident cardiovascular disease (CVD)
+as well as increased risks for decline in physical and
+cognitive functioning and for mortality (Seeman et al.
+1997b).
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+One of the problems with the original conceptualization of allostatic load and its measurement is that the
+components were not organized and categorized with
+regard to what each measure represents in the cascade
+of events that lead from allostasis to allostatic load. Nor
+was there any suggested organization in choosing those
+original measures that would facilitate systematically
+relating measures to specific disease outcomes or systematically adding new measures. Allostasis and allostatic load are concepts that are mechanistically based
+and only as good as the information about mechanisms
+that lead to disease.
+A new way of classifying the measures must provide
+a handle for relating what is measured to a pathophysiological process and allow for the incorporation of new
+measures as more is known about underlying mechanisms leading to disease (McEwen and Seeman 1999).
+This new formulation is based upon the notion of primary mediators leading to primary effects and then to secondary outcomes. These lead, finally, to tertiary outcomes
+that represent actual diseases. In the original allostatic
+load measures summarized in Table 1, cortisol, adrenalin, noradrenalin, and DHEA are primary mediators,
+whereas the other six represent secondary outcomes. In
+a new study from the MacArthur Successful Aging data
+collection, the four primary mediators predicted both
+mortality over four years as powerfully as the six secondary outcomes shown in Table 1 (Seeman et al. 1997b).
+
+THE ROLE OF BEHAVIOR IN
+ALLOSTATIC LOAD
+Behavioral responses to challenge also lead to protective and damaging effects and produce a form of allo-
+
+Table 1. Measures of Allostatic Load
+Systolic and diastolic blood pressure
+Indices of cardiovascular activity.
+Waist-hip ratio
+An index of more chronic levels of metabolism and adipose tissue deposition, thought to be
+influenced by increased glucocorticoid activity.
+Serum HDL and total cholesterol
+Related to the development of atherosclerosis—increased risks being seen with higher levels in
+the case of total cholesterol and lower levels in the case of HDL.
+Blood plasma levels of glycosylated hemoglobin
+An integrated measure of glucose metabolism over several days time.
+Serum dihydroepiandrosterone sulfate (DHEA-S)
+A functional HPA axis antagonist.
+Over-night urinary cortisol excretion.
+An integrated measure of 12-hr HPA axis activity.
+Overnight urinary noradrenalin and adrenalin excretion
+Integrated indices of 12-hr sympathetic nervous systems activity.
+Note: cortisol, noradrenalin, adrenalin, and DHEA are referred to in the text as the four primary mediators.
+For details, see Seeman et al. 1997b.
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+static load. An individual’s behavior can increase or decrease further risk for harm or disease—for example,
+antisocial responses such as hostility and aggression vs.
+cooperation and conciliation; risk taking behaviors such
+as smoking, drinking, and physical risk-taking vs. self
+protection; poor diet and health practices vs. good diet
+and exercise. In so far as the behavioral response, such
+as smoking or alcohol consumption, may have at least
+perceived adaptive effects in the short run but damaging effects in the long run, the linkage of “allostasis”
+and “allostatic load” is applicable to behavioral responses as well as to physiological responses to
+challenge.
+However, there is another important role or behavior
+relation to allostatic load, namely, that behavior and
+cognition play an important role in determining what is
+stressful, and individuals differ in at least three principal ways in how they respond to potentially-stressful
+situations (see Figure 2). The first is interpretation of an
+event—if a situation is viewed as threatening, then the
+brain may initiate behaviors that avoid the threat or, alternatively, it may produce behaviors that can increase
+danger. The brain also regulates the hormonal physiological responses that, as discussed above, protect in the
+short run but which, over months or years, can cause
+wear and tear on the body. On the other hand, perceiving an event as non-threatening may have very little
+cost providing that there is really no danger involved,
+whereas perceiving as threatening situations that are
+not dangerous can lead to a high cost in physiological
+over-reactions and wasted behavior. In an example
+cited above, those individuals who failed to habituate
+their cortisol response in a public speaking challenge
+lacked in self-confidence and felt continually threatened (Kirschbaum et al. 1995). Individual differences
+are also seen in cardiovascular activity, e.g., blood pressure responses to a laboratory stressor predicted elevated ambulatory blood pressure during periods of
+perceived stress (Matthews et al. 1992). Moreover, as
+noted above, a parental history of hypertension appears
+to predict the duration of the blood pressure response
+to an acute stressor (Gerin and Pickering 1995).
+Another relevant aspect of individual differences
+concerns the condition of the body itself. People who
+are in good physical condition can handle strenuous exercise far better than those not in shape. Thus, personal
+behavior involving exercise is very important: for example, exercise can have a rapid effect to increase muscle glucose utilization (Perseghin et al. 1996). Moreover,
+metabolic imbalances that lead to obesity and diabetes
+can increase the vulnerability of an individual to stress,
+and these may have a genetic component (Brindley and
+Rolland 1989). For Type I diabetes, life stressors increase the incidence and severity of the disease in children (Hafflof et al. 1991) and the BB rat strain responds
+to stress by increasing the number of individual rats
+
+Allostasis and Allostatic Load 113
+
+that express Type I diabetes (Lehman et al. 1991). As far
+as Type II diabetes, stress increases fat deposition in experimental animals (Rebuffe-Scrive et al. 1992), and
+data for humans indicates that stressful life events accelerate the course of the disease (Cox and Gonder-Frederick 1991; Surwit et al. 1991).
+Third, certain personal behaviors, such as choice of
+diet, smoking, alcohol intake, and exercise, are likely to
+be altered by stress because they are important for some
+individuals in coping with stress. And it is well known
+that such behaviors influence health outcomes over
+long periods of time, contributing to the physiological
+allostatic load. In short, the brain controls not only the
+interpretation of events as threatening or non-threatening, but it also determines the behaviors and habits that
+can make life more or less dangerous to the individual
+in the short run and increase allostatic load over a
+lifetime.
+
+THE RELATIONSHIPS OF GENETICS TO STRESS
+AND ALLOSTATIC LOAD
+Genetic factors play a major role in the risk for stressrelated disorders and allostatic load, and this is particularly true for psychiatric disorders, which are also inextricably linked to an individual’s experiences and
+behavior. Genes exist in allelic variants, some of which
+confer risk for certain types of diseases. For example,
+the concordances among identical twins for a number
+of psychiatric disorders is on the order of 0–60%, less
+than 100% but higher than that for non-identical twins
+and much higher than between unrelated individuals
+(Plomin 1990; Plomin et al. 1994). Yet, many diseases,
+including psychiatric disorders, are suspected to reflect
+defects, or allelic variants, in more than one gene, and
+this increases the complexity of the analysis of such disorders (see Vogel and Motulsky 1986).
+Behavior plays a complex role in the expression of
+genetic traits. One relevant example is contained in recent studies on depression, in which genetic risk for depression fits a model in which there is an increased
+probability for the at-risk individual experiencing
+stressful life events in interpersonal, work-related, and
+financial domains. According to this model, it is as if
+these individuals select themselves into high risk environment and thus increase the likelihood that depression will result from the stress and conflict that they
+experience (Kendler 1998; Kendler and Karkowski-Shuman 1997). More generally, and as we know about the
+genes that are involved in such conditions, the mapping
+of the human genome and the identification of alleles of
+genes that confer risk for disease opens the way for
+studies of the role of specific genes and their regulation
+in disease processes. However, as emphasized by the
+studies noted above on depression, knowing what
+
+114 B.S. McEwen
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+Figure 2. The stress response and development of allostatic load are illustrated. Perception of stress is influenced by one’s
+experiences, genetics, and behavior. When the brain perceives an experience as stressful, physiologic and behavioral
+responses are initiated leading to allostasis and adaptation. Over time, allostatic load can accumulate, and the overexposure
+to neural, endocrine, and immune stress mediators can have adverse effects on various organ systems, leading to disease.
+Reprinted from McEwen 1998, with permission.
+
+genes are involved in a disease is not enough. The regulation of those genes in relation to the pathophysiology
+of the disease must also be elucidated, and, in the case
+of mental disorders this entails much more knowledge
+about the behavioral, neurochemical, and neuroanatomical features of the disorders themselves.
+It is now well known that genes are regulated by
+hormones, neurotransmitters and other chemical signals that are produced in response to signals from the
+external and internal environment. For example, stress
+is reported to activate immediate early gene expression,
+and these immediate early genes, like c-fos, are believed
+to activate other genes and thus regulate aspects of cell
+structure and function (Imaki et al. 1992; Mansi et al.
+1998; Melia et al. 1994; Nikulina et al. 1998; Watanabe et
+al. 1994).
+
+THE BRAIN AS A TARGET OF
+ALLOSTATIC LOAD
+Mental disorders such as depression are related to
+chemical imbalances in the central nervous system that
+alter interpretations of stimuli and influence behavioral
+responses to potentially stressful situations. These
+chemical imbalances constitute a form of allostatic load
+(Schulkin et al. 1994). There are multiple transmitters
+that may be subject to such imbalances, but two of
+them, serotonin and corticotrophin releasing factor
+(CRF), are particularly relevant for discussions of stress,
+anxiety, and depression leading to allostatic load. Low
+brain serotonin is linked to impulsive aggression, suicide, alcohol, and substance abuse (Brown et al. 1982;
+
+Higley et al. 1996a; Mann 1998; Williams 1994). In addition, testosterone increases aggression and may be reciprocally-linked to serotonin, i.e., testosterone is involved in reducing the actions of serotonin, whereas
+serotonin inhibits testosterone-facilitated behaviors (Higley et al. 1996b). In support of this notion, the serotonin
+behavioral syndrome (SBS; a stereotyped set of postural
+and motor response elicited by tryptophan administered
+in the presence of pargyline) in rats is higher in females
+than in males and is increased in males by castration
+and suppressed by dihydrotestosterone administration,
+suggesting an effect mediated by androgen receptors
+(Fischette et al. 1984).
+At the same time, social ordering in animals changes
+brain chemistry, as seen in dominance hierarchies
+among laboratory animals, and this has an impact on
+expression of certain neurochemical systems. For example, CRF is not only a key hypothalamic hormone that
+regulates ACTH release but it is also a neurotransmitter
+that regulates autonomic nervous system activity and
+ingestive behavior. CRF gene expression is elevated in
+both dominant and subordinate rats after chronic psychosocial stress in the amygdala (Albeck et al. 1997), a
+brain area involved in memory associated with powerful emotions (Ledoux 1996). Yet, hypothalamic CRF expression, which controls the pituitary production of
+ACTH, is deficient in subordinate rats that are most severely affected by the psychosocial stress experience, as
+indicated by their having extremely low levels of testosterone (Albeck et al. 1997; Blanchard et al. 1993). This
+reduced hypothalamic CRF is linked to a failure to
+show a hormonal stress response in this subgroup or
+subordinate rats (Albeck et al. 1997). On the other hand,
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+the increase in amygdala CRF mRNA levels is important in light of the finding that amygdala CRF is known
+to be involved in stress-induced anxiety behaviors
+(Swiergiel et al. 1993; Wiersma et al. 1995).
+The amygdala and extended amygdala provide one
+source of extra-hypothalamic CRF, which is known to
+be elevated in primates that are anxious as a result of
+deprivation of maternal care (Coplan et al. 1996) and in
+individuals with PTSD (Bremner et al. 1997a). In contrast
+to the hypothalamic CRF system, which is suppressed
+by glucocorticoids, stress and glucocorticoids enhance
+expression of the amygdala and extended amygdala
+CRF system (for review see Schulkin et al. 1998).
+Chemical imbalances in neurotransmitters can be the
+cause and/or the result of fear and traumatic experiences. The “flash bulb” memories of events associated
+with strong emotions, including both fear and also positive emotions, involve the amygdala (Ledoux 1996).
+The pathway for encoding these memories involves the
+interaction between neurotransmitters in the amygdala
+and the hippocampus, facilitated by circulating stress
+hormones of the adrenal cortex and adrenal medulla.
+Indeed, encoding of these memories is strengthened by
+glucocorticoids and noradrenalin acting in the amygdala
+and hippocampus, among other brain regions, and epinephrine acting in the sensory vagus outside of the
+blood-brain barrier, with information transmitted into
+the brain via the nucleus of the solitary tract (Cahill et
+al. 1994; McGaugh et al. 1996; de Quervain et al. 1998;
+Roozendaal et al. 1996). These findings may have some
+relevance to PTSD and also to symptoms of depression,
+in which an overactive amygdala appears to be involved (Cahill and McGaugh 1998; Drevets et al. 1992,
+1997; Sheline et al. 1998).
+At the same time as the brain encodes information
+and controls the behavioral responses, it is also changed
+structurally and chemically by those experiences (Greenough and Bailey 1988; Guzowski and McGaugh 1997;
+Martin and Kandel 1996). While short-term response of
+the brain to novel and potentially-threatening situations may be adaptive and result in new learning and
+acquired behavioral strategies for coping, as may be the
+case for certain types of fear-related memories, repeated
+stress can cause cognitive impairment via at least four
+different mechanisms (McEwen 1997, 1999). The first is
+the compromising of neuronal excitability, which is a
+relatively rapid and reversible process (Joels and
+Vreugdenhil 1998; Pavlides et al. 1995). The second is
+by causing atrophy of nerve cells in the Ammon’s horn
+region of the hippocampus through a process that is
+again reversible, although over days or weeks rather
+than hours (Magarinos et al. 1997; McEwen 1999). A
+third process involves the inhibition of neurogenesis in
+the dentate gyrus region of the hippocampus (Gould et
+al. 1998). The fourth process involving prolonged and
+extreme psychosocial stress can lead, over months to
+
+Allostasis and Allostatic Load 115
+
+years, to permanent loss of nerve cells in hippocampus
+(Uno et al. 1989). Each of these processes may be occurring somewhat independently of each other and contribute in various degrees to different pathophysiological
+situations involving traumatic stress, depression or aging.
+The hippocampus is important in declarative, spatial, and contextual memory and plays a role in processing of the contextual associations of strong emotions
+(Eichenbaum 1997; Gray 1982; Kim and Fanselow 1992;
+Phillips and LeDoux 1992; Pugh et al. 1997). Atrophy of
+the human hippocampus is reported in some individual
+animals (Meaney et al. 1988) and humans (Lupien et al.
+1994, 1998) as they age and is accompanied by cognitive
+impairment. Hippocampal atrophy and cognitive impairment is also reported in Cushing’s syndrome,
+PTSD, schizophrenia, mild cognitive impairment during aging and recurrent major depression (for reviews,
+see McEwen 1997; Sapolsky 1996). In these disorders,
+the hippocampus is likely not to be the only brain area
+affected in this way, since atrophy of the amygdala and
+prefrontal cortex have also been reported in depressive
+illness (Drevets et al. 1997; Sheline et al. 1998, 1999). Reversibility and/or preventability of such atrophy is an
+important practical issue in devising treatments not
+only for depressive illness, but also for PTSD, schizophrenia and mild cognitive impairment during aging.
+
+EARLY LIFE EXPERIENCES
+As suggested by Figure 2, the susceptibility of an individual to allostatic load is likely to reflect developmental influences as well as genetic risk factors. Indeed,
+early life experiences play a powerful role in determining allostatic load over a lifetime in experimental animals, and these animal models provide an attractive
+model for understanding some environmental and developmental influences upon individual differences in
+human stress reactivity. Neonatal “handling” of newborn rats produces animals that have lower HPA reactivity and slower rates of brain aging; these are measured in terms of loss of cognitive function; in contrast,
+prenatal or postnatal stress is suspected of causing increased HPA reactivity over a lifetime and to lead to increased rates of brain aging (see Dellu et al. 1994; Liu et
+al. 1997; Meaney et al. 1988). A likely mechanism for the
+effects of “handling” is the maternal licking and grooming behavior towards the pup, which is enhanced by
+the brief (15 minutes) separation of pup from mother,
+with pups from mothers showing higher amounts of
+licking and grooming displaying lower levels of stress
+hormone reactivity as adults (Liu et al. 1997). More prolonged maternal separation (180 minutes) fails to have
+this effect and, in fact, shows signs of producing the opposite effect, namely, to increase stress hormone production later in life (Plotsky and Meaney 1993).
+
+116 B.S. McEwen
+
+There are individual differences in human brain aging related to elevated cortisol levels (see Lupien et al.
+1994, 1998; Seeman et al. 1997), although their connection to early life events is unknown. Yet, there are now
+indications in studies on human development that
+events early in life produce long-term effects upon the
+activity of systems producing hormonal stress mediators. Although the evidence is not extensive, the initial
+reports encourage further investigation. For example,
+phenomena such as low birthweight and various types
+of early life trauma may influence stress hormone responsiveness over a lifetime. Evidence that extremely
+low birthweight, which may be caused, at least in part, by
+stress to the mother, is a risk factor for Type II diabetes is
+one indication of a life-long influence of early life events
+(see Barker 1997; Wadhwa 1998; Wadhwa et al. 1993).
+Moreover, experiences in childhood have other, deleterious consequences. For example, a recent report indicates that a history of sexual and physical abuse in
+childhood is a risk factor not only for PTSD but also for
+hippocampal atrophy and cognitive impairment in
+adulthood (Bremner et al. 1997b). A very recent study
+on adolescents with a history of childhood physical and
+sexual abuse has revealed a pattern of elevated urinary
+secretion of catecholamines in those with PTSD compared to two control groups, non-traumatized children
+with over-anxious disorder and healthy controls; in addition, urinary free cortisol was higher in PTSD children than healthy controls (DeBellis et al. 1999a). These
+results point to an increased activity, or allostatic load,
+within the stress hormone axis. A related study on maltreated children with PTSD revealed the presence of
+smaller intracranial and cerebral volumes compared to
+matched controls; however, there was no indication of
+smaller hippocampal volumes in these subjects, in contrast to the adult PTSD subjects with a history of childhood abuse described above (DeBellis et al. 1999b). These
+findings are consistent with a previous, qualitative
+study that reported electrophysiological abnormalities
+from EEG records in children with a history of psychological, physical, and sexual abuse (Ito et al. 1993).
+However, the lack of hippocampal atrophy in children
+with PTSD suggests that this process is a gradual one
+that occurs later in life with the repetition of the PTSD
+state over many years.
+There are also indications that abuse and neglect in
+childhood are risk factors for increased mortality and
+morbidity from a variety of disorders during adult life,
+including depression, suicide substance abuse, CVD,
+and extreme obesity (Felitti et al. 1998). In other words,
+the reported effects of trauma and other childhood adversities are very broad and do not appear specific for
+any one type of psychiatric or other disorder (Kessler et
+al. 1997). Moreover, the breadth and strength of the effects of such trauma is reminiscent of the broad systemic effects of alterations of the responsiveness of
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+physiological mediators that is embodied in the concept
+of allostatic load (McEwen 1998). They are also consistent with the elevation of stress hormone activity noted
+above in the abused children.
+Neglect and trauma in childhood presents symptoms that are associated with other animal and human
+studies showing low serotonin and risk for hostility, aggression, substance abuse, and suicide. Studies in infrahuman primates have shown that early maternal
+deprivation reduces brain serotonin levels and increases alcohol preference and aggressive behavior,
+while decreasing affiliative behaviors (Higley et al.
+1991, 1993).
+
+CARDIOVASCULAR DISEASE, HOSTILITY,
+AND DEPRESSION
+Imbalances in brain function increase allostatic load
+and affect the health of other systems of the body, and
+this is very well illustrated by the cardiovascular system for two disorders: hostility and major depression.
+Hostility, and the resulting outbursts of anger, are associated with increased blood pressure surges and an elevated acute risk for myocardial infarction (MI) (Suarez
+et al. 1998; Williams and Chesney 1993). MI has a distinct diurnal pattern of occurrence, being more frequent
+in the morning, and acute stress is a major risk factor for
+MI (Muller and Tofler 1990). The mechanisms are now
+known for these events including the increased risk of
+forming blood clots (Muller and Tofler 1990). In general, high hostility and also low SES (see below), as associated with increased CVD (Kop 1997).
+Depressive illness is a disorder associated with CVD,
+and there are a number of features of depression that
+point to allostatic load, not only in the brain, but also in
+the rest of the body. Many patients with CVD suffer
+from depression, and depression and vital exhaustion
+predict further worsening of CVD (Kop 1997; Kop et al.
+1994; Musselman et al. 1996; Musselman 1998). In addition, for women, CVD is the leading cause of death and
+there is a strong association between CVD in women
+and depression (Musselman and Nemeroff 1998).
+Moreover, heart-rate variability, a positive sign of cardiovascular health that is compromised in CVD and after an MI, is lower in individuals with higher depression scores (Krittayaphong et al. 1997). Likewise,
+increased platelet reactivity, a sign of more rapid blood
+clotting, is associated with major depression (Musselman et al. 1996), and there are indications for increased
+abdominal fat deposition in major depressive illness
+(Thakore et al. 1997). As noted earlier in this article, abdominal fat deposition is a sign of allostatic load that is
+strongly linked to increased risk for CVD. Other aspects
+of depressive illness that appear to be indices of allostatic
+load include the loss of bone mineral density (Michel-
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+son et al. 1996) and atrophy of the hippocampus,
+amygdala, and prefrontal cortex (Drevets et al. 1997;
+Sheline et al. 1996, 1999).
+
+SOCIOLOGICAL ASPECTS OF STRESS
+AND HEALTH
+We now move from considering individuals to groups
+of people classified by income and education, which is
+collectively referred to as SES. This is because there is
+growing evidence for gradients of mortality and morbidity across the full range of SES that cannot be explained simply by access to health care or individual
+factors such as amount of smoking (Adler et al. 1993,
+1994). The gradients of health across the range of SES
+relate to a complex array of risk factors that are differentially distributed in human society and which have a
+cumulative impact on behavioral and physiological allostatic load, and CVD is among the most prominent
+disorders showing an SES gradient. However, CVD is
+not the only disease with an SES gradient. Figure 3 presents gradients of four disorders compared to the midSES level, which, in turn, is lower than the lowest level
+of SES. In other words, the gradient is gradual and does
+not dip only at the lowest SES level.
+Among the underlying causal factors for the SES gradient are economic hardship and early childhood experiences. For example, a study of elderly people who had
+a lifetime of sustained economic hardship pointed to a
+more rapid decline of physical and mental functioning
+(Lynch et al. 1997). Moreover, as noted, individuals
+with a history of childhood abuse suffer greater mortality and morbidity from a range of diseases (Felitti et al.
+1998).
+Undoubtedly the best example of SES influences
+upon health is the Whitehall studies of the British Civil
+Service. In Whitehall, stepwise gradients of mortality
+and morbidity were found across all six grades of the
+British Civil Service in spite of the fact that all of the
+studied individuals had jobs and access to health care
+(Marmot et al. 1991). There are many factors that undoubtedly contribute to these gradients, including factors in the living and working environment. Not surprisingly, CVD is a frequent outcome of these gradients
+and the psychosocial and environmental factors which
+are responsible for the allostatic load. Based upon the
+discussion of depression and CVD, one must consider
+depression, as well as lack of control, as a major factor
+in the allostatic load that results in hypertension, abdominal obesity, and atherosclerosis.
+Hypertension was found to be a sensitive index of
+job stress, particularly in factory workers, in other
+workers with respective jobs and time pressures (Melin
+et al. 1999), and in workers whose jobs were unstable
+
+Allostasis and Allostatic Load 117
+
+due to departmental privatization (Marmot, personal
+communication). “Vital exhaustion” is a work-related
+behavioral state, reflecting lack of perceived control
+and a sense of helplessness, that correlates strongly
+with increased risk for CVD (Everson et al. 1997; Keltikangas-Jarvinen et al. 1996; Kop et al. 1998; Lynch et al.
+1997; Raikkonen et al. 1996). Among indices of allostatic load, plasma fibrinogen, which predicts increased risk of death from CHD, is elevated in men
+in lower British Civil Service grades (Markowe et al.
+1985).
+Another stress-linked parameter of allostatic load
+that varies across SES is abdominal obesity, measured
+as increased waist/hip ratio (WHR). WHR serves as a
+good index of abdominal obesity in men and women
+(Schreiner et al. 1996), although among the elderly over
+80 years of age a simple measure of waist circumference
+is a better index of abdominal adiposity (GoodmanGruen et al. 1996). Abdominal obesity is linked to Type II
+diabetes and CVD (Brindley and Rolland 1989). Prospective studies show that WHR predicts incidence of heart
+disease in both women (Lapidus et al. 1984) and men
+(Larsson et al. 1989). Nevertheless, fat distribution is
+clearly related to circulating sex hormones, and is likely
+driven in part by them. Central fat distribution is associated with increased free testosterone and DHEA sulfate
+(Williams et al. 1993), as well as lower sex hormone binding globulin, luteinizing hormone, and FSH levels in
+women (Kaye et al. 1991), and with reduced testosterone
+and DHEA sulfate levels in men (Tcherno et al. 1996).
+Thus, it appears that an androgenic profile promotes central fat deposits in women, and redistributes or prevents
+central fat accumulation in men.
+As to the influence of stress and the social environment, abdominal fat can be enhanced in a primate animal by psychological stress (Manuck et al. 1991). WHR
+is increased at the lower end of the SES gradient in
+Swedish males (Larsson et al. 1989), and WHR also increases with decreasing civil service grade in the Whitehall studies in both men and women (Brunner et al.
+1997).
+Immune system function is also a target of psychosocial stress. Recent evidence indicates that psychosocial
+stress increases vulnerability to infections such as the
+common cold (Cohen et al. 1991).
+Moreover, social networks and social support reduce
+incidence and severity of upper respiratory infections
+(Cohen et al. 1997).
+With regard to psychiatric disorders, there is some
+evidence that low SES is associated with mental distress
+and depression, as well as other disorders such as
+schizophrenia and substance abuse (Brown and Adler
+1998). However, there are questions of causality, i.e.,
+does SES cause the disorder or does the disorder lead to
+low SES? In the case of schizophrenia, personality disorders, substance abuse, and severe cognitive impair-
+
+118 B.S. McEwen
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+Figure 3. Gradients of four diseases as a function of socioeconomic status are illustrated. Four diseases show gradients
+across the full range of socioeconomic status. Data for the following is shown in the figure: (a) Percent diagnosed osteoarthritis (Cunningham and Kelsey 1984); (b) Relative prevalence of chronic disease (Townsend 1974); (c) Prevalence of hypertension (Kraus et al. 1980); (d) Rate of cervical cancer per 100,000 (DeVasa and Diamond 1980). Republished from Adler et al.
+1994, with permission.
+
+ment, it is very likely that the conditions themselves
+lead to a lower SES position (Brown and Adler 1998;
+Dohrenwend et al. 1992). On the other hand, a low SES
+position, reflecting poor resources, living environment
+and an unsatisfying job, are likely to be a cause of depression and anxiety (Brown and Adler 1998; Dohrenwend et al. 1992). Table 2 shows gradients of affective
+disorders, anxiety disorders, and substance abuse, both
+as a function of income and also of education. It is noteworthy that, for education, all three disorders show a
+gradient in which the lowest and middle levels of education all differ significantly from the highest level;
+however, for income, both affective disorders and substance abuse show significant differences only for the
+lowest income group, although anxiety disorders show
+a more robust gradient in which all 3 lowest levels of
+income differ significantly from the highest income
+level.
+It is important to point out that considerations of allostatic load and social organization go beyond the confines of organized, stable social structures. In less stable
+societies, conflict and social instability have been found
+to accelerate pathophysiological processes and increase
+
+morbidity and mortality. For example, CVD is a major
+contributor to the almost 40% increase in death rate
+among Russian males in the social collapse following
+the fall of Communism; and in these studies, CVD is a
+prominent cause of death, along with alcoholism, suicide, and homicide (Bobak and Marmot 1996; Notzon et
+al. 1998). In addition, self-reported health was related
+inversely to material deprivation and positively related
+to education level and perceived control (Bobak et al.
+1998). As noted above, blood pressure surges and sustained blood pressure elevations, that are likely to occur
+in unstable and stressful environments, are linked to accelerated atherosclerosis, as well as increased risk for
+MI (Manuck et al. 1995; Muller and Tofler 1990).
+
+CONCLUSIONS
+The emerging concept of allostatic load provides a
+means of augmenting the concept of “stress” as a conceptual and methodological basis for elucidating the
+behavioral and physiological mechanisms by which
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+Allostasis and Allostatic Load 119
+
+Table 2. Relative Risk for Three Disorders Involving the Nervous System
+INCOME
+
+Affective Disorders
+
+Anxiety Disorders
+
+Substance Abuse
+
+$ 0 – 19K
+$20 – 34K
+$35 – 69K
+$ . 70K
+
+1.73*
+1.13
+1.01
+1.00
+
+2.12*
+1.56*
+1.50
+1.00
+
+1.92*
+1.12
+1.11
+1.00
+
+1.79*
+1.38*
+1.37*
+1.00
+
+2.82*
+2.10*
+1.60*
+1.00
+
+2.10*
+1.80*
+1.70*
+1.00
+
+EDUCATION
+Yrs 0 – 11
+Yrs 12
+Yrs 13–15
+Yrs . 16
+
+Data is compliled for both income and education based upon Kessler et al. 1994 and Regier et al. 1993. Table prepared by Dr. Nancy Adler, University of California, San Francisco, as a personal communication to the author.
+
+genes, early life experiences, living and working environment, interpersonal relationships, diet, exercise,
+sleep, and other lifestyle factors all converge to affect
+body chemistry, structure, and function over a life-time.
+Allostatic load, which includes “stress” as well as perturbations of the diurnal rhythm of stress mediators,
+and the influences of various aspects of lifestyle such as
+diet and exercise, offers a beginning in this direction. It
+provides, for example, a basis for understanding connections among the etiology of systemic illnesses such
+as CVD and mental illnesses such as depression and the
+condition of hostility. More generally, the mechanistic
+focus of allostatic load forces a consideration of pathways of cause and effect on specific systems, in which
+neuroendocrine factors play a major role. Moreover,
+this mechanistic focus transcends individual organ systems and requires an appreciation of the multiple interactions between organ systems, particularly in cases,
+such as CVD and depressive illness, where the specific
+mechanisms are not intuitively obvious. Perhaps, one
+of the greatest benefits of studying allostatic load will
+be to force a new integration of knowledge from different fields of biomedical science.
+Another aspect of this linkage of knowledge, or consilience (Wilson 1998), is the recognition of the importance of SES and health and the new found ability to
+study mechanisms for the SES gradients in terms of biological behavioral and social environmental factors.
+Likewise, animal studies on the exacerbating effect of
+maternal deprivation early in life leading to allostatic
+load later in life provides a model and adds new impetus to investigate mechanisms underlying the human
+costs of early childhood abuse and neglect on behavioural disorders such as depression, suicide, and substance abuse, as well as broader aspects of pathophysiology such as CVD and cancer. It seems very probable
+that early life abuse and neglect may contribute to the
+SES gradients of health by contributing an extra measure of allostatic load. This is an area where further research is vitally important.
+
+ACKNOWLEDGMENTS
+The author wishes to acknowledge his many colleagues associated with the MacArthur Foundation Health Program and,
+in particular, Dr. Robert Rose, the Research Network for Socioeconomic Status and Health (Nancy Adler, UCSF, Chair),
+and Dr. Teresa Seeman, UCLA, a member of the Network and
+a key collaborator in the measurement of allostatic load. Dr.
+Adler provided the data for Table 2 and Figure 3. Special
+thanks is due to Dr. Judith Stewart, Network Administrator,
+who helped the author with references concerning depressive
+illness and early life trauma and to Grace Castellazzo, RN, the
+previous Network Administrator, whose many efforts and insights catalyzed the development of the allostatic load concept. Additional special thanks to Dr. Elissa Epel, UCSF, for
+providing information about waist-hip ratio in men and
+women in relation to cardiovascular disease risk. Finally, the
+author also wishes to dedicate this article to the memory of
+the late Professor Elliot Stellar, University of Pennsylvania,
+who collaborated with the author on the first paper describing
+allostatic load. Research support in the author’s laboratory
+that is related to work described in this article has come from
+NIH Grant MH41256, the Health Foundation (New York) and
+Servier (France).
+
+REFERENCES
+Adler N, Boyce WT, Chesney M, Folkman S, Syme L (1993):
+Socioeconomic inequalities in health: No easy solution.
+J Am Med Assoc 269:3140–3145
+Adler NE, Boyce T, Chesney MA, Cohen S, Folkman S, Kahn
+RL, Syme LS (1994): Socioeconomic status and health:
+The challenge of the gradient. Am Psychol 49:15–24
+Adler NE, Marmot M, McEwen BS (Eds), Socioeconomic status and health in industrial nations: Social, psychological and biological pathways. Annals of the New York
+Academy of Science, in press
+Albeck DS, McKittrick CR, Blanchard DC, Blanchard RJ,
+Nikulina J, McEwen BS, Sakai RR (1997): Chronic social
+stress alters levels of corticotropin-releasing factor and
+arginine vasopressin mRNA in rat brain. J Neurosci
+17:4895–4903
+Barker DJP (1997): The fetal origins of coronary heart disease. Acta Paed Suppl 422:78–82
+
+120 B.S. McEwen
+
+Blanchard DC, Sakai RR, McEwen BS, Weiss SM, Blanchard
+RJ (1993): Subordination stress: Behavioral, brain and
+neuroendocrine correlates. Behav Brain Res 58:113–121
+Bobak M, Marmot M (1996): East-West mortality divide and
+its potential explanations: Proposed research agenda. Br
+Med J 312:421–425
+Bobak M, Pikhart H, Hertzman C, Rose R, Marmot M (1998):
+Socioeconomic factors, perceived control and selfreported health in Russia. A cross-sectional survey. Soc
+Sci Med 47:269–279
+Bremner JD, Liciono J, Darnell A, Krystal JH, Owens MJ, Southwick SM, Nemeroff CB, Charney DS (1997a): Elevated CSF
+corticotropin-releasing factor concentrations in post-traumatic stress disorder. Am J Psychiatry 154:624–629
+Bremner JD, Randall P, Vermetten E, Staib L, Bronen RA,
+Mazure C, Capelli S, McCarthy RB, Charney DS
+(1997b): Magnetic resonance imaging-based measurement of hippocampal volume in post-traumatic stress
+disorder related to childhood physical and sexual
+abuse—a preliminary report. Biol Psychiatry 41:23–32
+Brindley D, Rolland Y (1989): Possible connections between
+stress, diabetes, obesity, hypertension and altered lipoprotein metabolism that may result in atherosclerosis.
+Clin Sci 77:453–461
+Brown GL, Ebert MH, Goyer DC (1982): Aggression, suicide
+and serotonin: Relationships to CSF amine metabolites.
+Am J Psychiatry 139:741–746
+Brown HD, Adler NE (1998): Socioeconomic Status. In Friedman HS (ed), Encyclopedia of Mental Health. San
+Diego, CA, Academic Press, pp 555–561
+Brunner EJ, Marmot MG, Nanchalal K, Shipley MJ, Stansfeld
+SA, Juneja M, Alberti KGMM (1997): Social inequality in
+coronary risk: Central obesity and the metabolic syndrome. Evidence from the Whitehall II study. Diabetologia 40:1341–1349
+Buske-Kirschbaum A, Jobst S, Wustmans A, Kirschbaum C,
+Rauth W, Hellhammer DH (1997): Attenuated free cortisol response to psychosocial stress in children with
+atopic dermatitis. Psychosom Med 59:419–426
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+Crofford LJ, Pillemer SR, Kalogeras K, Cash JM, Michelson
+D, Kling MA, Sternberg EM, Gold PW, Chrousos GP,
+Wilder RL (1994): Hypothalamic-pituitary-adrenal axis
+perturbations in patients with fibromyalgia. Arthritis
+Rheum 37:1583–1592
+Cunningham LS, Kelsey JL (1984): Epidemiology of musculoskeletal impairments and associated disability. Am J
+Public Health 74:474–527
+De Bellis MD, Baum AS, Birmaher B, Keshavan MD, Eccard
+CH, Boring AM, Jenkins FJ, Ryan ND (1999a): Developmental traumatology Part I: Biological stress systems.
+Biol Psychiatry 45:1259–1270
+De Bellis MD, Keshaven MS, Clark DB, Casey BJ, Giedd JN,
+Boring AM, Frustaci K, Ryan ND (1999b): Developmental traumatology Part II: Brain development. Biol Psychiatry 45:1271–1284
+Dellu F, Mayo W, Vallee M, LeMoal M, Simon H (1994):
+Reactivity to novelty during youth as a predictive factor
+of cognitive impairment in the elderly: A longitudinal
+study in rats. Brain Res. 653:51–56
+de Quervain DJF, Roozendaal B, McGaugh JL (1998): Stress
+and glucocorticoids impair retrieval of long-term spatial memory. Nature 394:787–790
+DeVasa SS, Diamond EL (1980): Association of breast cancer
+and cervical cancer incidences with income and education among whites and blacks. J Natl Cancer Inst
+65:515–528
+Dohrenwend BP, Levav I, Shrout PE, Schwartz S, Naveh G,
+Link BG, Skodol AE, Stueve A (1992): Socioeconomic
+status and psychiatric disorders: The causation-selection issue. Science 255:946–952
+Drevets WC, Price JL, Simpson TR Jr, Todd RD, Reich T,
+Vannier M, Raichle ME (1997): Subgenual prefrontal
+cortex abnormalities in mood disorders. Nature
+386:824–827
+Drevets WC, Videen TO, Price JL, Preskorn SH, Carmichael
+ST, Raichle ME (1992): A functional anatomical study of
+unipolar depression. J Neurosci 12:3628–3641
+
+Cahill L, McGaugh JL (1998): Mechanisms of emotional
+arousal and lasting declarative memory. TINS 21:294–299
+
+Eichenbaum H (1997): How does the brain organize memories? Science 277:330–332
+
+Cahill L, Prins B, Weber M, McGaugh JL (1994): Beta-Adrenergic activation and memory for emotional events.
+Nature 371:702–704
+
+Everson SA, Lynch JW, Chesney MA, Kaplan GA, Goldberg
+DE, Shade SB, Cohen RD, Salonen R, Salonen JT (1997):
+Interaction of workplace demands and cardiovascular
+reactivity in progression of carotid atherosclerosis: population based study. Br Med J 314:553–558
+
+Cohen S, Doyle WJ, Skoner DP, Rabin BS, Gwaltney JM Jr
+(1997): Social ties and susceptibility to the common
+cold. JAMA 277:1940–1944
+Cohen S, Tyrrell DAJ, Smith AP (1991): Psychological stress
+and susceptibility to the common cold. N Engl J Med
+325:606–612
+Coplan JD, Andrews MW, Rosenblum LA, Owens MJ, Friedman S, Gorman JM, Nemeroff CB (1996): Persistent elevations of cerebrospinal fluid concentrations of
+corticotropin-releasing factor in adult nonhuman primates exposed to early-life stressors: Implications for
+the pathophysiology of mood and anxiety disorders.
+Proc Natl Acad Sci USA 93:1619–1623
+Cox DJ, Gonder-Frederick LA (1991): The role of stress in
+diabetes mellitus. In McCabe PM, Schneiderman N,
+Field TM, Skyler JS (eds), Stress, Coping and Disease.
+Hillsdale, NJ, Erlbaum Association, pp 118–134
+
+Felitti VJ, Anda RF, Nordenberg D, Williamson DF, Spitz
+AM, Edwards V, Koss MP, Marks JS (1998): Relationship of childhood abuse and household dysfunction to
+many of the leading causes of death in adults. The
+adverse childhood experiences (ACE) study. Am J Prev
+Med 14:245–258
+Fischette C, Biegon A, McEwen BS (1984): Sex steroid modulation of serotonin behaviors syndrome. Life Sci
+35:1197–1206
+Gerin W, Pickering TG (1995): Association between delayed
+recovery of blood pressure after acute mental stress and
+parental history of hypertension. J Hyperten 13:603–610
+Goodman-Gruen D, Barrett-Connor E (1996): Sex differences
+in measures of body fat and body fat distribution in the
+elderly. Am J Epidemiol 143:898–906
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+Gould E, Tanapat P, McEwen BS, Flugge G, Fuchs E (1998):
+Proliferation of granule cell precursors in the dentate
+gyrus of adult monkeys is diminished by stress. Proc
+Natl Acad Sci USA 95:3168–3171
+Gray J (1982): Precis of the neuropsychology of anxiety: An
+enquiry into the functions of the septohippocampal system. Behav Brain Sci 5:469–534
+Greenough WT, Bailey CH (1988): The anatomy of a memory: convergence of results across a diversity of tests.
+TINS 11:142–147
+Guzowski JF, McGaugh HL (1997): Antisense oligodeoxynucleotide-mediated disruption of hippocampal cAMP
+response element binding protein levels impairs consolidation of memory for water maze training. Proc Natl
+Acad Sci USA 94:2693–2698
+Hafflof B, Bloom L, Dahlquist G, Lonnberg G, Sahlin B
+(1991): The Swedish childhood diabetes study: indications of severe psychological stress as a risk factor for
+Type I (insulin-dependent): Diabetes mellitus in childhood. Diabetologia 34:579–583
+Heim C, Ehlert U, Hanker J, Hellhammer DH (1998): Abuserelated post-traumatic stress disorder and alterations of
+the hypothalamo-pituitary adrenal axis in women with
+chronic pelvic pain. Psychosom Med 60:309–318
+Higley JD, Hasert MF, Suomi SJ, Linnoila M (1991): Nonhuman primate model of alcohol abuse: Effects of early
+experience, personality, and stress on alcohol consumption. Proc Natl Acad Sci USA 88:7261–7265
+Higley JD, Mehlman PT, Higley SB, Fernald B, Vickers J,
+Lindell SG, Taub DM, Suomi SJ, Linnoila M (1996a):
+Excessive mortality in young free-ranging male nonhuman primates with low cerebrospinal fluid 5-hydroxyindolecetic acid concentrations. Arch Gen Psychiatry
+53:537–543
+Higley JD, Mehlman PT, Poland RE, Taub DM, Vickers J,
+Suomi SJ, Linnoila M (1996b): CSF testosterone and
+5-HIAA correlate with different types of aggressive
+behaviors. Biol Psychiatry 40:1067–1082
+Higley JD, Thompson WW, Champoux M, Goldman D,
+Hasert MF, Kraemer GW, Scanlan JM, Suomi SJ, Linnoila M (1993): Paternal and maternal genetic and environmental contributions to cerebrospinal fluid monoamine
+metabolites in Rhesus monkeys (Macaca mulatta). Arch
+Gen Psychiatry 50:615–623
+Imaki T, Shibasaki T, Hotta M, Demura H (1992): Early
+induction of c-fos precedes increased expression of corticotropin-releasing factor messenger ribonucleic acid
+in the paraventricular nucleus after immobilization
+stress. Endocrinology 131:240–246
+Ito Y, Teicher MH, Glod CA, Harper D, Magnus E, Gelbard
+HA (1993): Increased prevalence of electrophysiological
+abnormalities in children with psychological, physical,
+and sexual abuse. J Neuropsychiatry 5:401–408
+
+Allostasis and Allostatic Load 121
+
+pituitary and adrenal hormones: Implications for the
+insulin resistance syndrome. Arterioscler Thromb Vasc
+Biol 16:275–280
+Kendler KS (1998): Major depression and the environment:
+A psychiatric genetic perspective. Pharmacopsychiatry
+31:5–9
+Kendler KS, Karkowski-Shuman L (1997): Stressful life events
+and genetic liability to major depression: Genetic control
+of exposure to the environment? Psychol Med 27:359–547
+Kessler RC (1997): The effects of stressful life events on
+depression. Ann Rev Psychol 48:191–214
+Kessler RC, Davis CG, Kendler KS (1997): Childhood adversity and adult psychiatric disorder in the US National
+Comorbidity Survey. Psychol Med 27:1101–1119
+Kessler RC, McGonagle KA, Zhao S, Nelson CB, Hughes M,
+Eshleman S, Wittchen HU, Kendler KS (1994): Lifetime
+and 12-month prevalence of DSM-III-R psychiatric disorders in the United States: Results from the National
+Comorbidity Survey. Arch Gen Psychiatry 51:8–19
+Kim JJ, Fanselow MS (1992): Modality-specific retrograde
+amnesia of fear. Science 256:675–677
+Kirschbaum C, Kudielka BM, Gaab J, Schommer NC, Hellhammer DH (1999): Impact of gender, menstrual cycle
+phase and oral contraceptives on the activity of the
+hypothalamus-pituitary-adrenal axis. Psychosom Med
+61:154–162
+Kirschbaum C, Prussner JC, Stone AA, Federenko I, Gaab J,
+Lintz D, Schommer N, Hellhammer DH (1995): Persistent high cortisol responses to repeated psychological
+stress in a subpopulation of healthy men. Psychosom
+Med 57:468–474
+Kop WJ (1997): Acute and chronic psychological risk factors
+for coronary syndromes: Moderating effects of coronary
+artery disease severity. J Psychosom Res 43:167–181
+Kop WJ, Appels APWM, Mendes de Leon CF, de Swart HB,
+Bar FW (1994): Vital exhaustion predicts new cardiac
+events after successful coronary angioplasty. Psychosom Med 56:281–287
+Kop WJ, Hamulyak K, Pernot C, Appels A (1998): Relationship of blood coagulation and fibrinolysis to vital
+exhaustion. Psychosom Med 60:352–358
+Kraus JF, Borhani NO, Franti CE (1980): Socioeconomic status, ethnicity, and risk of coronary heart disease. Am J
+Epidemiol 111:407–414
+Krittayaphong R, Cascio WE, Light KC, Sheffield D, Golden
+RN, Finkel JB, Glekas G, Koch GG, Sheps DS (1997):
+Heart rate variability in patients with coronary artery
+disease: differences in patients with higher and lower
+depression scores. Psychol Med 59:231–235
+
+Joels M, Vreugdenhil E (1998): Corticosteroids in the brain.
+Mol Neurobiol 17:87–198
+
+Lapidus L, Bengtsson T, Hallstrom T, Bjorntorp P (1984):
+Distribution of adipose tissue and risk of cardiovascular
+disease and death: A 12-year follow-up of participants
+in the population study of women in Gothenburg, Sweden. Brit Med J 289:1257–1261
+
+Kaye S, Folsom A, Soler J, Prineas R, Potter J (1991): Associations of body mass and fat distribution with sex hormone concentrations in postmenopausal women. Intl J
+Epidemiol 20:151–156
+
+Larsson B, Seidell J, Svardsudd K, Welin L, Tibblin G, Wilhelmesen L, Bjorntorp P (1989): Obesity, adipose tissue
+distribution and health in men—The Study of Men Born
+in 1912. Appetite 13:37–44
+
+Keltikangas-Jarvinen L, Raikkonen K, Hautanen A, Adlercreutz H (1996): Vital exhaustion, anger expression, and
+
+Ledoux JE (1996): The Emotional Brain. New York, Simon
+and Schuster
+
+122 B.S. McEwen
+
+Lehman C, Rodin J, McEwen BS, Brinton R (1991): Impact of
+environmental stress on the expression of insulin-dependent diabetes mellitus. Behav Neurosci 105:241–245
+Leibowitz SF, Hoebel BG (1997): Behavioral Neuroscience of
+Obesity. In Bray GA, Bouchard C, James WPT (eds),
+Handbook of Obesity, Chapter 15. New York, Marcel
+Dekker, pp 313–358
+Leproult R, Copinschi G, Buxton O, Van Cauter E (1997):
+Sleep loss results in an elevation of cortisol levels the
+next evening. Sleep 20:865–870
+Liu D, Diorio J, Tannenbaum B, Caldji C, Francis D, Freedman A, Sharma S, Pearson D, Plotsky PM, Meaney MJ
+(1997): Maternal care, hippocampal glucocorticoid
+receptors, and hypothalamic-pituitary-adrenal responses
+to stress. Science 277:1659–1662
+Lupien S, Lecours AR, Lussier I, Schwartz G, Nair NPV,
+Meaney MJ (1994): Basal cortisol levels and cognitive
+deficits in human aging. J Neurosci 14:2893–2903
+Lupien SJ, DeLeon MJ, De Santi S, Convit A, Tarshish C,
+Nair NPV, Thakur M, McEwen BS, Hauger RL, Meaney
+MJ (1998): Cortisol levels during human aging predict
+hippocampal atrophy and memory deficits. Nature
+Neurosci 1:69–73
+Lynch J, Krause N, Kaplan GA, Tuomilehto J, Salonen JT
+(1997): Workplace conditions, socioeconomic status,
+and the risk of mortality and acute myocardial infarction: The Kuopio Ischemic Heart Disease Risk Factor
+Study. Am J Public Health 87:617–622
+Lynch JW, Kaplan GA, Shema SJ (1997): Cumulative impact of
+sustained economic hardship on physical, cognitive, psychological, and social functioning. NEJM 337:1889–1895
+Magarinos AM, Verdugo Garcia JM, McEwen BS (1997):
+Chronic Restraint Stress Alters Synaptic Terminal Structure in Hippocampus. Proc Natl Acad Sci USA
+94:14002–14008
+Mann JJ (1998): The neurobiology of suicide. Nature Med
+4:25–30
+Mansi JA, Rivest S, Drolet G (1998): Effect of immobilization
+stress on transcriptional activity of inducible immediate-early genes, corticotropin-releasing factor, its type 1
+receptor, and enkephalin in the hypothalamus of borderline hypertensive rats. J Neurochem 70:1556–1566
+Manuck SB, Kaplan JR, Adams MR, Clarkson TB (1995):
+Studies of psychosocial influences on coronary artery
+atherosclerosis in cynomolgus monkeys. Health Psychol 7:113–124
+Manuck SB, Kaplan JR, Muldoon MF, Adams MR, Clarkson
+TB (1991): The behavioral exacerbation of atherosclerosis and its inhibition by propranolol. In McCabe PM,
+Schneiderman N, Field TM, Skyler JS, (eds), Stress, Coping and Disease. Hove and London, Lawrence Erlbaum
+Associates, pp 51–72
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+CREB, and the formation of new synaptic connections.
+Neuron 17:567–570
+Matthews KA, Owens JF, Allen MkT, Stoney CM (1992): Do
+cardiovascular responses to laboratory stress relate to
+ambulatory blood pressure levels: yes, in some of the
+people, some of the time. Psychosom Med 54:686–697
+McEwen BS (1997): Possible mechanisms for atrophy of the
+human hippocampus. Mol Psychiatry 2:255–262
+McEwen BS (1998): Protective and damaging effects of stress
+mediators. New Engl J Med 338:171–179
+McEwen BS (1999): Stress and hippocampal plasticity. Ann
+Rev Neurosci 22:105–122
+McEwen BS, Seeman T (1999): Protective and damaging
+effects of mediators of stress: Elaborating and testing
+the concepts of allostasis and allostatic load. Ann NY
+Acad Sci, in press
+McEwen BS, Stellar E (1993): Stress and the Individual:
+Mechanisms leading to disease. Arch Internal Med
+153:2093–2101
+McGaugh JL, Cahill L, Roozendaal B (1996): Involvement of
+the amygdala in memory storage: Interaction with other
+brain systems. Proc Natl Acad Sci USA 93:13508–13514
+Meaney M, Aitken D, Berkel H, Bhatnager S, Sapolsky R
+(1988): Effects of neonatal handling of age-related
+impairments associated with the hippocampus. Science
+239:766–768
+Melia KR, Ryabinin AE, Schroeder R, Bloom FE, Wilson MC
+(1994): Induction and habituation of immediate early
+gene expression in rat brain by acute and repeated
+restraint stress. J Neurosci 14:5929–5938
+Melin B, Lundberg U, Soderlund J, Granqvist M (1999): Psychological and physiological stress reactions of male
+and female assembly workers: A comparison between
+two different forms of work organization. J Org Behav
+20:47–61
+Michelson D, Stratakis C, Hill L, Reynolds J, Galliven E,
+Chrousos G, Gold P (1996): Bone mineral density in
+women with depression. N Engl J Med 335:1176–1181
+Muller JE, Tofler GH (1990): A symposium: Triggering and
+circadian variation of onset of acute cardiovascular disease. Am J Cardiol 66:1–70
+Musselman DL, Nemeroff CB (1998): Women, depression,
+and cardiovascular disease. Female Pat 23:23
+Musselman DL, Tomer A, Manatunga AK, Knight BT, Porter
+MR, Kasey S, Marzec U, Harker LA, Nemeroff CB
+(1996): Exaggerated platelet reactivity in major depression. Am J Psychiatry 153:1313–1317
+Musselman DL, Evans DL, Nemeroff DB (1998): The relationship of depression to cardiovascular disease. Arch
+Gen Psychiatry 55:580–592
+
+Markowe HLJ, Marmot MG, Shipley MJ, Bulpitt CJ, Meade
+TW, Stirling Y, Vickers MV, Semmence A (1985): Fibrinogen: A possible link between social class and coronary
+heart disease. Br Med J 291:1312–1314
+
+Nikulina EM, Marchand JE, Kream RM, Miczek KA (1998):
+Behavioral sensitization to cocaine after a brief social
+stress is accompanied by changes in Fos expression in
+the murine brainstem. Brain Res 810:200–210
+
+Marmot MG, Davey Smith G, Stansfeld S, Patel C, North F,
+Head J, White I, Brunner E, Feeney A (1991): Health inequalities among British civil servants: The Whitehall II
+study. Lancet 337:1387–1393
+
+Notzon FC, Komarov YM, Ermakov SP, Sempos CT, Marks
+JS, Sempos EV (1998): Causes of declining life expectancy in Russia. JAMA 279:793–800
+
+Martin KC, Kandel ER (1996): Cell adhesion molecules,
+
+Pavlides C, Kimura A, Magarinos AM, McEwen BS (1995):
+Hippocampal homosynaptic long-term depression/
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+depotentiation induced by adrenal steroids. Neuroscience 68:379–385
+Perseghin G, Price TB, Petersen KF, Roden M, Cline GW,
+Gerow K, Rothman DL, Shulman GI (1996): Increased
+glucose transport-phosphorylation and muscle glycogen synthesis after exercise training in insulin-resistant
+subjects. New Engl J Med 335:1357–1362
+Phillips RG, LeDoux JE (1992): Differential contribution of
+amygdala and hippocampus to cued and contextual
+fear conditioning. Behav Neurosci 106:274–285
+Plat L, Leproult R, L’Hermite-Baleriaux M, Fery F, Mockel J,
+Polonsky KS, Van Cauter E (1999): Metabolic effects of
+short-term elevations of plasma cortisol are more pronounced in the evening than in the morning. J Clin
+Endocrinol Metab 84:3082–3092
+Plomin R (1990): The role of inheritance in behavior. Science
+48:183–188
+Plomin R, Owen MJ, McGuffin P (1994): The genetic basis of
+complex human behaviors. Science 264:1733–1739
+Plotsky PM, Meaney MJ (1993): Early, postnatal experience
+alters hypothalamic corticotropin-releasing (CRF):
+mRNA, median eminence CRF content and stressinduced release in adult rats. Mol Brain Res 18:195–200
+Poteliakhoff A (1981): Adrenocorticol activity and some clinical findings in acute and chronic fatigue. J Psychosom
+Res 25:91–95
+Pugh CR, Tremblay D, Fleshner M, Rudy JW (1997): A selective role for corticosterone in contextual-fear conditioning. Behav Neurosci 111:503–511
+Raikkonen K, Hautanen A, Keltikangas-Jarvinen L (1996):
+Feelings of exhaustion, emotional distress, and pituitary
+and adrenocortical hormones in borderline hypertension. J Hyperten 14:713–718
+Rebuffe-Scrive M, Walsh U, McEwen BS, Rodin J (1992):
+Effect of chronic stress and exogenous glucocorticoids
+on regional fat distribution and metabolism. Physiol
+Behav 52:585–590
+Regier DA, Farmer ME, Rae DS, Myers JK, Kramer M, Robins LN, George L, Karno M, Locke BZ (1993): Onemonth prevalence of mental disorders in the United
+States and sociodemographic characteristics: The Epidemiologic Catchment Area study. Acta Psychiatrica
+Scand 88:35–47
+
+Allostasis and Allostatic Load 123
+
+Schreiner P, Terry J, Eveans G, Hinson W, Corouse J, Heiss
+G (1996): Sex-specific associations of magnetic resonance imaging-derived intra-abdominal and subcutaneous fat areas with conventional anthropometric indices.
+Am J Epidemiol 144:335–345
+Seeman TE, McEwen BS, Singer BH, Albert MS, Rowe JW
+(1997a): Increase in urinary cortisol excretion and memory declines: MacArthur studies of successful aging. J
+Clin Endocrinol Metab 82:2458–2465
+Seeman TE, Singer BH, Rowe JW, Horwitz RI, McEwen BS
+(1997b): Price of adaptation—allostatic load and its
+health consequences: MacArthur studies of successful
+aging. Arch Intern Med 157:2259–2268
+Selye H (1936): A syndrome produced by diverse nocuous
+agents. Nature 138:32
+Sheline YI, Wang PW, Gado MH, Csemansky JC, Vannier
+MW (1996): Hippocampal atrophy in recurrent major
+depression. Proc Natl Acad Sci USA 93:3908–3913
+Sheline YI, Gado MH, Price JL (1998): Amygdala core nuclei
+volumes are decreased in recurrent major depression.
+NeuroReport 9:2023–2028
+Sheline YI, Shanghavi M, Mintun MA, Gado MH (1999):
+Depression duration but not age predicts hippocampal
+volume loss in medically healthy women with recurrent
+major depression. J Neurosci 19:5034–5043
+Spiegel K, Leproult R, Van Cauter E (1999): Impact of sleep
+debt on metabolic and endocrine function. Lancet
+354:1435–1439
+Sterling P, Eyer J (1988): Allostasis: A new paradigm to
+explain arousal pathology. In Fisher S, Reason J, (eds),
+Handbook of Life Stress, Cognition and Health. New
+York: John Wiley & Sons, pp 629–649
+Sternberg EM (1997): Neural-immune interactions in health
+and disease. J Clin Investig 100:2641–2647
+Suarez EC, Kuhn CM, Schanberg SM, Williams RB, Zimmermann EA (1998): Neuroendocrine, cardiovascular, and
+emotional responses of hostile men: the role of interpersonal challenge. Psychosom Med 60:78–88
+Surwit RS, Ross SL, Feinglos MN (1991): Stress, behavior
+and glucose control in diabetes mellitus. In McCabe
+PM, Schneiderman N, Field TM, Skyler JS (eds), Stress,
+Coping and Disease. Hillsdale, NJ, Erlbaum Association, pp 97–117
+
+Roozendaal B, Portillo-Marquez G, McGaugh JL (1996):
+Basolateral amygdala lesions block glucocorticoidinduced modulation of memory for spatial learning.
+Behav Neurosci 110:1074–1083
+
+Swiergiel AH, Takahashi LK, Kalin NH (1993): Attention of
+stress-induced behavior by antagonism of corticotropin-releasing factor receptors in the central amygdala in
+the rat. Brain Res 623:229–234
+
+Rupp A, Gause EM, Regier DA (1998): Research policy
+implications of cost-of-illness studies for mental disorders. Br J Psychiatry 173:19–25
+
+Tcherno A, Labrie F, Belagner A, Despres J (1996): Obesity
+and metabolic complications: Contribution of DHEA
+and other steroid hormones. J Endocrinol 150:S155–S164
+
+Sapolsky RM (1996): Why stress is bad for your brain. Science 273:749–750
+
+Thakore JH, Richards PJ, Reznek RH, Martin A, Dinan TG
+(1997): Increased intra-abdominal fat deposition in
+patients with major depressive illness as measured by
+computed tomography. Biol Psychiatry 41:1140–1142
+
+Schulkin J, Gold PW, McEwen BS (1998): Induction of corticotropin-releasing hormone gene expression by glucocorticoids: Implication for understanding the states of
+fear and anxiety and allostatic load. Psychoneuroendocrinology 23:219–243
+Schulkin J, McEwen BS, Gold PW (1994): Allostasis,
+amygdala, and anticipatory angst. Neurosci Biobehav
+Rev 18:385–396
+
+Townsend P (1974): Inequality and the health service. Lancet
+i:1179–1189
+Uno H, Ross T, Else J, Suleman M, Sapolsky R (1989): Hippocampal damage associated with prolonged and fatal
+stress in primates. J Neurosci 9:1709–1711
+Ur E, White PD, Grossman A (1992): Hypothesis: Cytokines
+
+124 B.S. McEwen
+
+may be activated to cause depressive illness and chronic
+fatigue syndrome. Eur Arch Psychiatry Clin Neurosci
+241:317–322
+Vogel F, Motulsky AG (1986): Human Genetics. Berlin
+Heidelberg, Springer-Verlag
+Wadhwa PD (1998): Prenatal stress and life-span development. In Encyclopedia of Mental Health. San Diego,
+Academic Press
+Wadhwa PD, Sandman CA, Porto M, Dunkel-Schetter C,
+Garite TH (1993): The association between prenatal
+stress and infant birth weight and gestational age at
+birth: A prospective investigation. In Friedman HS (ed),
+Am J Ob Gyn 169:858–865
+Watanabe Y, Stone E, McEwen BS (1994): Induction and
+habituation of c-FOS and ZIF/268 by acute and
+repeated stressors. NeuroReport 5:1321–1324
+Wiersma A, Baauw AD, Bohus B, Koolhaus JM (1995):
+
+NEUROPSYCHOPHARMACOLOGY 2000–VOL. 22, NO. 2
+
+Behavioural activation produced by CRH but not a-helical CRH (CRH-receptor antagonist): When microinfused into the central nucleus of the amygdala under
+stress-free
+conditions.
+Psychoneuroendocrinology
+20:423–432
+Williams D, Boyden T, Pamenter T, Lohman T, Going S
+(1993): Relationship of body fat percentage and fat distribution with DHEA-S in pre-menopausal females.
+JCEM 77:80–85
+Williams RB (1994): Neurobiology, cellular and molecular
+biology, and psychosomatic medicine. Psychosom Med
+56:308–315
+Williams RB, Chesney MA (1993): Psychosocial factors and
+prognosis in established coronary artery disease. JAMA
+270:1860–1861
+Wilson EO (1998): Consilience: The Unity of Knowledge.
+New York, Vintage Books
+
+

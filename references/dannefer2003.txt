@@ -1,0 +1,57 @@
+Dannefer D. Cumulative advantage/disadvantage and the life course: cross-fertilizing age and social science theory.
+Journal of Gerontology: Social Sciences 2003; 58B(6): S327-S337.
+DOI: 10.1093/geronb/58.6.S327
+
+CITATION VERIFICATION:
+- Author: Dale Dannefer
+- Affiliations: (1) Warner Graduate School of Education and Human Development, University of Rochester, Rochester, New York; (2) Department of Sociology, Case Western Reserve University, Cleveland, Ohio
+- Journal: Journal of Gerontology: Social Sciences, 2003, Vol. 58B, No. 6, S327-S337
+- Copyright: 2003 by The Gerontological Society of America
+- Received: February 10, 2003; Accepted: June 17, 2003
+- Decision Editor: Charles F. Longino, Jr., PhD
+- Type: Theory Paper
+
+ABSTRACT (from paper):
+Age and cumulative advantage/disadvantage theory have obvious logical, theoretical, and empirical connections, because both are inherently and irreducibly related to the passage of time. Over the past 15 years, these connections have resulted in the elaboration and application of the cumulative advantage-disadvantage perspective in social gerontology, especially in relation to issues of heterogeneity and inequality. However, its theoretical origins, connections, and implications are not widely understood. This article reviews the genesis of the cumulative advantage/disadvantage perspective in studies of science, its initial articulation with structural functionalism, and its expanding importance for gerontology. It discusses its intellectual relevance for several other established theoretical paradigms in sociology, psychology, and economics. On the basis of issues deriving from these perspectives and from the accumulating body of work on cumulative advantage and disadvantage, I identify several promising directions for further research in gerontology.
+
+KEY CONTENT FOR MANUSCRIPT REFERENCE:
+
+1. DEFINITION OF CUMULATIVE ADVANTAGE/DISADVANTAGE (CAD) (p. S327):
+"cumulative advantage/disadvantage can be defined as the systemic tendency for interindividual divergence in a given characteristic (e.g., money, health, or status) with the passage of time."
+Two key terms: "Systemic tendency" = not a simple extrapolation from individual starting positions but results from interaction of complex forces. "Interindividual divergence" = CAD is a property of populations/cohorts, not individuals.
+
+2. ORIGINS IN MERTON'S MATTHEW EFFECT (p. S327):
+Named after the biblical passage (Matthew 13:12): "To him that hath, more shall be given; to him that hath not, that which he hath shall be taken away." Originally applied to scientific citation patterns (Price 1965, Merton 1968).
+
+3. LIFE-COURSE INEQUALITY AND POVERTY IN OLD AGE (pp. S328-S329):
+"The relation between age and poverty has been a concern of some scholars since the early days of gerontology... the literature tended to focus on poverty as a condition triggered by retirement, widowhood, or other adverse economic developments in later life."
+- CAD perspective shows poverty in old age reflects accumulated disadvantage across the life course
+- "education is a resilient mechanism through which class-based or other regimes of inequality are reproduced" (p. S329)
+
+4. CAD AND HEALTH (p. S333):
+"The 'socioeconomic gradient' emphasized as a robust predictor of health status by epidemiologists and others (e.g., Blanc, 1999; Marmot, 2000) provides ample basis for expecting that trajectories of income inequality also track health inequality."
+- Health inequalities compound across the life course
+- Resource-based health effects "begin early in life and interact continuously with external circumstances" (p. S333)
+- Links to Marmot's social determinants framework
+
+5. CAD AS SYSTEMIC PROCESS, NOT INDIVIDUAL TRAIT (p. S327):
+"'Interindividual divergence' implies that cumulative advantage/disadvantage is a not a property of individuals but of populations or other collectivities (such as cohorts), for which an identifiable set of members can be ranked."
+This is important: CAD is about structural processes that widen inequality, not about individual merit or personality.
+
+6. WELFARE STATE AND POLICY RELEVANCE (p. S334):
+- "the shift from defined benefits to defined contributions" for pensions as example of deinstitutionalization
+- "the complex intersections of policy change with economic and demographic trends guarantee this will be a challenging, multilayered task"
+- Aging populations will "test the resilience of what have been quite stable trajectories of inequality across successive cohorts"
+
+7. KEY THEORETICAL TRADITIONS REVIEWED:
+- Social reproduction theory (Bourdieu): stratification reproduced through education, cultural capital
+- Allocation-based theories: organizational processing, labor market segmentation
+- Psychosocial accentuation: individual differences magnified over time (Elder, Eiser)
+- Human capital theory: investment in education creates diverging earnings trajectories
+
+RELEVANCE TO MANUSCRIPT:
+The manuscript cites Dannefer (ref 7) for cumulative disadvantage theory predicting that "economic insecurity and its health consequences compound across the life course, as early disadvantages constrain later-life resources and coping capacity." This is directly supported:
+- Dannefer argues that inequality in health and economic resources systematically widens with age (pp. S327-S328, S333)
+- The KLoSA cohort (born ~1920-1960) experienced the 1997 Asian Financial Crisis during working years — consistent with CAD's emphasis on how historical/structural events create lasting divergence
+- The finding that economic dissatisfaction predicts mortality in later life fits CAD's framework: accumulated disadvantage manifests as both material deprivation and subjective insecurity
+- The institutional context (Korea's incomplete welfare state, weakening family support) aligns with Dannefer's emphasis on how welfare-state design shapes trajectories of inequality (p. S334)

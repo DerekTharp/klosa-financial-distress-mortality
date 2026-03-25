@@ -1,0 +1,835 @@
+Education and debate
+1
+2
+
+Roland M, Torgerson D. What are pragmatic trials? BMJ 1998;316:285.
+Fayers PM, Hand DJ. Generalisation from phase III clinical trials: survival,
+quality of life and health economics. Lancet 1997;350:1025-7.
+3 Drummond MF, Stoddart GL. Economic analysis and clinical trials.
+Control Clin Trials 1984;5:115-28.
+4 Drummond MF, O’Brien B, Stoddart GL, Torrance GW. Methods for the
+economic evaluation of health care programs. 2nd ed. Oxford: Oxford Medical Publications, 1997.
+5 Sculpher MJ, Dwyer N, Byford S, Stirrat GM. Randomised trial
+comparing hysterectomy and transcervical endometrical resection: effect
+on health related quality of life and costs two years after surgery. Br J
+Obstet Gynaecol 1996;103:142-9.
+6 Altman DG, Gore SM, Gardner MJ, Pocock SJ. Statistical guidelines for
+contributors to medical journals. BMJ 1983;286:1489-93.
+7 Bradley JV. Distribution-free statistical tests. Englewood Cliffs, NJ: PrenticeHall, 1968.
+8 Altman DG. Practical statistics for medical research. London: Chapman and
+Hall, 1991.
+9 Sheppard S, Harwood D, Gray A, Vessey M, Morgan P. Randomised controlled trial comparing hospital at home care with inpatient hospital care.
+II: cost minimisation analysis. BMJ 1998;316:1791-6.
+10 Briggs AH, Gray AM. Handling uncertainty in economic evaluations of
+healthcare interventions. BMJ 1999;319:635-8.
+11 Creed F, Mbaya P, Lancashire S, Tomenson B, Williams B, Holmes S. Cost
+effectiveness of day and inpatient psychiatric treatment: results of a randomised controlled trial. BMJ 1997;314:1381-5.
+12 Tyrer P, Evans K, Gandhi N, Lamont A, Harrison-Read P, Johnson T.
+A randomised controlled trial of two models of care for discharged psychiatric patients. BMJ 1998;316:106-9.
+13 Klaber Moffett J, Torgerson D, Bell-Syer S, Jackson D, Llewlyn-Phillips H,
+Farrin A, et al. Randomised controlled trial of exercise for low back pain:
+clinical outcomes, costs, and preferences. BMJ 1999;319:279-83.
+14 Barber JA, Thompson SG. Analysis and interpretation of cost data in
+randomised controlled trials: review of published studies. BMJ
+1998;317:1195-200.
+15 Coyle D. Statistical analysis in pharmacoeconomic studies: a review of
+current issues and standards. Pharmacoeconomics 1996;9:506-16.
+
+16 Rutten-van Molken MP, van Doorslaer EK, van Vliet RC. Statistical analysis of cost outcomes in a randomized controlled clinical trial. Health Econ
+1994;3:333-45.
+17 Gray AM, Marshall M, Lockwood A, Morris J. Problems in conducting
+economic evaluations alongside clinical trials. Lessons from a study of
+case management for people with mental disorders. Br J Psychiatry
+1997;170:47-52.
+18 Briggs A, Gray A. The distribution of health care costs and their statistical
+analysis for economic evaluation. J Health Serv Res Policy 1998;3:233-45.
+19 Knapp M, Marks I, Wolstenholme J, Beecham J, Astin J, Audini B, et al.
+Home-based versus hospital-based care for serious mental illness:
+controlled cost-effectiveness study over four years. Br J Psychiatry
+1998;172:506-12.
+20 Efron B, Tibshirani RJ. An introduction to the bootstrap. New York:
+Chapman and Hall, 1993.
+21 Barber JA, Thompson SG. Analysis of cost data in randomised trials: an
+application of the non-parametric bootstrap. Stat Med (in press).
+22 Desgagne A, Castilloux A, Angers J, LeLorier J. The use of the bootstrap
+statistical method for the pharmacoeconomic cost analysis of skewed
+data. Pharmacoeconomics 1998;13:487-97.
+23 Evans K, Tyrer P, Catalan J, Schmidt U, Davidson K, Dent J, et al. Manualassisted cognitive-behaviour therapy (MACT): a randomised controlled
+trial of a brief intervention with bibliotherapy in the treatment of recurrent deliberate self-harm. Psychol Med 1999;29:19-25.
+24 Lambert CM, Hurst NP, Forbes JF, Lochhead A, Macleod M, Nuki G. Is
+day care equivalent to inpatient care for active rheumatoid arthritis? Randomised controlled clinical and economic evaluation. BMJ
+1998;316:965-9.
+25 UK Small Aneurysm Trial Participants. Health service costs and quality of
+life for early elective surgery or ultrasonographic surveillance for small
+aortic aneurysms. Lancet 1998;352:1656-60.
+26 Armitage P, Berry G. Statistical methods in medical research. 2nd ed. Oxford:
+Blackwell Scientific, 1987.
+
+(Accepted 13 December 1999)
+
+Income inequality and mortality: importance to health
+of individual income, psychosocial environment, or
+material conditions
+John W Lynch, George Davey Smith, George A Kaplan, James S House
+
+Department of
+Epidemiology,
+School of Public
+Health, University
+of Michigan,
+109 Observatory
+Street, Ann Arbor,
+MI 48109-2029,
+USA
+John W Lynch
+assistant professor
+George A Kaplan
+chair
+Survey Research
+Center, Institute for
+Social Research,
+University of
+Michigan
+James S House
+director
+Department of
+Social Medicine,
+University of
+Bristol, Bristol
+BS8 2PR
+George Davey
+Smith
+chair
+Correspondence to:
+J W Lynch
+jwlynch@sph.
+umich.edu
+BMJ 2000;320:1200–4
+
+1200
+
+Studies on the health effects of income inequality have
+generated great interest. The evidence on this
+association between countries is mixed,1–4 but income
+inequality and health have been linked within the
+United States,5–11 Britain,12 and Brazil.13 Questions
+remain over how to interpret these findings and the
+mechanisms involved. We discuss three interpretations
+of the association between income inequality and
+health: the individual income interpretation, the
+psychosocial environment interpretation, and the neomaterial interpretation.
+
+Methods
+We reviewed the literature through traditional and
+electronic means and supplemented this with correlational analyses of gross domestic product and life
+expectancy and of income inequality and mortality
+trends based on data from the World Bank,14 the World
+Health Organization,15 and two British sources.16 17
+
+The individual income interpretation
+According to the individual income interpretation,
+aggregate level associations between income inequality
+and health reflect only the individual level association
+between income and health. The curvilinear relation
+between income and health at the individual level18 19 is
+
+Summary points
+Income inequality has generally been associated
+with differences in health
+A psychosocial interpretation of health
+inequalities, in terms of perceptions of relative
+disadvantage and the psychological consequences
+of inequality, raises several conceptual and
+empirical problems
+Income inequality is accompanied by many
+differences in conditions of life at the individual
+and population levels, which may adversely
+influence health
+Interpretation of links between income inequality
+and health must begin with the structural causes
+of inequalities, and not just focus on perceptions
+of that inequality
+Reducing health inequalities and improving
+public health in the 21st century requires strategic
+investment in neo-material conditions via more
+equitable distribution of public and private
+resources
+
+BMJ VOLUME 320
+
+29 APRIL 2000
+
+bmj.com
+
+The psychosocial environment
+interpretation
+The psychosocial environment interpretation proposes that psychosocial factors are paramount in
+understanding the health effects of income inequality.
+Wilkinson has argued that income inequality affects
+health through perceptions of place in the social hierarchy based on relative position according to income.25
+Such perceptions produce negative emotions such as
+shame and distrust that are translated “inside” the body
+into poorer health via psycho-neuro-endocrine
+mechanisms and stress induced behaviours such as
+smoking. Simultaneously, perceptions of relative
+position and the negative emotions they foster are
+translated “outside” the individual into antisocial
+behaviour, reduced civic participation, and less social
+capital and cohesion within the community. In this way,
+perceptions of social rank—indexed by relative
+income—have negative biological consequences for
+individuals and negative social consequences for how
+BMJ VOLUME 320
+
+29 APRIL 2000
+
+bmj.com
+
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+
+0
+
+5000
+
+10 000
+15 000
+20 000
+25 000
+30 000
+GDP per person based on purchasing power parity ($US)
+
+Fig 1 Gross domestic product per person in US dollars (adjusted for
+purchasing power parity) and life expectancy in 155 countries, circa
+1993
+
+individuals interact. Perceptions of relative income thus
+link individual and social pathology.
+Wilkinson’s demonstration that absolute income
+was unrelated (r = 0.08) to health among developed
+countries has been important in staking a claim for this
+psychosocial theory of health inequalities.26 Figures 1
+and 2 show the association between gross domestic
+product per person and life expectancy for 155 countries and for the 33 countries where gross domestic
+product was greater than $10 000—the cut-off used by
+Wilkinson.26 Our results, however, include data for all
+the countries above $10 000, not a selection of some
+countries in the Organisation for Economic Cooperation and Development as used by Wilkinson. The correlation between life expectancy and gross domestic
+product per person in the complete sample is r = 0.51
+(P = 0.003). Thus the association between absolute
+income and life expectancy among wealthier countries
+depends on which countries are included.
+For 15 developed countries with comparable
+income inequality data, Lynch and colleagues showed
+that indicators of social capital, such as trust and belonging to and volunteering for community organisations,
+were all much more strongly related to gross domestic
+product per person than to income inequality.27 Diener
+and colleagues showed that absolute income was a
+
+Average life expectancy (years)
+
+a sufficient condition to produce health differences
+between populations with the same average income
+but different distributions of income.3 20 This interpretation assumes that determinants of population health
+are completely specified as attributes of independent
+individuals and that health effects at the population
+level are merely sums of individual effects.21 22 In
+contrast, research on income inequality recognises that
+there may also be important contextual determinants
+of health. To understand these potential multilevel
+effects, analyses are needed that use measures of
+income distribution and individual income to examine
+health differences across individuals and aggregated
+units.
+In examinations of health differences among
+individuals, contextual health effects of income
+distribution have remained after adjustment for
+individual income in most studies8–11—but not all.23 Not
+surprisingly, these studies found that individual income
+was more strongly related to individual differences in
+health than to income distribution. Only one study has
+examined the role of individual income and income
+distribution on health differences among aggregated
+units: Wolfson and colleagues used a simulation
+technique to explore the contribution of individual
+income to aggregate health differences.24 They showed
+that the individual mechanism explained only a
+modest proportion of the observed aggregate variation
+in mortality at the level of US states.
+Though empirical tests of this hypothesis indicate
+that the association between income and health at the
+individual level is important in understanding differences in health between individuals, they also indicate
+that individual income may be less important in understanding variation in health across aggregated units.
+Policies on wages, investments, and taxes help determine
+the extent of unequal income distribution across the
+population, and this distribution then influences
+individual incomes. The statistical adjustment for
+individual income reveals an important pathway linking
+aggregate income inequality and individual health—but
+it may also encourage underestimation of the overall
+population effects of unequal income distribution.
+
+Average life expectancy (years)
+
+Education and debate
+
+80
+Japan
+
+Iceland
+Sweden
+
+78
+
+Greece
+
+76
+
+Malta
+
+Spain
+
+Israel
+
+Australia
+
+France
+Norway
+
+Italy
+Canada
+Austria
+Singapore
+
+UK
+Finland
+New Zealand
+Ireland
+
+74
+
+Switzerland
+Netherlands
+
+Germany
+
+United States
+
+Luxembourg
+
+Belgium
+Denmark
+
+Kuwait
+
+Portugal
+Qatar
+
+United Arab Emirates
+
+Bahamas
+
+72
+
+Republic of Korea
+
+Bahrain
+
+r = 0.51
+
+70
+Saudi Arabia
+
+68
+10 000
+
+15 000
+
+20 000
+
+25 000
+
+30 000
+
+GDP per person based on purchasing power parity ($US)
+
+Fig 2 Gross domestic product per person in all 33 countries with GDP/person greater than
+$10 000
+
+1201
+
+Education and debate
+better predictor of subjective wellbeing than relative
+income, and concluded that “exposure in natural
+settings to others who are better off will not
+automatically influence one’s moods in a negative way.”28
+In other analyses, social capital measured as trust and
+organisational membership mediated the cross sectional
+association between income inequality and mortality in
+US states.29 However, this association is difficult to interpret given that time series analyses of data from the
+same source show little decline in levels of trust, fairness,
+and helpfulness from the mid-1960s to 1994.30 The psychosocial hypothesis would lead to the expectation that
+these indicators of social capital should have deteriorated during this period of unprecedented increases in
+income inequality. In sum then, a broader consideration
+of relevant research raises questions about the evidence
+used to exclude absolute income and material
+conditions, and about the evidence in favour of a mainly
+psychosocial interpretation of health inequalities.
+Areas of concern
+We do not deny negative psychosocial consequences of
+income inequality, but we argue that interpretation of
+links between income inequality and health must begin
+with the structural causes of inequalities, and not just
+focus on perceptions of that inequality.27 31–35 In this
+regard, the psychosocial interpretation raises several
+areas of concern.
+Firstly, it conflates the structural sources with the
+subjective consequences of inequality and reinforces
+the impression that the impact of psychosocial factors
+on health can be understood without reference to the
+material conditions that structure day to day experience.36 The structural, political-economic processes
+that generate inequality exist before their effects are
+experienced at the individual level.
+Secondly, it underplays the ambiguous health consequences of tightknit social networks and greater
+social cohesion. Strong social networks can be coercive
+and can be sources of strain as well as support in relationships. In some contexts, network ties function to
+enhance health; in others they can be detrimental (S
+Kunitz, unpublished data).
+Thirdly, a shallow definition of social cohesion or
+capital as informal social relations limits its potential
+relevance for public health.27 In health research, social
+cohesion and capital have been discussed as horizontal
+social relations, ignoring the crucial role that vertical,
+institutional social relations (political, economic, legal)
+play in structuring the environments in which informal
+relations play out.27 37 38
+Finally, the psychosocial interpretation encourages
+understanding of psychosocial health effects in a
+vacuum. Although clearly not intended by its
+proponents, a decontextualised psychosocial approach
+can be appropriated for regressive political agendas,
+leading to claims that we lack the social cohesion of the
+past; that problems of poor and minority communities
+are really a result of deficits of strong social networks;
+and that local communities must solve their own problems. There has been little discussion of the possibility
+that focusing on what materially and politically
+disenfranchised communities can do for themselves
+may be akin to victim blaming at the community level
+39
+that reinforces low expectations for structural change.
+1202
+
+The neo-material interpretation
+The neo-material interpretation says that health
+inequalities result from the differential accumulation of
+exposures and experiences that have their sources in
+the material world. Under a neo-material interpretation, the effect of income inequality on health reflects
+a combination of negative exposures and lack of
+resources held by individuals, along with systematic
+underinvestment across a wide range of human, physical, health, and social infrastructure.3 5 7 32 An unequal
+income distribution is one result of historical, cultural,
+and political-economic processes. These processes
+influence the private resources available to individuals
+and shape the nature of public infrastructure—
+education, health services, transportation, environmental controls, availability of food, quality of housing,
+occupational health regulations—that form the “neomaterial” matrix of contemporary life. In the US,
+higher income inequality is significantly associated
+with many aspects of infrastructure—unemployment,
+health insurance, social welfare, work disability,
+educational and medical expenditure, and even library
+books per capita.5
+Thus income inequality per se is but one
+manifestation of a cluster of neo-material conditions
+that affect population health. This implies that an
+aggregate relation between income inequality and
+health is not necessary—associations are contingent on
+the level and distribution of other aspects of social
+resources. If income inequality is less linked to
+investments in health related public infrastructure, the
+aggregate level association between income inequality
+and health may break down. In fact, recent evidence
+from Canada supports this view.40 This is in contrast to
+the psychosocial hypothesis, which implies a universal
+association. Perceptions of relative position will always
+be present, regardless of the actual living conditions for
+those at the bottom of the social hierarchy. Evidence
+from animal studies on the role of social hierarchy
+itself in generating health differences has been used to
+support this aspect of the psychosocial hypothesis.25
+Health effects of social hierarchy in animals are,
+however, contingent on relations between social
+position and material living conditions such as
+availability of food, water, and space. Sapolsky, an eminent primate researcher, has recently proclaimed that
+“it seems virtually meaningless to think about the
+physiological correlates of rank outside the context of
+a number of other modifiers—the sort of society in
+which the rank occurs.”41
+A metaphor
+To appreciate how neo-material conditions can
+influence health, it may be useful to consider the metaphor of airline travel. Differences in neo-material conditions between first and economy class may produce
+health inequalities after a long flight. First class passengers get, among other advantages such as better food
+and service, more space and a wider, more comfortable
+seat that reclines into a bed. First class passengers
+arrive refreshed and rested, while many in economy
+arrive feeling a bit rough. Under a psychosocial
+interpretation, these health inequalities are due to
+negative emotions engendered by perceptions of relative disadvantage. Under a neo-material interpretation,
+BMJ VOLUME 320
+
+29 APRIL 2000
+
+bmj.com
+
+Examples from India and Britain
+Cross nationally, higher levels of social expenditures—
+markers of neo-material conditions—are associated
+with greater life expectancy, lower maternal mortality,
+and a smaller proportion of low birthweight babies.42
+Thus, strategic social investment may be important in
+determining health differences between countries.
+Interpretation of health differences between and
+within countries should be based on a historical view of
+social conditions and policies. Consider, for example,
+the widely discussed favourable health situation in
+Kerala state, India.43 Despite low individual income the
+infant mortality, maternal mortality, childhood mortality, and overall mortality in Kerala are better than in
+other Indian states and approach levels in richer,
+industrialised countries. Greater redistributive actions
+of the Kerala government over recent decades have
+been viewed as the phenomenon underlying this. It is
+also the case, however, that the social and cultural basis
+for these favourable health outcomes can be traced to
+over a century of social activities that have promoted
+greater gender equality, education, and general public
+investment in human resources.44
+In Britain, income inequality increased greatly
+from the mid-1970s to the 1990s, but mortality in
+middle age and at older ages declined dramatically.
+Correlations between income inequality and mortality
+range from r = − 0.76 for men aged 55-64 to r = − 0.86
+for women aged 45-54 (fig 3). Understanding the rapid
+decline in mortality in middle age against a
+background of escalating income inequality in Britain
+may require consideration of earlier social investments.
+Expansion of the welfare state, educational opportunities, and introduction of the NHS had positive
+influences in early life for those cohorts in which mortality is currently declining, and social circumstances in
+early life can have important long term effects on later
+risk of death.45 46 Such findings encourage a view that
+health in adulthood is the outcome of socially
+patterned processes acting across the entire life
+course.47 This perspective would lead to attention being
+paid to how income inequality—and the broader social
+processes which income inequality indexes—influences
+health across the life course of successive cohorts. In
+several countries, the burden of increased income
+inequality has fallen disproportionately on poor
+households containing young children, and this may
+lead to poor health outcomes in the future.45–48
+BMJ VOLUME 320
+
+29 APRIL 2000
+
+bmj.com
+
+35
+
+8
+
+30
+
+7
+
+25
+
+6
+
+20
+
+5
+
+15
+10
+5
+
+Men
+Women
+Gini coefficient
+
+4
+
+Deaths/1000 population
+
+people in economy have worse health because they sat
+in a cramped space and an uncomfortable seat, and
+they were not able to sleep. The fact that they can see
+the bigger seats as they walk off the plane is not the
+cause of their poorer health. Under a psychosocial
+interpretation, these health inequalities would be
+reduced by abolishing first class, or perhaps by mass
+psychotherapy to alter perceptions of relative disadvantage. From the neo-material viewpoint, health
+inequalities can be reduced by upgrading conditions in
+economy class. Of course, this simplistic metaphor
+assumes that conditions in first class and economy class
+are independent—in the real world, improvements in
+economy are often resisted by those able to travel first
+class.
+
+Gini coefficient
+
+Education and debate
+
+3
+
+2
+0
+1962 64 66 68 70 72 74 76 78 80 82 84 86 88 90
+Year
+
+Fig 3 Income inequality (Gini coefficient) and mortality in men and
+women aged 45-54 in Britain, 1962 to 1990
+
+Conclusions
+A combination of the individual income and neomaterial interpretations is a better fit to the available
+evidence on income inequality and health, is more
+comprehensive, and has greater potential to inform
+interventions that advance public health and reduce
+inequalities. The psychosocial environment interpretation focuses attention on aspects of personal
+psychological functioning such as trust, respect, and
+support. It is hard to understand how this emphasis on
+psychological functioning and informal interpersonal
+relations would serve as a basis for a public policy
+agenda to reduce health inequalities. The neo-material
+interpretation is an explicit recognition that the
+political and economic processes that generate income
+inequality influence individual resources and also have
+an impact on public resources such as schooling, health
+care, social welfare, and working conditions. It is strategic investments in neo-material conditions via more
+equitable distribution of public and private resources
+that are likely to have the most impact on reducing
+health inequalities and improving public health in both
+rich and poor countries in the 21st century.
+The idea for this paper arose from a meeting of invited participants who discussed the effects of income inequality on health
+in June 1998 at the University of Michigan School of Public
+Health. The meeting was sponsored by the University of Michigan Initiative on Inequalities in Health; the Survey Research
+Center at the University of Michigan; the Health Institute at the
+New England Medical Center; the Canadian Institute for
+Advanced Research Population Health Program, and the Population Health Program at the University of Texas at Houston,
+Health Sciences Center.
+Funding: JSH was supported by a health investigator award
+from the Robert Wood Johnson Foundation. The other authors
+received no funding for this research.
+Competing interests: None declared.
+1
+2
+3
+4
+5
+
+6
+
+7
+
+8
+
+Wilkinson RG. Income distribution and life expectancy. BMJ
+1992;304:165-8.
+Judge K. Income distribution and life expectancy: a critical appraisal. BMJ
+1995;311:1282-5.
+Lynch JW, Kaplan GA. Understanding how inequality in the distribution
+of income affects health. J Health Psychol 1997;2:297-314.
+Judge K, Mulligan J, Benzeval M. Income inequality and population
+health. Soc Sci Med 1998;46:567-79.
+Kaplan GA, Pamuk ER, Lynch JW, Cohen RD, Balfour JL. Inequality in
+income and mortality in the United States: analysis of mortality and
+potential pathways. BMJ 1996;312:999-1003.
+Kennedy BP, Kawachi I, Prothrow-Stith D. Income distribution and mortality: cross sectional ecological study of the Robin Hood index in the
+United States. BMJ 1996;312:1004-7.
+Lynch JW, Kaplan GA, Pamuk E, Cohen RD, Heck K, Balfour JL, et al.
+Income inequality and mortality in metropolitan areas of the United
+States. Am J Public Health 1998;88:1074-80.
+Daly M, Duncan G, Kaplan GA, Lynch JW. Macro-to-micro linkages in the
+inequality-mortality relationship. Milbank Mem Fund Q 1998;76:315-39.
+
+1203
+
+Education and debate
+9
+
+Waitzman NJ, Smith KR. Separate but lethal: the effects of economic segregation on mortality in metropolitan America. Milbank Mem Fund Q
+1998;76:341-73.
+10 Kennedy BP, Kawachi I, Glass R, Prothrow-Stith D. Income distribution,
+socioeconomic status, and self rated health in the United States:
+multilevel analysis. BMJ 1998;317:917-21.
+11 Soobader M-J, LeClere FB. Aggregation and the measurement of income
+inequality: effects on morbidity. Soc Sci Med 1999;48:733-44.
+12 Stainstreet D, Scott-Samuel A, Bellis MA. Income inequality and mortality
+in England. J Public Health Med 1999;21:205-7.
+13 Szwarcwald CL, Bastos FI, Viacava F, de Andrade CL. Income inequality
+and homicide rates in Rio de Janeiro, Brazil. Am J Public Health
+1999;89:845-80.
+14 World Bank Development Indicators CD-ROM. Washington DC: World Bank,
+1997.
+15 WHO
+Statistical
+Database.
+www.who.int/whosis/hfa/countries/
+index.html (accessed June 1999).
+16 Goodman A, Webb S. For richer, for poorer. The changing distribution of
+income in the UK. London: Institute for Fiscal Studies, 1994.
+17 Charlton J, Murphy M. The health of adult Britain 1841-1994. London:
+HMSO, 1994.
+18 Backlund E, Sorlie PD, Johnson NJ. The shape of the relationship
+between income and mortality in the United States: evidence from the
+national longitudinal mortality study, Ann Epidemiol 1996;6:1-9.
+19 Ecob R, Davey Smith G. Income and health: what is the nature of the
+relationship? Soc Sci Med 1999;48:693-705.
+20 Gravelle H. How much of the relation between population mortality and
+unequal distribution of income is a statistical artefact? BMJ
+1998;316:382-5.
+21 Koopman JS, Lynch JW. Individual causal models and population
+systems models in epidemiology. Am J Public Health 1999;89:1170-5.
+22 Diez-Roux AV. Bringing context back into epidemiology: variables and
+fallacies in multilevel analysis. Am J Public Health 1998;88:216-22.
+23 Fiscella K, Franks P. Poverty or income inequality as predictor of
+mortality: longitudinal cohort study. BMJ 1997;314:1724-7.
+24 Wolfson M, Kaplan GA, Lynch JW, Ross N, Backlund E. The relation
+between income inequality and mortality is not a statistical artefact. BMJ
+1999;319:953-7.
+25 Wilkinson RG. Unhealthy societies: the afflictions of inequality. London:
+Routledge, 1996.
+26 Wilkinson RG. Health inequalities: relative or absolute material
+standards. BMJ 1997;314:591-5.
+27 Lynch JW, Due P, Muntaner C, Davey Smith G. Social capital—is it a good
+investment strategy for public health? J Epidemiol Community Health (in
+press).
+28 Diener E, Diener M, Diener C. Factors predicting the subjective
+well-being of nations. J Pers Soc Psychol 1995;69:851-64.
+29 Kawachi I, Kennedy BP, Lochner K, Prothrow-Stith D. Social capital,
+income inequality, and mortality. Am J Public Health 1997;87:1491-9.
+30 Smith, T. Factors relating to misanthropy in contemporary American
+society. Soc Sci Res 1997;26:170-96.
+
+31 Davey Smith G, Egger M. Commentary: understanding it all—health,
+meta-theories, and mortality trends. BMJ 1996;313:1584-5.
+32 Davey Smith G. Income inequality and mortality: why are they related?
+Income inequality goes hand in hand with underinvestment in human
+resources. BMJ 1996;312:987-8.
+33 Muntaner C, Lynch JW. Income inequality and social cohesion versus
+class relations: a critique of Wilkinson’s neo-Durkheimian research
+program. Int J Health Serv 1999;29:59-81.
+34 Muntaner C, Lynch JW, Oates G. The social class determinants of income
+inequality and social cohesion. Int J Health Serv 1999;29:699-732.
+35 Newman KS. No shame in my game: the working poor in the inner city. New
+York: Knopf, 1999.
+36 Lynch JW. Income inequality and health: expanding the debate. Soc Sci
+Med (in press).
+37 Woolcock M. Social capital and economic development: toward a
+theoretical synthesis and policy framework. Theory and Society
+1998;27:151-208.
+38 Szreter S. A new political economy for New Labour—the importance of
+social capital. Renewal 1999;7:30-44.
+39 Wainwright D. The political transformation of the health inequalities
+debate. Crit Soc Policy 1996;49:67-82.
+40 Ross NA, Wolfson MC, Dunn JR, Berthelot J-M, Kaplan GA, Lynch JW.
+Relation between income inequality and mortality in Canada and in the
+United States: cross sectional assessment using census data and vital statistics. BMJ 2000;320:898-902.
+41 Sapolsky RM. Hormonal correlates of personality and social contexts:
+from non-human to human primates. In: Panter-Brick C, Worthman CM,
+eds. Hormones, health and behavior. New York: Cambridge University Press,
+1999:18-46.
+42 Gough I, Thomas T. Why do levels of human welfare vary among
+nations? Int J Health Serv 1994;24:715-48.
+43 World Bank. Improving women’s health in India. Washington, DC: World
+Bank, 1996.
+44 Kabir M, Krishnan TN. Social intermediation and health change: lessons
+from Kerala. In: Das Gupta M, Chen LC, Krishnan TN, eds. Health, poverty
+and development in India. Delhi: Oxford University Press, 1996.
+45 Davey Smith G, Hart C, Blane D, Gillis C, Hawthorne V. Lifetime
+socioeconomic position and mortality: prospective observational study.
+BMJ 1997;314:547-52.
+46 Davey Smith G, Hart C, Blane D, Hole D. Adverse socioeconomic circumstances in childhood and mortality: prospective observational study. BMJ
+1998;316:1631-5.
+47 Lynch JW, Kaplan GA, Salonen JT. Why do poor people behave poorly?
+Variations in adult health behaviour and psychosocial characteristics, by
+stage of the socioeconomic lifecourse. Soc Sci Med 1997;44:809-20.
+48 Lynch JW, Kaplan GA. Socioeconomic position. In: Berkman LF,
+Kawachi I, eds. Social epidemiology. New York: Oxford University Press (in
+press).
+
+(Accepted 22 February 2000)
+
+A memorable afternoon
+Fifty five years later
+A February afternoon in medical outpatients. Seventeen follow
+ups and six new patients. And there was a new senior house
+officer (SHO) to show the ropes to. A German, from
+Dresden.Very nice chap, unusually curious about war time
+England. Yes, there had been some excitement in this fenland
+market town about one particular incident at that time. In fact,
+one of the clinic patients expected that day had previously told
+me about it. Billy B had been on antiaircraft duty in Grantham in
+1942 defending a tank factory. They had seen almost no action,
+but one night a stray German bomber on the way home from
+Coventry had famously been hit by flak from Billy B’s unit,
+forcing it to lose height gradually, jettison bombs, and crash land
+32 miles later, in a field just north of this town.
+Billy came in and confirmed his story. Apparently, the German
+crew had all jumped safely from the wrecked Dornier to the
+ground. Some locals arrived. The crew made no effort to run off,
+instead taking care to shepherd people away from the burning
+plane and the risk of exploding ammunition. Then, in a reversal
+of roles the crew had been arrested by a constable and the civil
+defence, with a truncheon and pitch forks. It turned out that the
+pilot spoke some English and had visited Boston before the war.
+His family knew the proprietor of the White Hart Hotel, George
+M, who was summoned as an intermediary.
+Outpatients continued, and later on the list was Jim M, son of
+George. Jim added that the captives had been taken for the rest of
+that night to the cells in the Guildhall, where the Pilgrim Fathers
+had been held 300 years earlier. He also told us exactly where the
+
+1204
+
+plane had come down, in a field backing on to Mrs L’s back
+garden.
+Half an hour passed in the clinic and the same Mrs L was
+shown in by the sister. She emphasised how considerate the
+Germans had been, looking after bystanders who did not see the
+danger. Mrs L had been in bed when the bomber came down and
+watched the flames from her window. She and her husband still
+live there.
+Afterwards the SHO and I reflected on the coincidences that
+had brought these people to one outpatient clinic, 55 years after
+the events in the wheat field on the edge of town. The clinic
+nurse, Sister Janet, chipped in. There was more. As a toddler her
+husband had been orphaned by a stick of bombs in Grantham,
+dropped by this same plane after being hit by Billy B’s antiaircraft
+guns. The SHO and I sipped our tea silently for a few moments
+before I finished my letters.
+Martin Fairman consultant physician, Boston, Lincolnshire
+We welcome articles of up to 600 words on topics such as
+A memorable patient, A paper that changed my practice, My most
+unfortunate mistake, or any other piece conveying instruction,
+pathos, or humour. If possible the article should be supplied on a
+disk. Permission is needed from the patient or a relative if an
+identifiable patient is referred to. We also welcome contributions
+for “Endpieces,” consisting of quotations of up to 80 words (but
+most are considerably shorter) from any source, ancient or
+modern, which have appealed to the reader.
+
+BMJ VOLUME 320
+
+29 APRIL 2000
+
+bmj.com
+
+

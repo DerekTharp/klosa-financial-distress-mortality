@@ -1,0 +1,1544 @@
+Journal of Personality and Social Psychology
+2005, Vol. 89, No. 3, 395– 406
+
+Copyright 2005 by the American Psychological Association
+0022-3514/05/$12.00 DOI: 10.1037/0022-3514.89.3.395
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+The Influence of Chronically and Temporarily Accessible Information on
+Life Satisfaction Judgments
+Ulrich Schimmack
+
+Shigehiro Oishi
+
+University of Toronto at Mississauga
+
+University of Virginia
+
+The authors examined the influence of temporarily and chronically accessible information on life
+satisfaction judgments. Meta-analyses revealed high retest–reliability of life satisfaction judgments and
+weak effects of the item order of domain and global satisfaction judgments. Study 1 (N ⫽ 225) failed to
+replicate a widely cited finding of strong item-order effects. In Studies 2 (N ⫽ 100), 3 (N ⫽ 200), and
+4 (N ⫽ 222), chronically accessible information was a strong predictor of life satisfaction judgments,
+whereas item order had a relatively small effect. Study 5 (N ⫽ 651) demonstrated that the results
+generalize to single item measures and judgments of shorter time periods. The results suggest that life
+satisfaction judgments are more heavily based on chronically accessible than temporarily accessible
+information.
+Keywords: social judgments, item-order, life satisfaction, well-being, personality
+
+The implications of context effects are self-evident. If an individual’s judgment of life satisfaction changes from assessment to
+assessment as a function of the assessment context, it provides
+unreliable information about the individuals’ subjective well being. “Life satisfaction judgments seem too context-dependent to
+provide reliable information about a population’s well being”
+(Schwarz & Strack, 1999, p. 80). As a result, life satisfaction
+judgments are invalid because reliability is a prerequisite of
+validity.
+Reviews by personality psychologists have come to a different
+conclusion (Diener & Lucas, 1999; Diener & Suh, 1999). For
+example, numerous studies have demonstrated high retest stability
+of life satisfaction judgments over retest intervals of weeks and
+months (Pavot & Diener, 1993b) and demonstrated robust relationships between life satisfaction and personality variables. On
+the basis of these findings, Diener and Suh (1999) concluded that
+life satisfaction judgments are reliable and “often not as contaminated as popular lore might suggest” (Diener & Suh, 1999, p.
+438).
+Thus far, researchers have failed to reconcile the opposing views
+of the nature and validity of life satisfaction judgments. On the one
+hand, Schwarz and Strack (1999) explicitly stated that their review
+“does not address how differences in personality may influence the
+judgmental processes of interest here” (p. 62). On the other hand,
+Diener and Lucas (1999) did not address how evidence for stable
+individual differences in life satisfaction judgments can be reconciled with Schwarz and Strack’s (1999) evidence for context
+effects on life satisfaction judgments.
+The present article provides the first systematic attempt to
+examine the joint contribution of situational and personality factors to judgments of life satisfaction. Situational effects are due to
+respondents’ reliance on information that was made temporarily
+accessible in an assessment situation (e.g., preceding questions,
+salient comparison standards). Personality effects are due to respondents’ reliance on chronically accessible information that is
+based on a subjective assessment of importance (Schimmack,
+
+For generalization, psychologists must finally rely, as has been done
+in all the older sciences, on replication (Cohen, 1994).
+
+The contribution of situational factors and personality factors to
+behavior is an old question in personality psychology (Epstein &
+O’Brien, 1985; Kenrick & Funder, 1988; Roberts & Caspi, 2001).
+The present article examines this question with regard to life
+satisfaction judgments. Social psychologists tend to assume that
+life satisfaction judgments are heavily based on situational factors
+(Schwarz & Strack, 1999), whereas personality psychologists assume that personality factors are more important (Diener & Lucas,
+1999). These divergent views have important implications for the
+validity of life satisfaction judgments as indicators of subjective
+well being.
+In an influential review article, Schwarz and Strack (1999)
+proposed that life satisfaction judgments are “extremely sensitive
+to contextual influences” (p. 63). When life satisfaction is assessed
+in a survey with other questions, they may be “subject to pronounced question order-effects because the content of preceding
+questions influences the temporary accessibility of relevant information” (Schwarz & Strack, 1999, p. 79, italics added). Schwarz
+and Strack concluded that life satisfaction judgments are unlikely
+to be based on a “careful assessment of one’s objective conditions
+in light of one’s aspirations” (p. 62). Instead, these judgments are
+“better conceptualized as the result of a judgment process that is
+highly context-dependent” (p. 62, italics added).
+
+Ulrich Schimmack, Department of Psychology, University of Toronto at
+Mississauga, Ontario, Canada; Shigehiro Oishi, Department of Psychology, University of Virginia.
+This research was supported by Social Sciences and Humanities Research Council Grant 410-2001-1650.
+Correspondence concerning this article should be addressed to Ulrich
+Schimmack, Department of Psychology, University of Toronto at Mississauga, 3359 Mississauga Road North, Mississauga, Ontario L5L 1C6,
+Canada. E-mail: uli.schimmack@utoronto.ca
+395
+
+396
+
+SCHIMMACK AND OISHI
+
+Diener, & Oishi, 2002). We conducted meta-analyses of the retest
+stability and experimental manipulations of temporarily accessible
+information to determine the effect sizes of temporarily accessible
+versus chronically accessible information. In addition, we conducted several new studies to examine why some studies obtained
+conflicting results.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Retest Stability of Life Satisfaction Judgments
+Both sides of the debate acknowledge that retest correlations
+provide important information about the relative importance of
+context effects and personality effects on life satisfaction. Schwarz
+and Strack (1999) explicitly made this connection when they
+proposed that, “Temporarily accessible information is the basis of
+most context effects in survey measurement and results in variability in the judgments when the same question is asked at
+different times” (p. 63). The authors also noted that, “Other information, however, may come to mind because it is used frequently—
+for example, because it relates to the respondent’s current concerns. . . Such chronically accessible information reflects
+important aspects of respondents’ lives and provides for some
+stability in judgments over time” (p. 63). Similarly, Diener and
+Lucas (1999) concluded that effects of temporarily accessible
+information are relatively weak on the basis of studies that found
+high stability in life satisfaction judgments.
+Although both sides agree on the theoretical implications of
+retest stability, they make contradictory claims about the actual
+stability of life satisfaction judgments. Diener and Lucas (1999;
+see also Pavot & Diener, 1993b) cited studies with retest correlations exceeding .70 over time intervals of several months. In
+contrast, Schwarz and Strack (1999) concluded that, “Measures of
+SWB have low test–retest correlations, usually hovering around
+.40, and not exceeding .60 when the same question is asked twice
+during the same 1-hr interview (Andrews & Whithey, 1976;
+Glatzer, 1984)” (p. 62, italics added).
+However, neither Andrew and Withey’s (1976) nor Glatzer’s
+(1984) book support this conclusion. Andrews and Withey reported, “The reliabilities of the Life measures in the national
+surveys are as follows: May data, .61, November Form 2 data, .71,
+and April data, .68” (p. 192). In a footnote the authors added that,
+“The observed reliability of Life 1 and Life 2 in the July data are
+.64” (p. 192). Glatzer reported, “The question about how satisfied
+somebody was with his life was asked at the beginning and the end
+of a 1-hr interview. For the association between the two measures
+a correlation of r ⫽ .60 was found” (p. 187, authors’ translation
+from the original German text).1
+To determine the average retest stability of life satisfaction
+judgments, we conducted a meta-analysis of studies that reported
+retest correlations of life satisfaction judgments. Our meta-analysis
+followed Roberts and DelVeccio’s (2000) study of the stability of
+personality traits. We used several search strategies to retrieve
+relevant studies; in particular, we examined all articles in specialized subjective well-being journals (e.g., Social Indicators Research, Journal of Happiness Studies), and we searched PsycINFO
+with the keywords life satisfaction and panel, wave, retest, or
+longitudinal. Additional studies were found by checking the reference lists of retrieved articles for additional studies.
+Although studies with a relatively short time interval are most
+pertinent to examine the influence of temporarily accessible infor-
+
+mation, we also included studies with a much longer retest interval
+in the meta-analysis to examine the influence of time on the
+stability of life satisfaction judgments. We also included studies
+with single-item indicators and those with more reliable scales as
+measures of life satisfaction, although studies with single-item
+indicators produce an inflated estimate of situation-specific variance because it is impossible to separate random measurement
+variance from systematic, situation-specific variance. Some studies reported more than one retest correlation. For multiple retest
+correlations of the same time interval in the same sample (e.g.,
+1980 –1982, 1982–1984), we computed the average retest correlation to ensure independence of the data. However, we did not
+average retest correlations of different time intervals to allow
+examining the influence of time on retest stability.
+The meta-analysis is based on 83 coefficients from 38 independent samples. Retest correlations ranged from r ⫽ .24 to r ⫽ .87.
+Figure 1 displays all coefficients as a function of the retest interval
+(x-axis) and the use of single-item versus multiple-item measures.
+A visual inspection shows that retest correlations decreased as a
+log function of the time interval. A similar function has been found
+for other self-related ratings such as self-esteem (Conley, 1984).
+Figure 1 also shows a clear effect of random measurement error in
+that multiple-item scales produced stronger retest correlations than
+single-item measures, especially over short time intervals. This
+seeming interaction effect is due to the nonlinear effect of reliability on strong versus weak correlations. For example, a true correlation of .80 is attenuated by a reliability of .60 to an observed
+correlation of .48, an absolute difference of .32. A true correlation
+of .30 is attenuated by the same reliability of .60 to an observed
+correlation of .18, a much smaller absolute difference.
+To estimate the contribution of retest interval and type of
+measure to the variability in retest correlations, we regressed retest
+correlations onto a log function of time interval and a dichotomous
+variable distinguishing single-item and multiple-item measures.
+Interval (␤ ⫽ ⫺.74) and measure (␤ ⫽ .31) were both significant
+predictors and explained most of the variance in retest stability
+(R2 ⫽ .79). The simple correlation between log interval and retest
+stability for multiple-item measures was r ⫽ ⫺.89 (N ⫽ 46).
+The regression equation predicts a retest–stability of r ⫽ .86 for
+a retest–interval of 0. This prediction is consistent with the average
+retest stability in all studies with multiple-item scales and a retest
+interval of 1 month or less (r ⫽ .79, N ⫽ 7). This estimate
+approaches the internal consistency of multiple-item life satisfaction scales, which are in the .80 to .90 range (e.g., Pavot & Diener,
+1
+
+To avoid any impression of bias, we would like to point out that
+Glatzer (1984) considered a retest correlation of r ⫽ .60, “a value that is
+rather low considering that the same content was assessed” (p. 187). We
+disagree with this conclusion. First a retest correlation of r ⫽ .60 implies
+that 60% of the variance in each assessment reflects reliable individual
+differences in life satisfaction. Second, the conclusion ignores that some of
+the remaining 40% of variance is due to random measurement error rather
+than systematic changes that are due to temporarily accessible information.
+Even the typical interitem correlation between two life satisfaction items in
+a multiple-item questionnaire is only .48, ranging from .30 to .68 (N ⫽ 818;
+Schimmack, 2004). To separate the influence of random measurement
+error and systematic effects of assessment situations it is necessary to
+assess life satisfaction with a multiple-item scale (e.g., Eid & Diener,
+2004).
+
+LIFE SATISFACTION JUDGMENTS
+
+397
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+In summary, both sides of the debate agree with the logical
+argument that strong effects of temporarily accessible information
+should produce low retest correlations. A systematic review of the
+evidence revealed high retest correlations over short retest intervals. Using the modus tollens of logical reasoning (If P causes Q,
+and Q is not observed, then P is false), the empirical evidence
+suggests that temporarily accessible information has a weak effect
+on life satisfaction judgments. This conclusion seems to contradict
+Schwarz and Strack’s (1999) conclusion that experimental manipulations of temporarily accessible information have profound effects. To reconcile this apparent inconsistency, we reviewed studies that manipulated the item order of domain satisfaction and life
+satisfaction judgments.
+
+Item-Order Effects: A Quantitative Review
+
+Figure 1. Plot of retest correlations as a function of retest interval and
+type of measure (black circles: single item; light gray squares: multiple
+items).
+
+1993b; Schimmack, Diener, et al., 2002). On the basis of this
+information, it is possible to estimate the contribution of temporarily accessible and chronically accessible information to life
+satisfaction judgments. About 80% of the variance is due to
+chronically accessible variance, 10% is due to temporarily accessible information, and 10% is due to random measurement error.
+These estimates are consistent with Eid and Diener’s (2004) latentstate, latent-trait analysis, which yielded 74%, 16%, and 10%,
+respectively.
+It is noteworthy that the general conclusion allows for occasional findings of stronger effects of temporarily accessible information. The strongest deviation from our general findings (standardized residual ⫽ 2.83) was Yardley and Rice’s (1991) retest
+correlation of .50 over a 2-month retest interval with a multipleitem scale. The authors also reported that respondents’ moods at
+Time 2 predicted changes in life satisfaction. Thus, occasionally
+retest stability is lowered by reliance on temporarily accessible
+information, but this finding is the exception, not the norm.
+We acknowledge that retest correlations provide only indirect
+information about the effect sizes of temporarily accessible information. It is possible that our meta-analysis underestimates the
+effect of temporarily accessible information because researchers
+used identical questionnaires for both assessments. As a result, the
+same information may have been made temporarily accessible on
+both occasions. However, several findings render this explanation
+unlikely. First, some studies assessed life satisfaction at the beginning of a questionnaire to avoid priming effects and obtained retest
+correlations of the same magnitude as other studies (Schimmack,
+Diener, et al., 2002). Second, some life domains are consistently
+stronger predictors than others across diverse studies that probably
+presented items in different orders (Heller, Watson, & Hies, 2004).
+Third, numerous studies have reported similar correlations between life satisfaction and personality across different item orders
+(Pavot & Diener, 1993a; Schimmack, Oishi, Furr, & Funder, 2004;
+Schimmack, Radhakrishnan, Oishi, Dzokoto, & Ahadi, 2002).
+
+Several situational factors can account for situation-specific
+variance in life satisfaction. The most frequently examined type of
+context effect is the influence of information that was made
+temporarily accessible by a preceding question. Schwarz and
+Strack (1999) proposed that this effect is the most problematic one
+for the validity of life satisfaction judgments. “Information that has
+just been used—for example, to answer a preceding question in a
+questionnaire—is particularly likely to come to mind later on,
+although only for a limited time. This temporarily accessible
+information is the basis of most context effects in survey measurement” (p. 63). Given the practical importance of item-order effects,
+we limited our review to studies that experimentally manipulated
+the order of domain satisfaction and life satisfaction items.
+To our knowledge, Schuman and Presser (1981) conducted the
+first study of item-order effects on life satisfaction judgments.
+They manipulated the order of a general happiness question and
+happiness with marriage in a typical survey study. This seminal
+study failed to show any evidence that domain satisfaction was a
+stronger predictor of life satisfaction if a domain was made temporarily accessible. “The two happiness items are themselves
+intercorrelated to the same degree on the two forms” (Schuman &
+Presser, 1981, p. 43, italics added). A subsequent study by Turner
+(1984) also reported trivial item-order effects when happiness was
+assessed before or after two questions about financial satisfaction
+(specific– global rs .47 and .34; global–specific rs ⫽ .40 and .28).
+To determine the average effect size of temporarily accessible
+information and to examine potential sources of variation in effect
+sizes, we conducted a meta-analysis. We searched for relevant
+articles by using the cited reference search in the Web of Science
+online database. We started with published articles on item-order
+effects that we knew (e.g., Strack, Martin, & Schwarz, 1988) and
+searched for articles that cited them. After finding a relevant
+article, we repeated this produce until no new articles could be
+found. Our criterion for inclusion in the meta-analysis was that the
+study manipulated accessibility by changing the order of specific
+and global items and the global item assessed respondents’ own
+global life satisfaction or happiness. We excluded Turner’s (1984)
+study from the meta-analysis because the article failed to report
+sample size, which made it impossible to estimate a weighted
+average effect size. We consider this approach conservative, given
+the effect size in this study (d ⫽ .15, r ⫽ .07).
+We found eight relevant articles that reported 16 item-order
+comparisons (see Table 1). Meta-analyses of the difference be-
+
+SCHIMMACK AND OISHI
+
+398
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Table 1
+Item-Order Effects on the Correlations Between Domain Satisfaction and Life Satisfaction
+Data set
+
+Domain
+
+Global–specific
+
+N
+
+Specific–global
+
+N
+
+z
+
+Effect size d
+
+Effect size r
+
+Strack et al. (1988), Study 2
+Strack et al. (1988), Study 1
+Schwarz et al. (1991), 1 domain
+Haberstroh et al. (2002), Germany
+Rudman et al. (1995), delaya
+Pavot & Diener (1993a), 1-item global
+Pavot & Diener (1993a), 1-item global
+Schwarz et al. (1991), 3 domains
+Schuman & Presser (1981)
+Smith (1982)
+Pavot & Diener (1993), 5-item global
+Tourangeau et al. (1991; GSS)b
+Rudman et al. (1995), immediate
+Pavot & Diener (1993), 5-item global
+Haberstroh et al. (2002), China
+Tourangeau et al. (1991; Table 1)
+Weighted average
+
+Dating
+Dating
+Marital
+Academic
+Transplant
+Dating
+Financial
+Marital
+Marital
+Marital
+Financial
+Marital
+Transplant
+Dating
+Academic
+Marital
+Combined
+
+⫺.12
+.16
+.32a
+.53
+.25
+.15b
+.07b
+.32a
+.49
+.39
+.28c
+.41
+.28
+.33c
+.50
+.55
+.32
+
+60
+60
+50
+28
+50
+128
+128
+50
+201
+268
+122
+265
+50
+122
+54
+60
+1,696
+
+.66
+.55
+.67
+.78
+.49
+.35b
+.27b
+.46
+.53
+.42
+.25c
+.37
+.21
+.20c
+.36
+.28
+.40
+
+60
+60
+50
+30
+50
+117
+117
+50
+172
+613
+104
+519
+50
+122
+55
+53
+2,222
+
+5.04*
+2.44*
+2.32*
+1.64
+1.36
+1.65
+1.60
+0.80
+0.56
+0.44
+⫺0.16
+0.56
+⫺0.36
+⫺1.08
+⫺0.87
+⫺1.69
+2.85*
+
+1.83
+0.91
+0.96
+0.91
+0.56
+0.43
+0.41
+0.33
+0.11
+0.07
+⫺0.06
+⫺0.09
+⫺0.15
+⫺0.28
+⫺0.34
+⫺0.66
+0.18
+
+.67
+.43
+.42
+.41
+.27
+.21
+.20
+.16
+.05
+.04
+⫺.03
+⫺.05
+⫺.07
+⫺.14
+⫺.17
+⫺.31
+.09
+
+Note. Coefficients that share a letter are based on the same sample.
+a
+Delay ⫽ items were separated by 10 demographic questions.
+* p ⬍ .05.
+
+tween correlations are fairly uncommon. We used two approaches
+that yielded convergent results. First, we computed the weighted
+average correlation for global–specific and specific– global conditions across all item-order comparisons (see Table 1). We used
+Meta5.3 software (Schwarzer, 1995) for this purpose. Then, we
+tested whether the two correlations were statistically significant
+from each other. In support of Schwarz and Strack (1999), the
+specific– global correlation was significantly larger than the
+global–specific correlation (see Table 1). To determine the effect
+size of temporarily accessible information, we used Fisher’s r-to-z
+transformation and computed the difference between the two z
+scores (Snedecor & Cochran, 1980). This difference score (d)
+corresponds to Cohen’s d, which can be retransformed into r as an
+alternative effect size measure (Schwarzer, 1995). On the basis of
+conventional norms for the interpretation of effect sizes (Cohen,
+1988), the effect size was in the small to moderate range (ds
+ranging from .10 to .40). The second approach computed effect
+sizes (d) for each item-order comparison, and the 16 effect sizes
+were subjected to a meta-analysis using Meta5.3. The metaanalysis revealed large variability in effect sizes across studies,
+homogeneity Q(15) ⫽ 159, p ⬍ .01, and sampling error explained
+only 8% of the variance in effect sizes. Because of the large
+heterogeneity, we relied on the random effect model to test significance and estimate the population effect size. This analysis also
+confirmed a statistically significant effect of item order (z ⫽ 1.89,
+p ⫽ .02, one-tailed) and an effect size in the small to moderate
+range (d ⫽ .29, r ⫽ .15). We also computed the effect size without
+two conditions (i.e., Schwarz, Strack, & Mai [1991] three-item
+context; Haberstroh, Oyserman, Schwarz, Kühnen, & Ji [2002]
+Chinese participants) that were expected to produce weaker effects
+by the original authors. The estimated effect size was similar due
+to the small samples in these conditions (d ⫽ .34, r ⫽ .17).
+In summary, our meta-analysis indicated that item-order effects
+on global life satisfaction judgments are statistically significant,
+supporting the claim of Schwarz and Strack (1999), but that the
+
+average effect size was in the weak to moderate range. The results
+of our meta-analysis are inconclusive for two reasons. First, the
+absolute number of studies that have examined item-order effects
+is surprisingly small, given their theoretical importance. Second,
+the results are extremely heterogeneous with effect sizes ranging
+from d ⫽ 1.83 to ⫺0.66. This finding suggests that temporarily
+accessible information may have strong effect in some situations
+but no effects under other situations. A better understanding of the
+conditions that moderate the influence of temporarily accessible
+information would help researchers to minimize these undesirable
+effects. We conducted several new studies to examine potential
+moderators.
+
+New Empirical Evidence
+Study 1: Replicating Strack et al. (1988)
+To examine conditions that produce strong effects of temporarily accessible information, we first focused on Strack et al.’s
+(1988) study that produced the strongest item-order effects in our
+meta-analysis. In the original study, the two questions about dating
+and life in general were administered after several questions about
+satisfaction with the library and other aspects of student life. Strack
+et al. (1988) reasoned that in this context, “Student issues were
+activated by the cover story and the preceding questions, and it is
+likely that these contents entered into the general happiness rating
+when the dating question was not asked” (p. 435). Strack et al.’s
+(1988) explanation provides a plausible explanation for the strong
+item-order effects in this particular study. The context of a student
+survey and the questions about student issues suggested to students
+that they should use student issues, but not other aspects of their
+lives such as dating, to answer the general happiness question. As
+a result, they excluded dating when judging general happiness,
+leading to a zero correlation. In contrast, the question about dating
+in the specific– global condition suggested to students that the
+
+LIFE SATISFACTION JUDGMENTS
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+subsequent general happiness item is a broader item that also
+includes other nonacademic issues such as dating. As a result, they
+included dating satisfaction in their response and a strong correlation emerged.
+In short, the cover story and the placement of the dating question
+seemed to have changed the very meaning of the general happiness
+question. Thus, we predicted that strong item-order effects occur
+only when the survey context alters the interpretation of the
+general life satisfaction item. This interpretation is also consistent
+with Strack et al.’s (1988) other important findings that responses
+to life satisfaction judgments are influenced by conversational
+norms that change the meaning of life satisfaction items.
+
+Method
+Participants. Two hundred twenty-five students (179 women, 46 men)
+at the University of Toronto, Mississauga (UTM) participated in this study
+for course credit. The students were randomly assigned to one of three
+conditions with 75 students in each condition.
+Materials and procedure. We tried to replicate the original study as
+closely as possible. We contacted Fritz Strack (personal communication) to
+obtain more information about the questions used in the original study.
+Understandably, concrete information about the materials was no longer
+available more than 10 years after the study was completed. However, the
+lead investigator recalled that the other questions in the student survey
+were about innocuous student issues such as parking. In this spirit, we
+developed our own materials. We wrote 14 questions about happiness with
+student issues (e.g., parking, library services, food services, professors,
+lectures). We also included a global question and a question about dating.
+Following the original study, all items started with the stem, “I am happy
+with,” followed by a particular domain (e.g., “I am happy with the classrooms.”). The response format was the same 11-point scale used in the
+original study. The extremes of the scales were labeled 1 (not so happy)
+and 11 (extremely happy).
+All questions were printed on a questionnaire titled “Questionnaire on
+Student Issues.” The questionnaire started with some general information;
+for example, “This questionnaire is part of a survey research project of
+students at UTM. We are interested in how happy students are with their
+lives at UTM.” After this brief introduction, the first 12 items followed on
+the first page. The next 4 items followed on a second page. Two pages were
+used to follow Strack et al.’s (1988) procedure of “placing the dating
+question at the end of the first page of the questionnaire and the general
+happiness question at the beginning of the second page” (p. 434) or vice
+versa in the global–specific condition. To examine whether questions about
+student issues influenced answers to the global question, we created a third
+condition. In this condition, the global question was the first item on the
+first page before students answered questions about student issues. To
+summarize, there were three item orders: (a) Item 12 global and Item 13
+dating, (b) Item 12 dating and Item 13 global, and (c) Item 1 global and
+Item 13 dating. On the basis of Strack et al.’s (1988) reasoning, the third
+condition should produce a moderate correlation between dating and global
+happiness that falls between the correlations for the other two conditions.
+
+399
+
+Table 2
+Correlations Between Dating and Global Happiness (N ⫽ 225)
+Condition
+
+r
+
+z
+
+Effect size d
+
+Effect size r
+
+Specific 13–global 12
+Global 12–specific 13
+Global 1–specific 13
+Global–specific combined
+
+.49*
+.40*
+.38*
+.39*
+
+0.67
+0.82
+0.86
+
+0.22
+0.27
+0.25
+
+.11
+.13
+.12
+
+Note. Comparisons are with the specific 13– global 12 condition.
+
+two global–specific conditions were virtually identical (z ⫽ 0.14,
+p ⬎ .50). The specific– global correlation did not differ significantly from the global–specific correlation, although the difference
+was in the expected direction. The effect size was comparable with
+the effect size of our meta-analysis (d ⫽ .22, r ⫽ 11).
+In summary, Study 1 did not replicate the strong item-order
+effects of the original study, despite our attempt to follow the
+original procedure as closely as possible. The discrepancy was
+largely due to different correlations in the global–specific condition. Whereas the dating–life satisfaction correlations were close to
+zero in the original study, it was r ⫽ .40 in our study. Apparently,
+our participants were not influenced by the cover story. Given the
+lack of specific information about the original cover story, it is
+possible that our cover story was not as strong as the one in the
+original study. Another explanation is that the zero correlations in
+the original study provide an unreliable estimate of the true global–
+specific correlation between dating and global happiness. The
+practical implication of this study is that it is quite difficult to alter
+the meaning of a global life satisfaction question, which explains
+why most studies find high retest stability and weak effects of
+temporarily accessible information.
+
+Study 2: Priming Important Domains
+In Study 2 we shifted the focus from the effects of temporarily
+accessible information to the effects of chronically accessible
+information. It is plausible that the weak item-order effects observed in many studies are due to the fact that most respondents
+rely on chronically accessible information about important life
+domains. This prediction directly follows from Schwarz and
+Strack’s (1999) observation that item-order effects are to be expected only “when answering a preceding question increases the
+temporary accessibility of information that is not chronically accessible anyway” (p. 63). In other words, item-order effects should
+be relatively small when preceding items activate information
+about important life domains that are also chronically accessible
+(Tourangeau, Rasinski, & Bradburn, 1991).
+
+Method
+Results and Discussion
+We first examined whether item order influenced the mean
+rating of dating and global happiness. The data were analyzed in
+separate analyses of variance (ANOVAs) with the three item
+orders as a between-subjects variable. No significant effects were
+found (Fs ⬍ 0.50, ps ⬎ .50, ␩2 ⬍ .01). The main analyses
+examined the correlations between dating and global happiness in
+each of the three conditions (see Table 2). The correlations for the
+
+Participants. One hundred UTM students participated in this study for
+course credit.
+Materials. The global life satisfaction items were the first three items
+of Diener, Emmons, Larsen, and Griffin’s (1985) Satisfaction With Life
+Scale (SWLS): (a) “In most ways my life is close to my ideal,” (b) “The
+conditions of my life are excellent,” and (c) “I am satisfied with my life.”
+We chose the first three items because they form a reliable scale and are
+better indicators of life satisfaction than the two items that were not used
+(Oishi, 2004). For the domain questions, participants were told that the
+
+400
+
+SCHIMMACK AND OISHI
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+experimenters were “interested in the most important aspects of your life.”
+To explain what we meant by aspects, we explained that aspects could be
+“anything that is important to you such as social relationships, achievements, conditions of your life, or the performance of your favorite sports
+team.” We reemphasized that it was up to the participants to “determine
+what is most central to your life!” Afterward participants had five lines to
+list the five most important aspects of their lives that came to mind. After
+the listing task, participants rated how satisfied they were with each of the
+listed aspects (e.g., “I am satisfied with Aspect 1”). All ratings were made
+on a 7-point scale ranging from 1 (strongly disagree) to 7 (strongly agree).
+The global life satisfaction judgments and the important domain questions
+were printed on two separate pages. The order of the two pages was varied
+so that half the participants received the global questions first and the other
+half received the important domain questions first.
+
+Results and Discussion
+We examined mean differences with an ANOVA, with item
+order as the between-subjects variable and type of measure as the
+within-subject variable. The ANOVA revealed a main effect of
+measure, F(1, 98) ⫽ 5.02, p ⬍ .01, but no significant effects of
+item order or interaction, F(1, 98) ⬍ 1, p ⬎ .10. Life satisfaction
+was slightly higher on the averaged ratings of important domains
+(M ⫽ 5.07) than on the SWLS items (M ⫽ 4.87).
+The main analysis examined the correlation between the two
+measures. The global–specific correlation was high (r ⫽ .70),
+indicating that both measures capture satisfaction with important
+life domains. The specific– global correlation was stronger (r ⫽
+.79, z ⫽ 0.99, p ⫽ .32; d ⫽ .40, r ⫽ .20). This finding indicates
+that not all of the relevant information about important life satisfaction was chronically accessible. Although the effect size for
+temporarily accessible information in this study was larger than the
+average effect size in the meta-analysis, the global–specific correlation was also much larger. Both effect sizes were larger because the correlation is based on satisfaction with five domains
+rather than a single domain. In comparison, the effect size of
+chronically accessible information is considerably larger than the
+incremental effect due to rendering this information temporarily
+accessible.
+One potential problem with our study was the reliance on
+self-generated life domains. As suggested by a reviewer, it is
+possible that participants failed to follow our instructions to list
+relevant life domains and rather listed any information that was
+temporarily accessible. If this were the case, the high correlation
+between domain satisfaction and global satisfaction would reflect
+effects of temporarily accessible information. To address this
+concern, we coded participants’ written descriptions of the important life domains. Two research assistants independently classified
+the information into domains that are listed as important by students, namely family relationships, friendships, romantic relationships, academic life, and recreation (e.g., Schimmack, Diener, et
+al., 2002). Information that did not fit these domains was assigned
+to a “rest” category. Interrater agreement was acceptable (␬ ⫽ .80).
+The following analyses are based on the cases for which both
+raters agreed (83%). Academic life was listed most frequently
+(27%), followed by family (20%), friends (18%), recreation (9%),
+and romantic relationship (8%). The remaining 16% consisted of
+other aspects of life such as health, religion, or freedom. Chisquare tests revealed no significant effects of item order on the
+type of domains that were listed, ␹2(4, N ⫽ 48 – 83) ⬍ 6, ps ⬎ .10.
+
+The fact that 84% of the unambiguously classified descriptions
+(70% of the total) were related to important concerns in students’
+lives indicates that the high correlations between domain ratings
+and global ratings are largely due to chronically accessible information about important life domains. In summary, Study 2 provides
+empirical support for the hypothesis that item-order effects are small
+when preceding items activate information that is already chronically
+accessible (Schwarz & Strack, 1999; Tourangeau et al., 1991).
+
+Study 3: Controlling for Shared Method Variance
+Study 2 suggested that global life satisfaction judgments are
+strongly influenced by chronically accessible information about
+important life domains. However, the strong correlation between
+life satisfaction and satisfaction with important life domains may
+have been inflated by response styles. Although these biases are
+typically not very strong (Rorer, 1965; Schimmack, Bockenholt, &
+Reisenzein, 2002), in Study 3 we attempted to control for these
+effects.
+Response styles are by definition content free (see Rorer, 1965).
+Thus, they should inflate all correlations with all variables that
+share a common response format. For example, a common response style would inflate the correlation between life satisfaction
+and an important domain (e.g., family satisfaction) to the same
+degree as the correlation between life satisfaction and an unimportant domain (e.g., weather; see Schimmack, Diener, et al.,
+2002, for information on the importance of domains). In contrast,
+reliance on chronically accessible information should produce
+stronger correlations of life satisfaction with important domains
+than correlations with unimportant domains. In Study 3 we examined the contribution of response styles to the correlation between
+domain satisfaction and life satisfaction by varying the importance
+of life domains. In Study 3 we also used a larger sample for a more
+powerful test of item order effects.
+
+Method
+Participants. Two hundred students at UTM (149 women, 51 men)
+participated in this study for course credit.
+Materials. Global life satisfaction was assessed with the same items
+that were used in Study 2. Domain satisfaction was assessed with a 30-item
+questionnaire. The questionnaire included 3 items for 10 domains. Eight
+domains were chosen because they were rated as important (⬎ 2.5 on a
+scale from 0 ⫽ not at all important to 4 ⫽ extremely important) domains
+of life satisfaction by respondents from the same population (Schimmack,
+2004). The domains in decreasing order of importance were goal progress,
+academic performance, health, friendships, relationship with parents, housing, romantic life, and recreation. Two domains were chosen because they
+are relatively unimportant domains (⬍ 2 on the same 0 – 4 scale): traffic
+and weather. The three items for each domain were worded analogically to
+the global items. For example, the 3 weather items were (a) “I am satisfied
+with the weather,” (b) “The weather is close to ideal,” and (c) “The weather
+is excellent.” The same wording was used for all 10 domains. The items
+were presented in a random order. All ratings were made on a 7-point scale
+ranging from 1 (strongly disagree) to 7 (strongly agree). Global and
+domain items were printed on separate pages and the order of the two pages
+was manipulated so that half the participants answered global items before
+domain items and the other half completed questions in the reverse order.
+
+Results and Discussion
+We first examined mean differences between item orders. We
+created scales for satisfaction with the 10 domains and global
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+LIFE SATISFACTION JUDGMENTS
+
+satisfaction by averaging the three items related to each construct.
+We submitted the averages to a multivariate ANOVA, with item
+order as the between-subjects variable. The analysis revealed a
+significant effect (Wilks’s ␭ ⫽ .90, p ⬍ .05). Follow-up ANOVAs
+revealed only one significant effect for the global scale, F(1,
+198) ⫽ 6.66, p ⬍ .05, d ⫽ .36, r ⫽ .18. Global satisfaction was
+higher in the specific– global order (M ⫽ 5.26) than in the global–
+specific order (M ⫽ 4.82).
+We first examined the simple correlations between average
+domain satisfaction and life satisfaction for different item orders.
+These correlations were r ⫽ .71 for the global–specific order and
+r ⫽ .78 for the specific– global order. The difference between these
+correlations was not significant (z ⫽ 1.10, p ⫽ .27). As in the
+previous studies, the effect size was small to moderate (d ⫽ .32,
+r ⫽ .16).
+Next, we conducted more sophisticated analyses by means of
+multigroup structural equation modeling. The first model used the
+three items for each construct as observed variables that loaded on
+a factor. The 10 domain factors and the global satisfaction factor
+were allowed to correlate freely with each other and no constraints
+between groups were imposed. The fit of this model was acceptable (Browne & Cudeck, 1993; Hu & Bentler, 1998), ␹2(880, N ⫽
+200) ⫽ 1,598, Akaike’s information criterion (AIC) ⫽ ⫺162; root
+mean square error of approximation (RMSEA) ⫽ .065. The next
+model imposed constraints between groups on all parameters except the correlations between domain factors with the global
+factor. Model fit remained acceptable, ␹2(991, N ⫽ 200) ⫽ 1,822,
+AIC ⫽ ⫺160, RMSEA ⫽ .065. The next model tested item-order
+effects by constraining the correlations between domain factors
+and the global factor. Model fit remained acceptable, ␹2(1001, N ⫽
+200) ⫽ 1,840, AIC ⫽ ⫺162, RMSEA ⫽ .065. More important, the
+fit of the more constrained model was not significantly worse than
+the fit of the previous model, ␹2(10, N ⫽ 200) ⫽ 18, p ⫽ .06,
+indicating that the domain– global correlations did not differ between two item-order conditions. We also used a less conservative
+approach to test for the presence of item-order effects. For this
+purpose, we individually constrained only 1 domain and ran 10
+independent models. This approach revealed a significant decrease
+in model fit for two domains: housing, ␹2(1, N ⫽ 200) ⫽ 6, p ⫽
+.01, and friendships, ␹2(5, N ⫽ 200), p ⫽ .03. Effect size analyses
+revealed that friendship and housing were the only domains with
+moderate to large effect sizes (see Table 3).
+
+401
+
+To estimate the determination of global satisfaction by domain
+satisfaction, we also tested a model with directed paths from
+domain factors to the global factor. The multiple correlations were
+high in all models (.80). To demonstrate the effect of importance,
+we compared a model that predicted life satisfaction from two
+unimportant domains (weather, traffic) with a model that predicted
+life satisfaction from two important domains (academic, family).
+The former model explained 13% of the variance in life satisfaction, whereas the latter model explained 46% of the variance in life
+satisfaction. Thus, the high correlation between domain satisfaction and life satisfaction cannot be attributed to response styles.
+One concern regarding our findings could be that the domains
+differed in other characteristics than importance and that these
+other characteristics may account for the difference in the strength
+of correlations with global life satisfaction. One possibility is that
+satisfaction with weather or traffic is more homogeneous than
+satisfaction with other domains, which would lead to less variability and attenuate correlations. However, an inspection of the standard deviations of domain satisfaction provided no support for this
+hypothesis. Indeed, satisfaction with weather (SD ⫽ 1.51) and
+traffic (SD ⫽ 1.72) was more variable than satisfaction with other
+domains such as academic life (SD ⫽ 1.16), family (SD ⫽ 1.50),
+friendships (SD ⫽ 1.38), or recreation (SD ⫽ 1.36). The high
+variability for traffic was due to the fact that most students at UTM
+live off campus, and commutes to campus can range from 10 min
+to more than an hour. In addition, low variability in satisfaction
+with weather would also indicate that response styles have a small
+effect on these ratings because response styles should produce
+variability in ratings even if all students were equally satisfied with
+the weather.
+In summary, Study 3 provides additional evidence that satisfaction with important life domains predicts life satisfaction even
+when this information is not made temporarily accessible by
+preceding items. Although response styles accounted for some of
+the shared variance between domain satisfaction and life satisfaction, most of the variance was due to actual satisfaction with
+important life domains. In comparison, temporarily accessible
+effects tended to be small for most domains. These findings
+provide additional support for Schwarz and Strack’s (1999) hypothesis that priming chronically accessible information produces
+weak item-order effects.
+
+Table 3
+Parameters of the Correlations Between Domain Factors and the Global Life Satisfaction Factor
+(N ⫽ 200)
+Domain
+
+Constrained
+
+Global–specific
+
+Specific–global
+
+Effect size d
+
+Effect size r
+
+Goal progress
+Friendship
+Academic
+Housing
+Recreation
+Parents
+Romantic life
+Traffic
+Weather
+
+.62
+.62a
+.60
+.60a
+.53
+.52
+.33
+.28
+.25
+
+.65
+.53
+.62
+.48
+.52
+.53
+.38
+.22
+.23
+
+.57
+.70
+.59
+.67
+.51
+.56
+.24
+.36
+.29
+
+⫺0.26
+0.55
+⫺0.09
+0.58
+⫺0.03
+0.09
+⫺0.31
+0.31
+0.13
+
+⫺0.13
+0.27
+⫺0.04
+0.28
+⫺0.02
+0.04
+⫺0.15
+0.15
+0.06
+
+a
+
+The constrained model produced significant reduction in fit.
+
+SCHIMMACK AND OISHI
+
+402
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Study 4: Effect of Chronic Accessibility and Relevance on
+Item-Order Effects
+In Studies 2 and 3 we demonstrated that priming satisfaction
+with important life domains leads to relatively weak item-order
+effects because this information is already temporarily accessible.
+In addition, in Study 3 we demonstrated that irrelevant domains
+produced no item-order effects because participants did not rely on
+this information even when it was made temporarily accessible.
+The latter finding is also consistent with Schwarz and Strack’s
+(1999) judgment model of life satisfaction. Accordingly, temporarily accessible information is not automatically incorporated in a
+life satisfaction judgment. Rather, both chronically accessible information and temporarily accessible information have to pass a
+relevance check. If respondents do not consider accessible information relevant, it will have no influence on the global life
+satisfaction judgment. What has been overlooked, however, is that
+relevance is highly correlated with the distinction between temporarily accessible and chronically accessible information. Any information can be made temporarily accessible (e.g., “Did you ever
+visit France?”, “Do you like soccer?”). However, most of the
+information that is made accessible in this way is irrelevant to life
+satisfaction and will not be used to form life satisfaction judgments. Thus, preceding questions about irrelevant information will
+not produce item-order effects because this information is excluded from global life satisfaction judgments. On the other hand,
+the previous studies demonstrated that relevant information was
+already chronically accessible (see also Schimmack, Diener, et al.,
+2002).
+As a result, Schwarz and Strack’s (1999) judgment model of life
+satisfaction predicts strong item-order effects only for information
+that is relevant, but not chronically accessible. The previous study
+suggested that housing satisfaction may be a domain that fulfills
+these criteria. Schimmack, Diener, et al. (2002) also found that
+housing satisfaction was only moderately chronically accessible
+and moderately relevant. Thus, in Study 4 we examined whether
+housing satisfaction produces reliably stronger item-order effects
+than either an irrelevant domain that is not chronically accessible
+(weather) or a relevant domain that is highly chronically accessible
+(family).
+
+Method
+Participants. Two hundred twenty UTM students (178 women, 42
+men) participated in this study for course credit.
+Materials and procedure. Global life satisfaction was assessed with
+the SWLS (Diener et al., 1985). The scale comprises five items: (a) “In
+most ways my life is close to ideal,” (b) “The conditions of my life are
+excellent,” (c) “I am satisfied with my life,” (d) “So far I have gotten the
+important things I want in my life,” and (e) “If I could live my life over,
+I would change almost nothing.”
+
+We selected our domains on the basis of Schimmack, Diener, et al.’s
+(2002) findings regarding chronic accessibility and importance. Satisfaction with weather (i.e., “I am satisfied with the weather”) was used as an
+item that activates irrelevant information that is not chronically accessible.
+We selected satisfaction with housing as an item that activates information
+that is moderately relevant and chronically accessible, and satisfaction with
+family relationships as a highly relevant and chronically accessible domain.
+Each item was presented with a 7-point scale ranging from 1 (strongly
+disagree) to 7 (strongly agree). One hundred thirty-four students received
+questionnaires that started with the domain satisfaction questions on one
+page followed by the SWLS items on the next page. Eighty-six students
+received the same questions in reverse order, again printed on two separate
+pages.
+
+Results and Discussion
+As usual, the SWLS revealed good reliability, independent of
+the item order (domain first, ␣ ⫽ .84; SWLS first, ␣ ⫽ .80). Item
+order had no effect on the mean level of life satisfaction (domain
+first, M ⫽ 23.50, SD ⫽ 6.04; SWLS first, M ⫽ 22.77, SD ⫽ 5.74),
+t(218) ⫽ 0.89, p ⫽ .37. Table 4 shows the correlations between
+domain satisfaction and global life satisfaction (SWLS) for the two
+groups. As predicted, weather satisfaction was not significantly
+correlated to life satisfaction in either group, and item order had no
+effect on these correlations. As expected, family satisfaction was
+significantly correlated with life satisfaction in both groups, and
+there was no significant effect of item order. Contrary to our
+prediction, housing satisfaction failed to produce an item-order
+effect.
+Study 4 confirmed the prediction that priming an unimportant
+domain that is not chronically accessible produces no item-order
+effects because people do not incorporate irrelevant information
+even when it is made temporarily accessible. It also confirmed
+Schwarz and Strack’s (1999) prediction that item order has no
+effect for highly relevant and chronically accessible domains because this information is already used even when it is not made
+temporarily accessible. Study 4 did not confirm our prediction that
+a moderately relevant and accessible domain would produce significant item-order effects, even though the same domain produced
+a significant effect in Study 3. This finding is consistent with the
+general observation in survey research that it is difficult to predict
+item-order effects a priori (Schuman & Presser, 1981; Tourangeau
+et al., 1991).
+Housing satisfaction may have failed to produce reliable itemorder effects because it was not really a moderately relevant and
+accessible domain. In fact, Schimmack, Diener, et al. (2002) found
+that housing was highly relevant for some students and irrelevant
+for other students. For the former students housing was chronically
+accessible. For the latter students it was not. Housing satisfaction
+predicted life satisfaction when it was relevant and chronically
+accessible but not when it was irrelevant and not chronically
+
+Table 4
+Domain Global Correlations in Study 4 (N ⫽ 220)
+Domain
+
+Global–specific
+
+Specific–global
+
+z
+
+Effect size d
+
+Effect size r
+
+Weather
+Family
+Housing
+
+.15
+.46
+.49
+
+.03
+.49
+.41
+
+⫺0.86
+0.27
+⫺0.71
+
+⫺0.24
+0.07
+⫺0.20
+
+⫺0.12
+0.03
+⫺0.10
+
+LIFE SATISFACTION JUDGMENTS
+
+accessible. Given the high correlation between relevance and
+chronic accessibility, it may be extremely difficult to find a domain
+that is relevant and not chronically accessible. This may explain
+why item order typically does not produce strong effects.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Study 5: Monthly Satisfaction
+We designed Study 5 to test another hypothesis about conditions
+that may produce stronger item-order effects. Pavot and Diener
+(1993a) obtained stronger item-order effects with single-item measures of global life satisfaction than with a five-item scale. Thus,
+it is possible that our use of multiple-item measures of life satisfaction may have attenuated item-order effects. However, our new
+findings with multiple-item measures of life satisfaction (Studies 2
+to 4) produced similar results to most studies with single-item
+indicators in our meta-analysis and our Study 1. Thus, we predicted that item order has a weak effect even when we assess life
+satisfaction with a single item.
+Another factor that may influence the strength of item-order
+effects is the availability of chronically accessible information.
+Lavine, Huff, Wagner, and Sweeney (1998) found that attitude
+strength moderated priming effects on attitude judgments. Participants with strong attitudes (e.g., about welfare spending) were less
+susceptible to the presentation of the question in a liberal or
+conservative context. It is plausible to assume that people’s life
+satisfaction is similar to a strong attitude. People frequently think
+about a strong attitude, which makes relevant information chronically accessible. Robinson and Clore (2002) proposed that judgments that are limited to a recent time period are less likely to be
+answered on the basis of semantic information and more likely to
+retrieve episodic information. If judgments of a recent time period
+have to be computed at the time of the judgment on the basis of
+episodic information, the judgments may be more susceptible to
+the influence of temporarily accessible information. Thus, in Study
+5 we examined item-order effects on a single item about global life
+satisfaction in the past month. As in Study 4, the relevance of the
+temporarily accessible information was manipulated.
+
+Method
+Participants. Six hundred fifty-one students at UTM participated in
+this study.
+Materials and procedure. All participants were tested in groups of 1 to
+4 students. Participants first completed experiments on emotion and attention (e.g., responding to emotional pictures or pictures of facial expressions), which did not prime self-related cognitions. Afterward, they were
+handed a questionnaire “to assess their life and personality.” The questionnaire started with a satisfaction survey. Participants were asked to consider
+
+403
+
+their satisfaction in the past month (30 days). The complete questionnaire
+included 33 items (3 global, 3 items for 10 specific domains). To examine
+item-order effects, five versions of the questionnaire were constructed. One
+version started with a question about the weather (“The weather was close
+to ideal”). A second version started with a question about satisfaction with
+housing (“My housing situation was close to ideal”). A third version started
+with a question about satisfaction with parents (“My relationship with my
+parents was close to ideal”). A fourth version started with satisfaction about
+health (“My health was close to ideal”). For all of these versions, the
+second item asked about general life-satisfaction (“My life in general was
+excellent”). The fifth version started with the general life satisfaction item.
+The domain items for weather, housing, parents, and health followed at
+random positions in the rest of the survey. The response format was a
+7-point (from strongly disagree to strongly agree) scale.
+
+Results and Discussion
+To examine the presence of item-order effects, we compared the
+correlations of the specific– global conditions with the corresponding correlation in the global–specific condition (see Table 5).
+Three domains showed very small effects of item order. In contrast, satisfaction with relationship with parents produced a significant item-order effect. However, the effect was in the opposite
+direction predicted by an influence of temporarily accessible information. That is, the parent– global satisfaction correlation was
+larger when the question about parents was asked after rather than
+before the global question. The design of Study 5 also allowed us
+to estimate the reliability of global life satisfaction judgments that
+followed different specific items within the same survey. The
+correlations between the first and the last global item for the five
+versions were .77, .68, .75, .80, and .67, respectively. The average
+correlation across versions was .74, and the variation across versions was not significantly different from the variation that one
+would expect based on sampling error alone, ␹2(4, N ⫽ 618) ⫽
+8.29, p ⬎ .05. This finding replicates earlier findings that responses to the same life satisfaction item within an interview are
+reliable (Andrews & Withey, 1976).
+In summary, in Study 5 we examined whether stronger itemorder effects could be obtained with single-item indicators of life
+satisfaction over a limited time period. The data show that this is
+not the case.
+
+General Discussion
+In the present article we provide a thorough examination of the
+stability of life satisfaction judgments and the relative contribution
+of temporarily accessible information and chronically accessible
+information on life satisfaction judgments. A meta-analysis re-
+
+Table 5
+Domain Global Correlations in Study 5
+Domain
+Weather
+Housing
+Health
+Parents
+a
+
+Global–
+specific
+.26
+.36
+.44
+.45
+
+N
+a
+
+126
+126a
+126a
+126a
+
+Specific–
+global
+
+N
+
+z
+
+Effect size d
+
+Effect size r
+
+.30
+.38
+.47
+.21
+
+99
+121
+108
+164
+
+0.28
+0.13
+0.36
+⫺1.99*
+
+0.09
+0.08
+0.08
+⫺0.54
+
+.04
+.04
+.04
+⫺.26
+
+All global-specific correlations are based on the same sample.
+* p ⬍ .05.
+
+SCHIMMACK AND OISHI
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+404
+
+vealed that retest correlations over relatively short time intervals of
+up to 1 year were high and systematically decreased over longer
+time intervals. This pattern suggests that the assessment situation
+has relatively weak effects on these judgments and that changes in
+life satisfaction over longer time intervals reflect true changes in
+life satisfaction. A meta-analysis of studies that manipulated item
+order to test the influence of temporarily accessible information
+demonstrated small effects of item order that would not change the
+interpretation of domain– global correlations. This finding was
+confirmed in five new studies with a total sample size of 1,396
+participants. The new studies also demonstrated that global life
+satisfaction judgments were highly correlated with chronically
+accessible information about important life domains. Consistent
+with Schwarz and Strack’s (1999) judgment model, neither priming of irrelevant domains nor priming chronically accessible information produced notable item-order effects. These findings
+undermine two arguments against the validity of life satisfaction
+judgments, namely that these judgments are too unstable and too
+context dependent to be useful indicators of subjective well-being.
+It is important to note that our findings do not automatically imply
+that life satisfaction judgments are valid because stability over the
+short term and consistency across assessment contexts are necessary but not sufficient for life satisfaction judgments to be valid.
+
+Implications
+We believe that our findings have three important consequences
+for the future of subjective well-being research. First, the results
+provide unambiguous evidence regarding the stability and context
+sensitivity of life satisfaction judgments. Thus, we were able to
+resolve the controversy about the magnitude and practical importance of context effects (Diener & Suh, 1999; Schwarz & Strack,
+1999). Although temporarily accessible information has a statistically significant effect on the correlations between domain satisfaction and life satisfaction and may lead to somewhat weaker
+retest correlations, these effects are typically too small to have
+practical significance. This conclusion does not challenge Schwarz
+and Strack’s (1999) general judgment model of life satisfaction.
+Indeed, this conclusion is consistent with two main postulates of
+this model, namely that people will disregard irrelevant information even if it is temporarily accessible and that priming information that is already chronically accessible information has weak
+effect because chronically accessible information is used even if it
+was not made temporarily accessible. Thus, both personality and
+social psychologists can be happy with our findings.
+The second implication of our findings is that subjective wellbeing researchers should pay more attention to the cognitive processes underlying life satisfaction judgments. Whereas past research on cognitive processes has focused on the effects of
+temporarily accessible information on these judgments, our findings suggest that most of the variance in life satisfaction judgments
+is due to chronically accessible information about important life
+domains. Very little is known about the cognitive processes underlying the use of chronically accessible information. Important
+issues in future research are, for example, (a) individual differences in the chronic accessibility of domains, (b) changes in the
+chronic accessibility of domains over the life span, and the (c)
+contribution of domain satisfaction to interrater agreement in life
+satisfaction judgments.
+
+Third, our model implies that life satisfaction is based to a large
+extent on satisfaction in important life domains. Thus, domain
+satisfaction is the most proximal determinant of life satisfaction,
+and examining the determinants of domain satisfaction can provide
+important information about the determinants of life satisfaction.
+Last, our findings have important implications for the assessment of subjective well-being and recent efforts to create a national well-being index (Diener, 2000). Kahneman (1999) proposed that well-being should be defined as the balance of pleasant
+and unpleasant momentary experiences. This proposal was based
+in part on the assumption that life satisfaction judgments are
+invalid. Our findings suggest that life satisfaction judgments are an
+important indicator of well-being. Furthermore, Kahneman’s proposal to rely exclusively on sampling of affective experiences has
+some limitations. First, philosophers have pointed out problems in
+hedonistic theories of well-being and have proposed that life
+satisfaction is a superior indicator of well-being (Sumner, 1996).
+Second, experience sampling data can also be biased by response
+styles (Schimmack, Bockenholt, et al., 2002; Watson & Tellegen,
+2002) and sometimes show poor convergent validity with other
+measures (Spain, Eaton, & Funder, 2000). Third, experience sampling data are much more expensive to obtain than life satisfaction
+judgments and it is uncertain that the benefits outweigh the costs.
+Last, life satisfaction has been studied for decades and this research has provided important insights into the determinants of
+subjective well-being. Our findings suggest that it would be unwise to discard all of this information. Rather, experiencesampling studies and similar measures (Kahneman, Krueger,
+Schkade, Schwarz, & Stone, 2004) should complement rather than
+replace traditional life satisfaction judgments.
+
+References
+*References marked with an asterisk indicate studies included in the
+meta-analysis.
+*Adams, V. H. (1997). A paradox in African American quality of life.
+Social Indicators Research, 42, 205–219.
+*Alfonso, V. C., Allison, D. B., & Dunn, G. M. (1992). Sexual fantasy and
+satisfaction: A multidimensional analysis of gender differences. Journal
+of Psychology & Human Sexuality, 5(3), 19 –37.
+Andrews, S. B., & Withey, S. B. (1976). Social indicators of well-being:
+Americans’ perceptions of life quality. New York: Plenum Press.
+*Atkinson, T. (1982). The stability and validity of quality of life measures.
+Social Indicators Research, 10, 113–132.
+*Baur P. A., & Okun M. A. (1983). Stability of life satisfaction in late life.
+Gerontologist, 23, 261–265.
+*Blais, M. R., Vallerand, R. J., Pelletier, L. G., & Brière, N. M. (1989). The
+satisfaction scale: Canadian-French validation of the Satisfaction With
+Life Scale. Canadian Journal of Behavioural Science, 21, 210 –223.
+*Brief, A. P., Butcher, A. H., George, J. M., & Link, K. E. (1993).
+Integrating bottom-up and top-down theories of subjective well-being:
+The case of health. Journal of Personality and Social Psychology, 64,
+646 – 653.
+Browne, M. W., & Cudeck, R. (1993). Alternative ways of assessing model
+fit. In K. A. Bollen & J. S. Long (Eds.), Testing structural equation
+models (pp. 136 –162). Newbury Park, CA: Sage.
+*Campbell, A., Converse, P. E., & Rodgers, W. L. (1976). The quality of
+American life: Perceptions, evaluations, and satisfactions. New York:
+Russell Sage Foundation.
+*Chamberlain, K., & Zika, S. (1992). Stability and change in subjective
+well-being over short time periods. Social Indicators Research, 26,
+101–117.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+LIFE SATISFACTION JUDGMENTS
+Cohen, J. (1988). Statistical power analysis for the behavioral sciences
+(2nd ed.). Hillsdale, NJ: Erlbaum.
+Cohen, J. (1994). The earth is round ( p ⬍ .05). American Psychologist, 49,
+997–1003.
+Conley, J. J. (1984). The hierarchy of consistency: A review and model of
+longitudinal findings on adult individual differences in intelligence,
+personality and self-opinion. Personality & Individual Differences, 5,
+11–25.
+*Cramer, D. (1995). Life and job satisfaction: A two-wave panel study.
+Journal of Psychology: Interdisciplinary & Applied., 129, 261–267.
+Diener, E. (2000). Subjective well-being: The science of happiness and a
+proposal for a national index. American Psychologist, 55, 34 – 43.
+Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985). The
+Satisfaction With Life Scale. Journal of Personality Assessment, 49,
+71–75.
+Diener, E., & Lucas, R. E. (1999). Personality and subjective well-being.
+In D. Kahneman, E. Diener, & N. Schwarz (Eds.), Well-being: The
+foundations of hedonic psychology (pp. 213–229). New York: Russell
+Sage Foundation.
+Diener, E., & Suh, E. M. (1999). National differences in subjective wellbeing. In D. Kahneman, E. Diener, & N. Schwarz (Eds.), Well-being:
+The foundations of hedonic psychology (pp. 434 – 452). New York:
+Russell Sage Foundation.
+*Diener, E., Suh, E. M., Lucas, R. E., & Smith, H. L. (1999). Subjective
+well-being: Three decades of progress. Psychological Bulletin, 125,
+276 –302.
+Eid, M., & Diener, E. (2004). Global judgments of subjective well-being:
+Situational variability and long-term stability. Social Indicators Research, 65, 245–277.
+Epstein, S., & O’Brien, E. J. (1985). The person–situation debate in
+historical and current perspective. Psychological Bulletin, 98, 513–537.
+*Fujita, F., & Diener, E. (2005). Life satistaction set point: Stability and
+change. Journal of Personality and Social Psychology, 88, 158 –164.
+*Gilman, R., & Huebner, E. S. (2000). Review of life satisfaction measures
+for adolescents. Behaviour Change: Special Adolescent Health, 17,
+178 –195.
+*Glatzer, W. (1984). Life-satisfaction and alternative measures of SWB. In
+W. Glatzer & W. Zapf (Eds.), Quality of life in Germany (pp. 177–191).
+Frankfurt: Campus.
+*Haberstroh, S., Oyserman, D., Schwarz, N., Kühnen, U., & Ji, L.-J.
+(2002). Is the interdependent self more sensitive to question context than
+the independent self? Self-construal and the observation of conversational norms. Journal of Experimental Social Psychology, 38, 323–329.
+*Headey, B., & Wearing, A. (1989). Personality, life events, and subjective
+well-being: Toward a dynamic equilibrium model. Journal of Personality and Social Psychology, 57, 731–739.
+Heller, D., Watson, D., & Hies, R. (2004). The role of person versus
+situation in life satisfaction: A critical examination. Psychological Bulletin, 130, 574 – 600.
+*Horley, J., & Lavery, J. J. (1991). The stability and sensitivity of subjective well-being measures. Social Indicators Research, 24, 113–122.
+Hu, L., & Bentler, P. M. (1998). Fit indices in covariance structure
+modeling: Sensitivity to underparameterized model misspecification.
+Psychological Methods, 3, 424 – 453.
+Kahneman, D. (1999). Objective happiness. In D. Kahneman, E. Diener, &
+N. Schwarz (Eds.), Well-being: The foundations of hedonic psychology
+(pp. 3–25). New York: Russell Sage Foundation.
+Kahneman, D., Krueger, A. B., Schkade, D., Schwarz, N., & Stone, A. A.
+(December 3, 2004). A survey method for characterizing daily life
+experience: The day reconstruction method. Science, 306, 1776 –1780.
+Kenrick, D. T., & Funder, D. C. (1988). Profiting from controversy:
+Lessons from the person-situation debate. American Psychologist, 43,
+23–34.
+*Lang, F. R., & Heckhausen, J. (2001). Perceived control over develop-
+
+405
+
+ment and subjective well-being: Differential benefits across adulthood.
+Journal of Personality and Social Psychology, 81, 509 –523.
+Lavine, H., Huff, J. W., Wagner, S. H., & Sweeney, D. (1998). The
+moderating influence of attitude strength on the susceptibility to context
+effects in attitude surveys. Journal of Personality and Social Psychology, 75, 359 –373.
+*Lepper, H. (1998). Use of other-reports to validate subjective well-being
+measures. Social Indicators Research, 44, 367–379.
+*Lucas, R. E., Diener, E., & Suh, E. (1996). Discriminant validity of
+well-being measures. Journal of Personality and Social Psychology, 71,
+616 – 628.
+*Lyubomirsky, S. (2001). Why are some people happier than others? The
+role of cognitive and motivational processes in subjective well-being.
+American Psychologist, 56, 239 –249.
+*Magnus, K., Diener, E., Fujita, F., & Pavot, W. (1993). Extraversion and
+neuroticism as predictors of objective life events: A longitudinal analysis. Journal of Personality and Social Psychology, 65, 1046 –1053.
+*Marks, G. N., & Fleming, N. (1999). The influences and consequences of
+well-being among Australian young people: 1980 –1995. Social Indicators Research, 46, 301–323.
+Oishi, S. (2004). Personality and culture: A neo-Allportian view. Journal
+of Research in Personality, 38, 68 –74.
+Palmore, E, & Kivett, V. (1977). Change in life satisfaction: A longitudinal
+study of persons aged 46 –70. Journal of Gerontology, 32, 311–316.
+*Pavot, W., & Diener, E. (1993a). The affective and cognitive context of
+self-reported measures of subjective well-being. Social Indicators Research, 28, 1–20.
+Pavot, W., & Diener, E. (1993b). Review of the Satisfaction With Life
+Scale. Psychological Assessment, 5, 164 –172.
+*Pavot, W., Diener, E., Colvin, C., & Sandvik, E. (1991). Further validation of the Satisfaction With Life Scale: Evidence for the cross-method
+convergence of well-being measures. Journal of Personality Assessment,
+57, 149 –161.
+Roberts, B. W., & Caspi, A. (2001). Personality development and the
+person-situation debate: It’s deja vu all over again. Psychological Inquiry, 12, 104 –109.
+Roberts, B. W., & DelVecchio, W. F. (2000). The rank-order consistency
+of personality traits from childhood to old age: A quantitative review of
+longitudinal studies. Psychological Bulletin, 126, 3–25.
+Robinson, M. D., & Clore, G. L. (2002). Belief and feeling: Evidence for
+an accessibility model of emotional self-report. Psychological Bulletin,
+128, 934 –960.
+Rorer, L. G. (1965). The great response-style myth. Psychological Bulletin,
+63, 129 –156.
+Rudman, L. A., Gonzales, M. H., & Borgida, E. (1995). My transplant is
+my life: Compliance status as a moderator of differential susceptibility to
+item context effects. Personality and Social Psychology Bulletin, 21,
+340 –348.
+*Saris, W. E. (2001). The relationship between income and satisfaction:
+The effect of measurement error and suppressor variables. Social Indicators Research, 53, 117–136.
+Schimmack, U. (2004). [Importance of life domains]. Unpublished raw
+data.
+Schimmack, U., Bockenholt, U., & Reisenzein, R. (2002a). Response
+styles in affect ratings: Making a mountain out of a molehill. Journal of
+Personality Assessment, 78, 461– 483.
+Schimmack, U., Diener, E., & Oishi, S. (2002b). Life-satisfaction is a
+momentary judgment and a stable personality characteristic: The use of
+chronically accessible and stable sources. Journal of Personality, 70,
+345–385.
+Schimmack, U., Oishi, S., Furr, R. M., & Funder, D. C. (2004). Personality
+and life satisfaction: A facet-level analysis. Personality and Social
+Psychology Bulletin, 30, 1062–1075.
+Schimmack, U., Radhakrishnan, P., Oishi, S., Dzokoto, V., & Ahadi, S.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+406
+
+SCHIMMACK AND OISHI
+
+(2002). Culture, personality, and subjective well-being: Integrating process models of life-satisfaction. Journal of Personality and Social Psychology, 82, 1313–1329.
+*Schyns, B. (2001). Determinants of willingness for an occupational
+change of employees on low levels of hierarchy. Unpublished doctoral
+dissertation, University of Leipzig, Leipzig, Germany.
+*Schuman, H., & Presser, S. (1981). Questions and answers in attitude
+surveys: Experiments in question form, wording, and context. New
+York: Academic Press.
+Schwarz, N., & Strack, F. (1999). Reports of subjective well-being: Judgmental processes and their methodological implications. In D. Kahneman, E. Diener, and N. Schwarz (Eds.) Well-being: The foundations of
+hedonic psychology (pp. 61– 84). New York: Russell Sage Foundation.
+*Schwarz, N., Strack, F., & Mai, H. (1991). Assimilation and contrast
+effects in part–whole question sequences: A conversational logic analysis. Public Opinion Quarterly, 55(1), 3–23.
+Schwarzer, R. (1995). Meta 5.3 [Computer software]. Retrieved January
+12, 2004, from http://www.fu-berlin.de/gesund/gesu_engl/meta_e.htm
+Sears, R. (1977). Sources of life satisfactions of the Terman gifted men.
+American Psychologist, 32, 119 –128.
+*Smith, T. (1982). Conditional order effects (General Social Survey. Tech.
+Rep. No. 33). Chicago: National Opinion Research Center.
+Snedecor, G. W., & Cochran, W. G. (1980), Statistical methods (7th ed.).
+Ames: Iowa State University Press.
+Spain, J. S., Eaton, L. G., & Funder, D. C. (2000). Perspectives on
+personality: The relative accuracy of self vs. others for the prediction of
+behavior and emotion. Journal of Personality, 68, 837– 867.
+Stones, M. J., & Kozma, A. (1984). Life events and the elderly: A study of
+
+incidence, structure, stability, and impact. Canadian Journal on Aging,
+3, 193–198.
+*Strack, F., Martin, L. L., & Schwarz, N. (1988). Priming and communication: Social determinants of information use in judgments of life
+satisfaction. European Journal of Social Psychology, 18, 429 – 442.
+Sumner, L. W. (1996). Welfare, happiness, and ethics. Oxford, United
+Kingdom: Clarendon Press.
+Terry, T., & Huebner, E. S. (1995). The relationship between self-concept
+and life satisfaction in children. Social Indicators Research, 35, 39 –52.
+*Tourangeau, R., Rasinski, K. A., & Bradburn, N. (1991). Measuring
+happiness in surveys: A test of the subtraction hypothesis. Public Opinion Quarterly, 55, 255–266.
+Turner, C. E. (1984). Why do surveys disagree? Some preliminary hypotheses and some disagreeable examples. In C. E. Turner & E. Martin
+(Eds.), Surveying subjective phenomena (pp. 195–214). New York:
+Russell Sage Foundation.
+*Vitterso, J. (2001). Personality traits and subjective well-being: Emotional
+stability, not extraversion, is probably the important predictor. Personality & Individual Differences, 31, 903–914.
+Watson, D., & Tellegen, A. (2002). Aggregation, acquiescence, and the
+assessment of trait affectivity. Journal of Research in Personality, 36,
+589 –597.
+Yardley, J. K., & Rice, R. W. (1991). The relationship between mood and
+subjective well-being. Social Indicators Research, 24, 101–111.
+
+Received May 12, 2004
+Revision received February 16, 2005
+Accepted February 26, 2005 䡲
+
+

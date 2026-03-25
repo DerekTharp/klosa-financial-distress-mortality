@@ -1,0 +1,117 @@
+{
+  "description": "Basic Pension expansion analysis (pre vs post 2014)",
+  "period_stratified": {
+    "low_econ_sat_Pre-2014": {
+      "period": "Pre-2014 (waves 1-4)",
+      "exposure": "Low satisfaction",
+      "N_intervals": 34313,
+      "events": 1663,
+      "HR": 1.143,
+      "CI_lower": 1.026,
+      "CI_upper": 1.273,
+      "p": 0.0148
+    },
+    "low_income_tv_Pre-2014": {
+      "period": "Pre-2014 (waves 1-4)",
+      "exposure": "Low income",
+      "N_intervals": 32600,
+      "events": 1533,
+      "HR": 1.126,
+      "CI_lower": 1.006,
+      "CI_upper": 1.261,
+      "p": 0.0387
+    },
+    "low_econ_sat_Post-201": {
+      "period": "Post-2014 (waves 5-8)",
+      "exposure": "Low satisfaction",
+      "N_intervals": 27028,
+      "events": 1376,
+      "HR": 1.148,
+      "CI_lower": 1.017,
+      "CI_upper": 1.296,
+      "p": 0.025
+    },
+    "low_income_tv_Post-201": {
+      "period": "Post-2014 (waves 5-8)",
+      "exposure": "Low income",
+      "N_intervals": 26881,
+      "events": 1367,
+      "HR": 1.161,
+      "CI_lower": 1.036,
+      "CI_upper": 1.3,
+      "p": 0.0102
+    }
+  },
+  "interaction_models": {
+    "low_econ_sat": {
+      "label": "Satisfaction \u00d7 post-2014",
+      "main_effect_HR": 1.072,
+      "main_effect_p": 0.1909,
+      "interaction_HR": 1.204,
+      "interaction_CI_lower": 1.037,
+      "interaction_CI_upper": 1.398,
+      "interaction_p": 0.0148,
+      "pre_2014_HR": 1.072,
+      "post_2014_HR": 1.291,
+      "post_2014_CI_lower": 1.149,
+      "post_2014_CI_upper": 1.45,
+      "post_2014_p": 0.0
+    },
+    "low_income_tv": {
+      "label": "Income \u00d7 post-2014",
+      "main_effect_HR": 1.045,
+      "main_effect_p": 0.4339,
+      "interaction_HR": 1.197,
+      "interaction_CI_lower": 1.028,
+      "interaction_CI_upper": 1.393,
+      "interaction_p": 0.0207,
+      "pre_2014_HR": 1.045,
+      "post_2014_HR": 1.25,
+      "post_2014_CI_lower": 1.119,
+      "post_2014_CI_upper": 1.397,
+      "post_2014_p": 0.0001
+    }
+  },
+  "age_65plus_stratified": {
+    "low_econ_sat_Pre-2014_65plus": {
+      "period": "Pre-2014",
+      "exposure": "Low satisfaction",
+      "N_intervals": 16318,
+      "events": 1257,
+      "HR": 1.104,
+      "CI_lower": 0.979,
+      "CI_upper": 1.246,
+      "p": 0.1067
+    },
+    "low_income_tv_Pre-2014_65plus": {
+      "period": "Pre-2014",
+      "exposure": "Low income",
+      "N_intervals": 15244,
+      "events": 1161,
+      "HR": 1.025,
+      "CI_lower": 0.907,
+      "CI_upper": 1.158,
+      "p": 0.6944
+    },
+    "low_econ_sat_Post-201_65plus": {
+      "period": "Post-2014",
+      "exposure": "Low satisfaction",
+      "N_intervals": 17246,
+      "events": 1263,
+      "HR": 1.178,
+      "CI_lower": 1.041,
+      "CI_upper": 1.334,
+      "p": 0.0095
+    },
+    "low_income_tv_Post-201_65plus": {
+      "period": "Post-2014",
+      "exposure": "Low income",
+      "N_intervals": 17124,
+      "events": 1254,
+      "HR": 1.159,
+      "CI_lower": 1.033,
+      "CI_upper": 1.302,
+      "p": 0.0123
+    }
+  }
+}

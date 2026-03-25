@@ -1,0 +1,72 @@
+{
+  "description": "Multiple imputation for combined model (Panel C)",
+  "M": 20,
+  "mean_N": 10384,
+  "mean_events": 3074,
+  "MI_results": {
+    "low_econ_sat_bl": {
+      "HR": 1.292,
+      "CI_lower": 1.194,
+      "CI_upper": 1.397,
+      "p": 0.0,
+      "beta": 0.256,
+      "SE": 0.04,
+      "FMI": 0.005
+    },
+    "low_income": {
+      "HR": 0.932,
+      "CI_lower": 0.862,
+      "CI_upper": 1.009,
+      "p": 0.0815,
+      "beta": -0.07,
+      "SE": 0.0402,
+      "FMI": 0.068
+    },
+    "on_welfare": {
+      "HR": 1.069,
+      "CI_lower": 0.893,
+      "CI_upper": 1.279,
+      "p": 0.4678,
+      "beta": 0.0664,
+      "SE": 0.0915,
+      "FMI": 0.006
+    },
+    "low_assets": {
+      "HR": 0.981,
+      "CI_lower": 0.888,
+      "CI_upper": 1.083,
+      "p": 0.7032,
+      "beta": -0.0193,
+      "SE": 0.0505,
+      "FMI": 0.288
+    }
+  },
+  "complete_case_N": 5010,
+  "complete_case_events": 1195,
+  "complete_case_results": {
+    "low_econ_sat_bl": {
+      "HR": 1.304,
+      "CI_lower": 1.147,
+      "CI_upper": 1.483,
+      "p": 0.0
+    },
+    "low_income": {
+      "HR": 0.906,
+      "CI_lower": 0.796,
+      "CI_upper": 1.032,
+      "p": 0.1374
+    },
+    "on_welfare": {
+      "HR": 1.209,
+      "CI_lower": 0.918,
+      "CI_upper": 1.593,
+      "p": 0.1771
+    },
+    "low_assets": {
+      "HR": 0.966,
+      "CI_lower": 0.833,
+      "CI_upper": 1.122,
+      "p": 0.6535
+    }
+  }
+}

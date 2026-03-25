@@ -1,0 +1,1232 @@
+Published by Oxford University Press in association with The London School of Hygiene and Tropical Medicine
+ß The Author 2008; all rights reserved. Advance Access publication 12 November 2008
+
+Health Policy and Planning 2009;24:63–71
+doi:10.1093/heapol/czn037
+
+Thirty years of national health insurance in
+South Korea: lessons for achieving universal
+health care coverage
+Soonman Kwon*
+
+Accepted
+
+21 June 2008
+
+Keywords
+
+Health care financing, health insurance, universal coverage, Korea
+
+KEY MESSAGES
+
+
+A mix of social insurance and tax can work well for health care financing systems in low- and middle-income countries.
+
+
+
+Political commitment and family-based membership contribute to rapid population coverage moving toward universal
+health care coverage.
+
+
+
+Effective health care purchasing and the regulation of health care providers are key factors in the sustainability of health
+care financing.
+
+Introduction
+
+universal coverage of its population. National health insurance
+in Korea used to have multiple insurance societies covering
+employees and the self-employed separately, although claim
+review and payment to health care providers were centralized,
+and statutory benefit packages were identical across schemes.
+In 2000, there was a major change in the structure of the
+health insurance programme, and all insurance societies were
+merged into one single payer.
+The Korean experience of the rapid development of social
+health insurance can provide valuable lessons for countries
+
+South Korea introduced mandatory social health insurance for
+industrial workers in large corporations in 1977, and extended
+it incrementally to the self-employed until it covered the entire
+population in 1989. Therefore, from the introduction of social
+health insurance, it took only 12 years for Korea to achieve
+* Professor, Department of Health Policy and Management, School of
+Public Health, Seoul National University, 28 Yonkon-dong, Chongno-gu,
+Seoul 110–799, South Korea. Tel: þ82-2–740–8875. Fax: þ82-2–745–9104.
+E-mail: kwons@snu.ac.kr
+
+63
+
+Downloaded from http://heapol.oxfordjournals.org/ at Mount Allison University on July 13, 2015
+
+South Korea introduced mandatory social health insurance for industrial
+workers in large corporations in 1977, and extended it incrementally to the
+self-employed until it covered the entire population in 1989. Thirty years of
+national health insurance in Korea can provide valuable lessons on key issues in
+health care financing policy which now face many low- and middle-income
+countries aiming to achieve universal health care coverage, such as: tax versus
+social health insurance; population and benefit coverage; single scheme versus
+multiple schemes; purchasing and provider payment method; and the role of
+politics and political commitment. National health insurance in Korea has been
+successful in mobilizing resources for health care, rapidly extending population
+coverage, effectively pooling public and private resources to purchase health care
+for the entire population, and containing health care expenditure. However,
+there are also challenges posed by the dominance of private providers paid by
+fee-for-service, the rapid aging of the population, and the public-private mix
+related to private health insurance.
+
+HEALTH POLICY AND PLANNING
+
+Evolution of national health insurance
+Introduction and extension of national health
+insurance
+The Health Insurance Law was enacted in December 1963
+by the military government immediately after its coup d’e´tat.
+Due to the country’s weak economic and social infrastructure,
+the law eliminated mandatory insurance coverage, and social
+insurance for health care was not actually implemented until
+the mid-1970s. The Health Insurance Law was revised substantially in December 1976 in order to include the mandatory
+enrolment of the population in health insurance (Kwon 2005).
+Employees of corporations with more than 500 workers were
+the first group to be covered by health insurance in 1977.
+Health insurance was extended to workers in firms with more
+than 300 employees in 1979, was further extended to firms
+with more than 100 employees in 1981, and to those with more
+than 16 employees in 1983. A Medical Aid programme
+(Medicaid) started for the poor in 1977, and government
+employees and teachers joined the health insurance programme
+in 1979. To extend health insurance to the self-employed, the
+government implemented a pilot programme in three rural
+areas in 1981, and in one urban area and two additional rural
+areas in 1982. The health insurance programme achieved
+universal coverage of the population by including the rural
+self-employed in January 1988 and the urban self-employed
+in 1989 (Figure 1). From the beginning, the health insurance
+
+50,000
+45,000
+40,000
+35,000
+30,000
+25,000
+20,000
+15,000
+10,000
+5,000
+0
+
+97.6%
+
+97.6%
+
+98.5%
+
+98.2%
+
+2005
+
+2006
+
+93.7%
+
+44.1%
+24.2%
+8.8%
+
+1977
+
+1980
+
+1985
+
+1990
+
+1995
+
+2000
+
+Year
+Population coverage
+
+Employee
+
+Regional
+
+Figure 1 Population coverage of health insurance
+Note: All insurance societies were merged into one in 2000.
+
+system adopted family-based membership, with dependents
+becoming members of the scheme that their household head
+was enrolled in. Health insurance for employees was based on
+workplaces, and that for the self-employed on their region of
+residence. For the employee health insurance scheme, large
+corporations had individual firm-level insurance societies, while
+small and medium-sized firms were pooled to join an insurance
+society in their geographic area.
+
+Political and economic contexts
+Introduction of health insurance
+The authoritarian political regime and its motivation for
+political legitimization played a key role in the introduction
+and extension of social health insurance for health care in
+Korea (Kwon 1999). Contrary to western welfare states, labour
+movements or class struggles played no role in the development
+of health insurance in Korea; there was no labour party or
+social democratic political party, and labour unions became
+active only in the late 1980s. Commencing in the early 1960s,
+a series of 5-year Economic Development Plans, formulated by
+President Park Chunghee, substantially improved the country’s
+economic well-being through export-driven economic policy.
+The Government began to recognize the importance of a welfare system, and the Fourth Economic Development Plan of
+1977–1981 placed emphasis on social development, aiming to
+distribute the fruits of economic development to workers.
+Extension of health insurance to the self-employed
+The extension of health insurance to the self-employed or
+workers in the informal sector is a major challenge in the
+universal coverage of a population. Both economic and political
+factors contributed to the rapid extension of health insurance to
+the self-employed, the last group to join the national health
+insurance (NHI) in 1989 (Kwon 2005). Firstly, the booming
+economy of the late 1980s substantially improved the ability of
+the self-employed to pay for social insurance. The economy of
+Korea enjoyed record high annual growth rates of about 12%
+between 1986 and 1988. Thus the government had the fiscal
+capacity to provide a subsidy for health insurance for the selfemployed. Secondly, as a political factor, President Chun
+Doowhan and the presidential candidate of the ruling party,
+Roh Taewoo, were former military generals and wanted to
+obtain political support and legitimacy by proposing universal
+health insurance coverage. The impending 1987 presidential
+
+Downloaded from http://heapol.oxfordjournals.org/ at Mount Allison University on July 13, 2015
+
+(mainly low- and middle-income) which aim to achieve health
+care coverage for their entire population. There are many key
+issues in health care financing, and different countries may
+adopt different approaches. For example, the mode of health
+care financing matters, such as tax versus social health
+insurance, and each mode of financing has its own strengths
+and weaknesses. Just how to extend population coverage and
+how to design benefit coverage are important considerations;
+there can be a trade off between these two coverage decisions.
+Having a single health insurance scheme or multiple schemes
+can have different effects on the efficiency and equity of health
+care financing. The purchasing function of a health care
+financing system, together with the provider payment method
+and the regulation of health care providers, have critical effects
+on the quality of care and financial sustainability. Finally,
+health care financing policy depends on politics, and political
+commitment and strategy affect the entire process of health
+financing policy and reform. These challenges are not unique to
+Korea, and as such, the paper contributes to the international
+debate on health financing (Palmer et al. 2004; Carrin and
+James 2005; WHO 2005; Gottret and Schieber 2006).
+This paper aims to provide a discussion on the key issues
+involved in achieving universal health care coverage, based on
+the experience of Korea. The paper will first review the
+historical development of health insurance in Korea, its major
+characteristics, performance and recent reforms. Then it
+examines key lessons from the Korean experience of health
+insurance for countries aiming to provide health care coverage
+for their entire population. The paper concludes by presenting
+some of the future challenges the Korean health insurance
+system will face.
+
+Unit: Thousand persons
+
+64
+
+LESSONS FROM KOREA ON UNIVERSAL COVERAGE
+
+National health insurance in Korea
+Organizational structure
+Before the merger of all health insurance societies in 2000,
+there were three types of social health insurance schemes for:
+(1) government employees and teachers and their dependents,
+administered by a single insurance society; (2) industrial
+workers and their dependents, with about 140 insurance
+societies; and (3) the self-employed and workers in firms
+with less than five employees, with about 230 insurance
+societies (see Figure 1). There was, and remains, a separate
+programme for the poor, Medicaid, covering the remaining
+3–5% of the population, with an annual assessment of poverty
+status. The Medicaid programme is financed by the general
+revenue of the central and local governments, but administered
+(e.g. payment to providers) through the health insurance
+system (Shin 2006). There was no difference in the statutory
+benefit coverage between social insurance societies. Before the
+merger in 2000, each insurance scheme consisted of quasipublic insurance societies, which were subject to strict regulation by the Ministry of Health and Welfare. Beneficiaries were
+assigned to insurance societies based on employment
+(employees) and residential area (self-employed). There was
+no competition among health insurance societies to attract the
+insured and no selective contracting with health care providers.
+
+Contributions and benefits
+For industrial workers and government and school employees,
+contribution is proportional to wage income and shared equally
+between the employee and employer. Before the merger of
+insurance societies in 2000, the average contribution rate was
+5.6% (of wage income) for government and school employees,
+and 3.75% for industrial workers, with a range of 3.0–4.2%
+depending on the insurance society (subject to approval by
+the Ministry of Health and Welfare). As of 2006, the contribution rate was 4.48% (NHIC 2007). There is a wages ceiling
+for contribution assessment, but it is very high (monthly wage
+of 50 000 USD) and only a small number of people are in
+this category. Because reliable information about the incomes
+of the self-employed is only partially available, the contribution formula for the self-employed is based on both income and
+property.
+
+Table 1 Economic and health indicators in Korea
+1977
+
+1989
+
+2005
+
+1042
+
+5430
+
+16 306
+
+b
+
+Life expectancy
+
+64.8
+
+71
+
+77.4 (2003)
+
+Mortality (per 100 000 persons)c
+
+690
+
+542.3
+
+504.3
+
+Infant mortality (per 1000 births)b,c
+
+38 (average for 1970–75)
+
+12
+
+3.8 (average for 2000–05)
+
+No. of physicians per 10 000 personsb
+
+5 (1981)
+
+8
+
+16 (2004)
+73
+
+GDP per capita (in US$)a
+
+No. of beds per 10 000 persons
+
+b
+
+17 (1981)
+
+30
+
+No. of physician visits per capitab
+
+3.7
+
+6.2
+
+10.6 (2002)
+
+No. of admissions per capitac
+
+–
+
+0.06 (1990)
+
+0.12
+
+No. of hospital days per admissionb
+
+12
+
+14
+
+13.5 (2003)
+
+Note: 1977 ¼ introduction of health insurance; 1989 ¼ universal coverage.
+Source: aBank of Korea, 2006;
+b
+OECD Health Data, 2006;
+c
+National Statistical Office, 2006.
+
+Downloaded from http://heapol.oxfordjournals.org/ at Mount Allison University on July 13, 2015
+
+election prompted the ruling party to announce an expansion of
+social welfare programmes as a major item on their campaign
+agenda. In 1986, the government announced plans to include
+the self-employed in the NHI, to introduce a national pension
+scheme, and to implement a minimum wage system.
+The government was also prompted to provide health insurance to the self-employed because of the increasing inequity between the amounts paid for medical care by the
+(insured) employed and the (uninsured) self-employed. The
+social health insurance system reimbursed providers based
+on a regulated fee schedule, which induced health care
+providers to charge higher (unregulated and market) fees to
+the uninsured. The difference between the fees paid by the
+insured (employees) and the unregulated price paid by the
+uninsured (self-employed) increased over time. This costshifting from the employed sector to the worse-off selfemployed sector caused concerns around the lack of equity in
+payments for health care.
+The government wanted employees and the self-employed
+to be covered by separate insurance societies to avoid problems associated with different degrees of income assessment
+between the two groups. Contrary to the rather smooth extension of health insurance to industrial workers, its extension
+to the self-employed faced tough resistance. Farmers requested
+an increase in government subsidy to their health insurance scheme and an expansion of health care facilities in
+rural areas for better access to medical care. Consequently,
+the government subsidized the health insurance contribution of the self-employed and provided financial support
+for hospitals to open in rural areas. The amount of tax subsidy to the self-employed was initially about the half of the
+total revenue of the health insurance scheme for the selfemployed.
+Table 1 presents some economic and health indicators
+for 1977 (when health insurance was first introduced), 1989
+(when universal coverage was achieved) and 2005. Korea
+has experienced big improvements in economic conditions
+and health outcomes such as life expectancy and mortality
+during this period. The supply of health care personnel and
+facilities and health care utilization have increased substantially, along with both economic development and health
+insurance.
+
+65
+
+66
+
+HEALTH POLICY AND PLANNING
+
+Health care delivery and payment to providers
+Health care delivery in Korea relies heavily on the private
+sector; only about 10% of hospitals are public. There is no
+difference for the health insurer in its dealings—for example,
+in fee schedules—with private or public hospitals. Most office
+(or clinic) based physicians are board-certified specialists, and
+those in the area of surgery even have small inpatient facilities.
+There is no formal gate-keeping, and clinics and hospitals
+perform similar functions, resulting in a limited role of primary
+care, and competition rather than coordination among physician clinics and hospitals.
+Health care providers in Korea have been reimbursed by the
+regulated fee-for-service system since the beginning of the
+national health insurance. The fee-for-service system has led
+to an increase in volume and intensity of services, the provision
+of services with a greater margin, and distortion in the supply
+of medical specialties in the long run. As a first step in the
+transition from fee-for-service reimbursement to a prospective
+
+payment system for inpatient care based on diagnosis-related
+group (DRG), the government launched a DRG pilot programme in February 1997 for voluntarily participating health
+care institutions. This pilot programme had a positive impact on
+the behaviour of health providers, such as reductions in the
+length of stay, medical expenses, the average number of tests
+and the use of antibiotics, without a negative effect on quality
+of care (Kwon 2003a), but strong opposition by providers has
+been a stumbling block to the extension of the DRG payment
+system to all health care providers.1
+Regulation of provider behaviour also affects the financial
+burden on patients. As fees are regulated for covered services,
+providers have financial incentives to provide more non-covered
+services, mainly new technology, for which they can charge the
+market price. In a recent survey (Chung and Kim 2005), the
+average OOP payment as a percentage of total medical expenses
+for inpatient care was found to be 41% for hospitals (18% for
+co-payment for covered services and 23% for non-covered
+services) and 28% for physician clinics (18% and 10%,
+respectively). For outpatient care, the average OOP payment
+was 50% for hospitals (27% for co-payment for covered services
+and 23% for non-covered services) and 34% for physician clinics
+(26% and 8%, respectively). Therefore, in order to decrease the
+financial burden of OOP payments, the government needs to
+regulate provider behaviour and the adoption and use of new
+health care technology.
+
+Health expenditure
+In 2004, Korea spent 5.6% of its GDP on health care, an
+increase from 4.1% in 1985 (OECD 2006). This level of
+expenditure is rather low compared with other OECD countries
+(the OECD average is 8.9%), to some extent due to Korea’s
+success in the containment of health care costs. However, real
+health expenditure per capita has increased rapidly following
+the introduction of universal coverage in the late 1980s, to a
+level twice the average of OECD countries. At the same time,
+low health expenditure as a percentage of GDP is partly due to
+Korea’s rapid GDP growth. Since the growth of GDP in the
+future will not be as high as in the past, the proportion of GDP
+
+70.0
+
+OOP% in total health care expenditure
+(%)
+
+60.0
+
+KOREA
+OECD average
+
+50.0
+
+40.0
+
+30.0
+
+20.0
+
+10.0
+
+0.0
+KOREA
+
+83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 00 01 02 03 04 Year
+62.5 60.0 59.3 62.2 62.4 60.5 61.5 57.5 60.1 59.8 57.7 56.0 54.9 52.9 49.6 45.6 44.4 43.6 38.3 39.7 38.4 38.1
+
+OECD average 20.8 19.6 19.9 20.9 20.4 19.7 19.6 18.9 19.6 20.0 20.5 20.4 20.4 20.4 19.9 19.8 19.9 20.0 19.5 19.2 19.0 19.2
+
+Figure 2 Share of out-of-pocket payment in total health expenditure
+Source: OECD Health Data, 2007.
+
+Downloaded from http://heapol.oxfordjournals.org/ at Mount Allison University on July 13, 2015
+
+The benefit package of health insurance mainly includes
+curative services, but includes biannual health check ups
+and vaccination is provided free of charge in public health
+centres. For services covered by the NHI, the co-insurance rate
+is uniformly 20% for inpatient care. The co-insurance rate is
+35–50% for outpatient care in hospitals depending on the type
+of hospital concerned. In outpatient care, the co-payment is set
+higher for hospitals than for physician clinics in order to
+encourage people to visit physician clinics before visiting
+hospital outpatient centres. Beneficiaries of the Medicaid
+programme, people over 65 years and those who need longterm treatment due to chronic or catastrophic conditions (such
+as chronic renal failure, haemophilia, leukaemia, and cancer in
+those under 18 years) pay discounted co-payments for outpatient care. One of the major contributions of health insurance
+is to reduce out-of-pocket (OOP) payments. The share of OOP
+payments in total health expenditure has decreased from 63%
+in 1983 to 38% in 2004 (Figure 2). However, the share of OOP
+payments in Korea is still greater than the OECD average
+although the gap has decreased.
+
+LESSONS FROM KOREA ON UNIVERSAL COVERAGE
+
+Health care financing reform: single payer system
+In 2000, all health insurance societies were merged into a single
+national health insurer, the National Health Insurance
+Corporation (NHIC). Inequity in health care financing and the
+financial distress of many health insurance societies for the
+self-employed were major driving forces behind the reform
+(Kwon 2003c). Before the merger, for members of insurance
+societies for the self-employed in poor areas, the burden of the
+contribution as a proportion of their income was greater than
+for those in wealthy regions. Horizontal inequity, whereby
+people with the same earnings paid different social insurance
+contributions depending on which insurance society they were
+(mandatorily) enrolled in, despite identical statutory benefits,
+caused concerns about the unfair burden of health insurance
+contributions. In addition, many of the health insurance
+societies for the self-employed in rural areas experienced
+financial distress due to expanding health expenditure and
+reduced ability to pay of their members as a result of decreasing
+population, poor health status, and the aging population.
+Before the merger, many health insurance societies were too
+small in terms of the number of enrolees to pool the financial
+risks of their members efficiently. Many small insurance
+societies were not able to utilize economies of scale in
+management either, and the merger was expected to reduce
+administrative costs. Before the merger, the proportion of
+administrative costs in total expenses was lowest (4.8%) in the
+health insurance scheme for government and school employees
+(single insurance society) and highest (9.5%) in the health
+insurance scheme for the self-employed (NHIC 2000). As of
+2006, the administrative cost of the national health insurance is
+4% of total expenses (NHIC 2007). In addition to improved
+equity in contribution payments and reduced administrative
+costs, the single payer system of health insurance is expected
+to have greater bargaining power as a monopsonistic purchaser
+relative to health care providers.
+
+The breakdown of the former policy equilibrium with multiple
+insurance funds was also driven by the change in politics,
+and subsequently by the active players who tried to take
+advantage of the opportunities given by the change in the
+political arena (Kwon and Reich 2005). The political changes
+and the new president opened a window of opportunity for
+the reform and substantially empowered the supporters of the
+reform. The new president, Kim Dae Joong, had a progressive
+political ideology and a keen interest in social policy. Politicians
+who had constituents in rural areas supported the merger of
+insurance societies so as to maximize votes. Farmers, the urban
+poor, progressive academics and civic groups are long-time
+supporters of the integrated health care financing system.
+Business, which pays half of the contribution for employees,
+was a potentially powerful opponent because it was concerned
+that a unified health insurance system would result in a bigger
+burden for employers and industrial workers in paying the
+contribution, due to the difficulty in assessing the income of
+the self-employed. But business gave little attention to financing
+reform because at the same time it faced tough challenges
+from structural adjustment following the economic crisis of 1997
+(Kwon 2001).
+
+Key lessons for achieving universal
+health care coverage
+Tax-based financing versus health insurance
+A tax-based system has the benefit of rapid extension to
+the informal sector, such as the 30 Baht scheme of Thailand
+(Tangcharoensathien et al. 2004). If tax-based financing is
+based on income tax, it can be more progressive than social
+health insurance, where the contribution may be proportional
+to income or just at a flat rate. However, there are questions
+around the inequity associated with subsidizing the non-poor
+self-employed, in addition to the budgetary burden on the
+government in the tax-based health care system.
+For many countries, where free care through a public health
+delivery system does not work because of the lack of resources,
+a health insurance contribution designated solely to the health
+care sector is an attractive source of resources for health care.
+Health insurance can also have the benefit of being participatory, with a sense of ownership among enrolees, although
+this type of advantage can diminish as the size of risk pool
+increases. However, health insurance is associated with a nontrivial enrolment/enforcement cost of covering the informal
+sector because of problems related to assessing income and
+collecting contributions. Even mandatory enrolment can face
+non-compliance depending on economic conditions. In Korea,
+the government did not want to bear the direct (budgetary and
+administrative) burden associated with tax-based health care
+financing, and instead played the role of regulator rather than a
+financer (or provider) of health care. The role of government in
+the provision of health, education and welfare services is very
+limited in Korea.
+The health insurance contribution for the self-employed in
+Korea takes into account both income and property. The
+property-based part of the contribution depends on the property
+and car that a household owns. The income part of the
+
+Downloaded from http://heapol.oxfordjournals.org/ at Mount Allison University on July 13, 2015
+
+that is spent on health care is expected to increase. Partly
+because the benefit coverage is not very extensive, taxation
+and social insurance related to health care (national health
+insurance, Medicaid, workers’ compensation) accounted for
+about 52% of total health care expenditure in 2004 (OECD 2006).
+Fiscal sustainability and cost containment have been of
+concern for the national health insurance system in Korea, as
+in many public financing systems for health care in developed
+countries. National health insurance as a whole has experienced a deficit since 1997, but an accumulated surplus delayed
+a fiscal crisis until 2001. An aging population, little incentive
+for physicians to provide cost-effective care under the feefor-service system, and increasing demand for health care have
+contributed to health care cost inflation. However, the fiscal
+instability of the national health insurance has provided an
+opportunity to increase its premium contribution substantially,
+which to some extent has contributed to the extension of
+benefit coverage (Kwon 2007). The national health insurance
+is now financially stable. As a result of the increase in contribution and benefits, the average real growth of health expenditure was 8.9% per year in 1999–2004, which was greater than
+the average for OECD countries (5.2%) (OECD 2006).
+
+67
+
+68
+
+HEALTH POLICY AND PLANNING
+
+paying their contribution for their employees until 2000. A full
+subsidy for the poor and partial subsidy for the self-employed
+have also contributed to the extension of coverage.
+National health insurance in Korea started with a low benefit
+package and benefit coverage was extended incrementally. The
+government put a higher priority on the extension of population coverage because extending benefit coverage (with a high
+contribution) can be a barrier to the rapid extension of
+population coverage. Korea introduced outpatient care coverage
+from the beginning, which, compared with coverage for
+inpatient or catastrophic expenses only, provided enrolees
+with more opportunities to experience the benefits of health
+insurance, and consequently helped to minimize drop outs.
+While there are positive effects of providing limited benefits
+to a large number of people, there have been negative
+consequences as well. Although the percentage of the public
+share (social health insurance and tax) of national health
+expenditure has increased from 32% in 1989 to 53% in 2004
+(Table 2), it is still much lower than that in other OECD
+countries. High OOP payment leads to limited financial
+protection, and this can still be a barrier to medical care
+utilization, which results in inequity and differential medical
+care utilization across different socio-economic groups (Lu et al.
+2007). Lee et al. (2003) showed that when the poverty line
+was set at one-third of average daily expenses (the relative
+poverty line), 5.1% of the households were below the poverty
+line before spending on health care. This increased to 5.2% after
+medical care spending, which implies that medical expenditure
+does not significantly impoverish households. When the poverty
+line was set at the level of the minimum expenses of living (the
+national poverty line), the proportion of households below the
+poverty line increased from 10.8% to 12.5% after spending on
+medical care, implying that household expenditure on health
+care can impoverish households to some extent. Exemption
+from OOP payments for disadvantaged groups seems to
+contribute to mitigating the impoverishment effect of health
+expenditure.
+The government has perceived the high OOP payment as a
+key problem and has recently increased the benefit package
+together with reducing OOP payments for cancer patients and
+decreasing the ceiling on (cumulative) OOP payments.
+However, once health insurance is fully established, major
+change becomes difficult due to path dependency. For example,
+raising the premium contribution to allow more extensive
+benefit coverage will face opposition from those groups who
+will have to pay more, such as the wealthy. Changing the
+
+Population coverage and benefit coverage
+Mandatory enrolment is more efficient than voluntary enrolment in order to avoid problems of adverse selection. An
+authoritarian political regime and rapid economic development
+in Korea were together effective in enforcing mandatory
+enrolment and compliance of employers to pay half of the
+contribution for employees, with few notable problems associated with false reporting of wages and evasion of registration.
+Family-based membership in Korea contributed to rapid
+extension of population coverage, by making the employees’
+health insurance scheme cover the dependents of employees.
+To ease the financial burden on small businesses, employers of
+firms with fewer than five employees were exempted from
+Table 2 Trends in national health expenditure in Korea (percentages)
+1989
+
+1991
+
+1993
+
+1995
+
+1997
+
+1999
+
+2001
+
+2003
+
+Government
+
+8.6
+
+8.4
+
+7.9
+
+7.3
+
+8.5
+
+10.7
+
+10.5
+
+10.6
+
+10.9
+
+Social insurance
+
+23.0
+
+25.9
+
+26.2
+
+28.4
+
+32.9
+
+36.2
+
+42.5
+
+41.3
+
+41.6
+
+Public total
+
+31.6
+
+34.4
+
+34.1
+
+35.7
+
+41.4
+
+46.9
+
+53
+
+51.9
+
+52.6
+
+61.5
+
+60.1
+
+57.7
+
+54.9
+
+49.6
+
+44.4
+
+38.3
+
+38.4
+
+38.1
+
+–
+
+–
+
+1.8
+
+2.1
+
+2.5
+
+3.0
+
+3.3
+
+3.6
+
+3.4
+
+6.9
+
+5.5
+
+6.4
+
+7.3
+
+6.4
+
+5.7
+
+5.4
+
+6.1
+
+5.9
+
+68.4
+
+65.6
+
+65.9
+
+64.3
+
+58.6
+
+53.1
+
+47.0
+
+48.1
+
+47.4
+
+Household
+Private insurance
+Others
+Private total
+
+Source: OECD Health Data, 2007.
+
+2004
+
+Downloaded from http://heapol.oxfordjournals.org/ at Mount Allison University on July 13, 2015
+
+contribution is based either on taxed income (for those whose
+annual income is over US$5000) or on estimated income
+(for those whose annual income is below US$5000). The
+calculation of estimated income takes into account the age and
+sex of the insured, household property, and the car tax of
+the household. Non-payment of the monthly contribution for
+more than 3 months results in the denial of health insurance
+benefits. The hard-working culture of new organizations
+(localized health insurance societies for the self-employed
+before the merger in 2000) to some extent contributed to the
+active enforcement and collection of premium contributions
+from local residents.
+Tax-based financing and social health insurance have been
+converging, and both income tax and income-related insurance
+contributions suffer from the problem of mis-targeting and
+cross-subsidy when income assessment of the self-employed is
+difficult. In such circumstances, a mixed system of tax-based
+financing and health insurance can be a solution. The health
+insurance schemes in Korea, Japan and Taiwan provide a
+partial subsidy to the self-employed, which contributes to a
+smooth extension of health insurance (Cheng 2003; Chiang
+2005; Ikegami 2005). If a social health insurance system
+includes a not-insignificant tax subsidy, the difference between
+tax and health insurance becomes smaller. In 1988, the
+proportion of government subsidy in the total revenue of the
+health insurance scheme for the self-employed was 44.1%,
+which fell to 25.6% in 1999 just before the merger of insurance
+societies (NHIC 2000). Now Korea has a single health insurance
+scheme and, as of 2006, general tax subsidy accounts for 12.8%
+of the total revenue of the unified health insurance system, and
+subsidy from tobacco tax accounts for 4.3% of health insurance
+revenue (NHIC 2007).
+
+LESSONS FROM KOREA ON UNIVERSAL COVERAGE
+
+benefit structure by increasing the co-payment for outpatient
+care and reducing cost sharing for inpatient care will face
+opposition from office-based physicians. Korea now plans to
+adopt a cost-effectiveness framework to decide on benefit
+coverage, including pharmaceuticals and medical technology.
+
+Single scheme versus multiple schemes
+
+account for a large share of the revenue of health care providers
+through, for example, the increases in population coverage
+and in benefit coverage by health insurance. Furthermore,
+pooling of funds can contribute to more efficient purchasing.
+For example, reducing the role of state budget allocation
+to public providers, and instead channelling it to the health
+insurer in the form of a premium contribution increases the
+leverage that the health insurance scheme can use on health
+care providers. The introduction of some form of financial and
+managerial autonomy for public hospitals may need to follow
+the above change in funding stream. Most public hospitals in
+Korea have been corporatized since the introduction of health
+insurance, and they depend largely on patient revenue for
+financial resources.
+The payment system is an essential element of the financial
+incentives of health care providers and is a key factor affecting
+provider behaviour. Fee regulation applied to all providers
+(public and private) in Korea has contributed to overall cost
+containment, as in Japan (Ikegami and Campbell 1999), and
+consequently to a rapid extension of population coverage. From
+the beginning, the health insurance programme in Korea has
+used centralized claim review and payment to providers, owing
+to the uniform fee schedule enforced by the Ministry of Health
+and Welfare. In that sense, even before the merger of insurance
+schemes in 2000, national health insurance of Korea has had
+single (pooled) purchasing. In the initial stage of the development of health insurance, Korea had a relatively limited supply
+of physicians and health care facilities, and the government
+mandated all providers to participate in the health insurance
+programme—no health care provider can deny health insurance
+patients. Now, Korea has sufficient supply of health care
+providers, and the health insurance programme needs to adopt
+selective contracting with providers for effective purchasing
+and quality control.
+At the beginning of the health insurance programme, health
+care providers in Korea accepted fee regulation because they
+were able to charge market (unregulated) prices to the
+uninsured. As population coverage was extended, the effect of
+fee regulation became more restrictive on provider practices. By
+the time that universal coverage was achieved, it was too late
+for providers to resist fee regulation. Therefore, if a health
+insurance programme wants to introduce payment regulation
+to providers, it may find it easier to do at an early stage of
+population coverage. Now, changing the payment system to one
+of DRG payment or capitation is a major challenge for the
+Korean health insurance system. There is also an interrelationship between payment system and benefit coverage. When a
+health insurance scheme tightens the payment level or payment
+method to providers, they tend to substitute non-covered
+services (e.g. new health care technology), which are not
+subject to fee regulation, for covered ones. Therefore, policies on
+benefit coverage and payment system need to be coordinated,
+and government needs to regulate the rapid adoption of new
+medical technology.
+
+Purchasing and regulation
+Purchasing and payment to health care providers is critical for
+the financial sustainability of, and quality of care provided by,
+the health care financing system. For effective purchasing
+where money follows the patient, the health insurer should
+
+Governance
+The governance of the health insurance agency affects
+the accountability and efficiency of the health insurance
+system. The National Health Insurance Corporation (NHIC),
+
+Downloaded from http://heapol.oxfordjournals.org/ at Mount Allison University on July 13, 2015
+
+Managing health insurance through a single fund or through
+multiple funds will have different effects on the efficiency and
+equity of health care financing. Korea started with multiple
+schemes, but changed to a single scheme in 2000, 11 years after
+achieving universal coverage of health care. In terms of the
+efficiency of risk pooling or financial sustainability, a single
+fund is preferred, although there may be a threshold above
+which marginal efficiency gain becomes smaller. The monopolistic behaviour of a single fund can decrease the efficiency of
+a health insurance system, but when there is no consumer
+choice of funds even under the system of multiple funds, as in
+many developing countries, the potential efficiency loss of a
+single scheme may become insignificant. Some of the functions
+of health insurance can be decentralized; the single payer of
+Korean health insurance uses local branches for enrolment and
+premium collection. Even before the merger of insurance
+schemes, medical claims made by providers for reimbursement
+were reviewed by a central review agency.
+In many countries (e.g. China, Thailand), there are separate
+schemes for public sector workers, private employees, and
+the self-employed, and these schemes have different benefit
+coverage, with formal sector workers enjoying more generous
+benefits (Tangcharoensathien et al. 2004; Bloom 2005). Benefits
+coordination across schemes has faced opposition by those who
+are currently enjoying generous benefits. Differences in benefit
+coverage across health insurance schemes results in social
+stratification and problems of portability, especially when there
+is a huge migration (from rural to urban areas). Thanks to
+government-driven extension, statutory benefit coverage was
+uniform across all insurance societies in Korea even before the
+merger of insurance societies in 2000.2
+When there are multiple health insurance schemes, risk
+adjustment or risk equalization across schemes is necessary.
+However, as the role of risk adjustment across schemes gets
+bigger, multiple schemes become similar to a single scheme.
+Korean health insurance system used risk adjustment based on
+the proportion of the elderly and catastrophic expenditure of
+each scheme, and health insurance societies for the selfemployed were the major beneficiaries of the risk adjustment
+mechanism. In 1998, before the merger of insurance societies,
+revenue from the risk equalization fund formed 10.9% of
+the total revenue of the health insurance scheme for the selfemployed (NHIC 2000). But the financial distress of health
+insurance societies in some rural areas continued, and the
+government finally decided to merge all insurance schemes into
+one in 2000.
+
+69
+
+70
+
+HEALTH POLICY AND PLANNING
+
+Politics
+Economic development contributed to the rapid extension of
+health insurance by improving the capacity to pay of employers,
+employees and government in Korea. However, the critical
+role of politics in the development of health insurance cannot
+be over-emphasized. The authoritarian government pushed the
+idea of health insurance for political legitimization, and mobilized capable technocrats at the Ministry of Health and Welfare.
+In the introduction and extension of health insurance, the
+authoritarian regime was able to implement major policy changes
+based on a top-down process, with the oppression of some key
+interest groups such as medical providers. However, recent
+democratization in the policy process has empowered vested
+interest groups, and government capacity to manage diversified
+interests becomes key to major health policy changes. Mobilizing
+civic groups can be effective in policy change by counteracting
+the dominance of interest groups, as in the case of Korean
+health care financing reform in 2000 (Kwon and Reich 2005).
+Government capacity and political will have been
+key factors in the development of health care financing
+policy in the Philippines, Taiwan, and Thailand recently
+(Tangcharoensathien et al. 2004; Wong 2004; Obermann et al.
+2006). Political will and commitment are crucial for universal
+coverage of the population in these countries. Without government subsidy to the poor and informal sector workers, universal coverage seems unfeasible in many low- and middle-income
+countries. Good governance, transparency and accountability of
+the health insurance programme, as well as payment system
+design and regulation of health care providers, all need strong
+support from the government.
+
+Future challenges
+National health insurance in Korea has been successful in
+mobilizing resources for health care, rapidly extending
+
+population coverage, effectively pooling resources to purchase
+health care for the entire population, and containing health
+care expenditure reasonably. Rapid economic development,
+strong political commitment to health insurance, and capable
+bureaucrats all contributed to the rapid extension of health
+insurance and to universal coverage. The Korean health
+insurance system also shows that a mixture of insurance
+contribution and tax financing works well for health care
+financing, that social health insurance can use an incomerelated contribution formula for the self-employed, and that
+there is a positive benefit to having a single payer system
+relative to a system of multiple funds. However, when the
+majority of the population works in the informal sector, as in
+many low income countries, a flat premium contribution may
+be inevitable, at least in the early stages. The social health
+insurer can try to incrementally segment the informal sector by
+occupation types for the purpose of differentiating premiums.
+There are also many challenges for national health insurance
+in Korea. Public financing based on social health insurance
+combined with effective purchasing of health care from private
+providers in Korea can have the benefit of efficient service
+provision and equitable payment for health care. However,
+competition among private providers has often increased costs
+without substantial improvement in quality of care. The
+predominance of private providers in the health care delivery
+system has been a challenge for government regulation and the
+cost-containment goal of the health insurance programme.
+Payment system reform will be a key factor for fiscal
+sustainability of the programme in the long run. At the same
+time, expansion of benefit coverage is necessary to further
+improve the financial protection provided.
+The rapid aging of the population is a major challenge, which
+will affect national health insurance along with other social
+insurance programmes in Korea. As of 2006, the proportion of
+elderly (over 65) in the population is 8.6%, but they account for
+25.9% of health insurance expenditure, increasing from 17.7%
+in 2001 (NHIC 2007). To ease the burden of population aging
+on health insurance, the government introduced a new social
+insurance scheme for long-term care in 2008, separate from
+health insurance (Kwon 2008). Public-private mix is another
+concern in health care in Korea, including the role of private
+health insurance. Faced with increasing health care demand
+and expectation, social insurance for health often cannot afford
+to cover all new services and technology. Some maintain that
+private health insurance should be encouraged to ease the fiscal
+burden of social health insurance and to improve its efficiency,
+but others believe that the role of social health insurance
+should be further extended with increases in contributions for
+social solidarity.
+
+Acknowledgements
+An earlier version of this paper was presented at the WHO
+Interregional Conference on Health Care Financing held in
+Ulaanbaatar, Mongolia, in August 2006, and at the GTZ/ILO/
+World Bank Conference on Extension of Health Insurance to
+the Informal Sector held in Manila, Philippines, in October
+2006. Helpful comments by the conference participants are
+gratefully acknowledged. The usual disclaimer applies.
+
+Downloaded from http://heapol.oxfordjournals.org/ at Mount Allison University on July 13, 2015
+
+a not-for-profit single purchaser in Korea, is not a government
+agency but under strict supervision and regulation by a single
+government agency, i.e. the Ministry of Health and Welfare.
+Close coordination between the health insurance agency and
+the Ministry of Health helps health insurance better serve the
+goals of health policy. But if the Ministry of Health directly
+administers the health insurance programme when health
+care is provided mainly by public providers, an effective purchasing function can suffer because purchaser is not separated
+from providers.
+Similarly, established social security agencies, specializing in
+pension and other programmes for formal sector workers, are
+not likely to have the capacity to effectively purchase services
+and manage health care providers. Furthermore, in many
+countries (e.g. Mongolia and China), health care financing
+functions are spread over ministries such as Ministry of
+Health, Ministry of Labour, Ministry of Finance, etc, leading
+to coordination failure among them (Bayarsaikhan et al. 2005).
+A separate single organization dedicated to the health insurance programme, as in Korea, Japan and the Philippines, seems
+more effective than multiple ministries or administrative agencies
+in building skills and harmonizing health insurance policy.
+
+LESSONS FROM KOREA ON UNIVERSAL COVERAGE
+
+Endnotes
+1
+
+Health care providers gained an increased voice and bargaining power
+in health policy making after several nationwide strikes against
+health care reforms in 2000 (Kwon 2003b).
+2
+Health insurance in the Philippines also has a uniform benefit package
+across different schemes (Obermann et al. 2006).
+
+References
+
+71
+
+Kwon S. 2005. Health policy in. In Gauld R. (ed.) Comparative Health
+Policy in the Asia-Pacific. Buckingham & Philadelphia: Open
+University Press, pp. 48–68.
+Kwon S. 2007. The fiscal crisis of National Health Insurance in the
+Republic of Korea: in search of a new paradigm. Social Policy and
+Administration 41: 1652–178.
+Kwon S. 2008. Future of long-term care financing for the elderly in.
+Journal of Aging and Social Policy 20: 119–136.
+Kwon S, Reich M. 2005. The changing process and politics of
+health policy in Korea. Journal of Health Politics, Policy and Law 30:
+1003–26.
+Lee T, Yang B, Kwon S et al. 2003. Equity in expenditure on
+health care in Korea. Korean Health Economic Review 9: 25–33 (in
+Korean).
+
+Carrin G, James C. 2005. Social health insurance: key factors affecting
+the transition towards universal coverage. International Social
+Security Review 58: 45–64.
+
+Lu J, Leung G, Kwon S et al. 2007. Horizontal equity in health care
+utilization – evidence from three high-income Asian economies.
+Social Science and Medicine 64: 199–212.
+
+Cheng T-M. 2003. Taiwan’s new national health insurance program:
+genesis and experience so far. Health Affairs 22: 61–76.
+
+National Health Insurance Corporation (NHIC). 2000. Internal reports.
+Seoul (in Korean).
+
+Chiang T-L. 2005. Health policy in Taiwan. In Gauld R (ed.). Comparative
+health policy in the Asia-Pacific. Buckingham & Philadelphia: Open
+University Press, pp. 69–90.
+
+National Health Insurance Corporation (NHIC). 2000. Health Insurance
+Statistics. Seoul (in Korean).
+
+Chung J, Kim J. 2005. Survey of out-of-pocket payment of patients.
+Health Insurance Forum, Spring.
+Gottret P, Schieber G. 2006. Health financing revisited. Washington, DC:
+World Bank.
+Ikegami N. 2005. Health policy in Japan. In Gauld R (ed.). Comparative
+health policy in the Asia-Pacific. Buckingham & Philadelphia: Open
+University Press, pp. 122–45.
+Ikegami N, Campbell L. 1999. Health care reform in Japan: the virtues
+of muddling through. Health Affairs 18: 56–75.
+Kwon H. 1999. The welfare state in Korea: the politics of legitimization. New
+York: St Martins Press.
+Kwon S. 2001. Economic crisis and social policy reform in. International
+Journal of Social Welfare 10: 97–106.
+Kwon S. 2003a. Payment system reform for health care providers in
+Korea. Health Policy and Planning 18: 84–93.
+Kwon S. 2003b. Pharmaceutical reform and physician strikes: separation
+of drug prescribing and dispensing in Korea. Social Science and
+Medicine 57: 529–38.
+Kwon S. 2003c. Health care financing reform and the new single payer
+system in Korea: social solidarity or efficiency? International Social
+Security Review 56: 75–94.
+
+National Health Insurance Corporation (NHIC). 2007. Health Insurance
+Statistics. Seoul (in Korean).
+Obermann K, Jowett M, Alcantaa M, Banzon E, Bodart C. 2006.
+Social health insurance in a developing country: the case of the
+Philippines. Social Science and Medicine 62: 3177–85.
+OECD. 2006. OECD health data 2006. Paris: OECD.
+Palmer N, Mueller M, Gilson L, Mills A, Haines A. 2004. Health
+financing to promote access in low income settings—how much do
+we know? The Lancet 364: 1365–70.
+Shin Y. 2006. Policy context of the poor progress of the pro-poor
+policy: a case study on the medical-aid policy during Kim
+Dae-Joong’s government (1998–2000) in the Republic of Korea.
+Health Policy 78: 209–23.
+Tangcharoensathien V, Wibulpholprasert S, Nitayaramphong S. 2004.
+Knowledge-based changes to health systems: the Thai experience
+in policy development. Bulletin of the World Health Organization 82:
+750–6.
+Wong J. 2004. Healthy democracies: welfare politics in Taiwan and South
+Korea. Ithaca, NY: Cornell University Press.
+WHO. 2005. Sustainable health financing, universal coverage and social health
+insurance. WHA58.33, WHO resolution. Geneva: World Health
+Organization.
+
+Downloaded from http://heapol.oxfordjournals.org/ at Mount Allison University on July 13, 2015
+
+Bayarsaikhan D, Kwon S, Ron A. 2005. Development of social health
+insurance in Mongolia: successes, challenges and lessons.
+International Social Security Review 58: 27–44.
+Bloom G. 2005. Health policy in China. In Gauld R (ed.). Comparative
+health policy in the Asia-Pacific. Buckingham & Philadelphia: Open
+University Press, pp. 23–47.
+
+
