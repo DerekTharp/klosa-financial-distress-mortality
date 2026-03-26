@@ -42,6 +42,8 @@ EXPECTED_OUTPUTS = {
     "output/tables/table1_baseline_characteristics.csv": "05",
     "output/tables/table2_cox_models.csv": "03",
     "output/tables/subgroup_analyses.csv": "03",
+    "output/tables/table2_combined_models.csv": "08",
+    "output/tables/table3_time_varying_models.csv": "08",
     # Supplementary
     "output/supplementary/supplementary_results.json": "07",
     "output/supplementary/objective_vs_subjective_models.csv": "08",
